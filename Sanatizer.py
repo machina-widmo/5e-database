@@ -2,6 +2,27 @@ import json
 import os
 
 
+def Noop(raw_jason_data, database_name):
+    return raw_json_data
+
+def Sanatize_LevelDatabase(raw_json_data, database_name):
+    assert database_name == "levels"
+
+    for json_object in raw_json_data:
+        class_name = json_object['class']['name']
+        subclass_name = json_object['subclass']['name'] if json_object['subclass'] else None
+        level = json_object['level']
+
+        new_name = f"{class_name} {subclass_name} Level {level}" if subclass_name else f"{class_name} Level {level}"
+
+        json_object["name"] = new_name
+
+    return raw_json_data
+
+CUSTOM_DATABASE_SANATIZERS = {
+    "levels": Sanatize_LevelDatabase
+}
+
 def Sanatize(raw_json_data, database_name):
     ''' Sanatize raw_json_data
 
@@ -37,6 +58,7 @@ def Sanatize(raw_json_data, database_name):
     '''
     assert isinstance(raw_json_data, list)
     assert len(raw_json_data) > 0
+    print(database_name)
 
     def __SanatizeRecurse(cur_object, is_top_level=True):
         for key, value in cur_object.items():
@@ -76,7 +98,9 @@ def Sanatize(raw_json_data, database_name):
         elif len(description) > 0:
             json_object["desc"] = [str(desc_line) for desc_line in description]
 
-    return [__SanatizeRecurse(entry) for entry in raw_json_data]
+    raw_json_data = [__SanatizeRecurse(entry) for entry in raw_json_data]
+
+    return CUSTOM_DATABASE_SANATIZERS.get(database_name, Noop)(raw_json_data, database_name)
 
 
 if __name__ == "__main__":
