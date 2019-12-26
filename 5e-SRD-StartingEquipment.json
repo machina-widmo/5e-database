@@ -1,6 +1,5 @@
 [
     {
-        "index": 1,
         "class": {
             "url": "/api/classes/1",
             "name": "Barbarian"
@@ -289,12 +288,14 @@
                 }
             ]
         ],
-        "url": "/api/startingequipment/1",
-        "name": "Unnamed_Index1",
-        "desc": []
+        "entry_descriptor": {
+            "index": 1,
+            "url": "/api/startingequipment/1",
+            "name": "Barbarian",
+            "desc": []
+        }
     },
     {
-        "index": 2,
         "class": {
             "url": "/api/classes/2",
             "name": "Bard"
@@ -568,12 +569,14 @@
                 }
             ]
         ],
-        "url": "/api/startingequipment/2",
-        "name": "Unnamed_Index2",
-        "desc": []
+        "entry_descriptor": {
+            "index": 2,
+            "url": "/api/startingequipment/2",
+            "name": "Bard",
+            "desc": []
+        }
     },
     {
-        "index": 3,
         "class": {
             "url": "/api/classes/3",
             "name": "Cleric"
@@ -859,12 +862,14 @@
                 }
             ]
         ],
-        "url": "/api/startingequipment/3",
-        "name": "Unnamed_Index3",
-        "desc": []
+        "entry_descriptor": {
+            "index": 3,
+            "url": "/api/startingequipment/3",
+            "name": "Cleric",
+            "desc": []
+        }
     },
     {
-        "index": 4,
         "class": {
             "url": "/api/classes/4",
             "name": "Druid"
@@ -1133,12 +1138,14 @@
                 }
             ]
         ],
-        "url": "/api/startingequipment/4",
-        "name": "Unnamed_Index4",
-        "desc": []
+        "entry_descriptor": {
+            "index": 4,
+            "url": "/api/startingequipment/4",
+            "name": "Druid",
+            "desc": []
+        }
     },
     {
-        "index": 5,
         "class": {
             "url": "/api/classes/5",
             "name": "Fighter"
@@ -1602,12 +1609,14 @@
                 }
             ]
         ],
-        "url": "/api/startingequipment/5",
-        "name": "Unnamed_Index5",
-        "desc": []
+        "entry_descriptor": {
+            "index": 5,
+            "url": "/api/startingequipment/5",
+            "name": "Fighter",
+            "desc": []
+        }
     },
     {
-        "index": 6,
         "class": {
             "url": "/api/classes/6",
             "name": "Monk"
@@ -1770,12 +1779,14 @@
                 }
             ]
         ],
-        "url": "/api/startingequipment/6",
-        "name": "Unnamed_Index6",
-        "desc": []
+        "entry_descriptor": {
+            "index": 6,
+            "url": "/api/startingequipment/6",
+            "name": "Monk",
+            "desc": []
+        }
     },
     {
-        "index": 7,
         "class": {
             "url": "/api/classes/7",
             "name": "Paladin"
@@ -2318,12 +2329,14 @@
                 }
             ]
         ],
-        "url": "/api/startingequipment/7",
-        "name": "Unnamed_Index7",
-        "desc": []
+        "entry_descriptor": {
+            "index": 7,
+            "url": "/api/startingequipment/7",
+            "name": "Paladin",
+            "desc": []
+        }
     },
     {
-        "index": 8,
         "class": {
             "url": "/api/classes/8",
             "name": "Ranger"
@@ -2493,12 +2506,14 @@
                 }
             ]
         ],
-        "url": "/api/startingequipment/8",
-        "name": "Unnamed_Index8",
-        "desc": []
+        "entry_descriptor": {
+            "index": 8,
+            "url": "/api/startingequipment/8",
+            "name": "Ranger",
+            "desc": []
+        }
     },
     {
-        "index": 9,
         "class": {
             "url": "/api/classes/9",
             "name": "Rogue"
@@ -2632,12 +2647,14 @@
                 }
             ]
         ],
-        "url": "/api/startingequipment/9",
-        "name": "Unnamed_Index9",
-        "desc": []
+        "entry_descriptor": {
+            "index": 9,
+            "url": "/api/startingequipment/9",
+            "name": "Rogue",
+            "desc": []
+        }
     },
     {
-        "index": 10,
         "class": {
             "url": "/api/classes/10",
             "name": "Sorcerer"
@@ -2863,12 +2880,14 @@
                 }
             ]
         ],
-        "url": "/api/startingequipment/10",
-        "name": "Unnamed_Index10",
-        "desc": []
+        "entry_descriptor": {
+            "index": 10,
+            "url": "/api/startingequipment/10",
+            "name": "Sorcerer",
+            "desc": []
+        }
     },
     {
-        "index": 11,
         "class": {
             "url": "/api/classes/11",
             "name": "Warlock"
@@ -3207,12 +3226,14 @@
                 }
             ]
         ],
-        "url": "/api/startingequipment/11",
-        "name": "Unnamed_Index11",
-        "desc": []
+        "entry_descriptor": {
+            "index": 11,
+            "url": "/api/startingequipment/11",
+            "name": "Warlock",
+            "desc": []
+        }
     },
     {
-        "index": 12,
         "class": {
             "url": "/api/classes/12",
             "name": "Wizard"
@@ -3340,8 +3361,11 @@
                 }
             ]
         ],
-        "url": "/api/startingequipment/12",
-        "name": "Unnamed_Index12",
-        "desc": []
+        "entry_descriptor": {
+            "index": 12,
+            "url": "/api/startingequipment/12",
+            "name": "Wizard",
+            "desc": []
+        }
     }
 ]

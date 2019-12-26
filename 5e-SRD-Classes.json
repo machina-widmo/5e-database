@@ -1,7 +1,5 @@
 [
     {
-        "index": 1,
-        "name": "Barbarian",
         "hit_die": 12,
         "proficiency_choices": [
             {
@@ -72,7 +70,7 @@
             "name": "Barbarian"
         },
         "class_levels": {
-            "url": "/api/classes/barbarian/levels",
+            "url": "/api/classes/1",
             "name": "Barbarian"
         },
         "subclasses": [
@@ -82,12 +80,14 @@
             }
         ],
         "spellcasting": null,
-        "url": "/api/classes/1",
-        "desc": []
+        "entry_descriptor": {
+            "index": 1,
+            "url": "/api/classes/1",
+            "name": "Barbarian",
+            "desc": []
+        }
     },
     {
-        "index": 2,
-        "name": "Bard",
         "hit_die": 8,
         "proficiency_choices": [
             {
@@ -256,7 +256,7 @@
             "name": "Bard"
         },
         "class_levels": {
-            "url": "/api/classes/bard/levels",
+            "url": "/api/classes/2",
             "name": "Bard"
         },
         "subclasses": [
@@ -269,12 +269,14 @@
             "url": "/api/spellcasting/1",
             "name": "Bard"
         },
-        "url": "/api/classes/2",
-        "desc": []
+        "entry_descriptor": {
+            "index": 2,
+            "url": "/api/classes/2",
+            "name": "Bard",
+            "desc": []
+        }
     },
     {
-        "index": 3,
-        "name": "Cleric",
         "hit_die": 8,
         "proficiency_choices": [
             {
@@ -337,7 +339,7 @@
             "name": "Cleric"
         },
         "class_levels": {
-            "url": "/api/classes/cleric/levels",
+            "url": "/api/classes/3",
             "name": "Cleric"
         },
         "subclasses": [
@@ -350,12 +352,14 @@
             "url": "/api/spellcasting/2",
             "name": "Cleric"
         },
-        "url": "/api/classes/3",
-        "desc": []
+        "entry_descriptor": {
+            "index": 3,
+            "url": "/api/classes/3",
+            "name": "Cleric",
+            "desc": []
+        }
     },
     {
-        "index": 4,
-        "name": "Druid",
         "hit_die": 8,
         "proficiency_choices": [
             {
@@ -470,7 +474,7 @@
             "name": "Druid"
         },
         "class_levels": {
-            "url": "/api/classes/druid/levels",
+            "url": "/api/classes/4",
             "name": "Druid"
         },
         "subclasses": [
@@ -483,12 +487,14 @@
             "url": "/api/spellcasting/3",
             "name": "Druid"
         },
-        "url": "/api/classes/4",
-        "desc": []
+        "entry_descriptor": {
+            "index": 4,
+            "url": "/api/classes/4",
+            "name": "Druid",
+            "desc": []
+        }
     },
     {
-        "index": 5,
-        "name": "Fighter",
         "hit_die": 10,
         "proficiency_choices": [
             {
@@ -563,7 +569,7 @@
             "name": "Fighter"
         },
         "class_levels": {
-            "url": "/api/classes/fighter/levels",
+            "url": "/api/classes/5",
             "name": "Fighter"
         },
         "subclasses": [
@@ -573,12 +579,14 @@
             }
         ],
         "spellcasting": null,
-        "url": "/api/classes/5",
-        "desc": []
+        "entry_descriptor": {
+            "index": 5,
+            "url": "/api/classes/5",
+            "name": "Fighter",
+            "desc": []
+        }
     },
     {
-        "index": 6,
-        "name": "Monk",
         "hit_die": 8,
         "proficiency_choices": [
             {
@@ -765,7 +773,7 @@
             "name": "Monk"
         },
         "class_levels": {
-            "url": "/api/classes/monk/levels",
+            "url": "/api/classes/6",
             "name": "Monk"
         },
         "subclasses": [
@@ -775,12 +783,14 @@
             }
         ],
         "spellcasting": null,
-        "url": "/api/classes/6",
-        "desc": []
+        "entry_descriptor": {
+            "index": 6,
+            "url": "/api/classes/6",
+            "name": "Monk",
+            "desc": []
+        }
     },
     {
-        "index": 7,
-        "name": "Paladin",
         "hit_die": 10,
         "proficiency_choices": [
             {
@@ -847,7 +857,7 @@
             "name": "Paladin"
         },
         "class_levels": {
-            "url": "/api/classes/paladin/levels",
+            "url": "/api/classes/7",
             "name": "Paladin"
         },
         "subclasses": [
@@ -860,12 +870,14 @@
             "url": "/api/spellcasting/4",
             "name": "Paladin"
         },
-        "url": "/api/classes/7",
-        "desc": []
+        "entry_descriptor": {
+            "index": 7,
+            "url": "/api/classes/7",
+            "name": "Paladin",
+            "desc": []
+        }
     },
     {
-        "index": 8,
-        "name": "Ranger",
         "hit_die": 10,
         "proficiency_choices": [
             {
@@ -944,7 +956,7 @@
             "name": "Ranger"
         },
         "class_levels": {
-            "url": "/api/classes/ranger/levels",
+            "url": "/api/classes/8",
             "name": "Ranger"
         },
         "subclasses": [
@@ -957,12 +969,14 @@
             "url": "/api/spellcasting/5",
             "name": "Ranger"
         },
-        "url": "/api/classes/8",
-        "desc": []
+        "entry_descriptor": {
+            "index": 8,
+            "url": "/api/classes/8",
+            "name": "Ranger",
+            "desc": []
+        }
     },
     {
-        "index": 9,
-        "name": "Rogue",
         "hit_die": 8,
         "proficiency_choices": [
             {
@@ -1061,7 +1075,7 @@
             "name": "Rogue"
         },
         "class_levels": {
-            "url": "/api/classes/rogue/levels",
+            "url": "/api/classes/9",
             "name": "Rogue"
         },
         "subclasses": [
@@ -1071,12 +1085,14 @@
             }
         ],
         "spellcasting": null,
-        "url": "/api/classes/9",
-        "desc": []
+        "entry_descriptor": {
+            "index": 9,
+            "url": "/api/classes/9",
+            "name": "Rogue",
+            "desc": []
+        }
     },
     {
-        "index": 10,
-        "name": "Sorcerer",
         "hit_die": 6,
         "proficiency_choices": [
             {
@@ -1143,7 +1159,7 @@
             "name": "Sorcerer"
         },
         "class_levels": {
-            "url": "/api/classes/sorcerer/levels",
+            "url": "/api/classes/10",
             "name": "Sorcerer"
         },
         "subclasses": [
@@ -1156,12 +1172,14 @@
             "url": "/api/spellcasting/6",
             "name": "Sorcerer"
         },
-        "url": "/api/classes/10",
-        "desc": []
+        "entry_descriptor": {
+            "index": 10,
+            "url": "/api/classes/10",
+            "name": "Sorcerer",
+            "desc": []
+        }
     },
     {
-        "index": 11,
-        "name": "Warlock",
         "hit_die": 8,
         "proficiency_choices": [
             {
@@ -1224,7 +1242,7 @@
             "name": "Warlock"
         },
         "class_levels": {
-            "url": "/api/classes/warlock/levels",
+            "url": "/api/classes/11",
             "name": "Warlock"
         },
         "subclasses": [
@@ -1237,12 +1255,14 @@
             "url": "/api/spellcasting/7",
             "name": "Warlock"
         },
-        "url": "/api/classes/11",
-        "desc": []
+        "entry_descriptor": {
+            "index": 11,
+            "url": "/api/classes/11",
+            "name": "Warlock",
+            "desc": []
+        }
     },
     {
-        "index": 12,
-        "name": "Wizard",
         "hit_die": 6,
         "proficiency_choices": [
             {
@@ -1309,7 +1329,7 @@
             "name": "Wizard"
         },
         "class_levels": {
-            "url": "/api/classes/wizard/levels",
+            "url": "/api/classes/12",
             "name": "Wizard"
         },
         "subclasses": [
@@ -1322,7 +1342,11 @@
             "url": "/api/spellcasting/8",
             "name": "Wizard"
         },
-        "url": "/api/classes/12",
-        "desc": []
+        "entry_descriptor": {
+            "index": 12,
+            "url": "/api/classes/12",
+            "name": "Wizard",
+            "desc": []
+        }
     }
 ]

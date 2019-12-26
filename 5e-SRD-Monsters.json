@@ -1,7 +1,5 @@
 [
     {
-        "index": 1,
-        "name": "Aboleth",
         "size": "Large",
         "type": "aberration",
         "subtype": null,
@@ -159,12 +157,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/1",
-        "desc": []
+        "entry_descriptor": {
+            "index": 1,
+            "url": "/api/monsters/1",
+            "name": "Aboleth",
+            "desc": []
+        }
     },
     {
-        "index": 2,
-        "name": "Acolyte",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -210,7 +210,7 @@
                     "level": 1,
                     "ability": {
                         "name": "WIS",
-                        "url": "http://www.dnd5eapi.co/api/ability-scores/5"
+                        "url": "/api/ability-scores/5"
                     },
                     "dc": 12,
                     "modifier": 4,
@@ -275,12 +275,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/2",
-        "desc": []
+        "entry_descriptor": {
+            "index": 2,
+            "url": "/api/monsters/2",
+            "name": "Acolyte",
+            "desc": []
+        }
     },
     {
-        "index": 3,
-        "name": "Adult Black Dragon",
         "size": "Huge",
         "type": "dragon",
         "subtype": null,
@@ -476,12 +478,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/3",
-        "desc": []
+        "entry_descriptor": {
+            "index": 3,
+            "url": "/api/monsters/3",
+            "name": "Adult Black Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 4,
-        "name": "Adult Blue Dragon",
         "size": "Huge",
         "type": "dragon",
         "subtype": null,
@@ -673,12 +677,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/4",
-        "desc": []
+        "entry_descriptor": {
+            "index": 4,
+            "url": "/api/monsters/4",
+            "name": "Adult Blue Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 5,
-        "name": "Adult Brass Dragon",
         "size": "Huge",
         "type": "dragon",
         "subtype": null,
@@ -859,12 +865,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/5",
-        "desc": []
+        "entry_descriptor": {
+            "index": 5,
+            "url": "/api/monsters/5",
+            "name": "Adult Brass Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 6,
-        "name": "Adult Bronze Dragon",
         "size": "Huge",
         "type": "dragon",
         "subtype": null,
@@ -1076,12 +1084,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/6",
-        "desc": []
+        "entry_descriptor": {
+            "index": 6,
+            "url": "/api/monsters/6",
+            "name": "Adult Bronze Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 7,
-        "name": "Adult Copper Dragon",
         "size": "Huge",
         "type": "dragon",
         "subtype": null,
@@ -1289,12 +1299,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/7",
-        "desc": []
+        "entry_descriptor": {
+            "index": 7,
+            "url": "/api/monsters/7",
+            "name": "Adult Copper Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 8,
-        "name": "Adult Gold Dragon",
         "size": "Huge",
         "type": "dragon",
         "subtype": null,
@@ -1511,12 +1523,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/8",
-        "desc": []
+        "entry_descriptor": {
+            "index": 8,
+            "url": "/api/monsters/8",
+            "name": "Adult Gold Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 9,
-        "name": "Adult Green Dragon",
         "size": "Huge",
         "type": "dragon",
         "subtype": null,
@@ -1732,12 +1746,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/9",
-        "desc": []
+        "entry_descriptor": {
+            "index": 9,
+            "url": "/api/monsters/9",
+            "name": "Adult Green Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 10,
-        "name": "Adult Red Dragon",
         "size": "Huge",
         "type": "dragon",
         "subtype": null,
@@ -1978,12 +1994,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/10",
-        "desc": []
+        "entry_descriptor": {
+            "index": 10,
+            "url": "/api/monsters/10",
+            "name": "Adult Red Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 11,
-        "name": "Adult Silver Dragon",
         "size": "Huge",
         "type": "dragon",
         "subtype": null,
@@ -2195,12 +2213,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/11",
-        "desc": []
+        "entry_descriptor": {
+            "index": 11,
+            "url": "/api/monsters/11",
+            "name": "Adult Silver Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 12,
-        "name": "Adult White Dragon",
         "size": "Huge",
         "type": "dragon",
         "subtype": null,
@@ -2397,12 +2417,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/12",
-        "desc": []
+        "entry_descriptor": {
+            "index": 12,
+            "url": "/api/monsters/12",
+            "name": "Adult White Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 13,
-        "name": "Air Elemental",
         "size": "Large",
         "type": "elemental",
         "subtype": null,
@@ -2501,12 +2523,14 @@
                 "desc": "Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.\nIf the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone."
             }
         ],
-        "url": "/api/monsters/13",
-        "desc": []
+        "entry_descriptor": {
+            "index": 13,
+            "url": "/api/monsters/13",
+            "name": "Air Elemental",
+            "desc": []
+        }
     },
     {
-        "index": 14,
-        "name": "Ancient Black Dragon",
         "size": "Gargantuan",
         "type": "dragon",
         "subtype": null,
@@ -2702,12 +2726,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/14",
-        "desc": []
+        "entry_descriptor": {
+            "index": 14,
+            "url": "/api/monsters/14",
+            "name": "Ancient Black Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 15,
-        "name": "Ancient Blue Dragon",
         "size": "Gargantuan",
         "type": "dragon",
         "subtype": null,
@@ -2884,12 +2910,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/15",
-        "desc": []
+        "entry_descriptor": {
+            "index": 15,
+            "url": "/api/monsters/15",
+            "name": "Ancient Blue Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 16,
-        "name": "Ancient Brass Dragon",
         "size": "Gargantuan",
         "type": "dragon",
         "subtype": null,
@@ -3106,12 +3134,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/16",
-        "desc": []
+        "entry_descriptor": {
+            "index": 16,
+            "url": "/api/monsters/16",
+            "name": "Ancient Brass Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 17,
-        "name": "Ancient Bronze Dragon",
         "size": "Gargantuan",
         "type": "dragon",
         "subtype": null,
@@ -3327,12 +3357,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/17",
-        "desc": []
+        "entry_descriptor": {
+            "index": 17,
+            "url": "/api/monsters/17",
+            "name": "Ancient Bronze Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 18,
-        "name": "Ancient Copper Dragon",
         "size": "Gargantuan",
         "type": "dragon",
         "subtype": null,
@@ -3544,12 +3576,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/18",
-        "desc": []
+        "entry_descriptor": {
+            "index": 18,
+            "url": "/api/monsters/18",
+            "name": "Ancient Copper Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 19,
-        "name": "Ancient Gold Dragon",
         "size": "Gargantuan",
         "type": "dragon",
         "subtype": null,
@@ -3770,12 +3804,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/19",
-        "desc": []
+        "entry_descriptor": {
+            "index": 19,
+            "url": "/api/monsters/19",
+            "name": "Ancient Gold Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 20,
-        "name": "Ancient Green Dragon",
         "size": "Gargantuan",
         "type": "dragon",
         "subtype": null,
@@ -3994,12 +4030,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/20",
-        "desc": []
+        "entry_descriptor": {
+            "index": 20,
+            "url": "/api/monsters/20",
+            "name": "Ancient Green Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 21,
-        "name": "Ancient Red Dragon",
         "size": "Gargantuan",
         "type": "dragon",
         "subtype": null,
@@ -4194,12 +4232,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/21",
-        "desc": []
+        "entry_descriptor": {
+            "index": 21,
+            "url": "/api/monsters/21",
+            "name": "Ancient Red Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 22,
-        "name": "Ancient Silver Dragon",
         "size": "Gargantuan",
         "type": "dragon",
         "subtype": null,
@@ -4415,12 +4455,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/22",
-        "desc": []
+        "entry_descriptor": {
+            "index": 22,
+            "url": "/api/monsters/22",
+            "name": "Ancient Silver Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 23,
-        "name": "Ancient White Dragon",
         "size": "Gargantuan",
         "type": "dragon",
         "subtype": null,
@@ -4620,12 +4662,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/23",
-        "desc": []
+        "entry_descriptor": {
+            "index": 23,
+            "url": "/api/monsters/23",
+            "name": "Ancient White Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 24,
-        "name": "Androsphinx",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -4718,7 +4762,7 @@
                     "level": 12,
                     "ability": {
                         "name": "WIS",
-                        "url": "http://www.dnd5eapi.co/api/ability-scores/5"
+                        "url": "/api/ability-scores/5"
                     },
                     "dc": 18,
                     "modifier": 10,
@@ -4899,12 +4943,14 @@
                 "desc": "The sphinx casts a spell from its list of prepared spells, using a spell slot as normal."
             }
         ],
-        "url": "/api/monsters/24",
-        "desc": []
+        "entry_descriptor": {
+            "index": 24,
+            "url": "/api/monsters/24",
+            "name": "Androsphinx",
+            "desc": []
+        }
     },
     {
-        "index": 25,
-        "name": "Animated Armor",
         "size": "Medium",
         "type": "construct",
         "subtype": null,
@@ -4999,12 +5045,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/25",
-        "desc": []
+        "entry_descriptor": {
+            "index": 25,
+            "url": "/api/monsters/25",
+            "name": "Animated Armor",
+            "desc": []
+        }
     },
     {
-        "index": 26,
-        "name": "Ankheg",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -5081,12 +5129,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/26",
-        "desc": []
+        "entry_descriptor": {
+            "index": 26,
+            "url": "/api/monsters/26",
+            "name": "Ankheg",
+            "desc": []
+        }
     },
     {
-        "index": 27,
-        "name": "Ape",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -5161,12 +5211,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/27",
-        "desc": []
+        "entry_descriptor": {
+            "index": 27,
+            "url": "/api/monsters/27",
+            "name": "Ape",
+            "desc": []
+        }
     },
     {
-        "index": 28,
-        "name": "Archmage",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -5229,7 +5281,7 @@
                     "level": 18,
                     "ability": {
                         "name": "INT",
-                        "url": "http://www.dnd5eapi.co/api/ability-scores/4"
+                        "url": "/api/ability-scores/4"
                     },
                     "dc": 17,
                     "modifier": 9,
@@ -5414,12 +5466,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/28",
-        "desc": []
+        "entry_descriptor": {
+            "index": 28,
+            "url": "/api/monsters/28",
+            "name": "Archmage",
+            "desc": []
+        }
     },
     {
-        "index": 29,
-        "name": "Assassin",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -5561,12 +5615,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/29",
-        "desc": []
+        "entry_descriptor": {
+            "index": 29,
+            "url": "/api/monsters/29",
+            "name": "Assassin",
+            "desc": []
+        }
     },
     {
-        "index": 30,
-        "name": "Awakened Shrub",
         "size": "Small",
         "type": "plant",
         "subtype": null,
@@ -5620,12 +5676,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/30",
-        "desc": []
+        "entry_descriptor": {
+            "index": 30,
+            "url": "/api/monsters/30",
+            "name": "Awakened Shrub",
+            "desc": []
+        }
     },
     {
-        "index": 31,
-        "name": "Awakened Tree",
         "size": "Huge",
         "type": "plant",
         "subtype": null,
@@ -5680,12 +5738,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/31",
-        "desc": []
+        "entry_descriptor": {
+            "index": 31,
+            "url": "/api/monsters/31",
+            "name": "Awakened Tree",
+            "desc": []
+        }
     },
     {
-        "index": 32,
-        "name": "Axe Beak",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -5729,12 +5789,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/32",
-        "desc": []
+        "entry_descriptor": {
+            "index": 32,
+            "url": "/api/monsters/32",
+            "name": "Axe Beak",
+            "desc": []
+        }
     },
     {
-        "index": 33,
-        "name": "Azer",
         "size": "Medium",
         "type": "elemental",
         "subtype": null,
@@ -5834,12 +5896,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/33",
-        "desc": []
+        "entry_descriptor": {
+            "index": 33,
+            "url": "/api/monsters/33",
+            "name": "Azer",
+            "desc": []
+        }
     },
     {
-        "index": 34,
-        "name": "Baboon",
         "size": "Small",
         "type": "beast",
         "subtype": null,
@@ -5890,12 +5954,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/34",
-        "desc": []
+        "entry_descriptor": {
+            "index": 34,
+            "url": "/api/monsters/34",
+            "name": "Baboon",
+            "desc": []
+        }
     },
     {
-        "index": 35,
-        "name": "Badger",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -5947,12 +6013,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/35",
-        "desc": []
+        "entry_descriptor": {
+            "index": 35,
+            "url": "/api/monsters/35",
+            "name": "Badger",
+            "desc": []
+        }
     },
     {
-        "index": 36,
-        "name": "Balor",
         "size": "Huge",
         "type": "fiend",
         "subtype": "demon",
@@ -6120,12 +6188,14 @@
                 "desc": "The demon chooses what to summon and attempts a magical summoning.\nA balor has a 50 percent chance of summoning 1d8 vrocks, 1d6 hezrous, 1d4 glabrezus, 1d3 nalfeshnees, 1d2 mariliths, or one goristro.\nA summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action."
             }
         ],
-        "url": "/api/monsters/36",
-        "desc": []
+        "entry_descriptor": {
+            "index": 36,
+            "url": "/api/monsters/36",
+            "name": "Balor",
+            "desc": []
+        }
     },
     {
-        "index": 37,
-        "name": "Bandit",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -6184,12 +6254,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/37",
-        "desc": []
+        "entry_descriptor": {
+            "index": 37,
+            "url": "/api/monsters/37",
+            "name": "Bandit",
+            "desc": []
+        }
     },
     {
-        "index": 38,
-        "name": "Bandit Captain",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -6284,12 +6356,14 @@
                 "desc": "The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon."
             }
         ],
-        "url": "/api/monsters/38",
-        "desc": []
+        "entry_descriptor": {
+            "index": 38,
+            "url": "/api/monsters/38",
+            "name": "Bandit Captain",
+            "desc": []
+        }
     },
     {
-        "index": 39,
-        "name": "Barbed Devil",
         "size": "Medium",
         "type": "fiend",
         "subtype": "devil",
@@ -6440,12 +6514,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/39",
-        "desc": []
+        "entry_descriptor": {
+            "index": 39,
+            "url": "/api/monsters/39",
+            "name": "Barbed Devil",
+            "desc": []
+        }
     },
     {
-        "index": 40,
-        "name": "Basilisk",
         "size": "Medium",
         "type": "monstrosity",
         "subtype": null,
@@ -6512,12 +6588,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/40",
-        "desc": []
+        "entry_descriptor": {
+            "index": 40,
+            "url": "/api/monsters/40",
+            "name": "Basilisk",
+            "desc": []
+        }
     },
     {
-        "index": 41,
-        "name": "Bat",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -6573,12 +6651,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/41",
-        "desc": []
+        "entry_descriptor": {
+            "index": 41,
+            "url": "/api/monsters/41",
+            "name": "Bat",
+            "desc": []
+        }
     },
     {
-        "index": 42,
-        "name": "Bearded Devil",
         "size": "Medium",
         "type": "fiend",
         "subtype": "devil",
@@ -6683,12 +6763,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/42",
-        "desc": []
+        "entry_descriptor": {
+            "index": 42,
+            "url": "/api/monsters/42",
+            "name": "Bearded Devil",
+            "desc": []
+        }
     },
     {
-        "index": 43,
-        "name": "Behir",
         "size": "Huge",
         "type": "monstrosity",
         "subtype": null,
@@ -6811,12 +6893,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/43",
-        "desc": []
+        "entry_descriptor": {
+            "index": 43,
+            "url": "/api/monsters/43",
+            "name": "Behir",
+            "desc": []
+        }
     },
     {
-        "index": 44,
-        "name": "Berserker",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -6866,12 +6950,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/44",
-        "desc": []
+        "entry_descriptor": {
+            "index": 44,
+            "url": "/api/monsters/44",
+            "name": "Berserker",
+            "desc": []
+        }
     },
     {
-        "index": 45,
-        "name": "Black Bear",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -6941,12 +7027,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/45",
-        "desc": []
+        "entry_descriptor": {
+            "index": 45,
+            "url": "/api/monsters/45",
+            "name": "Black Bear",
+            "desc": []
+        }
     },
     {
-        "index": 46,
-        "name": "Black Dragon Wyrmling",
         "size": "Medium",
         "type": "dragon",
         "subtype": null,
@@ -7063,12 +7151,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/46",
-        "desc": []
+        "entry_descriptor": {
+            "index": 46,
+            "url": "/api/monsters/46",
+            "name": "Black Dragon Wyrmling",
+            "desc": []
+        }
     },
     {
-        "index": 47,
-        "name": "Black Pudding",
         "size": "Large",
         "type": "ooze",
         "subtype": null,
@@ -7182,12 +7272,14 @@
                 "desc": "When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding."
             }
         ],
-        "url": "/api/monsters/47",
-        "desc": []
+        "entry_descriptor": {
+            "index": 47,
+            "url": "/api/monsters/47",
+            "name": "Black Pudding",
+            "desc": []
+        }
     },
     {
-        "index": 48,
-        "name": "Blink Dog",
         "size": "Medium",
         "type": "fey",
         "subtype": null,
@@ -7252,12 +7344,14 @@
                 "desc": "The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 ft. to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack."
             }
         ],
-        "url": "/api/monsters/48",
-        "desc": []
+        "entry_descriptor": {
+            "index": 48,
+            "url": "/api/monsters/48",
+            "name": "Blink Dog",
+            "desc": []
+        }
     },
     {
-        "index": 49,
-        "name": "Blood Hawk",
         "size": "Small",
         "type": "beast",
         "subtype": null,
@@ -7318,12 +7412,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/49",
-        "desc": []
+        "entry_descriptor": {
+            "index": 49,
+            "url": "/api/monsters/49",
+            "name": "Blood Hawk",
+            "desc": []
+        }
     },
     {
-        "index": 50,
-        "name": "Blue Dragon Wyrmling",
         "size": "Medium",
         "type": "dragon",
         "subtype": null,
@@ -7434,12 +7530,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/50",
-        "desc": []
+        "entry_descriptor": {
+            "index": 50,
+            "url": "/api/monsters/50",
+            "name": "Blue Dragon Wyrmling",
+            "desc": []
+        }
     },
     {
-        "index": 51,
-        "name": "Boar",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -7503,12 +7601,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/51",
-        "desc": []
+        "entry_descriptor": {
+            "index": 51,
+            "url": "/api/monsters/51",
+            "name": "Boar",
+            "desc": []
+        }
     },
     {
-        "index": 52,
-        "name": "Bone Devil",
         "size": "Large",
         "type": "fiend",
         "subtype": "devil",
@@ -7628,12 +7728,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/52",
-        "desc": []
+        "entry_descriptor": {
+            "index": 52,
+            "url": "/api/monsters/52",
+            "name": "Bone Devil",
+            "desc": []
+        }
     },
     {
-        "index": 53,
-        "name": "Brass Dragon Wyrmling",
         "size": "Medium",
         "type": "dragon",
         "subtype": null,
@@ -7752,12 +7854,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/53",
-        "desc": []
+        "entry_descriptor": {
+            "index": 53,
+            "url": "/api/monsters/53",
+            "name": "Brass Dragon Wyrmling",
+            "desc": []
+        }
     },
     {
-        "index": 54,
-        "name": "Bronze Dragon Wyrmling",
         "size": "Medium",
         "type": "dragon",
         "subtype": null,
@@ -7882,12 +7986,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/54",
-        "desc": []
+        "entry_descriptor": {
+            "index": 54,
+            "url": "/api/monsters/54",
+            "name": "Bronze Dragon Wyrmling",
+            "desc": []
+        }
     },
     {
-        "index": 55,
-        "name": "Brown Bear",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -7963,12 +8069,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/55",
-        "desc": []
+        "entry_descriptor": {
+            "index": 55,
+            "url": "/api/monsters/55",
+            "name": "Brown Bear",
+            "desc": []
+        }
     },
     {
-        "index": 56,
-        "name": "Bugbear",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "goblinoid",
@@ -8049,12 +8157,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/56",
-        "desc": []
+        "entry_descriptor": {
+            "index": 56,
+            "url": "/api/monsters/56",
+            "name": "Bugbear",
+            "desc": []
+        }
     },
     {
-        "index": 57,
-        "name": "Bulette",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -8117,12 +8227,14 @@
                 "desc": "If the bulette jumps at least 15 ft. as part of its movement, it can then use this action to land on its ft. in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage. On a successful save, the creature takes only half the damage, isn't knocked prone, and is pushed 5 ft. out of the bulette's space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls prone in the bulette's space."
             }
         ],
-        "url": "/api/monsters/57",
-        "desc": []
+        "entry_descriptor": {
+            "index": 57,
+            "url": "/api/monsters/57",
+            "name": "Bulette",
+            "desc": []
+        }
     },
     {
-        "index": 58,
-        "name": "Camel",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -8166,12 +8278,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/58",
-        "desc": []
+        "entry_descriptor": {
+            "index": 58,
+            "url": "/api/monsters/58",
+            "name": "Camel",
+            "desc": []
+        }
     },
     {
-        "index": 59,
-        "name": "Cat",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -8233,12 +8347,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/59",
-        "desc": []
+        "entry_descriptor": {
+            "index": 59,
+            "url": "/api/monsters/59",
+            "name": "Cat",
+            "desc": []
+        }
     },
     {
-        "index": 60,
-        "name": "Centaur",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -8348,12 +8464,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/60",
-        "desc": []
+        "entry_descriptor": {
+            "index": 60,
+            "url": "/api/monsters/60",
+            "name": "Centaur",
+            "desc": []
+        }
     },
     {
-        "index": 61,
-        "name": "Chain Devil",
         "size": "Medium",
         "type": "fiend",
         "subtype": "devil",
@@ -8457,12 +8575,14 @@
                 }
             }
         ],
-        "url": "/api/monsters/61",
-        "desc": []
+        "entry_descriptor": {
+            "index": 61,
+            "url": "/api/monsters/61",
+            "name": "Chain Devil",
+            "desc": []
+        }
     },
     {
-        "index": 62,
-        "name": "Chimera",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -8570,12 +8690,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/62",
-        "desc": []
+        "entry_descriptor": {
+            "index": 62,
+            "url": "/api/monsters/62",
+            "name": "Chimera",
+            "desc": []
+        }
     },
     {
-        "index": 63,
-        "name": "Chuul",
         "size": "Large",
         "type": "aberration",
         "subtype": null,
@@ -8660,12 +8782,14 @@
                 }
             }
         ],
-        "url": "/api/monsters/63",
-        "desc": []
+        "entry_descriptor": {
+            "index": 63,
+            "url": "/api/monsters/63",
+            "name": "Chuul",
+            "desc": []
+        }
     },
     {
-        "index": 64,
-        "name": "Clay Golem",
         "size": "Large",
         "type": "construct",
         "subtype": null,
@@ -8770,12 +8894,14 @@
                 "desc": "Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action."
             }
         ],
-        "url": "/api/monsters/64",
-        "desc": []
+        "entry_descriptor": {
+            "index": 64,
+            "url": "/api/monsters/64",
+            "name": "Clay Golem",
+            "desc": []
+        }
     },
     {
-        "index": 65,
-        "name": "Cloaker",
         "size": "Large",
         "type": "aberration",
         "subtype": null,
@@ -8876,12 +9002,14 @@
                 "desc": "The cloaker magically creates three illusory duplicates of itself if it isn't in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear.\nWhenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this magical effect if it can't see or if it relies on senses other than sight.\nA duplicate has the cloaker's AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears."
             }
         ],
-        "url": "/api/monsters/65",
-        "desc": []
+        "entry_descriptor": {
+            "index": 65,
+            "url": "/api/monsters/65",
+            "name": "Cloaker",
+            "desc": []
+        }
     },
     {
-        "index": 66,
-        "name": "Cloud Giant",
         "size": "Huge",
         "type": "giant",
         "subtype": null,
@@ -9058,12 +9186,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/66",
-        "desc": []
+        "entry_descriptor": {
+            "index": 66,
+            "url": "/api/monsters/66",
+            "name": "Cloud Giant",
+            "desc": []
+        }
     },
     {
-        "index": 67,
-        "name": "Cockatrice",
         "size": "Small",
         "type": "monstrosity",
         "subtype": null,
@@ -9109,12 +9239,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/67",
-        "desc": []
+        "entry_descriptor": {
+            "index": 67,
+            "url": "/api/monsters/67",
+            "name": "Cockatrice",
+            "desc": []
+        }
     },
     {
-        "index": 68,
-        "name": "Commoner",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -9158,12 +9290,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/68",
-        "desc": []
+        "entry_descriptor": {
+            "index": 68,
+            "url": "/api/monsters/68",
+            "name": "Commoner",
+            "desc": []
+        }
     },
     {
-        "index": 69,
-        "name": "Constrictor Snake",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -9224,12 +9358,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/69",
-        "desc": []
+        "entry_descriptor": {
+            "index": 69,
+            "url": "/api/monsters/69",
+            "name": "Constrictor Snake",
+            "desc": []
+        }
     },
     {
-        "index": 70,
-        "name": "Copper Dragon Wyrmling",
         "size": "Medium",
         "type": "dragon",
         "subtype": null,
@@ -9348,12 +9484,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/70",
-        "desc": []
+        "entry_descriptor": {
+            "index": 70,
+            "url": "/api/monsters/70",
+            "name": "Copper Dragon Wyrmling",
+            "desc": []
+        }
     },
     {
-        "index": 71,
-        "name": "Couatl",
         "size": "Medium",
         "type": "celestial",
         "subtype": null,
@@ -9566,12 +9704,14 @@
                 "desc": "The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice).\nIn a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form."
             }
         ],
-        "url": "/api/monsters/71",
-        "desc": []
+        "entry_descriptor": {
+            "index": 71,
+            "url": "/api/monsters/71",
+            "name": "Couatl",
+            "desc": []
+        }
     },
     {
-        "index": 72,
-        "name": "Crab",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -9629,12 +9769,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/72",
-        "desc": []
+        "entry_descriptor": {
+            "index": 72,
+            "url": "/api/monsters/72",
+            "name": "Crab",
+            "desc": []
+        }
     },
     {
-        "index": 73,
-        "name": "Crocodile",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -9691,12 +9833,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/73",
-        "desc": []
+        "entry_descriptor": {
+            "index": 73,
+            "url": "/api/monsters/73",
+            "name": "Crocodile",
+            "desc": []
+        }
     },
     {
-        "index": 74,
-        "name": "Cult Fanatic",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -9751,7 +9895,7 @@
                     "level": 4,
                     "ability": {
                         "name": "WIS",
-                        "url": "http://www.dnd5eapi.co/api/ability-scores/5"
+                        "url": "/api/ability-scores/5"
                     },
                     "dc": 11,
                     "modifier": 3,
@@ -9831,12 +9975,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/74",
-        "desc": []
+        "entry_descriptor": {
+            "index": 74,
+            "url": "/api/monsters/74",
+            "name": "Cult Fanatic",
+            "desc": []
+        }
     },
     {
-        "index": 75,
-        "name": "Cultist",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -9897,12 +10043,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/75",
-        "desc": []
+        "entry_descriptor": {
+            "index": 75,
+            "url": "/api/monsters/75",
+            "name": "Cultist",
+            "desc": []
+        }
     },
     {
-        "index": 76,
-        "name": "Darkmantle",
         "size": "Small",
         "type": "monstrosity",
         "subtype": null,
@@ -9968,12 +10116,14 @@
                 "desc": "A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled."
             }
         ],
-        "url": "/api/monsters/76",
-        "desc": []
+        "entry_descriptor": {
+            "index": 76,
+            "url": "/api/monsters/76",
+            "name": "Darkmantle",
+            "desc": []
+        }
     },
     {
-        "index": 77,
-        "name": "Death Dog",
         "size": "Medium",
         "type": "monstrosity",
         "subtype": null,
@@ -10039,12 +10189,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/77",
-        "desc": []
+        "entry_descriptor": {
+            "index": 77,
+            "url": "/api/monsters/77",
+            "name": "Death Dog",
+            "desc": []
+        }
     },
     {
-        "index": 78,
-        "name": "Deep Gnome (Svirfneblin)",
         "size": "Small",
         "type": "humanoid",
         "subtype": "gnome",
@@ -10176,12 +10328,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/78",
-        "desc": []
+        "entry_descriptor": {
+            "index": 78,
+            "url": "/api/monsters/78",
+            "name": "Deep Gnome (Svirfneblin)",
+            "desc": []
+        }
     },
     {
-        "index": 79,
-        "name": "Deer",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -10225,12 +10379,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/79",
-        "desc": []
+        "entry_descriptor": {
+            "index": 79,
+            "url": "/api/monsters/79",
+            "name": "Deer",
+            "desc": []
+        }
     },
     {
-        "index": 80,
-        "name": "Deva",
         "size": "Medium",
         "type": "celestial",
         "subtype": null,
@@ -10382,12 +10538,14 @@
                 "desc": "The deva magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva's choice).\nIn a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks."
             }
         ],
-        "url": "/api/monsters/80",
-        "desc": []
+        "entry_descriptor": {
+            "index": 80,
+            "url": "/api/monsters/80",
+            "name": "Deva",
+            "desc": []
+        }
     },
     {
-        "index": 81,
-        "name": "Dire Wolf",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -10452,12 +10610,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/81",
-        "desc": []
+        "entry_descriptor": {
+            "index": 81,
+            "url": "/api/monsters/81",
+            "name": "Dire Wolf",
+            "desc": []
+        }
     },
     {
-        "index": 82,
-        "name": "Djinni",
         "size": "Large",
         "type": "elemental",
         "subtype": null,
@@ -10680,12 +10840,14 @@
                 }
             }
         ],
-        "url": "/api/monsters/82",
-        "desc": []
+        "entry_descriptor": {
+            "index": 82,
+            "url": "/api/monsters/82",
+            "name": "Djinni",
+            "desc": []
+        }
     },
     {
-        "index": 83,
-        "name": "Doppelganger",
         "size": "Medium",
         "type": "monstrosity",
         "subtype": "shapechanger",
@@ -10768,12 +10930,14 @@
                 "desc": "The doppelganger magically reads the surface thoughts of one creature within 60 ft. of it. The effect can penetrate barriers, but 3 ft. of wood or dirt, 2 ft. of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target."
             }
         ],
-        "url": "/api/monsters/83",
-        "desc": []
+        "entry_descriptor": {
+            "index": 83,
+            "url": "/api/monsters/83",
+            "name": "Doppelganger",
+            "desc": []
+        }
     },
     {
-        "index": 84,
-        "name": "Draft Horse",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -10817,12 +10981,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/84",
-        "desc": []
+        "entry_descriptor": {
+            "index": 84,
+            "url": "/api/monsters/84",
+            "name": "Draft Horse",
+            "desc": []
+        }
     },
     {
-        "index": 85,
-        "name": "Dragon Turtle",
         "size": "Gargantuan",
         "type": "dragon",
         "subtype": null,
@@ -10948,12 +11114,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/85",
-        "desc": []
+        "entry_descriptor": {
+            "index": 85,
+            "url": "/api/monsters/85",
+            "name": "Dragon Turtle",
+            "desc": []
+        }
     },
     {
-        "index": 86,
-        "name": "Dretch",
         "size": "Small",
         "type": "fiend",
         "subtype": "demon",
@@ -11040,12 +11208,14 @@
                 }
             }
         ],
-        "url": "/api/monsters/86",
-        "desc": []
+        "entry_descriptor": {
+            "index": 86,
+            "url": "/api/monsters/86",
+            "name": "Dretch",
+            "desc": []
+        }
     },
     {
-        "index": 87,
-        "name": "Drider",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -11221,12 +11391,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/87",
-        "desc": []
+        "entry_descriptor": {
+            "index": 87,
+            "url": "/api/monsters/87",
+            "name": "Drider",
+            "desc": []
+        }
     },
     {
-        "index": 88,
-        "name": "Drow",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "elf",
@@ -11345,12 +11517,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/88",
-        "desc": []
+        "entry_descriptor": {
+            "index": 88,
+            "url": "/api/monsters/88",
+            "name": "Drow",
+            "desc": []
+        }
     },
     {
-        "index": 89,
-        "name": "Druid",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -11401,7 +11575,7 @@
                     "level": 4,
                     "ability": {
                         "name": "WIS",
-                        "url": "http://www.dnd5eapi.co/api/ability-scores/5"
+                        "url": "/api/ability-scores/5"
                     },
                     "dc": 12,
                     "modifier": 4,
@@ -11496,12 +11670,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/89",
-        "desc": []
+        "entry_descriptor": {
+            "index": 89,
+            "url": "/api/monsters/89",
+            "name": "Druid",
+            "desc": []
+        }
     },
     {
-        "index": 90,
-        "name": "Dryad",
         "size": "Medium",
         "type": "fey",
         "subtype": null,
@@ -11644,12 +11820,14 @@
                 }
             }
         ],
-        "url": "/api/monsters/90",
-        "desc": []
+        "entry_descriptor": {
+            "index": 90,
+            "url": "/api/monsters/90",
+            "name": "Dryad",
+            "desc": []
+        }
     },
     {
-        "index": 91,
-        "name": "Duergar",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "dwarf",
@@ -11729,12 +11907,14 @@
                 "desc": "The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it ."
             }
         ],
-        "url": "/api/monsters/91",
-        "desc": []
+        "entry_descriptor": {
+            "index": 91,
+            "url": "/api/monsters/91",
+            "name": "Duergar",
+            "desc": []
+        }
     },
     {
-        "index": 92,
-        "name": "Dust Mephit",
         "size": "Small",
         "type": "elemental",
         "subtype": null,
@@ -11834,12 +12014,14 @@
                 "desc": "The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action."
             }
         ],
-        "url": "/api/monsters/92",
-        "desc": []
+        "entry_descriptor": {
+            "index": 92,
+            "url": "/api/monsters/92",
+            "name": "Dust Mephit",
+            "desc": []
+        }
     },
     {
-        "index": 93,
-        "name": "Eagle",
         "size": "Small",
         "type": "beast",
         "subtype": null,
@@ -11896,12 +12078,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/93",
-        "desc": []
+        "entry_descriptor": {
+            "index": 93,
+            "url": "/api/monsters/93",
+            "name": "Eagle",
+            "desc": []
+        }
     },
     {
-        "index": 94,
-        "name": "Earth Elemental",
         "size": "Large",
         "type": "elemental",
         "subtype": null,
@@ -11989,12 +12173,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/94",
-        "desc": []
+        "entry_descriptor": {
+            "index": 94,
+            "url": "/api/monsters/94",
+            "name": "Earth Elemental",
+            "desc": []
+        }
     },
     {
-        "index": 95,
-        "name": "Efreeti",
         "size": "Large",
         "type": "elemental",
         "subtype": null,
@@ -12182,12 +12368,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/95",
-        "desc": []
+        "entry_descriptor": {
+            "index": 95,
+            "url": "/api/monsters/95",
+            "name": "Efreeti",
+            "desc": []
+        }
     },
     {
-        "index": 96,
-        "name": "Elephant",
         "size": "Huge",
         "type": "beast",
         "subtype": null,
@@ -12252,12 +12440,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/96",
-        "desc": []
+        "entry_descriptor": {
+            "index": 96,
+            "url": "/api/monsters/96",
+            "name": "Elephant",
+            "desc": []
+        }
     },
     {
-        "index": 97,
-        "name": "Elk",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -12322,12 +12512,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/97",
-        "desc": []
+        "entry_descriptor": {
+            "index": 97,
+            "url": "/api/monsters/97",
+            "name": "Elk",
+            "desc": []
+        }
     },
     {
-        "index": 98,
-        "name": "Erinyes",
         "size": "Medium",
         "type": "fiend",
         "subtype": "devil",
@@ -12474,12 +12666,14 @@
                 "desc": "The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon."
             }
         ],
-        "url": "/api/monsters/98",
-        "desc": []
+        "entry_descriptor": {
+            "index": 98,
+            "url": "/api/monsters/98",
+            "name": "Erinyes",
+            "desc": []
+        }
     },
     {
-        "index": 99,
-        "name": "Ettercap",
         "size": "Medium",
         "type": "monstrosity",
         "subtype": null,
@@ -12602,12 +12796,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/99",
-        "desc": []
+        "entry_descriptor": {
+            "index": 99,
+            "url": "/api/monsters/99",
+            "name": "Ettercap",
+            "desc": []
+        }
     },
     {
-        "index": 100,
-        "name": "Ettin",
         "size": "Large",
         "type": "giant",
         "subtype": null,
@@ -12687,12 +12883,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/100",
-        "desc": []
+        "entry_descriptor": {
+            "index": 100,
+            "url": "/api/monsters/100",
+            "name": "Ettin",
+            "desc": []
+        }
     },
     {
-        "index": 101,
-        "name": "Fire Elemental",
         "size": "Large",
         "type": "elemental",
         "subtype": null,
@@ -12803,12 +13001,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/101",
-        "desc": []
+        "entry_descriptor": {
+            "index": 101,
+            "url": "/api/monsters/101",
+            "name": "Fire Elemental",
+            "desc": []
+        }
     },
     {
-        "index": 102,
-        "name": "Fire Giant",
         "size": "Huge",
         "type": "giant",
         "subtype": null,
@@ -12899,12 +13099,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/102",
-        "desc": []
+        "entry_descriptor": {
+            "index": 102,
+            "url": "/api/monsters/102",
+            "name": "Fire Giant",
+            "desc": []
+        }
     },
     {
-        "index": 103,
-        "name": "Flesh Golem",
         "size": "Medium",
         "type": "construct",
         "subtype": null,
@@ -13008,12 +13210,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/103",
-        "desc": []
+        "entry_descriptor": {
+            "index": 103,
+            "url": "/api/monsters/103",
+            "name": "Flesh Golem",
+            "desc": []
+        }
     },
     {
-        "index": 104,
-        "name": "Flying Snake",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -13074,12 +13278,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/104",
-        "desc": []
+        "entry_descriptor": {
+            "index": 104,
+            "url": "/api/monsters/104",
+            "name": "Flying Snake",
+            "desc": []
+        }
     },
     {
-        "index": 105,
-        "name": "Flying Sword",
         "size": "Small",
         "type": "construct",
         "subtype": null,
@@ -13174,12 +13380,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/105",
-        "desc": []
+        "entry_descriptor": {
+            "index": 105,
+            "url": "/api/monsters/105",
+            "name": "Flying Sword",
+            "desc": []
+        }
     },
     {
-        "index": 106,
-        "name": "Frog",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -13229,12 +13437,14 @@
                 "desc": "The frog's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start."
             }
         ],
-        "url": "/api/monsters/106",
-        "desc": []
+        "entry_descriptor": {
+            "index": 106,
+            "url": "/api/monsters/106",
+            "name": "Frog",
+            "desc": []
+        }
     },
     {
-        "index": 107,
-        "name": "Frost Giant",
         "size": "Huge",
         "type": "giant",
         "subtype": null,
@@ -13325,12 +13535,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/107",
-        "desc": []
+        "entry_descriptor": {
+            "index": 107,
+            "url": "/api/monsters/107",
+            "name": "Frost Giant",
+            "desc": []
+        }
     },
     {
-        "index": 108,
-        "name": "Gargoyle",
         "size": "Medium",
         "type": "elemental",
         "subtype": null,
@@ -13418,12 +13630,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/108",
-        "desc": []
+        "entry_descriptor": {
+            "index": 108,
+            "url": "/api/monsters/108",
+            "name": "Gargoyle",
+            "desc": []
+        }
     },
     {
-        "index": 109,
-        "name": "Gelatinous Cube",
         "size": "Large",
         "type": "ooze",
         "subtype": null,
@@ -13525,12 +13739,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/109",
-        "desc": []
+        "entry_descriptor": {
+            "index": 109,
+            "url": "/api/monsters/109",
+            "name": "Gelatinous Cube",
+            "desc": []
+        }
     },
     {
-        "index": 110,
-        "name": "Ghast",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -13615,12 +13831,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/110",
-        "desc": []
+        "entry_descriptor": {
+            "index": 110,
+            "url": "/api/monsters/110",
+            "name": "Ghast",
+            "desc": []
+        }
     },
     {
-        "index": 111,
-        "name": "Ghost",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -13752,12 +13970,14 @@
                 }
             }
         ],
-        "url": "/api/monsters/111",
-        "desc": []
+        "entry_descriptor": {
+            "index": 111,
+            "url": "/api/monsters/111",
+            "name": "Ghost",
+            "desc": []
+        }
     },
     {
-        "index": 112,
-        "name": "Ghoul",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -13822,12 +14042,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/112",
-        "desc": []
+        "entry_descriptor": {
+            "index": 112,
+            "url": "/api/monsters/112",
+            "name": "Ghoul",
+            "desc": []
+        }
     },
     {
-        "index": 113,
-        "name": "Giant Ape",
         "size": "Huge",
         "type": "beast",
         "subtype": null,
@@ -13902,12 +14124,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/113",
-        "desc": []
+        "entry_descriptor": {
+            "index": 113,
+            "url": "/api/monsters/113",
+            "name": "Giant Ape",
+            "desc": []
+        }
     },
     {
-        "index": 114,
-        "name": "Giant Badger",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -13978,12 +14202,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/114",
-        "desc": []
+        "entry_descriptor": {
+            "index": 114,
+            "url": "/api/monsters/114",
+            "name": "Giant Badger",
+            "desc": []
+        }
     },
     {
-        "index": 115,
-        "name": "Giant Bat",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -14039,12 +14265,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/115",
-        "desc": []
+        "entry_descriptor": {
+            "index": 115,
+            "url": "/api/monsters/115",
+            "name": "Giant Bat",
+            "desc": []
+        }
     },
     {
-        "index": 116,
-        "name": "Giant Boar",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -14098,12 +14326,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/116",
-        "desc": []
+        "entry_descriptor": {
+            "index": 116,
+            "url": "/api/monsters/116",
+            "name": "Giant Boar",
+            "desc": []
+        }
     },
     {
-        "index": 117,
-        "name": "Giant Centipede",
         "size": "Small",
         "type": "beast",
         "subtype": null,
@@ -14149,12 +14379,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/117",
-        "desc": []
+        "entry_descriptor": {
+            "index": 117,
+            "url": "/api/monsters/117",
+            "name": "Giant Centipede",
+            "desc": []
+        }
     },
     {
-        "index": 118,
-        "name": "Giant Constrictor Snake",
         "size": "Huge",
         "type": "beast",
         "subtype": null,
@@ -14221,12 +14453,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/118",
-        "desc": []
+        "entry_descriptor": {
+            "index": 118,
+            "url": "/api/monsters/118",
+            "name": "Giant Constrictor Snake",
+            "desc": []
+        }
     },
     {
-        "index": 119,
-        "name": "Giant Crab",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -14284,12 +14518,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/119",
-        "desc": []
+        "entry_descriptor": {
+            "index": 119,
+            "url": "/api/monsters/119",
+            "name": "Giant Crab",
+            "desc": []
+        }
     },
     {
-        "index": 120,
-        "name": "Giant Crocodile",
         "size": "Huge",
         "type": "beast",
         "subtype": null,
@@ -14365,12 +14601,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/120",
-        "desc": []
+        "entry_descriptor": {
+            "index": 120,
+            "url": "/api/monsters/120",
+            "name": "Giant Crocodile",
+            "desc": []
+        }
     },
     {
-        "index": 121,
-        "name": "Giant Eagle",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -14446,12 +14684,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/121",
-        "desc": []
+        "entry_descriptor": {
+            "index": 121,
+            "url": "/api/monsters/121",
+            "name": "Giant Eagle",
+            "desc": []
+        }
     },
     {
-        "index": 122,
-        "name": "Giant Elk",
         "size": "Huge",
         "type": "beast",
         "subtype": null,
@@ -14522,12 +14762,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/122",
-        "desc": []
+        "entry_descriptor": {
+            "index": 122,
+            "url": "/api/monsters/122",
+            "name": "Giant Elk",
+            "desc": []
+        }
     },
     {
-        "index": 123,
-        "name": "Giant Fire Beetle",
         "size": "Small",
         "type": "beast",
         "subtype": null,
@@ -14578,12 +14820,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/123",
-        "desc": []
+        "entry_descriptor": {
+            "index": 123,
+            "url": "/api/monsters/123",
+            "name": "Giant Fire Beetle",
+            "desc": []
+        }
     },
     {
-        "index": 124,
-        "name": "Giant Frog",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -14654,12 +14898,14 @@
                 "desc": "The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 ft. of movement, exiting prone."
             }
         ],
-        "url": "/api/monsters/124",
-        "desc": []
+        "entry_descriptor": {
+            "index": 124,
+            "url": "/api/monsters/124",
+            "name": "Giant Frog",
+            "desc": []
+        }
     },
     {
-        "index": 125,
-        "name": "Giant Goat",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -14713,12 +14959,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/125",
-        "desc": []
+        "entry_descriptor": {
+            "index": 125,
+            "url": "/api/monsters/125",
+            "name": "Giant Goat",
+            "desc": []
+        }
     },
     {
-        "index": 126,
-        "name": "Giant Hyena",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -14774,12 +15022,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/126",
-        "desc": []
+        "entry_descriptor": {
+            "index": 126,
+            "url": "/api/monsters/126",
+            "name": "Giant Hyena",
+            "desc": []
+        }
     },
     {
-        "index": 127,
-        "name": "Giant Lizard",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -14835,12 +15085,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/127",
-        "desc": []
+        "entry_descriptor": {
+            "index": 127,
+            "url": "/api/monsters/127",
+            "name": "Giant Lizard",
+            "desc": []
+        }
     },
     {
-        "index": 128,
-        "name": "Giant Octopus",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -14915,12 +15167,14 @@
                 "desc": "A 20-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action."
             }
         ],
-        "url": "/api/monsters/128",
-        "desc": []
+        "entry_descriptor": {
+            "index": 128,
+            "url": "/api/monsters/128",
+            "name": "Giant Octopus",
+            "desc": []
+        }
     },
     {
-        "index": 129,
-        "name": "Giant Owl",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -14987,12 +15241,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/129",
-        "desc": []
+        "entry_descriptor": {
+            "index": 129,
+            "url": "/api/monsters/129",
+            "name": "Giant Owl",
+            "desc": []
+        }
     },
     {
-        "index": 130,
-        "name": "Giant Poisonous Snake",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -15044,12 +15300,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/130",
-        "desc": []
+        "entry_descriptor": {
+            "index": 130,
+            "url": "/api/monsters/130",
+            "name": "Giant Poisonous Snake",
+            "desc": []
+        }
     },
     {
-        "index": 131,
-        "name": "Giant Rat",
         "size": "Small",
         "type": "beast",
         "subtype": null,
@@ -15104,12 +15362,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/131",
-        "desc": []
+        "entry_descriptor": {
+            "index": 131,
+            "url": "/api/monsters/131",
+            "name": "Giant Rat",
+            "desc": []
+        }
     },
     {
-        "index": 132,
-        "name": "Giant Rat (Diseased)",
         "size": "Small",
         "type": "beast",
         "subtype": null,
@@ -15154,12 +15414,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/132",
-        "desc": []
+        "entry_descriptor": {
+            "index": 132,
+            "url": "/api/monsters/132",
+            "name": "Giant Rat (Diseased)",
+            "desc": []
+        }
     },
     {
-        "index": 133,
-        "name": "Giant Scorpion",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -15223,12 +15485,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/133",
-        "desc": []
+        "entry_descriptor": {
+            "index": 133,
+            "url": "/api/monsters/133",
+            "name": "Giant Scorpion",
+            "desc": []
+        }
     },
     {
-        "index": 134,
-        "name": "Giant Sea Horse",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -15283,12 +15547,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/134",
-        "desc": []
+        "entry_descriptor": {
+            "index": 134,
+            "url": "/api/monsters/134",
+            "name": "Giant Sea Horse",
+            "desc": []
+        }
     },
     {
-        "index": 135,
-        "name": "Giant Shark",
         "size": "Huge",
         "type": "beast",
         "subtype": null,
@@ -15349,12 +15615,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/135",
-        "desc": []
+        "entry_descriptor": {
+            "index": 135,
+            "url": "/api/monsters/135",
+            "name": "Giant Shark",
+            "desc": []
+        }
     },
     {
-        "index": 136,
-        "name": "Giant Spider",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -15426,12 +15694,14 @@
                 "attack_bonus": 5
             }
         ],
-        "url": "/api/monsters/136",
-        "desc": []
+        "entry_descriptor": {
+            "index": 136,
+            "url": "/api/monsters/136",
+            "name": "Giant Spider",
+            "desc": []
+        }
     },
     {
-        "index": 137,
-        "name": "Giant Toad",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -15499,12 +15769,14 @@
                 "desc": "The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time.\nIf the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone."
             }
         ],
-        "url": "/api/monsters/137",
-        "desc": []
+        "entry_descriptor": {
+            "index": 137,
+            "url": "/api/monsters/137",
+            "name": "Giant Toad",
+            "desc": []
+        }
     },
     {
-        "index": 138,
-        "name": "Giant Vulture",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -15584,12 +15856,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/138",
-        "desc": []
+        "entry_descriptor": {
+            "index": 138,
+            "url": "/api/monsters/138",
+            "name": "Giant Vulture",
+            "desc": []
+        }
     },
     {
-        "index": 139,
-        "name": "Giant Wasp",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -15635,12 +15909,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/139",
-        "desc": []
+        "entry_descriptor": {
+            "index": 139,
+            "url": "/api/monsters/139",
+            "name": "Giant Wasp",
+            "desc": []
+        }
     },
     {
-        "index": 140,
-        "name": "Giant Weasel",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -15702,12 +15978,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/140",
-        "desc": []
+        "entry_descriptor": {
+            "index": 140,
+            "url": "/api/monsters/140",
+            "name": "Giant Weasel",
+            "desc": []
+        }
     },
     {
-        "index": 141,
-        "name": "Giant Wolf Spider",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -15779,12 +16057,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/141",
-        "desc": []
+        "entry_descriptor": {
+            "index": 141,
+            "url": "/api/monsters/141",
+            "name": "Giant Wolf Spider",
+            "desc": []
+        }
     },
     {
-        "index": 142,
-        "name": "Gibbering Mouther",
         "size": "Medium",
         "type": "aberration",
         "subtype": null,
@@ -15869,12 +16149,14 @@
                 }
             }
         ],
-        "url": "/api/monsters/142",
-        "desc": []
+        "entry_descriptor": {
+            "index": 142,
+            "url": "/api/monsters/142",
+            "name": "Gibbering Mouther",
+            "desc": []
+        }
     },
     {
-        "index": 143,
-        "name": "Glabrezu",
         "size": "Large",
         "type": "fiend",
         "subtype": "demon",
@@ -16040,12 +16322,14 @@
                 "desc": "The demon chooses what to summon and attempts a magical summoning.\nA glabrezu has a 30 percent chance of summoning 1d3 vrocks, 1d2 hezrous, or one glabrezu.\nA summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action."
             }
         ],
-        "url": "/api/monsters/143",
-        "desc": []
+        "entry_descriptor": {
+            "index": 143,
+            "url": "/api/monsters/143",
+            "name": "Glabrezu",
+            "desc": []
+        }
     },
     {
-        "index": 144,
-        "name": "Gladiator",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -16165,12 +16449,14 @@
                 "attack_bonus": 0
             }
         ],
-        "url": "/api/monsters/144",
-        "desc": []
+        "entry_descriptor": {
+            "index": 144,
+            "url": "/api/monsters/144",
+            "name": "Gladiator",
+            "desc": []
+        }
     },
     {
-        "index": 145,
-        "name": "Gnoll",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "gnoll",
@@ -16265,12 +16551,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/145",
-        "desc": []
+        "entry_descriptor": {
+            "index": 145,
+            "url": "/api/monsters/145",
+            "name": "Gnoll",
+            "desc": []
+        }
     },
     {
-        "index": 146,
-        "name": "Goat",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -16324,12 +16612,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/146",
-        "desc": []
+        "entry_descriptor": {
+            "index": 146,
+            "url": "/api/monsters/146",
+            "name": "Goat",
+            "desc": []
+        }
     },
     {
-        "index": 147,
-        "name": "Goblin",
         "size": "Small",
         "type": "humanoid",
         "subtype": "goblinoid",
@@ -16401,12 +16691,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/147",
-        "desc": []
+        "entry_descriptor": {
+            "index": 147,
+            "url": "/api/monsters/147",
+            "name": "Goblin",
+            "desc": []
+        }
     },
     {
-        "index": 148,
-        "name": "Gold Dragon Wyrmling",
         "size": "Medium",
         "type": "dragon",
         "subtype": null,
@@ -16531,12 +16823,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/148",
-        "desc": []
+        "entry_descriptor": {
+            "index": 148,
+            "url": "/api/monsters/148",
+            "name": "Gold Dragon Wyrmling",
+            "desc": []
+        }
     },
     {
-        "index": 149,
-        "name": "Gorgon",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -16625,12 +16919,14 @@
                 }
             }
         ],
-        "url": "/api/monsters/149",
-        "desc": []
+        "entry_descriptor": {
+            "index": 149,
+            "url": "/api/monsters/149",
+            "name": "Gorgon",
+            "desc": []
+        }
     },
     {
-        "index": 150,
-        "name": "Gray Ooze",
         "size": "Medium",
         "type": "ooze",
         "subtype": null,
@@ -16733,12 +17029,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/150",
-        "desc": []
+        "entry_descriptor": {
+            "index": 150,
+            "url": "/api/monsters/150",
+            "name": "Gray Ooze",
+            "desc": []
+        }
     },
     {
-        "index": 151,
-        "name": "Green Dragon Wyrmling",
         "size": "Medium",
         "type": "dragon",
         "subtype": null,
@@ -16860,12 +17158,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/151",
-        "desc": []
+        "entry_descriptor": {
+            "index": 151,
+            "url": "/api/monsters/151",
+            "name": "Green Dragon Wyrmling",
+            "desc": []
+        }
     },
     {
-        "index": 152,
-        "name": "Green Hag",
         "size": "Medium",
         "type": "fey",
         "subtype": null,
@@ -16996,12 +17296,14 @@
                 "desc": "The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her."
             }
         ],
-        "url": "/api/monsters/152",
-        "desc": []
+        "entry_descriptor": {
+            "index": 152,
+            "url": "/api/monsters/152",
+            "name": "Green Hag",
+            "desc": []
+        }
     },
     {
-        "index": 153,
-        "name": "Grick",
         "size": "Medium",
         "type": "monstrosity",
         "subtype": null,
@@ -17074,12 +17376,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/153",
-        "desc": []
+        "entry_descriptor": {
+            "index": 153,
+            "url": "/api/monsters/153",
+            "name": "Grick",
+            "desc": []
+        }
     },
     {
-        "index": 154,
-        "name": "Griffon",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -17156,12 +17460,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/154",
-        "desc": []
+        "entry_descriptor": {
+            "index": 154,
+            "url": "/api/monsters/154",
+            "name": "Griffon",
+            "desc": []
+        }
     },
     {
-        "index": 155,
-        "name": "Grimlock",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "grimlock",
@@ -17249,12 +17555,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/155",
-        "desc": []
+        "entry_descriptor": {
+            "index": 155,
+            "url": "/api/monsters/155",
+            "name": "Grimlock",
+            "desc": []
+        }
     },
     {
-        "index": 156,
-        "name": "Guard",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -17318,12 +17626,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/156",
-        "desc": []
+        "entry_descriptor": {
+            "index": 156,
+            "url": "/api/monsters/156",
+            "name": "Guard",
+            "desc": []
+        }
     },
     {
-        "index": 157,
-        "name": "Guardian Naga",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -17400,7 +17710,7 @@
                     "level": 11,
                     "ability": {
                         "name": "WIS",
-                        "url": "http://www.dnd5eapi.co/api/ability-scores/5"
+                        "url": "/api/ability-scores/5"
                     },
                     "dc": 16,
                     "modifier": 8,
@@ -17518,12 +17828,14 @@
                 "attack_bonus": 8
             }
         ],
-        "url": "/api/monsters/157",
-        "desc": []
+        "entry_descriptor": {
+            "index": 157,
+            "url": "/api/monsters/157",
+            "name": "Guardian Naga",
+            "desc": []
+        }
     },
     {
-        "index": 158,
-        "name": "Gynosphinx",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -17602,7 +17914,7 @@
                     "level": 9,
                     "ability": {
                         "name": "INT",
-                        "url": "http://www.dnd5eapi.co/api/ability-scores/4"
+                        "url": "/api/ability-scores/4"
                     },
                     "dc": 16,
                     "modifier": 8,
@@ -17733,12 +18045,14 @@
                 "desc": "The sphinx casts a spell from its list of prepared spells, using a spell slot as normal."
             }
         ],
-        "url": "/api/monsters/158",
-        "desc": []
+        "entry_descriptor": {
+            "index": 158,
+            "url": "/api/monsters/158",
+            "name": "Gynosphinx",
+            "desc": []
+        }
     },
     {
-        "index": 159,
-        "name": "Half-Red Dragon Veteran",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "human",
@@ -17856,12 +18170,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/159",
-        "desc": []
+        "entry_descriptor": {
+            "index": 159,
+            "url": "/api/monsters/159",
+            "name": "Half-Red Dragon Veteran",
+            "desc": []
+        }
     },
     {
-        "index": 160,
-        "name": "Harpy",
         "size": "Medium",
         "type": "monstrosity",
         "subtype": null,
@@ -17929,12 +18245,14 @@
                 "desc": "The harpy sings a magical melody. Every humanoid and giant within 300 ft. of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.\nWhile charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 ft. away from the harpy, the must move on its turn toward the harpy by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it.\nA target that successfully saves is immune to this harpy's song for the next 24 hours."
             }
         ],
-        "url": "/api/monsters/160",
-        "desc": []
+        "entry_descriptor": {
+            "index": 160,
+            "url": "/api/monsters/160",
+            "name": "Harpy",
+            "desc": []
+        }
     },
     {
-        "index": 161,
-        "name": "Hawk",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -17991,12 +18309,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/161",
-        "desc": []
+        "entry_descriptor": {
+            "index": 161,
+            "url": "/api/monsters/161",
+            "name": "Hawk",
+            "desc": []
+        }
     },
     {
-        "index": 162,
-        "name": "Hell Hound",
         "size": "Medium",
         "type": "fiend",
         "subtype": null,
@@ -18089,12 +18409,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/162",
-        "desc": []
+        "entry_descriptor": {
+            "index": 162,
+            "url": "/api/monsters/162",
+            "name": "Hell Hound",
+            "desc": []
+        }
     },
     {
-        "index": 163,
-        "name": "Hezrou",
         "size": "Large",
         "type": "fiend",
         "subtype": "demon",
@@ -18208,12 +18530,14 @@
                 "desc": "The demon chooses what to summon and attempts a magical summoning.\nA hezrou has a 30 percent chance of summoning 2d6 dretches or one hezrou.\nA summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action."
             }
         ],
-        "url": "/api/monsters/163",
-        "desc": []
+        "entry_descriptor": {
+            "index": 163,
+            "url": "/api/monsters/163",
+            "name": "Hezrou",
+            "desc": []
+        }
     },
     {
-        "index": 164,
-        "name": "Hill Giant",
         "size": "Huge",
         "type": "giant",
         "subtype": null,
@@ -18282,12 +18606,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/164",
-        "desc": []
+        "entry_descriptor": {
+            "index": 164,
+            "url": "/api/monsters/164",
+            "name": "Hill Giant",
+            "desc": []
+        }
     },
     {
-        "index": 165,
-        "name": "Hippogriff",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -18363,12 +18689,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/165",
-        "desc": []
+        "entry_descriptor": {
+            "index": 165,
+            "url": "/api/monsters/165",
+            "name": "Hippogriff",
+            "desc": []
+        }
     },
     {
-        "index": 166,
-        "name": "Hobgoblin",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "goblinoid",
@@ -18448,12 +18776,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/166",
-        "desc": []
+        "entry_descriptor": {
+            "index": 166,
+            "url": "/api/monsters/166",
+            "name": "Hobgoblin",
+            "desc": []
+        }
     },
     {
-        "index": 167,
-        "name": "Homunculus",
         "size": "Tiny",
         "type": "construct",
         "subtype": null,
@@ -18516,12 +18846,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/167",
-        "desc": []
+        "entry_descriptor": {
+            "index": 167,
+            "url": "/api/monsters/167",
+            "name": "Homunculus",
+            "desc": []
+        }
     },
     {
-        "index": 168,
-        "name": "Horned Devil",
         "size": "Large",
         "type": "fiend",
         "subtype": "devil",
@@ -18643,12 +18975,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/168",
-        "desc": []
+        "entry_descriptor": {
+            "index": 168,
+            "url": "/api/monsters/168",
+            "name": "Horned Devil",
+            "desc": []
+        }
     },
     {
-        "index": 169,
-        "name": "Hunter Shark",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -18709,12 +19043,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/169",
-        "desc": []
+        "entry_descriptor": {
+            "index": 169,
+            "url": "/api/monsters/169",
+            "name": "Hunter Shark",
+            "desc": []
+        }
     },
     {
-        "index": 170,
-        "name": "Hydra",
         "size": "Huge",
         "type": "monstrosity",
         "subtype": null,
@@ -18788,12 +19124,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/170",
-        "desc": []
+        "entry_descriptor": {
+            "index": 170,
+            "url": "/api/monsters/170",
+            "name": "Hydra",
+            "desc": []
+        }
     },
     {
-        "index": 171,
-        "name": "Hyena",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -18849,12 +19187,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/171",
-        "desc": []
+        "entry_descriptor": {
+            "index": 171,
+            "url": "/api/monsters/171",
+            "name": "Hyena",
+            "desc": []
+        }
     },
     {
-        "index": 172,
-        "name": "Ice Devil",
         "size": "Large",
         "type": "fiend",
         "subtype": "devil",
@@ -19003,12 +19343,14 @@
                 "desc": "The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.\nWhen the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.\nThe wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes."
             }
         ],
-        "url": "/api/monsters/172",
-        "desc": []
+        "entry_descriptor": {
+            "index": 172,
+            "url": "/api/monsters/172",
+            "name": "Ice Devil",
+            "desc": []
+        }
     },
     {
-        "index": 173,
-        "name": "Ice Mephit",
         "size": "Small",
         "type": "elemental",
         "subtype": null,
@@ -19142,12 +19484,14 @@
                 "desc": "The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action."
             }
         ],
-        "url": "/api/monsters/173",
-        "desc": []
+        "entry_descriptor": {
+            "index": 173,
+            "url": "/api/monsters/173",
+            "name": "Ice Mephit",
+            "desc": []
+        }
     },
     {
-        "index": 174,
-        "name": "Imp",
         "size": "Tiny",
         "type": "fiend",
         "subtype": "devil",
@@ -19245,12 +19589,14 @@
                 "desc": "The imp magically turns invisible until it attacks, or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it."
             }
         ],
-        "url": "/api/monsters/174",
-        "desc": []
+        "entry_descriptor": {
+            "index": 174,
+            "url": "/api/monsters/174",
+            "name": "Imp",
+            "desc": []
+        }
     },
     {
-        "index": 175,
-        "name": "Invisible Stalker",
         "size": "Medium",
         "type": "elemental",
         "subtype": null,
@@ -19359,12 +19705,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/175",
-        "desc": []
+        "entry_descriptor": {
+            "index": 175,
+            "url": "/api/monsters/175",
+            "name": "Invisible Stalker",
+            "desc": []
+        }
     },
     {
-        "index": 176,
-        "name": "Iron Golem",
         "size": "Large",
         "type": "construct",
         "subtype": null,
@@ -19498,12 +19846,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/176",
-        "desc": []
+        "entry_descriptor": {
+            "index": 176,
+            "url": "/api/monsters/176",
+            "name": "Iron Golem",
+            "desc": []
+        }
     },
     {
-        "index": 177,
-        "name": "Jackal",
         "size": "Small",
         "type": "beast",
         "subtype": null,
@@ -19563,12 +19913,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/177",
-        "desc": []
+        "entry_descriptor": {
+            "index": 177,
+            "url": "/api/monsters/177",
+            "name": "Jackal",
+            "desc": []
+        }
     },
     {
-        "index": 178,
-        "name": "Killer Whale",
         "size": "Huge",
         "type": "beast",
         "subtype": null,
@@ -19633,12 +19985,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/178",
-        "desc": []
+        "entry_descriptor": {
+            "index": 178,
+            "url": "/api/monsters/178",
+            "name": "Killer Whale",
+            "desc": []
+        }
     },
     {
-        "index": 179,
-        "name": "Knight",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -19728,12 +20082,14 @@
                 "desc": "The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon."
             }
         ],
-        "url": "/api/monsters/179",
-        "desc": []
+        "entry_descriptor": {
+            "index": 179,
+            "url": "/api/monsters/179",
+            "name": "Knight",
+            "desc": []
+        }
     },
     {
-        "index": 180,
-        "name": "Kobold",
         "size": "Small",
         "type": "humanoid",
         "subtype": "kobold",
@@ -19803,12 +20159,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/180",
-        "desc": []
+        "entry_descriptor": {
+            "index": 180,
+            "url": "/api/monsters/180",
+            "name": "Kobold",
+            "desc": []
+        }
     },
     {
-        "index": 181,
-        "name": "Kraken",
         "size": "Gargantuan",
         "type": "monstrosity",
         "subtype": "titan",
@@ -19968,12 +20326,14 @@
                 "attack_bonus": 0
             }
         ],
-        "url": "/api/monsters/181",
-        "desc": []
+        "entry_descriptor": {
+            "index": 181,
+            "url": "/api/monsters/181",
+            "name": "Kraken",
+            "desc": []
+        }
     },
     {
-        "index": 182,
-        "name": "Lamia",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -20121,12 +20481,14 @@
                 "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks."
             }
         ],
-        "url": "/api/monsters/182",
-        "desc": []
+        "entry_descriptor": {
+            "index": 182,
+            "url": "/api/monsters/182",
+            "name": "Lamia",
+            "desc": []
+        }
     },
     {
-        "index": 183,
-        "name": "Lemure",
         "size": "Medium",
         "type": "fiend",
         "subtype": "devil",
@@ -20199,12 +20561,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/183",
-        "desc": []
+        "entry_descriptor": {
+            "index": 183,
+            "url": "/api/monsters/183",
+            "name": "Lemure",
+            "desc": []
+        }
     },
     {
-        "index": 184,
-        "name": "Lich",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -20312,7 +20676,7 @@
                     "level": 18,
                     "ability": {
                         "name": "INT",
-                        "url": "http://www.dnd5eapi.co/api/ability-scores/4"
+                        "url": "/api/ability-scores/4"
                     },
                     "dc": 20,
                     "modifier": 12,
@@ -20533,12 +20897,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/184",
-        "desc": []
+        "entry_descriptor": {
+            "index": 184,
+            "url": "/api/monsters/184",
+            "name": "Lich",
+            "desc": []
+        }
     },
     {
-        "index": 185,
-        "name": "Lion",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -20626,12 +20992,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/185",
-        "desc": []
+        "entry_descriptor": {
+            "index": 185,
+            "url": "/api/monsters/185",
+            "name": "Lion",
+            "desc": []
+        }
     },
     {
-        "index": 186,
-        "name": "Lizard",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -20677,12 +21045,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/186",
-        "desc": []
+        "entry_descriptor": {
+            "index": 186,
+            "url": "/api/monsters/186",
+            "name": "Lizard",
+            "desc": []
+        }
     },
     {
-        "index": 187,
-        "name": "Lizardfolk",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "lizardfolk",
@@ -20798,12 +21168,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/187",
-        "desc": []
+        "entry_descriptor": {
+            "index": 187,
+            "url": "/api/monsters/187",
+            "name": "Lizardfolk",
+            "desc": []
+        }
     },
     {
-        "index": 188,
-        "name": "Mage",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -20859,7 +21231,7 @@
                     "level": 9,
                     "ability": {
                         "name": "INT",
-                        "url": "http://www.dnd5eapi.co/api/ability-scores/4"
+                        "url": "/api/ability-scores/4"
                     },
                     "dc": 14,
                     "modifier": 6,
@@ -20978,12 +21350,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/188",
-        "desc": []
+        "entry_descriptor": {
+            "index": 188,
+            "url": "/api/monsters/188",
+            "name": "Mage",
+            "desc": []
+        }
     },
     {
-        "index": 189,
-        "name": "Magma Mephit",
         "size": "Small",
         "type": "elemental",
         "subtype": null,
@@ -21111,12 +21485,14 @@
                 "desc": "The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action."
             }
         ],
-        "url": "/api/monsters/189",
-        "desc": []
+        "entry_descriptor": {
+            "index": 189,
+            "url": "/api/monsters/189",
+            "name": "Magma Mephit",
+            "desc": []
+        }
     },
     {
-        "index": 190,
-        "name": "Magmin",
         "size": "Small",
         "type": "elemental",
         "subtype": null,
@@ -21193,12 +21569,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/190",
-        "desc": []
+        "entry_descriptor": {
+            "index": 190,
+            "url": "/api/monsters/190",
+            "name": "Magmin",
+            "desc": []
+        }
     },
     {
-        "index": 191,
-        "name": "Mammoth",
         "size": "Huge",
         "type": "beast",
         "subtype": null,
@@ -21263,12 +21641,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/191",
-        "desc": []
+        "entry_descriptor": {
+            "index": 191,
+            "url": "/api/monsters/191",
+            "name": "Mammoth",
+            "desc": []
+        }
     },
     {
-        "index": 192,
-        "name": "Manticore",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -21354,12 +21734,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/192",
-        "desc": []
+        "entry_descriptor": {
+            "index": 192,
+            "url": "/api/monsters/192",
+            "name": "Manticore",
+            "desc": []
+        }
     },
     {
-        "index": 193,
-        "name": "Marilith",
         "size": "Large",
         "type": "fiend",
         "subtype": "demon",
@@ -21484,12 +21866,14 @@
                 "desc": "The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon."
             }
         ],
-        "url": "/api/monsters/193",
-        "desc": []
+        "entry_descriptor": {
+            "index": 193,
+            "url": "/api/monsters/193",
+            "name": "Marilith",
+            "desc": []
+        }
     },
     {
-        "index": 194,
-        "name": "Mastiff",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -21545,12 +21929,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/194",
-        "desc": []
+        "entry_descriptor": {
+            "index": 194,
+            "url": "/api/monsters/194",
+            "name": "Mastiff",
+            "desc": []
+        }
     },
     {
-        "index": 195,
-        "name": "Medusa",
         "size": "Medium",
         "type": "monstrosity",
         "subtype": null,
@@ -21680,12 +22066,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/195",
-        "desc": []
+        "entry_descriptor": {
+            "index": 195,
+            "url": "/api/monsters/195",
+            "name": "Medusa",
+            "desc": []
+        }
     },
     {
-        "index": 196,
-        "name": "Merfolk",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "merfolk",
@@ -21756,12 +22144,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/196",
-        "desc": []
+        "entry_descriptor": {
+            "index": 196,
+            "url": "/api/monsters/196",
+            "name": "Merfolk",
+            "desc": []
+        }
     },
     {
-        "index": 197,
-        "name": "Merrow",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -21847,12 +22237,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/197",
-        "desc": []
+        "entry_descriptor": {
+            "index": 197,
+            "url": "/api/monsters/197",
+            "name": "Merrow",
+            "desc": []
+        }
     },
     {
-        "index": 198,
-        "name": "Mimic",
         "size": "Medium",
         "type": "monstrosity",
         "subtype": "shapechanger",
@@ -21951,12 +22343,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/198",
-        "desc": []
+        "entry_descriptor": {
+            "index": 198,
+            "url": "/api/monsters/198",
+            "name": "Mimic",
+            "desc": []
+        }
     },
     {
-        "index": 199,
-        "name": "Minotaur",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -22036,12 +22430,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/199",
-        "desc": []
+        "entry_descriptor": {
+            "index": 199,
+            "url": "/api/monsters/199",
+            "name": "Minotaur",
+            "desc": []
+        }
     },
     {
-        "index": 200,
-        "name": "Minotaur Skeleton",
         "size": "Large",
         "type": "undead",
         "subtype": null,
@@ -22120,12 +22516,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/200",
-        "desc": []
+        "entry_descriptor": {
+            "index": 200,
+            "url": "/api/monsters/200",
+            "name": "Minotaur Skeleton",
+            "desc": []
+        }
     },
     {
-        "index": 201,
-        "name": "Mule",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -22179,12 +22577,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/201",
-        "desc": []
+        "entry_descriptor": {
+            "index": 201,
+            "url": "/api/monsters/201",
+            "name": "Mule",
+            "desc": []
+        }
     },
     {
-        "index": 202,
-        "name": "Mummy",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -22287,12 +22687,14 @@
                 }
             }
         ],
-        "url": "/api/monsters/202",
-        "desc": []
+        "entry_descriptor": {
+            "index": 202,
+            "url": "/api/monsters/202",
+            "name": "Mummy",
+            "desc": []
+        }
     },
     {
-        "index": 203,
-        "name": "Mummy Lord",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -22394,7 +22796,7 @@
                     "level": 10,
                     "ability": {
                         "name": "WIS",
-                        "url": "http://www.dnd5eapi.co/api/ability-scores/5"
+                        "url": "/api/ability-scores/5"
                     },
                     "dc": 17,
                     "modifier": 9,
@@ -22571,12 +22973,14 @@
                 "desc": "The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession."
             }
         ],
-        "url": "/api/monsters/203",
-        "desc": []
+        "entry_descriptor": {
+            "index": 203,
+            "url": "/api/monsters/203",
+            "name": "Mummy Lord",
+            "desc": []
+        }
     },
     {
-        "index": 204,
-        "name": "Nalfeshnee",
         "size": "Large",
         "type": "fiend",
         "subtype": "demon",
@@ -22700,12 +23104,14 @@
                 "desc": "The demon chooses what to summon and attempts a magical summoning.\nA nalfeshnee has a 50 percent chance of summoning 1d4 vrocks, 1d3 hezrous, 1d2 glabrezus, or one nalfeshnee.\nA summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action."
             }
         ],
-        "url": "/api/monsters/204",
-        "desc": []
+        "entry_descriptor": {
+            "index": 204,
+            "url": "/api/monsters/204",
+            "name": "Nalfeshnee",
+            "desc": []
+        }
     },
     {
-        "index": 205,
-        "name": "Night Hag",
         "size": "Medium",
         "type": "fiend",
         "subtype": null,
@@ -22868,12 +23274,14 @@
                 "desc": "While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the greater restoration spell or similar magic."
             }
         ],
-        "url": "/api/monsters/205",
-        "desc": []
+        "entry_descriptor": {
+            "index": 205,
+            "url": "/api/monsters/205",
+            "name": "Night Hag",
+            "desc": []
+        }
     },
     {
-        "index": 206,
-        "name": "Nightmare",
         "size": "Large",
         "type": "fiend",
         "subtype": null,
@@ -22942,12 +23350,14 @@
                 "desc": "The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa."
             }
         ],
-        "url": "/api/monsters/206",
-        "desc": []
+        "entry_descriptor": {
+            "index": 206,
+            "url": "/api/monsters/206",
+            "name": "Nightmare",
+            "desc": []
+        }
     },
     {
-        "index": 207,
-        "name": "Noble",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -23013,12 +23423,14 @@
                 "desc": "The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon."
             }
         ],
-        "url": "/api/monsters/207",
-        "desc": []
+        "entry_descriptor": {
+            "index": 207,
+            "url": "/api/monsters/207",
+            "name": "Noble",
+            "desc": []
+        }
     },
     {
-        "index": 208,
-        "name": "Ochre Jelly",
         "size": "Large",
         "type": "ooze",
         "subtype": null,
@@ -23118,12 +23530,14 @@
                 "desc": "When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly."
             }
         ],
-        "url": "/api/monsters/208",
-        "desc": []
+        "entry_descriptor": {
+            "index": 208,
+            "url": "/api/monsters/208",
+            "name": "Ochre Jelly",
+            "desc": []
+        }
     },
     {
-        "index": 209,
-        "name": "Octopus",
         "size": "Small",
         "type": "beast",
         "subtype": null,
@@ -23199,12 +23613,14 @@
                 "attack_bonus": 0
             }
         ],
-        "url": "/api/monsters/209",
-        "desc": []
+        "entry_descriptor": {
+            "index": 209,
+            "url": "/api/monsters/209",
+            "name": "Octopus",
+            "desc": []
+        }
     },
     {
-        "index": 210,
-        "name": "Ogre",
         "size": "Large",
         "type": "giant",
         "subtype": null,
@@ -23264,12 +23680,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/210",
-        "desc": []
+        "entry_descriptor": {
+            "index": 210,
+            "url": "/api/monsters/210",
+            "name": "Ogre",
+            "desc": []
+        }
     },
     {
-        "index": 211,
-        "name": "Ogre Zombie",
         "size": "Large",
         "type": "undead",
         "subtype": null,
@@ -23333,12 +23751,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/211",
-        "desc": []
+        "entry_descriptor": {
+            "index": 211,
+            "url": "/api/monsters/211",
+            "name": "Ogre Zombie",
+            "desc": []
+        }
     },
     {
-        "index": 212,
-        "name": "Oni",
         "size": "Large",
         "type": "giant",
         "subtype": null,
@@ -23513,12 +23933,14 @@
                 "desc": "The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size."
             }
         ],
-        "url": "/api/monsters/212",
-        "desc": []
+        "entry_descriptor": {
+            "index": 212,
+            "url": "/api/monsters/212",
+            "name": "Oni",
+            "desc": []
+        }
     },
     {
-        "index": 213,
-        "name": "Orc",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "orc",
@@ -23590,12 +24012,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/213",
-        "desc": []
+        "entry_descriptor": {
+            "index": 213,
+            "url": "/api/monsters/213",
+            "name": "Orc",
+            "desc": []
+        }
     },
     {
-        "index": 214,
-        "name": "Otyugh",
         "size": "Large",
         "type": "aberration",
         "subtype": null,
@@ -23691,12 +24115,14 @@
                 }
             }
         ],
-        "url": "/api/monsters/214",
-        "desc": []
+        "entry_descriptor": {
+            "index": 214,
+            "url": "/api/monsters/214",
+            "name": "Otyugh",
+            "desc": []
+        }
     },
     {
-        "index": 215,
-        "name": "Owl",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -23763,12 +24189,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/215",
-        "desc": []
+        "entry_descriptor": {
+            "index": 215,
+            "url": "/api/monsters/215",
+            "name": "Owl",
+            "desc": []
+        }
     },
     {
-        "index": 216,
-        "name": "Owlbear",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -23844,12 +24272,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/216",
-        "desc": []
+        "entry_descriptor": {
+            "index": 216,
+            "url": "/api/monsters/216",
+            "name": "Owlbear",
+            "desc": []
+        }
     },
     {
-        "index": 217,
-        "name": "Panther",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -23930,12 +24360,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/217",
-        "desc": []
+        "entry_descriptor": {
+            "index": 217,
+            "url": "/api/monsters/217",
+            "name": "Panther",
+            "desc": []
+        }
     },
     {
-        "index": 218,
-        "name": "Pegasus",
         "size": "Large",
         "type": "celestial",
         "subtype": null,
@@ -24001,12 +24433,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/218",
-        "desc": []
+        "entry_descriptor": {
+            "index": 218,
+            "url": "/api/monsters/218",
+            "name": "Pegasus",
+            "desc": []
+        }
     },
     {
-        "index": 219,
-        "name": "Phase Spider",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -24072,12 +24506,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/219",
-        "desc": []
+        "entry_descriptor": {
+            "index": 219,
+            "url": "/api/monsters/219",
+            "name": "Phase Spider",
+            "desc": []
+        }
     },
     {
-        "index": 220,
-        "name": "Pit Fiend",
         "size": "Large",
         "type": "fiend",
         "subtype": "devil",
@@ -24265,12 +24701,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/220",
-        "desc": []
+        "entry_descriptor": {
+            "index": 220,
+            "url": "/api/monsters/220",
+            "name": "Pit Fiend",
+            "desc": []
+        }
     },
     {
-        "index": 221,
-        "name": "Planetar",
         "size": "Large",
         "type": "celestial",
         "subtype": null,
@@ -24468,12 +24906,14 @@
                 "desc": "The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness."
             }
         ],
-        "url": "/api/monsters/221",
-        "desc": []
+        "entry_descriptor": {
+            "index": 221,
+            "url": "/api/monsters/221",
+            "name": "Planetar",
+            "desc": []
+        }
     },
     {
-        "index": 222,
-        "name": "Plesiosaurus",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -24535,12 +24975,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/222",
-        "desc": []
+        "entry_descriptor": {
+            "index": 222,
+            "url": "/api/monsters/222",
+            "name": "Plesiosaurus",
+            "desc": []
+        }
     },
     {
-        "index": 223,
-        "name": "Poisonous Snake",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -24586,12 +25028,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/223",
-        "desc": []
+        "entry_descriptor": {
+            "index": 223,
+            "url": "/api/monsters/223",
+            "name": "Poisonous Snake",
+            "desc": []
+        }
     },
     {
-        "index": 224,
-        "name": "Polar Bear",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -24667,12 +25111,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/224",
-        "desc": []
+        "entry_descriptor": {
+            "index": 224,
+            "url": "/api/monsters/224",
+            "name": "Polar Bear",
+            "desc": []
+        }
     },
     {
-        "index": 225,
-        "name": "Pony",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -24716,12 +25162,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/225",
-        "desc": []
+        "entry_descriptor": {
+            "index": 225,
+            "url": "/api/monsters/225",
+            "name": "Pony",
+            "desc": []
+        }
     },
     {
-        "index": 226,
-        "name": "Priest",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -24776,7 +25224,7 @@
                     "level": 5,
                     "ability": {
                         "name": "WIS",
-                        "url": "http://www.dnd5eapi.co/api/ability-scores/5"
+                        "url": "/api/ability-scores/5"
                     },
                     "dc": 13,
                     "modifier": 5,
@@ -24863,12 +25311,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/226",
-        "desc": []
+        "entry_descriptor": {
+            "index": 226,
+            "url": "/api/monsters/226",
+            "name": "Priest",
+            "desc": []
+        }
     },
     {
-        "index": 227,
-        "name": "Pseudodragon",
         "size": "Tiny",
         "type": "dragon",
         "subtype": null,
@@ -24959,12 +25409,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/227",
-        "desc": []
+        "entry_descriptor": {
+            "index": 227,
+            "url": "/api/monsters/227",
+            "name": "Pseudodragon",
+            "desc": []
+        }
     },
     {
-        "index": 228,
-        "name": "Purple Worm",
         "size": "Gargantuan",
         "type": "monstrosity",
         "subtype": null,
@@ -25047,12 +25499,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/228",
-        "desc": []
+        "entry_descriptor": {
+            "index": 228,
+            "url": "/api/monsters/228",
+            "name": "Purple Worm",
+            "desc": []
+        }
     },
     {
-        "index": 229,
-        "name": "Quasit",
         "size": "Tiny",
         "type": "fiend",
         "subtype": "demon",
@@ -25145,12 +25599,14 @@
                 "desc": "The quasit magically turns invisible until it attacks or uses Scare, or until its concentration ends (as if concentrating on a spell). Any equipment the quasit wears or carries is invisible with it."
             }
         ],
-        "url": "/api/monsters/229",
-        "desc": []
+        "entry_descriptor": {
+            "index": 229,
+            "url": "/api/monsters/229",
+            "name": "Quasit",
+            "desc": []
+        }
     },
     {
-        "index": 230,
-        "name": "Quipper",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -25205,12 +25661,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/230",
-        "desc": []
+        "entry_descriptor": {
+            "index": 230,
+            "url": "/api/monsters/230",
+            "name": "Quipper",
+            "desc": []
+        }
     },
     {
-        "index": 231,
-        "name": "Rakshasa",
         "size": "Medium",
         "type": "fiend",
         "subtype": null,
@@ -25395,12 +25853,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/231",
-        "desc": []
+        "entry_descriptor": {
+            "index": 231,
+            "url": "/api/monsters/231",
+            "name": "Rakshasa",
+            "desc": []
+        }
     },
     {
-        "index": 232,
-        "name": "Rat",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -25451,12 +25911,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/232",
-        "desc": []
+        "entry_descriptor": {
+            "index": 232,
+            "url": "/api/monsters/232",
+            "name": "Rat",
+            "desc": []
+        }
     },
     {
-        "index": 233,
-        "name": "Raven",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -25513,12 +25975,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/233",
-        "desc": []
+        "entry_descriptor": {
+            "index": 233,
+            "url": "/api/monsters/233",
+            "name": "Raven",
+            "desc": []
+        }
     },
     {
-        "index": 234,
-        "name": "Red Dragon Wyrmling",
         "size": "Medium",
         "type": "dragon",
         "subtype": null,
@@ -25629,12 +26093,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/234",
-        "desc": []
+        "entry_descriptor": {
+            "index": 234,
+            "url": "/api/monsters/234",
+            "name": "Red Dragon Wyrmling",
+            "desc": []
+        }
     },
     {
-        "index": 235,
-        "name": "Reef Shark",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -25695,12 +26161,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/235",
-        "desc": []
+        "entry_descriptor": {
+            "index": 235,
+            "url": "/api/monsters/235",
+            "name": "Reef Shark",
+            "desc": []
+        }
     },
     {
-        "index": 236,
-        "name": "Remorhaz",
         "size": "Huge",
         "type": "monstrosity",
         "subtype": null,
@@ -25778,12 +26246,14 @@
                 "desc": "The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns.\nIf the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet oft he remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone."
             }
         ],
-        "url": "/api/monsters/236",
-        "desc": []
+        "entry_descriptor": {
+            "index": 236,
+            "url": "/api/monsters/236",
+            "name": "Remorhaz",
+            "desc": []
+        }
     },
     {
-        "index": 237,
-        "name": "Rhinoceros",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -25833,12 +26303,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/237",
-        "desc": []
+        "entry_descriptor": {
+            "index": 237,
+            "url": "/api/monsters/237",
+            "name": "Rhinoceros",
+            "desc": []
+        }
     },
     {
-        "index": 238,
-        "name": "Riding Horse",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -25882,12 +26354,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/238",
-        "desc": []
+        "entry_descriptor": {
+            "index": 238,
+            "url": "/api/monsters/238",
+            "name": "Riding Horse",
+            "desc": []
+        }
     },
     {
-        "index": 239,
-        "name": "Roc",
         "size": "Gargantuan",
         "type": "monstrosity",
         "subtype": null,
@@ -25983,12 +26457,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/239",
-        "desc": []
+        "entry_descriptor": {
+            "index": 239,
+            "url": "/api/monsters/239",
+            "name": "Roc",
+            "desc": []
+        }
     },
     {
-        "index": 240,
-        "name": "Roper",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -26072,12 +26548,14 @@
                 "desc": "The roper pulls each creature grappled by it up to 25 ft. straight toward it."
             }
         ],
-        "url": "/api/monsters/240",
-        "desc": []
+        "entry_descriptor": {
+            "index": 240,
+            "url": "/api/monsters/240",
+            "name": "Roper",
+            "desc": []
+        }
     },
     {
-        "index": 241,
-        "name": "Rug of Smothering",
         "size": "Large",
         "type": "construct",
         "subtype": null,
@@ -26158,12 +26636,14 @@
                 "attack_bonus": 5
             }
         ],
-        "url": "/api/monsters/241",
-        "desc": []
+        "entry_descriptor": {
+            "index": 241,
+            "url": "/api/monsters/241",
+            "name": "Rug of Smothering",
+            "desc": []
+        }
     },
     {
-        "index": 242,
-        "name": "Rust Monster",
         "size": "Medium",
         "type": "monstrosity",
         "subtype": null,
@@ -26222,12 +26702,14 @@
                 "desc": "The rust monster corrodes a nonmagical ferrous metal object it can see within 5 feet of it. If the object isn't being worn or carried, the touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a DC 11 Dexterity saving throw to avoid the rust monster's touch.\nIf the object touched is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait."
             }
         ],
-        "url": "/api/monsters/242",
-        "desc": []
+        "entry_descriptor": {
+            "index": 242,
+            "url": "/api/monsters/242",
+            "name": "Rust Monster",
+            "desc": []
+        }
     },
     {
-        "index": 243,
-        "name": "Saber-Toothed Tiger",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -26307,12 +26789,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/243",
-        "desc": []
+        "entry_descriptor": {
+            "index": 243,
+            "url": "/api/monsters/243",
+            "name": "Saber-Toothed Tiger",
+            "desc": []
+        }
     },
     {
-        "index": 244,
-        "name": "Sahuagin",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "sahuagin",
@@ -26426,12 +26910,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/244",
-        "desc": []
+        "entry_descriptor": {
+            "index": 244,
+            "url": "/api/monsters/244",
+            "name": "Sahuagin",
+            "desc": []
+        }
     },
     {
-        "index": 245,
-        "name": "Salamander",
         "size": "Large",
         "type": "elemental",
         "subtype": null,
@@ -26551,12 +27037,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/245",
-        "desc": []
+        "entry_descriptor": {
+            "index": 245,
+            "url": "/api/monsters/245",
+            "name": "Salamander",
+            "desc": []
+        }
     },
     {
-        "index": 246,
-        "name": "Satyr",
         "size": "Medium",
         "type": "fey",
         "subtype": null,
@@ -26656,12 +27144,14 @@
                 "desc": "Gentle Lullaby. The creature falls asleep and is unconscious for 1 minute. The effect ends if the creature takes damage or if someone takes an action to shake the creature awake."
             }
         ],
-        "url": "/api/monsters/246",
-        "desc": []
+        "entry_descriptor": {
+            "index": 246,
+            "url": "/api/monsters/246",
+            "name": "Satyr",
+            "desc": []
+        }
     },
     {
-        "index": 247,
-        "name": "Scorpion",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -26706,12 +27196,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/247",
-        "desc": []
+        "entry_descriptor": {
+            "index": 247,
+            "url": "/api/monsters/247",
+            "name": "Scorpion",
+            "desc": []
+        }
     },
     {
-        "index": 248,
-        "name": "Scout",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -26801,12 +27293,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/248",
-        "desc": []
+        "entry_descriptor": {
+            "index": 248,
+            "url": "/api/monsters/248",
+            "name": "Scout",
+            "desc": []
+        }
     },
     {
-        "index": 249,
-        "name": "Sea Hag",
         "size": "Medium",
         "type": "fey",
         "subtype": null,
@@ -26890,12 +27384,14 @@
                 "desc": "The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.\nThe changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised."
             }
         ],
-        "url": "/api/monsters/249",
-        "desc": []
+        "entry_descriptor": {
+            "index": 249,
+            "url": "/api/monsters/249",
+            "name": "Sea Hag",
+            "desc": []
+        }
     },
     {
-        "index": 250,
-        "name": "Sea Horse",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -26928,12 +27424,14 @@
                 "desc": "The sea horse can breathe only underwater."
             }
         ],
-        "url": "/api/monsters/250",
-        "desc": []
+        "entry_descriptor": {
+            "index": 250,
+            "url": "/api/monsters/250",
+            "name": "Sea Horse",
+            "desc": []
+        }
     },
     {
-        "index": 251,
-        "name": "Shadow",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -27043,12 +27541,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/251",
-        "desc": []
+        "entry_descriptor": {
+            "index": 251,
+            "url": "/api/monsters/251",
+            "name": "Shadow",
+            "desc": []
+        }
     },
     {
-        "index": 252,
-        "name": "Shambling Mound",
         "size": "Large",
         "type": "plant",
         "subtype": null,
@@ -27132,12 +27632,14 @@
                 "desc": "The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time."
             }
         ],
-        "url": "/api/monsters/252",
-        "desc": []
+        "entry_descriptor": {
+            "index": 252,
+            "url": "/api/monsters/252",
+            "name": "Shambling Mound",
+            "desc": []
+        }
     },
     {
-        "index": 253,
-        "name": "Shield Guardian",
         "size": "Large",
         "type": "construct",
         "subtype": null,
@@ -27230,12 +27732,14 @@
                 "desc": "When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer."
             }
         ],
-        "url": "/api/monsters/253",
-        "desc": []
+        "entry_descriptor": {
+            "index": 253,
+            "url": "/api/monsters/253",
+            "name": "Shield Guardian",
+            "desc": []
+        }
     },
     {
-        "index": 254,
-        "name": "Shrieker",
         "size": "Medium",
         "type": "plant",
         "subtype": null,
@@ -27288,12 +27792,14 @@
                 "desc": "When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward"
             }
         ],
-        "url": "/api/monsters/254",
-        "desc": []
+        "entry_descriptor": {
+            "index": 254,
+            "url": "/api/monsters/254",
+            "name": "Shrieker",
+            "desc": []
+        }
     },
     {
-        "index": 255,
-        "name": "Silver Dragon Wyrmling",
         "size": "Medium",
         "type": "dragon",
         "subtype": null,
@@ -27411,12 +27917,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/255",
-        "desc": []
+        "entry_descriptor": {
+            "index": 255,
+            "url": "/api/monsters/255",
+            "name": "Silver Dragon Wyrmling",
+            "desc": []
+        }
     },
     {
-        "index": 256,
-        "name": "Skeleton",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -27483,12 +27991,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/256",
-        "desc": []
+        "entry_descriptor": {
+            "index": 256,
+            "url": "/api/monsters/256",
+            "name": "Skeleton",
+            "desc": []
+        }
     },
     {
-        "index": 257,
-        "name": "Solar",
         "size": "Large",
         "type": "celestial",
         "subtype": null,
@@ -27752,12 +28262,14 @@
                 }
             }
         ],
-        "url": "/api/monsters/257",
-        "desc": []
+        "entry_descriptor": {
+            "index": 257,
+            "url": "/api/monsters/257",
+            "name": "Solar",
+            "desc": []
+        }
     },
     {
-        "index": 258,
-        "name": "Specter",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -27861,12 +28373,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/258",
-        "desc": []
+        "entry_descriptor": {
+            "index": 258,
+            "url": "/api/monsters/258",
+            "name": "Specter",
+            "desc": []
+        }
     },
     {
-        "index": 259,
-        "name": "Spider",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -27932,12 +28446,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/259",
-        "desc": []
+        "entry_descriptor": {
+            "index": 259,
+            "url": "/api/monsters/259",
+            "name": "Spider",
+            "desc": []
+        }
     },
     {
-        "index": 260,
-        "name": "Spirit Naga",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -28009,7 +28525,7 @@
                     "level": 10,
                     "ability": {
                         "name": "INT",
-                        "url": "http://www.dnd5eapi.co/api/ability-scores/4"
+                        "url": "/api/ability-scores/4"
                     },
                     "dc": 14,
                     "modifier": 6,
@@ -28111,12 +28627,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/260",
-        "desc": []
+        "entry_descriptor": {
+            "index": 260,
+            "url": "/api/monsters/260",
+            "name": "Spirit Naga",
+            "desc": []
+        }
     },
     {
-        "index": 261,
-        "name": "Sprite",
         "size": "Tiny",
         "type": "fey",
         "subtype": null,
@@ -28203,12 +28721,14 @@
                 "desc": "The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it."
             }
         ],
-        "url": "/api/monsters/261",
-        "desc": []
+        "entry_descriptor": {
+            "index": 261,
+            "url": "/api/monsters/261",
+            "name": "Sprite",
+            "desc": []
+        }
     },
     {
-        "index": 262,
-        "name": "Spy",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -28312,12 +28832,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/262",
-        "desc": []
+        "entry_descriptor": {
+            "index": 262,
+            "url": "/api/monsters/262",
+            "name": "Spy",
+            "desc": []
+        }
     },
     {
-        "index": 263,
-        "name": "Steam Mephit",
         "size": "Small",
         "type": "elemental",
         "subtype": null,
@@ -28433,12 +28955,14 @@
                 "desc": "The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action."
             }
         ],
-        "url": "/api/monsters/263",
-        "desc": []
+        "entry_descriptor": {
+            "index": 263,
+            "url": "/api/monsters/263",
+            "name": "Steam Mephit",
+            "desc": []
+        }
     },
     {
-        "index": 264,
-        "name": "Stirge",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -28484,12 +29008,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/264",
-        "desc": []
+        "entry_descriptor": {
+            "index": 264,
+            "url": "/api/monsters/264",
+            "name": "Stirge",
+            "desc": []
+        }
     },
     {
-        "index": 265,
-        "name": "Stone Giant",
         "size": "Huge",
         "type": "giant",
         "subtype": null,
@@ -28591,12 +29117,14 @@
                 "desc": "If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it."
             }
         ],
-        "url": "/api/monsters/265",
-        "desc": []
+        "entry_descriptor": {
+            "index": 265,
+            "url": "/api/monsters/265",
+            "name": "Stone Giant",
+            "desc": []
+        }
     },
     {
-        "index": 266,
-        "name": "Stone Golem",
         "size": "Large",
         "type": "construct",
         "subtype": null,
@@ -28700,12 +29228,14 @@
                 }
             }
         ],
-        "url": "/api/monsters/266",
-        "desc": []
+        "entry_descriptor": {
+            "index": 266,
+            "url": "/api/monsters/266",
+            "name": "Stone Golem",
+            "desc": []
+        }
     },
     {
-        "index": 267,
-        "name": "Storm Giant",
         "size": "Huge",
         "type": "giant",
         "subtype": null,
@@ -28901,12 +29431,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/267",
-        "desc": []
+        "entry_descriptor": {
+            "index": 267,
+            "url": "/api/monsters/267",
+            "name": "Storm Giant",
+            "desc": []
+        }
     },
     {
-        "index": 268,
-        "name": "Succubus/Incubus",
         "size": "Medium",
         "type": "fiend",
         "subtype": "shapechanger",
@@ -29025,12 +29557,14 @@
                 "desc": "The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa."
             }
         ],
-        "url": "/api/monsters/268",
-        "desc": []
+        "entry_descriptor": {
+            "index": 268,
+            "url": "/api/monsters/268",
+            "name": "Succubus/Incubus",
+            "desc": []
+        }
     },
     {
-        "index": 269,
-        "name": "Swarm of Bats",
         "size": "Medium",
         "type": "swarm of Tiny beasts",
         "subtype": null,
@@ -29127,12 +29661,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/269",
-        "desc": []
+        "entry_descriptor": {
+            "index": 269,
+            "url": "/api/monsters/269",
+            "name": "Swarm of Bats",
+            "desc": []
+        }
     },
     {
-        "index": 270,
-        "name": "Swarm of Beetles",
         "size": "Medium",
         "type": "swarm of Tiny beasts",
         "subtype": null,
@@ -29222,12 +29758,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/270",
-        "desc": []
+        "entry_descriptor": {
+            "index": 270,
+            "url": "/api/monsters/270",
+            "name": "Swarm of Beetles",
+            "desc": []
+        }
     },
     {
-        "index": 271,
-        "name": "Swarm of Centipedes",
         "size": "Medium",
         "type": "swarm of Tiny beasts",
         "subtype": null,
@@ -29316,12 +29854,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/271",
-        "desc": []
+        "entry_descriptor": {
+            "index": 271,
+            "url": "/api/monsters/271",
+            "name": "Swarm of Centipedes",
+            "desc": []
+        }
     },
     {
-        "index": 272,
-        "name": "Swarm of Insects",
         "size": "Medium",
         "type": "swarm of Tiny beasts",
         "subtype": null,
@@ -29410,12 +29950,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/272",
-        "desc": []
+        "entry_descriptor": {
+            "index": 272,
+            "url": "/api/monsters/272",
+            "name": "Swarm of Insects",
+            "desc": []
+        }
     },
     {
-        "index": 273,
-        "name": "Swarm of Poisonous Snakes",
         "size": "Medium",
         "type": "swarm of Tiny beasts",
         "subtype": null,
@@ -29504,12 +30046,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/273",
-        "desc": []
+        "entry_descriptor": {
+            "index": 273,
+            "url": "/api/monsters/273",
+            "name": "Swarm of Poisonous Snakes",
+            "desc": []
+        }
     },
     {
-        "index": 274,
-        "name": "Swarm of Quippers",
         "size": "Medium",
         "type": "swarm of Tiny beasts",
         "subtype": null,
@@ -29606,12 +30150,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/274",
-        "desc": []
+        "entry_descriptor": {
+            "index": 274,
+            "url": "/api/monsters/274",
+            "name": "Swarm of Quippers",
+            "desc": []
+        }
     },
     {
-        "index": 275,
-        "name": "Swarm of Rats",
         "size": "Medium",
         "type": "swarm of Tiny beasts",
         "subtype": null,
@@ -29703,12 +30249,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/275",
-        "desc": []
+        "entry_descriptor": {
+            "index": 275,
+            "url": "/api/monsters/275",
+            "name": "Swarm of Rats",
+            "desc": []
+        }
     },
     {
-        "index": 276,
-        "name": "Swarm of Ravens",
         "size": "Medium",
         "type": "swarm of Tiny beasts",
         "subtype": null,
@@ -29796,12 +30344,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/276",
-        "desc": []
+        "entry_descriptor": {
+            "index": 276,
+            "url": "/api/monsters/276",
+            "name": "Swarm of Ravens",
+            "desc": []
+        }
     },
     {
-        "index": 277,
-        "name": "Swarm of Spiders",
         "size": "Medium",
         "type": "swarm of Tiny beasts",
         "subtype": null,
@@ -29898,12 +30448,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/277",
-        "desc": []
+        "entry_descriptor": {
+            "index": 277,
+            "url": "/api/monsters/277",
+            "name": "Swarm of Spiders",
+            "desc": []
+        }
     },
     {
-        "index": 278,
-        "name": "Swarm of Wasps",
         "size": "Medium",
         "type": "swarm of Tiny beasts",
         "subtype": null,
@@ -29992,12 +30544,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/278",
-        "desc": []
+        "entry_descriptor": {
+            "index": 278,
+            "url": "/api/monsters/278",
+            "name": "Swarm of Wasps",
+            "desc": []
+        }
     },
     {
-        "index": 279,
-        "name": "Tarrasque",
         "size": "Gargantuan",
         "type": "monstrosity",
         "subtype": "titan",
@@ -30176,12 +30730,14 @@
                 "desc": "The tarrasque makes one bite attack or uses its Swallow."
             }
         ],
-        "url": "/api/monsters/279",
-        "desc": []
+        "entry_descriptor": {
+            "index": 279,
+            "url": "/api/monsters/279",
+            "name": "Tarrasque",
+            "desc": []
+        }
     },
     {
-        "index": 280,
-        "name": "Thug",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -30256,12 +30812,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/280",
-        "desc": []
+        "entry_descriptor": {
+            "index": 280,
+            "url": "/api/monsters/280",
+            "name": "Thug",
+            "desc": []
+        }
     },
     {
-        "index": 281,
-        "name": "Tiger",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -30342,12 +30900,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/281",
-        "desc": []
+        "entry_descriptor": {
+            "index": 281,
+            "url": "/api/monsters/281",
+            "name": "Tiger",
+            "desc": []
+        }
     },
     {
-        "index": 282,
-        "name": "Treant",
         "size": "Huge",
         "type": "plant",
         "subtype": null,
@@ -30429,12 +30989,14 @@
                 "desc": "The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible."
             }
         ],
-        "url": "/api/monsters/282",
-        "desc": []
+        "entry_descriptor": {
+            "index": 282,
+            "url": "/api/monsters/282",
+            "name": "Treant",
+            "desc": []
+        }
     },
     {
-        "index": 283,
-        "name": "Tribal Warrior",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -30498,12 +31060,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/283",
-        "desc": []
+        "entry_descriptor": {
+            "index": 283,
+            "url": "/api/monsters/283",
+            "name": "Tribal Warrior",
+            "desc": []
+        }
     },
     {
-        "index": 284,
-        "name": "Triceratops",
         "size": "Huge",
         "type": "beast",
         "subtype": null,
@@ -30568,12 +31132,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/284",
-        "desc": []
+        "entry_descriptor": {
+            "index": 284,
+            "url": "/api/monsters/284",
+            "name": "Triceratops",
+            "desc": []
+        }
     },
     {
-        "index": 285,
-        "name": "Troll",
         "size": "Large",
         "type": "giant",
         "subtype": null,
@@ -30657,12 +31223,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/285",
-        "desc": []
+        "entry_descriptor": {
+            "index": 285,
+            "url": "/api/monsters/285",
+            "name": "Troll",
+            "desc": []
+        }
     },
     {
-        "index": 286,
-        "name": "Tyrannosaurus Rex",
         "size": "Huge",
         "type": "beast",
         "subtype": null,
@@ -30731,12 +31299,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/286",
-        "desc": []
+        "entry_descriptor": {
+            "index": 286,
+            "url": "/api/monsters/286",
+            "name": "Tyrannosaurus Rex",
+            "desc": []
+        }
     },
     {
-        "index": 287,
-        "name": "Unicorn",
         "size": "Large",
         "type": "celestial",
         "subtype": null,
@@ -30910,12 +31480,14 @@
                 "desc": "The unicorn magically regains 11 (2d8 + 2) hit points."
             }
         ],
-        "url": "/api/monsters/287",
-        "desc": []
+        "entry_descriptor": {
+            "index": 287,
+            "url": "/api/monsters/287",
+            "name": "Unicorn",
+            "desc": []
+        }
     },
     {
-        "index": 288,
-        "name": "Vampire",
         "size": "Medium",
         "type": "undead",
         "subtype": "shapechanger",
@@ -31075,12 +31647,14 @@
                 "attack_bonus": 0
             }
         ],
-        "url": "/api/monsters/288",
-        "desc": []
+        "entry_descriptor": {
+            "index": 288,
+            "url": "/api/monsters/288",
+            "name": "Vampire",
+            "desc": []
+        }
     },
     {
-        "index": 289,
-        "name": "Vampire Spawn",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -31190,12 +31764,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/289",
-        "desc": []
+        "entry_descriptor": {
+            "index": 289,
+            "url": "/api/monsters/289",
+            "name": "Vampire Spawn",
+            "desc": []
+        }
     },
     {
-        "index": 290,
-        "name": "Veteran",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "any race",
@@ -31298,12 +31874,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/290",
-        "desc": []
+        "entry_descriptor": {
+            "index": 290,
+            "url": "/api/monsters/290",
+            "name": "Veteran",
+            "desc": []
+        }
     },
     {
-        "index": 291,
-        "name": "Violet Fungus",
         "size": "Medium",
         "type": "plant",
         "subtype": null,
@@ -31371,12 +31949,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/291",
-        "desc": []
+        "entry_descriptor": {
+            "index": 291,
+            "url": "/api/monsters/291",
+            "name": "Violet Fungus",
+            "desc": []
+        }
     },
     {
-        "index": 292,
-        "name": "Vrock",
         "size": "Large",
         "type": "fiend",
         "subtype": "demon",
@@ -31503,12 +32083,14 @@
                 "desc": "The demon chooses what to summon and attempts a magical summoning.\nA vrock has a 30 percent chance of summoning 2d4 dretches or one vrock.\nA summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action."
             }
         ],
-        "url": "/api/monsters/292",
-        "desc": []
+        "entry_descriptor": {
+            "index": 292,
+            "url": "/api/monsters/292",
+            "name": "Vrock",
+            "desc": []
+        }
     },
     {
-        "index": 293,
-        "name": "Vulture",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -31569,12 +32151,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/293",
-        "desc": []
+        "entry_descriptor": {
+            "index": 293,
+            "url": "/api/monsters/293",
+            "name": "Vulture",
+            "desc": []
+        }
     },
     {
-        "index": 294,
-        "name": "Warhorse",
         "size": "Large",
         "type": "beast",
         "subtype": null,
@@ -31624,12 +32208,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/294",
-        "desc": []
+        "entry_descriptor": {
+            "index": 294,
+            "url": "/api/monsters/294",
+            "name": "Warhorse",
+            "desc": []
+        }
     },
     {
-        "index": 295,
-        "name": "Warhorse Skeleton",
         "size": "Large",
         "type": "undead",
         "subtype": null,
@@ -31687,12 +32273,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/295",
-        "desc": []
+        "entry_descriptor": {
+            "index": 295,
+            "url": "/api/monsters/295",
+            "name": "Warhorse Skeleton",
+            "desc": []
+        }
     },
     {
-        "index": 296,
-        "name": "Water Elemental",
         "size": "Large",
         "type": "elemental",
         "subtype": null,
@@ -31812,12 +32400,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/296",
-        "desc": []
+        "entry_descriptor": {
+            "index": 296,
+            "url": "/api/monsters/296",
+            "name": "Water Elemental",
+            "desc": []
+        }
     },
     {
-        "index": 297,
-        "name": "Weasel",
         "size": "Tiny",
         "type": "beast",
         "subtype": null,
@@ -31878,12 +32468,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/297",
-        "desc": []
+        "entry_descriptor": {
+            "index": 297,
+            "url": "/api/monsters/297",
+            "name": "Weasel",
+            "desc": []
+        }
     },
     {
-        "index": 298,
-        "name": "Werebear",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "human",
@@ -31995,12 +32587,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/298",
-        "desc": []
+        "entry_descriptor": {
+            "index": 298,
+            "url": "/api/monsters/298",
+            "name": "Werebear",
+            "desc": []
+        }
     },
     {
-        "index": 299,
-        "name": "Wereboar",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "human",
@@ -32094,12 +32688,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/299",
-        "desc": []
+        "entry_descriptor": {
+            "index": 299,
+            "url": "/api/monsters/299",
+            "name": "Wereboar",
+            "desc": []
+        }
     },
     {
-        "index": 300,
-        "name": "Wererat",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "human",
@@ -32201,12 +32797,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/300",
-        "desc": []
+        "entry_descriptor": {
+            "index": 300,
+            "url": "/api/monsters/300",
+            "name": "Wererat",
+            "desc": []
+        }
     },
     {
-        "index": 301,
-        "name": "Weretiger",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "human",
@@ -32335,12 +32933,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/301",
-        "desc": []
+        "entry_descriptor": {
+            "index": 301,
+            "url": "/api/monsters/301",
+            "name": "Weretiger",
+            "desc": []
+        }
     },
     {
-        "index": 302,
-        "name": "Werewolf",
         "size": "Medium",
         "type": "humanoid",
         "subtype": "human",
@@ -32458,12 +33058,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/302",
-        "desc": []
+        "entry_descriptor": {
+            "index": 302,
+            "url": "/api/monsters/302",
+            "name": "Werewolf",
+            "desc": []
+        }
     },
     {
-        "index": 303,
-        "name": "White Dragon Wyrmling",
         "size": "Medium",
         "type": "dragon",
         "subtype": null,
@@ -32575,12 +33177,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/303",
-        "desc": []
+        "entry_descriptor": {
+            "index": 303,
+            "url": "/api/monsters/303",
+            "name": "White Dragon Wyrmling",
+            "desc": []
+        }
     },
     {
-        "index": 304,
-        "name": "Wight",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -32698,12 +33302,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/304",
-        "desc": []
+        "entry_descriptor": {
+            "index": 304,
+            "url": "/api/monsters/304",
+            "name": "Wight",
+            "desc": []
+        }
     },
     {
-        "index": 305,
-        "name": "Will-o'-Wisp",
         "size": "Tiny",
         "type": "undead",
         "subtype": null,
@@ -32819,12 +33425,14 @@
                 "desc": "The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell)."
             }
         ],
-        "url": "/api/monsters/305",
-        "desc": []
+        "entry_descriptor": {
+            "index": 305,
+            "url": "/api/monsters/305",
+            "name": "Will-o'-Wisp",
+            "desc": []
+        }
     },
     {
-        "index": 306,
-        "name": "Winter Wolf",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -32917,12 +33525,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/306",
-        "desc": []
+        "entry_descriptor": {
+            "index": 306,
+            "url": "/api/monsters/306",
+            "name": "Winter Wolf",
+            "desc": []
+        }
     },
     {
-        "index": 307,
-        "name": "Wolf",
         "size": "Medium",
         "type": "beast",
         "subtype": null,
@@ -32987,12 +33597,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/307",
-        "desc": []
+        "entry_descriptor": {
+            "index": 307,
+            "url": "/api/monsters/307",
+            "name": "Wolf",
+            "desc": []
+        }
     },
     {
-        "index": 308,
-        "name": "Worg",
         "size": "Large",
         "type": "monstrosity",
         "subtype": null,
@@ -33049,12 +33661,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/308",
-        "desc": []
+        "entry_descriptor": {
+            "index": 308,
+            "url": "/api/monsters/308",
+            "name": "Worg",
+            "desc": []
+        }
     },
     {
-        "index": 309,
-        "name": "Wraith",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -33158,12 +33772,14 @@
                 "desc": "The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time."
             }
         ],
-        "url": "/api/monsters/309",
-        "desc": []
+        "entry_descriptor": {
+            "index": 309,
+            "url": "/api/monsters/309",
+            "name": "Wraith",
+            "desc": []
+        }
     },
     {
-        "index": 310,
-        "name": "Wyvern",
         "size": "Large",
         "type": "dragon",
         "subtype": null,
@@ -33249,12 +33865,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/310",
-        "desc": []
+        "entry_descriptor": {
+            "index": 310,
+            "url": "/api/monsters/310",
+            "name": "Wyvern",
+            "desc": []
+        }
     },
     {
-        "index": 311,
-        "name": "Xorn",
         "size": "Medium",
         "type": "elemental",
         "subtype": null,
@@ -33347,12 +33965,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/311",
-        "desc": []
+        "entry_descriptor": {
+            "index": 311,
+            "url": "/api/monsters/311",
+            "name": "Xorn",
+            "desc": []
+        }
     },
     {
-        "index": 312,
-        "name": "Young Black Dragon",
         "size": "Large",
         "type": "dragon",
         "subtype": null,
@@ -33488,12 +34108,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/312",
-        "desc": []
+        "entry_descriptor": {
+            "index": 312,
+            "url": "/api/monsters/312",
+            "name": "Young Black Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 313,
-        "name": "Young Blue Dragon",
         "size": "Large",
         "type": "dragon",
         "subtype": null,
@@ -33623,12 +34245,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/313",
-        "desc": []
+        "entry_descriptor": {
+            "index": 313,
+            "url": "/api/monsters/313",
+            "name": "Young Blue Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 314,
-        "name": "Young Brass Dragon",
         "size": "Large",
         "type": "dragon",
         "subtype": null,
@@ -33772,12 +34396,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/314",
-        "desc": []
+        "entry_descriptor": {
+            "index": 314,
+            "url": "/api/monsters/314",
+            "name": "Young Brass Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 315,
-        "name": "Young Bronze Dragon",
         "size": "Large",
         "type": "dragon",
         "subtype": null,
@@ -33927,12 +34553,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/315",
-        "desc": []
+        "entry_descriptor": {
+            "index": 315,
+            "url": "/api/monsters/315",
+            "name": "Young Bronze Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 316,
-        "name": "Young Copper Dragon",
         "size": "Large",
         "type": "dragon",
         "subtype": null,
@@ -34075,12 +34703,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/316",
-        "desc": []
+        "entry_descriptor": {
+            "index": 316,
+            "url": "/api/monsters/316",
+            "name": "Young Copper Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 317,
-        "name": "Young Gold Dragon",
         "size": "Large",
         "type": "dragon",
         "subtype": null,
@@ -34234,12 +34864,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/317",
-        "desc": []
+        "entry_descriptor": {
+            "index": 317,
+            "url": "/api/monsters/317",
+            "name": "Young Gold Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 318,
-        "name": "Young Green Dragon",
         "size": "Large",
         "type": "dragon",
         "subtype": null,
@@ -34385,12 +35017,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/318",
-        "desc": []
+        "entry_descriptor": {
+            "index": 318,
+            "url": "/api/monsters/318",
+            "name": "Young Green Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 319,
-        "name": "Young Red Dragon",
         "size": "Large",
         "type": "dragon",
         "subtype": null,
@@ -34520,12 +35154,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/319",
-        "desc": []
+        "entry_descriptor": {
+            "index": 319,
+            "url": "/api/monsters/319",
+            "name": "Young Red Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 320,
-        "name": "Young Silver Dragon",
         "size": "Large",
         "type": "dragon",
         "subtype": null,
@@ -34672,12 +35308,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/320",
-        "desc": []
+        "entry_descriptor": {
+            "index": 320,
+            "url": "/api/monsters/320",
+            "name": "Young Silver Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 321,
-        "name": "Young White Dragon",
         "size": "Large",
         "type": "dragon",
         "subtype": null,
@@ -34814,12 +35452,14 @@
                 ]
             }
         ],
-        "url": "/api/monsters/321",
-        "desc": []
+        "entry_descriptor": {
+            "index": 321,
+            "url": "/api/monsters/321",
+            "name": "Young White Dragon",
+            "desc": []
+        }
     },
     {
-        "index": 322,
-        "name": "Zombie",
         "size": "Medium",
         "type": "undead",
         "subtype": null,
@@ -34881,7 +35521,11 @@
                 ]
             }
         ],
-        "url": "/api/monsters/322",
-        "desc": []
+        "entry_descriptor": {
+            "index": 322,
+            "url": "/api/monsters/322",
+            "name": "Zombie",
+            "desc": []
+        }
     }
 ]

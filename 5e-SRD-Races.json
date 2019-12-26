@@ -1,7 +1,5 @@
 [
     {
-        "index": 1,
-        "name": "Dwarf",
         "speed": 30,
         "ability_bonuses": [
             {
@@ -17,7 +15,7 @@
         "size_description": "Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.",
         "starting_proficiencies": [
             {
-                "url": "/api/proficiencies/20",
+                "url": "/api/proficiencies/35",
                 "name": "Battleaxes"
             },
             {
@@ -74,7 +72,7 @@
             },
             {
                 "name": "Stonecunning",
-                "url": "/api/traits/3"
+                "url": "/api/traits/4"
             }
         ],
         "subraces": [
@@ -83,12 +81,14 @@
                 "name": "Hill Dwarf"
             }
         ],
-        "url": "/api/races/1",
-        "desc": []
+        "entry_descriptor": {
+            "index": 1,
+            "url": "/api/races/1",
+            "name": "Dwarf",
+            "desc": []
+        }
     },
     {
-        "index": 2,
-        "name": "Elf",
         "speed": 30,
         "ability_bonuses": [
             {
@@ -141,12 +141,14 @@
                 "name": "High Elf"
             }
         ],
-        "url": "/api/races/2",
-        "desc": []
+        "entry_descriptor": {
+            "index": 2,
+            "url": "/api/races/2",
+            "name": "Elf",
+            "desc": []
+        }
     },
     {
-        "index": 3,
-        "name": "Halfling",
         "speed": 25,
         "ability_bonuses": [
             {
@@ -194,12 +196,14 @@
                 "name": "Lightfoot Halfling"
             }
         ],
-        "url": "/api/races/3",
-        "desc": []
+        "entry_descriptor": {
+            "index": 3,
+            "url": "/api/races/3",
+            "name": "Halfling",
+            "desc": []
+        }
     },
     {
-        "index": 4,
-        "name": "Human",
         "speed": 30,
         "ability_bonuses": [
             {
@@ -315,12 +319,14 @@
         "language_desc": "You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.",
         "traits": [],
         "subraces": [],
-        "url": "/api/races/4",
-        "desc": []
+        "entry_descriptor": {
+            "index": 4,
+            "url": "/api/races/4",
+            "name": "Human",
+            "desc": []
+        }
     },
     {
-        "index": 5,
-        "name": "Dragonborn",
         "speed": 30,
         "ability_bonuses": [
             {
@@ -414,12 +420,14 @@
             "type": "trait"
         },
         "subraces": [],
-        "url": "/api/races/5",
-        "desc": []
+        "entry_descriptor": {
+            "index": 5,
+            "url": "/api/races/5",
+            "name": "Dragonborn",
+            "desc": []
+        }
     },
     {
-        "index": 6,
-        "name": "Gnome",
         "speed": 25,
         "ability_bonuses": [
             {
@@ -464,12 +472,14 @@
                 "name": "Rock Gnome"
             }
         ],
-        "url": "/api/races/6",
-        "desc": []
+        "entry_descriptor": {
+            "index": 6,
+            "url": "/api/races/6",
+            "name": "Gnome",
+            "desc": []
+        }
     },
     {
-        "index": 7,
-        "name": "Half-Elf",
         "speed": 30,
         "ability_bonuses": [
             {
@@ -604,12 +614,14 @@
         ],
         "trait_options": null,
         "subraces": [],
-        "url": "/api/races/7",
-        "desc": []
+        "entry_descriptor": {
+            "index": 7,
+            "url": "/api/races/7",
+            "name": "Half-Elf",
+            "desc": []
+        }
     },
     {
-        "index": 8,
-        "name": "Half-Orc",
         "speed": 30,
         "ability_bonuses": [
             {
@@ -663,12 +675,14 @@
         ],
         "trait_options": null,
         "subraces": [],
-        "url": "/api/races/8",
-        "desc": []
+        "entry_descriptor": {
+            "index": 8,
+            "url": "/api/races/8",
+            "name": "Half-Orc",
+            "desc": []
+        }
     },
     {
-        "index": 9,
-        "name": "Tiefling",
         "speed": 30,
         "ability_bonuses": [
             {
@@ -695,7 +709,7 @@
                 "name": "Common"
             },
             {
-                "url": "/api/languages/9",
+                "url": "/api/languages/13",
                 "name": "Infernal"
             }
         ],
@@ -717,7 +731,11 @@
         ],
         "trait_options": null,
         "subraces": [],
-        "url": "/api/races/9",
-        "desc": []
+        "entry_descriptor": {
+            "index": 9,
+            "url": "/api/races/9",
+            "name": "Tiefling",
+            "desc": []
+        }
     }
 ]

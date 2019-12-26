@@ -1,4 +1,2 @@
-upload-*
-named-*
-
-/node_modules/
+/venv/**
+**.pyc

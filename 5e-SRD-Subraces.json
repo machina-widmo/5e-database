@@ -1,14 +1,9 @@
 [
     {
-        "index": 1,
-        "name": "Hill Dwarf",
         "race": {
             "url": "/api/races/1",
             "name": "Dwarf"
         },
-        "desc": [
-            "As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience."
-        ],
         "ability_bonuses": [
             {
                 "ability": {
@@ -25,23 +20,25 @@
         "language_options": null,
         "racial_traits": [
             {
-                "url": "/api/traits/4",
+                "url": "/api/traits/5",
                 "name": "Dwarven Toughness"
             }
         ],
         "racial_trait_options": null,
-        "url": "/api/subraces/1"
+        "entry_descriptor": {
+            "index": 1,
+            "url": "/api/subraces/1",
+            "name": "Hill Dwarf",
+            "desc": [
+                "As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience."
+            ]
+        }
     },
     {
-        "index": 2,
-        "name": "High Elf",
         "race": {
             "url": "/api/races/2",
             "name": "Elf"
         },
-        "desc": [
-            "As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races."
-        ],
         "ability_bonuses": [
             {
                 "ability": {
@@ -134,73 +131,27 @@
             ],
             "type": "language"
         },
-        "racial_traits": [],
-        "racial_trait_options": {
-            "choose": 1,
-            "from": [
-                {
-                    "url": "/api/traits/10",
-                    "name": "High Elf Cantrip: Light"
-                },
-                {
-                    "url": "/api/traits/10",
-                    "name": "High Elf Cantrip: Mage Hand"
-                },
-                {
-                    "url": "/api/traits/10",
-                    "name": "High Elf Cantrip: Mending"
-                },
-                {
-                    "url": "/api/traits/10",
-                    "name": "High Elf Cantrip: Message"
-                },
-                {
-                    "url": "/api/traits/10",
-                    "name": "High Elf Cantrip: Minor Illusion"
-                },
-                {
-                    "url": "/api/traits/10",
-                    "name": "High Elf Cantrip: Acid Splash"
-                },
-                {
-                    "url": "/api/traits/10",
-                    "name": "High Elf Cantrip: Prestidigitation"
-                },
-                {
-                    "url": "/api/traits/10",
-                    "name": "High Elf Cantrip: Ray of Frost"
-                },
-                {
-                    "url": "/api/traits/10",
-                    "name": "High Elf Cantrip: Shocking Grasp"
-                },
-                {
-                    "url": "/api/traits/10",
-                    "name": "High Elf Cantrip: True Strike"
-                },
-                {
-                    "url": "/api/traits/10",
-                    "name": "High Elf Cantrip: Chill Touch"
-                },
-                {
-                    "url": "/api/traits/10",
-                    "name": "High Elf Cantrip: Dancing Lights"
-                }
-            ],
-            "type": "trait"
-        },
-        "url": "/api/subraces/2"
+        "racial_traits": [
+            {
+                "url": "/api/traits/10",
+                "name": "High Elf Cantrip"
+            }
+        ],
+        "racial_trait_options": null,
+        "entry_descriptor": {
+            "index": 2,
+            "url": "/api/subraces/2",
+            "name": "High Elf",
+            "desc": [
+                "As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races."
+            ]
+        }
     },
     {
-        "index": 3,
-        "name": "Lightfoot Halfling",
         "race": {
             "url": "/api/races/3",
             "name": "Halfling"
         },
-        "desc": [
-            "As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life."
-        ],
         "ability_bonuses": [
             {
                 "ability": {
@@ -217,23 +168,25 @@
         "language_options": null,
         "racial_traits": [
             {
-                "url": "/api/traits/23",
+                "url": "/api/traits/15",
                 "name": "Naturally Stealthy"
             }
         ],
         "racial_trait_options": null,
-        "url": "/api/subraces/3"
+        "entry_descriptor": {
+            "index": 3,
+            "url": "/api/subraces/3",
+            "name": "Lightfoot Halfling",
+            "desc": [
+                "As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life."
+            ]
+        }
     },
     {
-        "index": 4,
-        "name": "Rock Gnome",
         "race": {
             "url": "/api/races/6",
             "name": "Gnome"
         },
-        "desc": [
-            "As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes."
-        ],
         "ability_bonuses": [
             {
                 "ability": {
@@ -275,6 +228,13 @@
             }
         ],
         "racial_trait_options": null,
-        "url": "/api/subraces/4"
+        "entry_descriptor": {
+            "index": 4,
+            "url": "/api/subraces/4",
+            "name": "Rock Gnome",
+            "desc": [
+                "As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes."
+            ]
+        }
     }
 ]

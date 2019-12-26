@@ -1,6 +1,5 @@
 [
     {
-        "index": 1,
         "class": {
             "url": "/api/classes/2",
             "name": "Bard"
@@ -54,12 +53,14 @@
                 ]
             }
         ],
-        "url": "/api/spellcasting/1",
-        "name": "Unnamed_Index1",
-        "desc": []
+        "entry_descriptor": {
+            "index": 1,
+            "url": "/api/spellcasting/1",
+            "name": "Bard Spellcasting",
+            "desc": []
+        }
     },
     {
-        "index": 2,
         "class": {
             "url": "/api/classes/3",
             "name": "Cleric"
@@ -106,12 +107,14 @@
                 ]
             }
         ],
-        "url": "/api/spellcasting/2",
-        "name": "Unnamed_Index2",
-        "desc": []
+        "entry_descriptor": {
+            "index": 2,
+            "url": "/api/spellcasting/2",
+            "name": "Cleric Spellcasting",
+            "desc": []
+        }
     },
     {
-        "index": 3,
         "class": {
             "url": "/api/classes/4",
             "name": "Druid"
@@ -156,12 +159,14 @@
                 ]
             }
         ],
-        "url": "/api/spellcasting/3",
-        "name": "Unnamed_Index3",
-        "desc": []
+        "entry_descriptor": {
+            "index": 3,
+            "url": "/api/spellcasting/3",
+            "name": "Druid Spellcasting",
+            "desc": []
+        }
     },
     {
-        "index": 4,
         "class": {
             "url": "/api/classes/7",
             "name": "Paladin"
@@ -194,12 +199,14 @@
                 ]
             }
         ],
-        "url": "/api/spellcasting/4",
-        "name": "Unnamed_Index4",
-        "desc": []
+        "entry_descriptor": {
+            "index": 4,
+            "url": "/api/spellcasting/4",
+            "name": "Paladin Spellcasting",
+            "desc": []
+        }
     },
     {
-        "index": 5,
         "class": {
             "url": "/api/classes/8",
             "name": "Ranger"
@@ -232,12 +239,14 @@
                 ]
             }
         ],
-        "url": "/api/spellcasting/5",
-        "name": "Unnamed_Index5",
-        "desc": []
+        "entry_descriptor": {
+            "index": 5,
+            "url": "/api/spellcasting/5",
+            "name": "Ranger Spellcasting",
+            "desc": []
+        }
     },
     {
-        "index": 6,
         "class": {
             "url": "/api/classes/10",
             "name": "Sorcerer"
@@ -282,12 +291,14 @@
                 ]
             }
         ],
-        "url": "/api/spellcasting/6",
-        "name": "Unnamed_Index6",
-        "desc": []
+        "entry_descriptor": {
+            "index": 6,
+            "url": "/api/spellcasting/6",
+            "name": "Sorcerer Spellcasting",
+            "desc": []
+        }
     },
     {
-        "index": 7,
         "class": {
             "url": "/api/classes/11",
             "name": "Warlock"
@@ -333,12 +344,14 @@
                 ]
             }
         ],
-        "url": "/api/spellcasting/7",
-        "name": "Unnamed_Index7",
-        "desc": []
+        "entry_descriptor": {
+            "index": 7,
+            "url": "/api/spellcasting/7",
+            "name": "Warlock Spellcasting",
+            "desc": []
+        }
     },
     {
-        "index": 8,
         "class": {
             "url": "/api/classes/12",
             "name": "Wizard"
@@ -389,8 +402,11 @@
                 ]
             }
         ],
-        "url": "/api/spellcasting/8",
-        "name": "Unnamed_Index8",
-        "desc": []
+        "entry_descriptor": {
+            "index": 8,
+            "url": "/api/spellcasting/8",
+            "name": "Wizard Spellcasting",
+            "desc": []
+        }
     }
 ]

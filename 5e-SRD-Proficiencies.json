@@ -1,8 +1,6 @@
 [
     {
-        "index": 1,
         "type": "Armor",
-        "name": "Light armor",
         "classes": [
             {
                 "url": "/api/classes/1",
@@ -34,13 +32,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/1",
-        "desc": []
+        "entry_descriptor": {
+            "index": 1,
+            "url": "/api/proficiencies/1",
+            "name": "Light armor",
+            "desc": []
+        }
     },
     {
-        "index": 2,
         "type": "Armor",
-        "name": "Medium armor",
         "classes": [
             {
                 "url": "/api/classes/1",
@@ -60,22 +60,26 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/2",
-        "desc": []
+        "entry_descriptor": {
+            "index": 2,
+            "url": "/api/proficiencies/2",
+            "name": "Medium armor",
+            "desc": []
+        }
     },
     {
-        "index": 3,
         "type": "Armor",
-        "name": "Heavy armor",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/3",
-        "desc": []
+        "entry_descriptor": {
+            "index": 3,
+            "url": "/api/proficiencies/3",
+            "name": "Heavy armor",
+            "desc": []
+        }
     },
     {
-        "index": 4,
         "type": "Armor",
-        "name": "All armor",
         "classes": [
             {
                 "url": "/api/classes/5",
@@ -87,130 +91,158 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/4",
-        "desc": []
+        "entry_descriptor": {
+            "index": 4,
+            "url": "/api/proficiencies/4",
+            "name": "All armor",
+            "desc": []
+        }
     },
     {
-        "index": 5,
         "type": "Armor",
-        "name": "Padded",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/5",
-        "desc": []
+        "entry_descriptor": {
+            "index": 5,
+            "url": "/api/proficiencies/5",
+            "name": "Padded",
+            "desc": []
+        }
     },
     {
-        "index": 6,
         "type": "Armor",
-        "name": "Leather",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/6",
-        "desc": []
+        "entry_descriptor": {
+            "index": 6,
+            "url": "/api/proficiencies/6",
+            "name": "Leather",
+            "desc": []
+        }
     },
     {
-        "index": 7,
         "type": "Armor",
-        "name": "Studded Leather",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/7",
-        "desc": []
+        "entry_descriptor": {
+            "index": 7,
+            "url": "/api/proficiencies/7",
+            "name": "Studded Leather",
+            "desc": []
+        }
     },
     {
-        "index": 8,
         "type": "Armor",
-        "name": "Hide",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/8",
-        "desc": []
+        "entry_descriptor": {
+            "index": 8,
+            "url": "/api/proficiencies/8",
+            "name": "Hide",
+            "desc": []
+        }
     },
     {
-        "index": 9,
         "type": "Armor",
-        "name": "Chain Shirt",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/9",
-        "desc": []
+        "entry_descriptor": {
+            "index": 9,
+            "url": "/api/proficiencies/9",
+            "name": "Chain Shirt",
+            "desc": []
+        }
     },
     {
-        "index": 10,
         "type": "Armor",
-        "name": "Scale Mail",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/10",
-        "desc": []
+        "entry_descriptor": {
+            "index": 10,
+            "url": "/api/proficiencies/10",
+            "name": "Scale Mail",
+            "desc": []
+        }
     },
     {
-        "index": 11,
         "type": "Armor",
-        "name": "Breastplate",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/11",
-        "desc": []
+        "entry_descriptor": {
+            "index": 11,
+            "url": "/api/proficiencies/11",
+            "name": "Breastplate",
+            "desc": []
+        }
     },
     {
-        "index": 12,
         "type": "Armor",
-        "name": "Half Plate",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/12",
-        "desc": []
+        "entry_descriptor": {
+            "index": 12,
+            "url": "/api/proficiencies/12",
+            "name": "Half Plate",
+            "desc": []
+        }
     },
     {
-        "index": 13,
         "type": "Armor",
-        "name": "Ring Mail",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/13",
-        "desc": []
+        "entry_descriptor": {
+            "index": 13,
+            "url": "/api/proficiencies/13",
+            "name": "Ring Mail",
+            "desc": []
+        }
     },
     {
-        "index": 14,
         "type": "Armor",
-        "name": "Chain Mail",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/14",
-        "desc": []
+        "entry_descriptor": {
+            "index": 14,
+            "url": "/api/proficiencies/14",
+            "name": "Chain Mail",
+            "desc": []
+        }
     },
     {
-        "index": 15,
         "type": "Armor",
-        "name": "Splint",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/15",
-        "desc": []
+        "entry_descriptor": {
+            "index": 15,
+            "url": "/api/proficiencies/15",
+            "name": "Splint",
+            "desc": []
+        }
     },
     {
-        "index": 16,
         "type": "Armor",
-        "name": "Plate",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/16",
-        "desc": []
+        "entry_descriptor": {
+            "index": 16,
+            "url": "/api/proficiencies/16",
+            "name": "Plate",
+            "desc": []
+        }
     },
     {
-        "index": 17,
         "type": "Armor",
-        "name": "Shield",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/17",
-        "desc": []
+        "entry_descriptor": {
+            "index": 17,
+            "url": "/api/proficiencies/17",
+            "name": "Shield",
+            "desc": []
+        }
     },
     {
-        "index": 18,
         "type": "Armor",
-        "name": "Shields",
         "classes": [
             {
                 "url": "/api/classes/1",
@@ -238,13 +270,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/18",
-        "desc": []
+        "entry_descriptor": {
+            "index": 18,
+            "url": "/api/proficiencies/18",
+            "name": "Shields",
+            "desc": []
+        }
     },
     {
-        "index": 19,
         "type": "Weapons",
-        "name": "Simple weapons",
         "classes": [
             {
                 "url": "/api/classes/1",
@@ -284,13 +318,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/19",
-        "desc": []
+        "entry_descriptor": {
+            "index": 19,
+            "url": "/api/proficiencies/19",
+            "name": "Simple weapons",
+            "desc": []
+        }
     },
     {
-        "index": 20,
         "type": "Weapons",
-        "name": "Martial weapons",
         "classes": [
             {
                 "url": "/api/classes/1",
@@ -310,13 +346,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/20",
-        "desc": []
+        "entry_descriptor": {
+            "index": 20,
+            "url": "/api/proficiencies/20",
+            "name": "Martial weapons",
+            "desc": []
+        }
     },
     {
-        "index": 21,
         "type": "Weapons",
-        "name": "Clubs",
         "classes": [
             {
                 "url": "/api/classes/4",
@@ -324,13 +362,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/21",
-        "desc": []
+        "entry_descriptor": {
+            "index": 21,
+            "url": "/api/proficiencies/21",
+            "name": "Clubs",
+            "desc": []
+        }
     },
     {
-        "index": 22,
         "type": "Weapons",
-        "name": "Daggers",
         "classes": [
             {
                 "url": "/api/classes/4",
@@ -346,22 +386,26 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/22",
-        "desc": []
+        "entry_descriptor": {
+            "index": 22,
+            "url": "/api/proficiencies/22",
+            "name": "Daggers",
+            "desc": []
+        }
     },
     {
-        "index": 23,
         "type": "Weapons",
-        "name": "Greatclubs",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/23",
-        "desc": []
+        "entry_descriptor": {
+            "index": 23,
+            "url": "/api/proficiencies/23",
+            "name": "Greatclubs",
+            "desc": []
+        }
     },
     {
-        "index": 24,
         "type": "Weapons",
-        "name": "Handaxes",
         "classes": [],
         "races": [
             {
@@ -369,13 +413,15 @@
                 "name": "Dwarf"
             }
         ],
-        "url": "/api/proficiencies/24",
-        "desc": []
+        "entry_descriptor": {
+            "index": 24,
+            "url": "/api/proficiencies/24",
+            "name": "Handaxes",
+            "desc": []
+        }
     },
     {
-        "index": 25,
         "type": "Weapons",
-        "name": "Javelins",
         "classes": [
             {
                 "url": "/api/classes/4",
@@ -383,13 +429,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/25",
-        "desc": []
+        "entry_descriptor": {
+            "index": 25,
+            "url": "/api/proficiencies/25",
+            "name": "Javelins",
+            "desc": []
+        }
     },
     {
-        "index": 26,
         "type": "Weapons",
-        "name": "Light hammers",
         "classes": [],
         "races": [
             {
@@ -397,13 +445,15 @@
                 "name": "Dwarf"
             }
         ],
-        "url": "/api/proficiencies/26",
-        "desc": []
+        "entry_descriptor": {
+            "index": 26,
+            "url": "/api/proficiencies/26",
+            "name": "Light hammers",
+            "desc": []
+        }
     },
     {
-        "index": 27,
         "type": "Weapons",
-        "name": "Maces",
         "classes": [
             {
                 "url": "/api/classes/4",
@@ -411,13 +461,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/27",
-        "desc": []
+        "entry_descriptor": {
+            "index": 27,
+            "url": "/api/proficiencies/27",
+            "name": "Maces",
+            "desc": []
+        }
     },
     {
-        "index": 28,
         "type": "Weapons",
-        "name": "Quarterstaffs",
         "classes": [
             {
                 "url": "/api/classes/4",
@@ -433,13 +485,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/28",
-        "desc": []
+        "entry_descriptor": {
+            "index": 28,
+            "url": "/api/proficiencies/28",
+            "name": "Quarterstaffs",
+            "desc": []
+        }
     },
     {
-        "index": 29,
         "type": "Weapons",
-        "name": "Sickles",
         "classes": [
             {
                 "url": "/api/classes/4",
@@ -447,13 +501,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/29",
-        "desc": []
+        "entry_descriptor": {
+            "index": 29,
+            "url": "/api/proficiencies/29",
+            "name": "Sickles",
+            "desc": []
+        }
     },
     {
-        "index": 30,
         "type": "Weapons",
-        "name": "Spears",
         "classes": [
             {
                 "url": "/api/classes/4",
@@ -461,22 +517,26 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/30",
-        "desc": []
+        "entry_descriptor": {
+            "index": 30,
+            "url": "/api/proficiencies/30",
+            "name": "Spears",
+            "desc": []
+        }
     },
     {
-        "index": 31,
         "type": "Weapons",
-        "name": "Crossbows, light",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/31",
-        "desc": []
+        "entry_descriptor": {
+            "index": 31,
+            "url": "/api/proficiencies/31",
+            "name": "Crossbows, light",
+            "desc": []
+        }
     },
     {
-        "index": 32,
         "type": "Weapons",
-        "name": "Darts",
         "classes": [
             {
                 "url": "/api/classes/4",
@@ -492,13 +552,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/32",
-        "desc": []
+        "entry_descriptor": {
+            "index": 32,
+            "url": "/api/proficiencies/32",
+            "name": "Darts",
+            "desc": []
+        }
     },
     {
-        "index": 33,
         "type": "Weapons",
-        "name": "Shortbows",
         "classes": [],
         "races": [
             {
@@ -506,13 +568,15 @@
                 "name": "High Elf"
             }
         ],
-        "url": "/api/proficiencies/33",
-        "desc": []
+        "entry_descriptor": {
+            "index": 33,
+            "url": "/api/proficiencies/33",
+            "name": "Shortbows",
+            "desc": []
+        }
     },
     {
-        "index": 34,
         "type": "Weapons",
-        "name": "Slings",
         "classes": [
             {
                 "url": "/api/classes/4",
@@ -528,13 +592,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/34",
-        "desc": []
+        "entry_descriptor": {
+            "index": 34,
+            "url": "/api/proficiencies/34",
+            "name": "Slings",
+            "desc": []
+        }
     },
     {
-        "index": 35,
         "type": "Weapons",
-        "name": "Battleaxes",
         "classes": [],
         "races": [
             {
@@ -542,67 +608,81 @@
                 "name": "Dwarf"
             }
         ],
-        "url": "/api/proficiencies/35",
-        "desc": []
+        "entry_descriptor": {
+            "index": 35,
+            "url": "/api/proficiencies/35",
+            "name": "Battleaxes",
+            "desc": []
+        }
     },
     {
-        "index": 36,
         "type": "Weapons",
-        "name": "Flails",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/36",
-        "desc": []
+        "entry_descriptor": {
+            "index": 36,
+            "url": "/api/proficiencies/36",
+            "name": "Flails",
+            "desc": []
+        }
     },
     {
-        "index": 37,
         "type": "Weapons",
-        "name": "Glaives",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/37",
-        "desc": []
+        "entry_descriptor": {
+            "index": 37,
+            "url": "/api/proficiencies/37",
+            "name": "Glaives",
+            "desc": []
+        }
     },
     {
-        "index": 38,
         "type": "Weapons",
-        "name": "Greataxes",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/38",
-        "desc": []
+        "entry_descriptor": {
+            "index": 38,
+            "url": "/api/proficiencies/38",
+            "name": "Greataxes",
+            "desc": []
+        }
     },
     {
-        "index": 39,
         "type": "Weapons",
-        "name": "Greatswords",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/39",
-        "desc": []
+        "entry_descriptor": {
+            "index": 39,
+            "url": "/api/proficiencies/39",
+            "name": "Greatswords",
+            "desc": []
+        }
     },
     {
-        "index": 40,
         "type": "Weapons",
-        "name": "Halberds",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/40",
-        "desc": []
+        "entry_descriptor": {
+            "index": 40,
+            "url": "/api/proficiencies/40",
+            "name": "Halberds",
+            "desc": []
+        }
     },
     {
-        "index": 41,
         "type": "Weapons",
-        "name": "Lances",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/41",
-        "desc": []
+        "entry_descriptor": {
+            "index": 41,
+            "url": "/api/proficiencies/41",
+            "name": "Lances",
+            "desc": []
+        }
     },
     {
-        "index": 42,
         "type": "Weapons",
-        "name": "Longswords",
         "classes": [
             {
                 "url": "/api/classes/2",
@@ -619,40 +699,48 @@
                 "name": "High Elf"
             }
         ],
-        "url": "/api/proficiencies/42",
-        "desc": []
+        "entry_descriptor": {
+            "index": 42,
+            "url": "/api/proficiencies/42",
+            "name": "Longswords",
+            "desc": []
+        }
     },
     {
-        "index": 43,
         "type": "Weapons",
-        "name": "Mauls",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/43",
-        "desc": []
+        "entry_descriptor": {
+            "index": 43,
+            "url": "/api/proficiencies/43",
+            "name": "Mauls",
+            "desc": []
+        }
     },
     {
-        "index": 44,
         "type": "Weapons",
-        "name": "Morningstars",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/44",
-        "desc": []
+        "entry_descriptor": {
+            "index": 44,
+            "url": "/api/proficiencies/44",
+            "name": "Morningstars",
+            "desc": []
+        }
     },
     {
-        "index": 45,
         "type": "Weapons",
-        "name": "Pikes",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/45",
-        "desc": []
+        "entry_descriptor": {
+            "index": 45,
+            "url": "/api/proficiencies/45",
+            "name": "Pikes",
+            "desc": []
+        }
     },
     {
-        "index": 46,
         "type": "Weapons",
-        "name": "Rapiers",
         "classes": [
             {
                 "url": "/api/classes/2",
@@ -664,13 +752,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/46",
-        "desc": []
+        "entry_descriptor": {
+            "index": 46,
+            "url": "/api/proficiencies/46",
+            "name": "Rapiers",
+            "desc": []
+        }
     },
     {
-        "index": 47,
         "type": "Weapons",
-        "name": "Scimitars",
         "classes": [
             {
                 "url": "/api/classes/4",
@@ -678,13 +768,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/47",
-        "desc": []
+        "entry_descriptor": {
+            "index": 47,
+            "url": "/api/proficiencies/47",
+            "name": "Scimitars",
+            "desc": []
+        }
     },
     {
-        "index": 48,
         "type": "Weapons",
-        "name": "Shortswords",
         "classes": [
             {
                 "url": "/api/classes/2",
@@ -705,31 +797,37 @@
                 "name": "High Elf"
             }
         ],
-        "url": "/api/proficiencies/48",
-        "desc": []
+        "entry_descriptor": {
+            "index": 48,
+            "url": "/api/proficiencies/48",
+            "name": "Shortswords",
+            "desc": []
+        }
     },
     {
-        "index": 49,
         "type": "Weapons",
-        "name": "Tridents",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/49",
-        "desc": []
+        "entry_descriptor": {
+            "index": 49,
+            "url": "/api/proficiencies/49",
+            "name": "Tridents",
+            "desc": []
+        }
     },
     {
-        "index": 50,
         "type": "Weapons",
-        "name": "War picks",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/50",
-        "desc": []
+        "entry_descriptor": {
+            "index": 50,
+            "url": "/api/proficiencies/50",
+            "name": "War picks",
+            "desc": []
+        }
     },
     {
-        "index": 51,
         "type": "Weapons",
-        "name": "Warhammers",
         "classes": [],
         "races": [
             {
@@ -737,31 +835,37 @@
                 "name": "Dwarf"
             }
         ],
-        "url": "/api/proficiencies/51",
-        "desc": []
+        "entry_descriptor": {
+            "index": 51,
+            "url": "/api/proficiencies/51",
+            "name": "Warhammers",
+            "desc": []
+        }
     },
     {
-        "index": 52,
         "type": "Weapons",
-        "name": "Whips",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/52",
-        "desc": []
+        "entry_descriptor": {
+            "index": 52,
+            "url": "/api/proficiencies/52",
+            "name": "Whips",
+            "desc": []
+        }
     },
     {
-        "index": 53,
         "type": "Weapons",
-        "name": "Blowguns",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/53",
-        "desc": []
+        "entry_descriptor": {
+            "index": 53,
+            "url": "/api/proficiencies/53",
+            "name": "Blowguns",
+            "desc": []
+        }
     },
     {
-        "index": 54,
         "type": "Weapons",
-        "name": "Crossbows, hand",
         "classes": [
             {
                 "url": "/api/classes/2",
@@ -773,22 +877,26 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/54",
-        "desc": []
+        "entry_descriptor": {
+            "index": 54,
+            "url": "/api/proficiencies/54",
+            "name": "Crossbows, hand",
+            "desc": []
+        }
     },
     {
-        "index": 55,
         "type": "Weapons",
-        "name": "Crossbows, heavy",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/55",
-        "desc": []
+        "entry_descriptor": {
+            "index": 55,
+            "url": "/api/proficiencies/55",
+            "name": "Crossbows, heavy",
+            "desc": []
+        }
     },
     {
-        "index": 56,
         "type": "Weapons",
-        "name": "Longbows",
         "classes": [],
         "races": [
             {
@@ -796,337 +904,411 @@
                 "name": "High Elf"
             }
         ],
-        "url": "/api/proficiencies/56",
-        "desc": []
+        "entry_descriptor": {
+            "index": 56,
+            "url": "/api/proficiencies/56",
+            "name": "Longbows",
+            "desc": []
+        }
     },
     {
-        "index": 57,
         "type": "Weapons",
-        "name": "Nets",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/57",
-        "desc": []
+        "entry_descriptor": {
+            "index": 57,
+            "url": "/api/proficiencies/57",
+            "name": "Nets",
+            "desc": []
+        }
     },
     {
-        "index": 58,
         "type": "Artisan's Tools",
-        "name": "Alchemist's supplies",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/58",
-        "desc": []
+        "entry_descriptor": {
+            "index": 58,
+            "url": "/api/proficiencies/58",
+            "name": "Alchemist's supplies",
+            "desc": []
+        }
     },
     {
-        "index": 59,
         "type": "Artisan's Tools",
-        "name": "Brewer's supplies",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/59",
-        "desc": []
+        "entry_descriptor": {
+            "index": 59,
+            "url": "/api/proficiencies/59",
+            "name": "Brewer's supplies",
+            "desc": []
+        }
     },
     {
-        "index": 60,
         "type": "Artisan's Tools",
-        "name": "Calligrapher's supplies",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/60",
-        "desc": []
+        "entry_descriptor": {
+            "index": 60,
+            "url": "/api/proficiencies/60",
+            "name": "Calligrapher's supplies",
+            "desc": []
+        }
     },
     {
-        "index": 61,
         "type": "Artisan's Tools",
-        "name": "Carpenter's tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/61",
-        "desc": []
+        "entry_descriptor": {
+            "index": 61,
+            "url": "/api/proficiencies/61",
+            "name": "Carpenter's tools",
+            "desc": []
+        }
     },
     {
-        "index": 62,
         "type": "Artisan's Tools",
-        "name": "Cartographer's tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/62",
-        "desc": []
+        "entry_descriptor": {
+            "index": 62,
+            "url": "/api/proficiencies/62",
+            "name": "Cartographer's tools",
+            "desc": []
+        }
     },
     {
-        "index": 63,
         "type": "Artisan's Tools",
-        "name": "Cobbler's tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/63",
-        "desc": []
+        "entry_descriptor": {
+            "index": 63,
+            "url": "/api/proficiencies/63",
+            "name": "Cobbler's tools",
+            "desc": []
+        }
     },
     {
-        "index": 64,
         "type": "Artisan's Tools",
-        "name": "Cook's utensils",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/64",
-        "desc": []
+        "entry_descriptor": {
+            "index": 64,
+            "url": "/api/proficiencies/64",
+            "name": "Cook's utensils",
+            "desc": []
+        }
     },
     {
-        "index": 65,
         "type": "Artisan's Tools",
-        "name": "Glassblower's tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/65",
-        "desc": []
+        "entry_descriptor": {
+            "index": 65,
+            "url": "/api/proficiencies/65",
+            "name": "Glassblower's tools",
+            "desc": []
+        }
     },
     {
-        "index": 66,
         "type": "Artisan's Tools",
-        "name": "Jeweler's tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/66",
-        "desc": []
+        "entry_descriptor": {
+            "index": 66,
+            "url": "/api/proficiencies/66",
+            "name": "Jeweler's tools",
+            "desc": []
+        }
     },
     {
-        "index": 67,
         "type": "Artisan's Tools",
-        "name": "Leatherworker's tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/67",
-        "desc": []
+        "entry_descriptor": {
+            "index": 67,
+            "url": "/api/proficiencies/67",
+            "name": "Leatherworker's tools",
+            "desc": []
+        }
     },
     {
-        "index": 68,
         "type": "Artisan's Tools",
-        "name": "Mason's tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/68",
-        "desc": []
+        "entry_descriptor": {
+            "index": 68,
+            "url": "/api/proficiencies/68",
+            "name": "Mason's tools",
+            "desc": []
+        }
     },
     {
-        "index": 69,
         "type": "Artisan's Tools",
-        "name": "Painter's supplies",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/69",
-        "desc": []
+        "entry_descriptor": {
+            "index": 69,
+            "url": "/api/proficiencies/69",
+            "name": "Painter's supplies",
+            "desc": []
+        }
     },
     {
-        "index": 70,
         "type": "Artisan's Tools",
-        "name": "Potter's tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/70",
-        "desc": []
+        "entry_descriptor": {
+            "index": 70,
+            "url": "/api/proficiencies/70",
+            "name": "Potter's tools",
+            "desc": []
+        }
     },
     {
-        "index": 71,
         "type": "Artisan's Tools",
-        "name": "Smith's tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/71",
-        "desc": []
+        "entry_descriptor": {
+            "index": 71,
+            "url": "/api/proficiencies/71",
+            "name": "Smith's tools",
+            "desc": []
+        }
     },
     {
-        "index": 72,
         "type": "Artisan's Tools",
-        "name": "Tinker's tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/72",
-        "desc": []
+        "entry_descriptor": {
+            "index": 72,
+            "url": "/api/proficiencies/72",
+            "name": "Tinker's tools",
+            "desc": []
+        }
     },
     {
-        "index": 73,
         "type": "Artisan's Tools",
-        "name": "Weaver's tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/73",
-        "desc": []
+        "entry_descriptor": {
+            "index": 73,
+            "url": "/api/proficiencies/73",
+            "name": "Weaver's tools",
+            "desc": []
+        }
     },
     {
-        "index": 74,
         "type": "Artisan's Tools",
-        "name": "Woodcarver's tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/74",
-        "desc": []
+        "entry_descriptor": {
+            "index": 74,
+            "url": "/api/proficiencies/74",
+            "name": "Woodcarver's tools",
+            "desc": []
+        }
     },
     {
-        "index": 75,
         "type": "Artisan's Tools",
-        "name": "Disguise kit",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/75",
-        "desc": []
+        "entry_descriptor": {
+            "index": 75,
+            "url": "/api/proficiencies/75",
+            "name": "Disguise kit",
+            "desc": []
+        }
     },
     {
-        "index": 76,
         "type": "Artisan's Tools",
-        "name": "Forgery kit",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/76",
-        "desc": []
+        "entry_descriptor": {
+            "index": 76,
+            "url": "/api/proficiencies/76",
+            "name": "Forgery kit",
+            "desc": []
+        }
     },
     {
-        "index": 77,
         "type": "Gaming Sets",
-        "name": "Dice Set",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/77",
-        "desc": []
+        "entry_descriptor": {
+            "index": 77,
+            "url": "/api/proficiencies/77",
+            "name": "Dice Set",
+            "desc": []
+        }
     },
     {
-        "index": 78,
         "type": "Gaming Sets",
-        "name": "Dragonchess set",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/78",
-        "desc": []
+        "entry_descriptor": {
+            "index": 78,
+            "url": "/api/proficiencies/78",
+            "name": "Dragonchess set",
+            "desc": []
+        }
     },
     {
-        "index": 79,
         "type": "Gaming Sets",
-        "name": "Playing card set",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/79",
-        "desc": []
+        "entry_descriptor": {
+            "index": 79,
+            "url": "/api/proficiencies/79",
+            "name": "Playing card set",
+            "desc": []
+        }
     },
     {
-        "index": 80,
         "type": "Gaming Sets",
-        "name": "Three-Dragon Ante set",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/80",
-        "desc": []
+        "entry_descriptor": {
+            "index": 80,
+            "url": "/api/proficiencies/80",
+            "name": "Three-Dragon Ante set",
+            "desc": []
+        }
     },
     {
-        "index": 81,
         "type": "Musical Instruments",
-        "name": "Bagpipes",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/81",
-        "desc": []
+        "entry_descriptor": {
+            "index": 81,
+            "url": "/api/proficiencies/81",
+            "name": "Bagpipes",
+            "desc": []
+        }
     },
     {
-        "index": 82,
         "type": "Musical Instruments",
-        "name": "Drum",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/82",
-        "desc": []
+        "entry_descriptor": {
+            "index": 82,
+            "url": "/api/proficiencies/82",
+            "name": "Drum",
+            "desc": []
+        }
     },
     {
-        "index": 83,
         "type": "Musical Instruments",
-        "name": "Dulcimer",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/83",
-        "desc": []
+        "entry_descriptor": {
+            "index": 83,
+            "url": "/api/proficiencies/83",
+            "name": "Dulcimer",
+            "desc": []
+        }
     },
     {
-        "index": 84,
         "type": "Musical Instruments",
-        "name": "Flute",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/84",
-        "desc": []
+        "entry_descriptor": {
+            "index": 84,
+            "url": "/api/proficiencies/84",
+            "name": "Flute",
+            "desc": []
+        }
     },
     {
-        "index": 85,
         "type": "Musical Instruments",
-        "name": "Lute",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/85",
-        "desc": []
+        "entry_descriptor": {
+            "index": 85,
+            "url": "/api/proficiencies/85",
+            "name": "Lute",
+            "desc": []
+        }
     },
     {
-        "index": 86,
         "type": "Musical Instruments",
-        "name": "Lyre",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/86",
-        "desc": []
+        "entry_descriptor": {
+            "index": 86,
+            "url": "/api/proficiencies/86",
+            "name": "Lyre",
+            "desc": []
+        }
     },
     {
-        "index": 87,
         "type": "Musical Instruments",
-        "name": "Horn",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/87",
-        "desc": []
+        "entry_descriptor": {
+            "index": 87,
+            "url": "/api/proficiencies/87",
+            "name": "Horn",
+            "desc": []
+        }
     },
     {
-        "index": 88,
         "type": "Musical Instruments",
-        "name": "Pan flute",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/88",
-        "desc": []
+        "entry_descriptor": {
+            "index": 88,
+            "url": "/api/proficiencies/88",
+            "name": "Pan flute",
+            "desc": []
+        }
     },
     {
-        "index": 89,
         "type": "Musical Instruments",
-        "name": "Shawm",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/89",
-        "desc": []
+        "entry_descriptor": {
+            "index": 89,
+            "url": "/api/proficiencies/89",
+            "name": "Shawm",
+            "desc": []
+        }
     },
     {
-        "index": 90,
         "type": "Musical Instruments",
-        "name": "Viol",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/90",
-        "desc": []
+        "entry_descriptor": {
+            "index": 90,
+            "url": "/api/proficiencies/90",
+            "name": "Viol",
+            "desc": []
+        }
     },
     {
-        "index": 91,
         "type": "Other",
-        "name": "Disguise Kit",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/91",
-        "desc": []
+        "entry_descriptor": {
+            "index": 91,
+            "url": "/api/proficiencies/91",
+            "name": "Disguise Kit",
+            "desc": []
+        }
     },
     {
-        "index": 92,
         "type": "Other",
-        "name": "Forgery Kit",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/92",
-        "desc": []
+        "entry_descriptor": {
+            "index": 92,
+            "url": "/api/proficiencies/92",
+            "name": "Forgery Kit",
+            "desc": []
+        }
     },
     {
-        "index": 93,
         "type": "Other",
-        "name": "Herbalism Kit",
         "classes": [
             {
                 "url": "/api/classes/4",
@@ -1134,31 +1316,37 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/93",
-        "desc": []
+        "entry_descriptor": {
+            "index": 93,
+            "url": "/api/proficiencies/93",
+            "name": "Herbalism Kit",
+            "desc": []
+        }
     },
     {
-        "index": 94,
         "type": "Other",
-        "name": "Navigator's Tools",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/94",
-        "desc": []
+        "entry_descriptor": {
+            "index": 94,
+            "url": "/api/proficiencies/94",
+            "name": "Navigator's Tools",
+            "desc": []
+        }
     },
     {
-        "index": 95,
         "type": "Other",
-        "name": "Poisoner's Kit",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/95",
-        "desc": []
+        "entry_descriptor": {
+            "index": 95,
+            "url": "/api/proficiencies/95",
+            "name": "Poisoner's Kit",
+            "desc": []
+        }
     },
     {
-        "index": 96,
         "type": "Other",
-        "name": "Thieves' Tools",
         "classes": [
             {
                 "url": "/api/classes/9",
@@ -1166,31 +1354,37 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/96",
-        "desc": []
+        "entry_descriptor": {
+            "index": 96,
+            "url": "/api/proficiencies/96",
+            "name": "Thieves' Tools",
+            "desc": []
+        }
     },
     {
-        "index": 97,
         "type": "Vehicles",
-        "name": "Land Vehicles",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/97",
-        "desc": []
+        "entry_descriptor": {
+            "index": 97,
+            "url": "/api/proficiencies/97",
+            "name": "Land Vehicles",
+            "desc": []
+        }
     },
     {
-        "index": 98,
         "type": "Vehicles",
-        "name": "Water Vehicles",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/98",
-        "desc": []
+        "entry_descriptor": {
+            "index": 98,
+            "url": "/api/proficiencies/98",
+            "name": "Water Vehicles",
+            "desc": []
+        }
     },
     {
-        "index": 99,
         "type": "Saving Throws",
-        "name": "Saving Throw: STR",
         "classes": [
             {
                 "url": "/api/classes/1",
@@ -1210,13 +1404,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/99",
-        "desc": []
+        "entry_descriptor": {
+            "index": 99,
+            "url": "/api/proficiencies/99",
+            "name": "Saving Throw: STR",
+            "desc": []
+        }
     },
     {
-        "index": 100,
         "type": "Saving Throws",
-        "name": "Saving Throw: DEX",
         "classes": [
             {
                 "url": "/api/classes/2",
@@ -1236,13 +1432,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/100",
-        "desc": []
+        "entry_descriptor": {
+            "index": 100,
+            "url": "/api/proficiencies/100",
+            "name": "Saving Throw: DEX",
+            "desc": []
+        }
     },
     {
-        "index": 101,
         "type": "Saving Throws",
-        "name": "Saving Throw: CON",
         "classes": [
             {
                 "url": "/api/classes/1",
@@ -1258,13 +1456,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/101",
-        "desc": []
+        "entry_descriptor": {
+            "index": 101,
+            "url": "/api/proficiencies/101",
+            "name": "Saving Throw: CON",
+            "desc": []
+        }
     },
     {
-        "index": 102,
         "type": "Saving Throws",
-        "name": "Saving Throw: INT",
         "classes": [
             {
                 "url": "/api/classes/4",
@@ -1280,13 +1480,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/102",
-        "desc": []
+        "entry_descriptor": {
+            "index": 102,
+            "url": "/api/proficiencies/102",
+            "name": "Saving Throw: INT",
+            "desc": []
+        }
     },
     {
-        "index": 103,
         "type": "Saving Throws",
-        "name": "Saving Throw: WIS",
         "classes": [
             {
                 "url": "/api/classes/3",
@@ -1310,13 +1512,15 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/103",
-        "desc": []
+        "entry_descriptor": {
+            "index": 103,
+            "url": "/api/proficiencies/103",
+            "name": "Saving Throw: WIS",
+            "desc": []
+        }
     },
     {
-        "index": 104,
         "type": "Saving Throws",
-        "name": "Saving Throw: CHA",
         "classes": [
             {
                 "url": "/api/classes/2",
@@ -1340,112 +1544,136 @@
             }
         ],
         "races": [],
-        "url": "/api/proficiencies/104",
-        "desc": []
+        "entry_descriptor": {
+            "index": 104,
+            "url": "/api/proficiencies/104",
+            "name": "Saving Throw: CHA",
+            "desc": []
+        }
     },
     {
-        "index": 105,
         "type": "Skills",
-        "name": "Skill: Acrobatics",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/105",
-        "desc": []
+        "entry_descriptor": {
+            "index": 105,
+            "url": "/api/proficiencies/105",
+            "name": "Skill: Acrobatics",
+            "desc": []
+        }
     },
     {
-        "index": 106,
         "type": "Skills",
-        "name": "Skill: Animal Handling",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/106",
-        "desc": []
+        "entry_descriptor": {
+            "index": 106,
+            "url": "/api/proficiencies/106",
+            "name": "Skill: Animal Handling",
+            "desc": []
+        }
     },
     {
-        "index": 107,
         "type": "Skills",
-        "name": "Skill: Arcana",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/107",
-        "desc": []
+        "entry_descriptor": {
+            "index": 107,
+            "url": "/api/proficiencies/107",
+            "name": "Skill: Arcana",
+            "desc": []
+        }
     },
     {
-        "index": 108,
         "type": "Skills",
-        "name": "Skill: Athletics",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/108",
-        "desc": []
+        "entry_descriptor": {
+            "index": 108,
+            "url": "/api/proficiencies/108",
+            "name": "Skill: Athletics",
+            "desc": []
+        }
     },
     {
-        "index": 109,
         "type": "Skills",
-        "name": "Skill: Deception",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/109",
-        "desc": []
+        "entry_descriptor": {
+            "index": 109,
+            "url": "/api/proficiencies/109",
+            "name": "Skill: Deception",
+            "desc": []
+        }
     },
     {
-        "index": 110,
         "type": "Skills",
-        "name": "Skill: History",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/110",
-        "desc": []
+        "entry_descriptor": {
+            "index": 110,
+            "url": "/api/proficiencies/110",
+            "name": "Skill: History",
+            "desc": []
+        }
     },
     {
-        "index": 111,
         "type": "Skills",
-        "name": "Skill: Insight",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/111",
-        "desc": []
+        "entry_descriptor": {
+            "index": 111,
+            "url": "/api/proficiencies/111",
+            "name": "Skill: Insight",
+            "desc": []
+        }
     },
     {
-        "index": 112,
         "type": "Skills",
-        "name": "Skill: Intimidation",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/112",
-        "desc": []
+        "entry_descriptor": {
+            "index": 112,
+            "url": "/api/proficiencies/112",
+            "name": "Skill: Intimidation",
+            "desc": []
+        }
     },
     {
-        "index": 113,
         "type": "Skills",
-        "name": "Skill: Investigation",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/113",
-        "desc": []
+        "entry_descriptor": {
+            "index": 113,
+            "url": "/api/proficiencies/113",
+            "name": "Skill: Investigation",
+            "desc": []
+        }
     },
     {
-        "index": 114,
         "type": "Skills",
-        "name": "Skill: Medicine",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/114",
-        "desc": []
+        "entry_descriptor": {
+            "index": 114,
+            "url": "/api/proficiencies/114",
+            "name": "Skill: Medicine",
+            "desc": []
+        }
     },
     {
-        "index": 115,
         "type": "Skills",
-        "name": "Skill: Nature",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/115",
-        "desc": []
+        "entry_descriptor": {
+            "index": 115,
+            "url": "/api/proficiencies/115",
+            "name": "Skill: Nature",
+            "desc": []
+        }
     },
     {
-        "index": 116,
         "type": "Skills",
-        "name": "Skill: Perception",
         "classes": [],
         "races": [
             {
@@ -1453,61 +1681,77 @@
                 "name": "Elf"
             }
         ],
-        "url": "/api/proficiencies/116",
-        "desc": []
+        "entry_descriptor": {
+            "index": 116,
+            "url": "/api/proficiencies/116",
+            "name": "Skill: Perception",
+            "desc": []
+        }
     },
     {
-        "index": 117,
         "type": "Skills",
-        "name": "Skill: Performance",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/117",
-        "desc": []
+        "entry_descriptor": {
+            "index": 117,
+            "url": "/api/proficiencies/117",
+            "name": "Skill: Performance",
+            "desc": []
+        }
     },
     {
-        "index": 118,
         "type": "Skills",
-        "name": "Skill: Persuasion",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/118",
-        "desc": []
+        "entry_descriptor": {
+            "index": 118,
+            "url": "/api/proficiencies/118",
+            "name": "Skill: Persuasion",
+            "desc": []
+        }
     },
     {
-        "index": 119,
         "type": "Skills",
-        "name": "Skill: Religion",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/119",
-        "desc": []
+        "entry_descriptor": {
+            "index": 119,
+            "url": "/api/proficiencies/119",
+            "name": "Skill: Religion",
+            "desc": []
+        }
     },
     {
-        "index": 120,
         "type": "Skills",
-        "name": "Skill: Sleight of Hand",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/120",
-        "desc": []
+        "entry_descriptor": {
+            "index": 120,
+            "url": "/api/proficiencies/120",
+            "name": "Skill: Sleight of Hand",
+            "desc": []
+        }
     },
     {
-        "index": 121,
         "type": "Skills",
-        "name": "Skill: Stealth",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/121",
-        "desc": []
+        "entry_descriptor": {
+            "index": 121,
+            "url": "/api/proficiencies/121",
+            "name": "Skill: Stealth",
+            "desc": []
+        }
     },
     {
-        "index": 122,
         "type": "Skills",
-        "name": "Skill: Survival",
         "classes": [],
         "races": [],
-        "url": "/api/proficiencies/122",
-        "desc": []
+        "entry_descriptor": {
+            "index": 122,
+            "url": "/api/proficiencies/122",
+            "name": "Skill: Survival",
+            "desc": []
+        }
     }
 ]
