@@ -387,7 +387,8 @@
             "desc": [
                 "You have resistance to the damage type associated with your draconic ancestry."
             ]
-        }
+        },
+        "subraces": []
     },
     {
         "races": [

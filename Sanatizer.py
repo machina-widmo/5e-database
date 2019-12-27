@@ -120,21 +120,19 @@ def Sanatize_EquipmentDatabase(raw_json_data, database_name):
             # This will get fixed up later.
             name = {"name": name, "url": "/api/equipment-categories/1"}
 
-    top_level_shared_attributes = ["name", "url", "equipment_category", "desc", "index", "cost", ENTRY_DESCRIPTOR]
+        return name
+
+    top_level_shared_attributes = ["cost", ENTRY_DESCRIPTOR, 'category_specific']
 
     for json_object in raw_json_data:
-        if 'category_specific' in json_object:
-            if ENTRY_DESCRIPTOR in json_object['category_specific']:
-                category_specific = json_object['category_specific']
-                json_object[ENTRY_DESCRIPTOR] = category_specific[ENTRY_DESCRIPTOR]
-                del category_specific[ENTRY_DESCRIPTOR]
+        category_specific = json_object.setdefault('category_specific', {})
 
-        for key, value in list(json_object.items()):
+        for key in list(json_object.keys()):
             if key.endswith("_category"):
-                json_object[key] = TransformNameToReference(value)
+                json_object[key] = TransformNameToReference(json_object[key])
 
             if not key in top_level_shared_attributes:
-                json_object.setdefault('category_specific', {})[key] = value
+                category_specific[key] = json_object[key]
                 del json_object[key]
 
     return raw_json_data
@@ -222,9 +220,6 @@ def Sanatize_TraitsDatabase_PostRefFixup(raw_json_data, database_name, database_
                 race for race in json_object["races"]
                 if race["name"] not in subrace_names
             ]
-
-        else:
-            del json_object["subraces"]
 
 
 def FixupReference(field, field_name_scoped, database_name_finder):
