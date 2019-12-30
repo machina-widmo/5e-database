@@ -1,12 +1,12 @@
 [
     {
         "class": {
-            "url": "/api/classes/2",
+            "url": "/api/classes/1",
             "name": "Bard"
         },
         "level": 1,
         "spellcasting_ability": {
-            "url": "/api/ability-scores/6",
+            "url": "/api/ability-scores/5",
             "name": "CHA"
         },
         "info": [
@@ -54,20 +54,20 @@
             }
         ],
         "entry_descriptor": {
-            "index": 1,
-            "url": "/api/spellcasting/1",
+            "index": 0,
+            "url": "/api/spellcasting/0",
             "name": "Bard Spellcasting",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/3",
+            "url": "/api/classes/2",
             "name": "Cleric"
         },
         "level": 1,
         "spellcasting_ability": {
-            "url": "/api/ability-scores/5",
+            "url": "/api/ability-scores/4",
             "name": "WIS"
         },
         "info": [
@@ -108,20 +108,20 @@
             }
         ],
         "entry_descriptor": {
-            "index": 2,
-            "url": "/api/spellcasting/2",
+            "index": 1,
+            "url": "/api/spellcasting/1",
             "name": "Cleric Spellcasting",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/4",
+            "url": "/api/classes/3",
             "name": "Druid"
         },
         "level": 1,
         "spellcasting_ability": {
-            "url": "/api/ability-scores/5",
+            "url": "/api/ability-scores/4",
             "name": "WIS"
         },
         "info": [
@@ -160,20 +160,20 @@
             }
         ],
         "entry_descriptor": {
-            "index": 3,
-            "url": "/api/spellcasting/3",
+            "index": 2,
+            "url": "/api/spellcasting/2",
             "name": "Druid Spellcasting",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/7",
+            "url": "/api/classes/6",
             "name": "Paladin"
         },
         "level": 2,
         "spellcasting_ability": {
-            "url": "/api/ability-scores/6",
+            "url": "/api/ability-scores/5",
             "name": "CHA"
         },
         "info": [
@@ -200,20 +200,20 @@
             }
         ],
         "entry_descriptor": {
-            "index": 4,
-            "url": "/api/spellcasting/4",
+            "index": 3,
+            "url": "/api/spellcasting/3",
             "name": "Paladin Spellcasting",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/8",
+            "url": "/api/classes/7",
             "name": "Ranger"
         },
         "level": 2,
         "spellcasting_ability": {
-            "url": "/api/ability-scores/5",
+            "url": "/api/ability-scores/4",
             "name": "WIS"
         },
         "info": [
@@ -240,20 +240,20 @@
             }
         ],
         "entry_descriptor": {
-            "index": 5,
-            "url": "/api/spellcasting/5",
+            "index": 4,
+            "url": "/api/spellcasting/4",
             "name": "Ranger Spellcasting",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/10",
+            "url": "/api/classes/9",
             "name": "Sorcerer"
         },
         "level": 1,
         "spellcasting_ability": {
-            "url": "/api/ability-scores/6",
+            "url": "/api/ability-scores/5",
             "name": "CHA"
         },
         "info": [
@@ -292,20 +292,20 @@
             }
         ],
         "entry_descriptor": {
-            "index": 6,
-            "url": "/api/spellcasting/6",
+            "index": 5,
+            "url": "/api/spellcasting/5",
             "name": "Sorcerer Spellcasting",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/11",
+            "url": "/api/classes/10",
             "name": "Warlock"
         },
         "level": 1,
         "spellcasting_ability": {
-            "url": "/api/ability-scores/6",
+            "url": "/api/ability-scores/5",
             "name": "CHA"
         },
         "info": [
@@ -345,20 +345,20 @@
             }
         ],
         "entry_descriptor": {
-            "index": 7,
-            "url": "/api/spellcasting/7",
+            "index": 6,
+            "url": "/api/spellcasting/6",
             "name": "Warlock Spellcasting",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/12",
+            "url": "/api/classes/11",
             "name": "Wizard"
         },
         "level": 1,
         "spellcasting_ability": {
-            "url": "/api/ability-scores/4",
+            "url": "/api/ability-scores/3",
             "name": "INT"
         },
         "info": [
@@ -403,8 +403,8 @@
             }
         ],
         "entry_descriptor": {
-            "index": 8,
-            "url": "/api/spellcasting/8",
+            "index": 7,
+            "url": "/api/spellcasting/7",
             "name": "Wizard Spellcasting",
             "desc": []
         }

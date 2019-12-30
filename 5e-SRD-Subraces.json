@@ -1,13 +1,161 @@
 [
     {
         "race": {
-            "url": "/api/races/1",
+            "url": "/api/races/0",
             "name": "Dwarf"
         },
         "ability_bonuses": [
             {
                 "ability": {
                     "name": "WIS",
+                    "url": "/api/ability-scores/4"
+                },
+                "bonus": 1
+            }
+        ],
+        "ability_bonus_options": null,
+        "starting_proficiencies": [],
+        "starting_proficiency_options": null,
+        "languages": [],
+        "language_options": null,
+        "racial_traits": [
+            {
+                "url": "/api/traits/4",
+                "name": "Dwarven Toughness"
+            }
+        ],
+        "racial_trait_options": null,
+        "entry_descriptor": {
+            "index": 0,
+            "url": "/api/subraces/0",
+            "name": "Hill Dwarf",
+            "desc": [
+                "As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience."
+            ]
+        }
+    },
+    {
+        "race": {
+            "url": "/api/races/1",
+            "name": "Elf"
+        },
+        "ability_bonuses": [
+            {
+                "ability": {
+                    "name": "INT",
+                    "url": "/api/ability-scores/3"
+                },
+                "bonus": 1
+            }
+        ],
+        "ability_bonus_options": null,
+        "starting_proficiencies": [
+            {
+                "url": "/api/proficiencies/41",
+                "name": "Longswords"
+            },
+            {
+                "url": "/api/proficiencies/47",
+                "name": "Shortswords"
+            },
+            {
+                "url": "/api/proficiencies/32",
+                "name": "Shortbows"
+            },
+            {
+                "url": "/api/proficiencies/55",
+                "name": "Longbows"
+            }
+        ],
+        "starting_proficiency_options": null,
+        "languages": [],
+        "language_options": {
+            "choose": 1,
+            "from": [
+                {
+                    "url": "/api/languages/1",
+                    "name": "Dwarvish"
+                },
+                {
+                    "url": "/api/languages/3",
+                    "name": "Giant"
+                },
+                {
+                    "url": "/api/languages/4",
+                    "name": "Gnomish"
+                },
+                {
+                    "url": "/api/languages/5",
+                    "name": "Goblin"
+                },
+                {
+                    "url": "/api/languages/6",
+                    "name": "Halfling"
+                },
+                {
+                    "url": "/api/languages/7",
+                    "name": "Orc"
+                },
+                {
+                    "url": "/api/languages/8",
+                    "name": "Abyssal"
+                },
+                {
+                    "url": "/api/languages/9",
+                    "name": "Celestial"
+                },
+                {
+                    "url": "/api/languages/10",
+                    "name": "Draconic"
+                },
+                {
+                    "url": "/api/languages/11",
+                    "name": "Deep Speech"
+                },
+                {
+                    "url": "/api/languages/12",
+                    "name": "Infernal"
+                },
+                {
+                    "url": "/api/languages/13",
+                    "name": "Primordial"
+                },
+                {
+                    "url": "/api/languages/14",
+                    "name": "Sylvan"
+                },
+                {
+                    "url": "/api/languages/15",
+                    "name": "Undercommon"
+                }
+            ],
+            "type": "language"
+        },
+        "racial_traits": [
+            {
+                "url": "/api/traits/9",
+                "name": "High Elf Cantrip"
+            }
+        ],
+        "racial_trait_options": null,
+        "entry_descriptor": {
+            "index": 1,
+            "url": "/api/subraces/1",
+            "name": "High Elf",
+            "desc": [
+                "As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races."
+            ]
+        }
+    },
+    {
+        "race": {
+            "url": "/api/races/2",
+            "name": "Halfling"
+        },
+        "ability_bonuses": [
+            {
+                "ability": {
+                    "name": "CHA",
                     "url": "/api/ability-scores/5"
                 },
                 "bonus": 1
@@ -20,162 +168,14 @@
         "language_options": null,
         "racial_traits": [
             {
-                "url": "/api/traits/5",
-                "name": "Dwarven Toughness"
-            }
-        ],
-        "racial_trait_options": null,
-        "entry_descriptor": {
-            "index": 1,
-            "url": "/api/subraces/1",
-            "name": "Hill Dwarf",
-            "desc": [
-                "As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience."
-            ]
-        }
-    },
-    {
-        "race": {
-            "url": "/api/races/2",
-            "name": "Elf"
-        },
-        "ability_bonuses": [
-            {
-                "ability": {
-                    "name": "INT",
-                    "url": "/api/ability-scores/4"
-                },
-                "bonus": 1
-            }
-        ],
-        "ability_bonus_options": null,
-        "starting_proficiencies": [
-            {
-                "url": "/api/proficiencies/42",
-                "name": "Longswords"
-            },
-            {
-                "url": "/api/proficiencies/48",
-                "name": "Shortswords"
-            },
-            {
-                "url": "/api/proficiencies/33",
-                "name": "Shortbows"
-            },
-            {
-                "url": "/api/proficiencies/56",
-                "name": "Longbows"
-            }
-        ],
-        "starting_proficiency_options": null,
-        "languages": [],
-        "language_options": {
-            "choose": 1,
-            "from": [
-                {
-                    "url": "/api/languages/2",
-                    "name": "Dwarvish"
-                },
-                {
-                    "url": "/api/languages/4",
-                    "name": "Giant"
-                },
-                {
-                    "url": "/api/languages/5",
-                    "name": "Gnomish"
-                },
-                {
-                    "url": "/api/languages/6",
-                    "name": "Goblin"
-                },
-                {
-                    "url": "/api/languages/7",
-                    "name": "Halfling"
-                },
-                {
-                    "url": "/api/languages/8",
-                    "name": "Orc"
-                },
-                {
-                    "url": "/api/languages/9",
-                    "name": "Abyssal"
-                },
-                {
-                    "url": "/api/languages/10",
-                    "name": "Celestial"
-                },
-                {
-                    "url": "/api/languages/11",
-                    "name": "Draconic"
-                },
-                {
-                    "url": "/api/languages/12",
-                    "name": "Deep Speech"
-                },
-                {
-                    "url": "/api/languages/13",
-                    "name": "Infernal"
-                },
-                {
-                    "url": "/api/languages/14",
-                    "name": "Primordial"
-                },
-                {
-                    "url": "/api/languages/15",
-                    "name": "Sylvan"
-                },
-                {
-                    "url": "/api/languages/16",
-                    "name": "Undercommon"
-                }
-            ],
-            "type": "language"
-        },
-        "racial_traits": [
-            {
-                "url": "/api/traits/10",
-                "name": "High Elf Cantrip"
+                "url": "/api/traits/14",
+                "name": "Naturally Stealthy"
             }
         ],
         "racial_trait_options": null,
         "entry_descriptor": {
             "index": 2,
             "url": "/api/subraces/2",
-            "name": "High Elf",
-            "desc": [
-                "As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races."
-            ]
-        }
-    },
-    {
-        "race": {
-            "url": "/api/races/3",
-            "name": "Halfling"
-        },
-        "ability_bonuses": [
-            {
-                "ability": {
-                    "name": "CHA",
-                    "url": "/api/ability-scores/6"
-                },
-                "bonus": 1
-            }
-        ],
-        "ability_bonus_options": null,
-        "starting_proficiencies": [],
-        "starting_proficiency_options": null,
-        "languages": [],
-        "language_options": null,
-        "racial_traits": [
-            {
-                "url": "/api/traits/15",
-                "name": "Naturally Stealthy"
-            }
-        ],
-        "racial_trait_options": null,
-        "entry_descriptor": {
-            "index": 3,
-            "url": "/api/subraces/3",
             "name": "Lightfoot Halfling",
             "desc": [
                 "As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life."
@@ -184,14 +184,14 @@
     },
     {
         "race": {
-            "url": "/api/races/6",
+            "url": "/api/races/5",
             "name": "Gnome"
         },
         "ability_bonuses": [
             {
                 "ability": {
                     "name": "CON",
-                    "url": "/api/ability-scores/3"
+                    "url": "/api/ability-scores/2"
                 },
                 "bonus": 1
             }
@@ -200,11 +200,11 @@
         "starting_proficiency_options": null,
         "languages": [
             {
-                "url": "/api/languages/1",
+                "url": "/api/languages/0",
                 "name": "Common"
             },
             {
-                "url": "/api/languages/5",
+                "url": "/api/languages/4",
                 "name": "Gnomish"
             }
         ],
@@ -212,25 +212,25 @@
         "racial_traits": [
             {
                 "name": "Darkvision",
-                "url": "/api/traits/1"
+                "url": "/api/traits/0"
             },
             {
                 "name": "Gnome Cunning",
-                "url": "/api/traits/19"
+                "url": "/api/traits/18"
             },
             {
                 "name": "Artificer's Lore",
-                "url": "/api/traits/20"
+                "url": "/api/traits/19"
             },
             {
                 "name": "Tinker",
-                "url": "/api/traits/21"
+                "url": "/api/traits/20"
             }
         ],
         "racial_trait_options": null,
         "entry_descriptor": {
-            "index": 4,
-            "url": "/api/subraces/4",
+            "index": 3,
+            "url": "/api/subraces/3",
             "name": "Rock Gnome",
             "desc": [
                 "As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes."

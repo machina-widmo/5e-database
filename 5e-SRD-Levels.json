@@ -7,11 +7,11 @@
         "features": [
             {
                 "name": "Rage",
-                "url": "/api/features/1"
+                "url": "/api/features/0"
             },
             {
                 "name": "Unarmored Defense",
-                "url": "/api/features/2"
+                "url": "/api/features/1"
             }
         ],
         "class_specific": {
@@ -21,13 +21,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 1,
-            "url": "/api/levels/1",
+            "index": 0,
+            "url": "/api/levels/0",
             "name": "Barbarian Level 1",
             "desc": []
         }
@@ -40,11 +40,11 @@
         "features": [
             {
                 "name": "Reckless Attack",
-                "url": "/api/features/3"
+                "url": "/api/features/2"
             },
             {
                 "name": "Danger Sense",
-                "url": "/api/features/4"
+                "url": "/api/features/3"
             }
         ],
         "class_specific": {
@@ -54,13 +54,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 2,
-            "url": "/api/levels/2",
+            "index": 1,
+            "url": "/api/levels/1",
             "name": "Barbarian Level 2",
             "desc": []
         }
@@ -73,7 +73,7 @@
         "features": [
             {
                 "name": "Primal Path",
-                "url": "/api/features/5"
+                "url": "/api/features/4"
             }
         ],
         "class_specific": {
@@ -83,13 +83,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 3,
-            "url": "/api/levels/3",
+            "index": 2,
+            "url": "/api/levels/2",
             "name": "Barbarian Level 3",
             "desc": []
         }
@@ -102,7 +102,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 1",
-                "url": "/api/features/7"
+                "url": "/api/features/6"
             }
         ],
         "class_specific": {
@@ -112,13 +112,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 4,
-            "url": "/api/levels/4",
+            "index": 3,
+            "url": "/api/levels/3",
             "name": "Barbarian Level 4",
             "desc": []
         }
@@ -131,11 +131,11 @@
         "features": [
             {
                 "name": "Extra Attack",
-                "url": "/api/features/8"
+                "url": "/api/features/7"
             },
             {
                 "name": "Fast Movement",
-                "url": "/api/features/9"
+                "url": "/api/features/8"
             }
         ],
         "class_specific": {
@@ -145,13 +145,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 5,
-            "url": "/api/levels/5",
+            "index": 4,
+            "url": "/api/levels/4",
             "name": "Barbarian Level 5",
             "desc": []
         }
@@ -170,12 +170,12 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 6,
-            "url": "/api/levels/6",
+            "index": 5,
+            "url": "/api/levels/5",
             "name": "Barbarian Level 6",
             "desc": []
         }
@@ -188,7 +188,7 @@
         "features": [
             {
                 "name": "Mindless Rage",
-                "url": "/api/features/10"
+                "url": "/api/features/9"
             }
         ],
         "spellcasting": null,
@@ -199,12 +199,12 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 7,
-            "url": "/api/levels/7",
+            "index": 6,
+            "url": "/api/levels/6",
             "name": "Barbarian Level 7",
             "desc": []
         }
@@ -217,7 +217,7 @@
         "features": [
             {
                 "name": "Feral Instinct",
-                "url": "/api/features/11"
+                "url": "/api/features/10"
             }
         ],
         "spellcasting": null,
@@ -228,12 +228,12 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 8,
-            "url": "/api/levels/8",
+            "index": 7,
+            "url": "/api/levels/7",
             "name": "Barbarian Level 8",
             "desc": []
         }
@@ -246,7 +246,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/12"
+                "url": "/api/features/11"
             }
         ],
         "spellcasting": null,
@@ -257,12 +257,12 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 9,
-            "url": "/api/levels/9",
+            "index": 8,
+            "url": "/api/levels/8",
             "name": "Barbarian Level 9",
             "desc": []
         }
@@ -281,12 +281,12 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 10,
-            "url": "/api/levels/10",
+            "index": 9,
+            "url": "/api/levels/9",
             "name": "Barbarian Level 10",
             "desc": []
         }
@@ -299,7 +299,7 @@
         "features": [
             {
                 "name": "Relentless Rage",
-                "url": "/api/features/15"
+                "url": "/api/features/14"
             }
         ],
         "spellcasting": null,
@@ -310,12 +310,12 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 11,
-            "url": "/api/levels/11",
+            "index": 10,
+            "url": "/api/levels/10",
             "name": "Barbarian Level 11",
             "desc": []
         }
@@ -328,7 +328,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 3",
-                "url": "/api/features/16"
+                "url": "/api/features/15"
             }
         ],
         "class_specific": {
@@ -338,13 +338,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 12,
-            "url": "/api/levels/12",
+            "index": 11,
+            "url": "/api/levels/11",
             "name": "Barbarian Level 12",
             "desc": []
         }
@@ -357,7 +357,7 @@
         "features": [
             {
                 "name": "Brutal Critical (2 dice)",
-                "url": "/api/features/17"
+                "url": "/api/features/16"
             }
         ],
         "class_specific": {
@@ -367,13 +367,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 13,
-            "url": "/api/levels/13",
+            "index": 12,
+            "url": "/api/levels/12",
             "name": "Barbarian Level 13",
             "desc": []
         }
@@ -391,13 +391,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 14,
-            "url": "/api/levels/14",
+            "index": 13,
+            "url": "/api/levels/13",
             "name": "Barbarian Level 14",
             "desc": []
         }
@@ -410,7 +410,7 @@
         "features": [
             {
                 "name": "Persistent Rage",
-                "url": "/api/features/19"
+                "url": "/api/features/18"
             }
         ],
         "class_specific": {
@@ -420,13 +420,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 15,
-            "url": "/api/levels/15",
+            "index": 14,
+            "url": "/api/levels/14",
             "name": "Barbarian Level 15",
             "desc": []
         }
@@ -439,7 +439,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 4",
-                "url": "/api/features/20"
+                "url": "/api/features/19"
             }
         ],
         "class_specific": {
@@ -449,13 +449,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 16,
-            "url": "/api/levels/16",
+            "index": 15,
+            "url": "/api/levels/15",
             "name": "Barbarian Level 16",
             "desc": []
         }
@@ -468,7 +468,7 @@
         "features": [
             {
                 "name": "Brutal Critical (3 dice)",
-                "url": "/api/features/21"
+                "url": "/api/features/20"
             }
         ],
         "class_specific": {
@@ -478,13 +478,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 17,
-            "url": "/api/levels/17",
+            "index": 16,
+            "url": "/api/levels/16",
             "name": "Barbarian Level 17",
             "desc": []
         }
@@ -497,7 +497,7 @@
         "features": [
             {
                 "name": "Indomitable Might",
-                "url": "/api/features/22"
+                "url": "/api/features/21"
             }
         ],
         "class_specific": {
@@ -507,13 +507,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 18,
-            "url": "/api/levels/18",
+            "index": 17,
+            "url": "/api/levels/17",
             "name": "Barbarian Level 18",
             "desc": []
         }
@@ -526,7 +526,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 5",
-                "url": "/api/features/23"
+                "url": "/api/features/22"
             }
         ],
         "class_specific": {
@@ -536,13 +536,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 19,
-            "url": "/api/levels/19",
+            "index": 18,
+            "url": "/api/levels/18",
             "name": "Barbarian Level 19",
             "desc": []
         }
@@ -555,7 +555,7 @@
         "features": [
             {
                 "name": "Fast Movement",
-                "url": "/api/features/24"
+                "url": "/api/features/8"
             }
         ],
         "class_specific": {
@@ -565,13 +565,13 @@
         },
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 20,
-            "url": "/api/levels/20",
+            "index": 19,
+            "url": "/api/levels/19",
             "name": "Barbarian Level 20",
             "desc": []
         }
@@ -584,15 +584,15 @@
         "features": [
             {
                 "name": "Spellcasting",
-                "url": "/api/features/25"
+                "url": "/api/features/24"
             },
             {
                 "name": "Bardic Inspiration (d6)",
-                "url": "/api/features/26"
+                "url": "/api/features/25"
             },
             {
                 "name": "Superior Inspiration",
-                "url": "/api/features/70"
+                "url": "/api/features/69"
             }
         ],
         "spellcasting": {
@@ -619,12 +619,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 21,
-            "url": "/api/levels/21",
+            "index": 20,
+            "url": "/api/levels/20",
             "name": "Bard Level 1",
             "desc": []
         }
@@ -637,11 +637,11 @@
         "features": [
             {
                 "name": "Jack of All Trades",
-                "url": "/api/features/27"
+                "url": "/api/features/26"
             },
             {
                 "name": "Song of Rest (d6)",
-                "url": "/api/features/28"
+                "url": "/api/features/27"
             }
         ],
         "spellcasting": {
@@ -668,12 +668,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 22,
-            "url": "/api/levels/22",
+            "index": 21,
+            "url": "/api/levels/21",
             "name": "Bard Level 2",
             "desc": []
         }
@@ -685,13 +685,13 @@
         "feature_choices": [
             {
                 "name": "Choose: Expertise 1",
-                "url": "/api/features/32"
+                "url": "/api/features/31"
             }
         ],
         "features": [
             {
                 "name": "Bard College",
-                "url": "/api/features/29"
+                "url": "/api/features/28"
             }
         ],
         "spellcasting": {
@@ -718,12 +718,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 23,
-            "url": "/api/levels/23",
+            "index": 22,
+            "url": "/api/levels/22",
             "name": "Bard Level 3",
             "desc": []
         }
@@ -736,7 +736,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 1",
-                "url": "/api/features/51"
+                "url": "/api/features/6"
             }
         ],
         "spellcasting": {
@@ -763,12 +763,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 24,
-            "url": "/api/levels/24",
+            "index": 23,
+            "url": "/api/levels/23",
             "name": "Bard Level 4",
             "desc": []
         }
@@ -781,11 +781,11 @@
         "features": [
             {
                 "name": "Bardic Inspiration (d8)",
-                "url": "/api/features/52"
+                "url": "/api/features/51"
             },
             {
                 "name": "Font of Inspiration",
-                "url": "/api/features/53"
+                "url": "/api/features/52"
             }
         ],
         "spellcasting": {
@@ -812,12 +812,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 25,
-            "url": "/api/levels/25",
+            "index": 24,
+            "url": "/api/levels/24",
             "name": "Bard Level 5",
             "desc": []
         }
@@ -852,12 +852,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 26,
-            "url": "/api/levels/26",
+            "index": 25,
+            "url": "/api/levels/25",
             "name": "Bard Level 6",
             "desc": []
         }
@@ -870,7 +870,7 @@
         "features": [
             {
                 "name": "Countercharm",
-                "url": "/api/features/54"
+                "url": "/api/features/53"
             }
         ],
         "spellcasting": {
@@ -897,12 +897,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 27,
-            "url": "/api/levels/27",
+            "index": 26,
+            "url": "/api/levels/26",
             "name": "Bard Level 7",
             "desc": []
         }
@@ -915,7 +915,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/56"
+                "url": "/api/features/11"
             }
         ],
         "spellcasting": {
@@ -942,12 +942,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 28,
-            "url": "/api/levels/28",
+            "index": 27,
+            "url": "/api/levels/27",
             "name": "Bard Level 8",
             "desc": []
         }
@@ -960,7 +960,7 @@
         "features": [
             {
                 "name": "Song of Rest (d8)",
-                "url": "/api/features/57"
+                "url": "/api/features/56"
             }
         ],
         "spellcasting": {
@@ -987,12 +987,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 29,
-            "url": "/api/levels/29",
+            "index": 28,
+            "url": "/api/levels/28",
             "name": "Bard Level 9",
             "desc": []
         }
@@ -1004,17 +1004,17 @@
         "feature_choices": [
             {
                 "name": "Choose: Expertise 2",
-                "url": "/api/features/59"
+                "url": "/api/features/58"
             }
         ],
         "features": [
             {
                 "name": "Bardic Inspiration (d10)",
-                "url": "/api/features/58"
+                "url": "/api/features/57"
             },
             {
                 "name": "Magical Secrets 1",
-                "url": "/api/features/60"
+                "url": "/api/features/59"
             }
         ],
         "spellcasting": {
@@ -1041,12 +1041,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 30,
-            "url": "/api/levels/30",
+            "index": 29,
+            "url": "/api/levels/29",
             "name": "Bard Level 10",
             "desc": []
         }
@@ -1081,12 +1081,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 31,
-            "url": "/api/levels/31",
+            "index": 30,
+            "url": "/api/levels/30",
             "name": "Bard Level 11",
             "desc": []
         }
@@ -1099,7 +1099,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 3",
-                "url": "/api/features/61"
+                "url": "/api/features/15"
             }
         ],
         "spellcasting": {
@@ -1126,12 +1126,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 32,
-            "url": "/api/levels/32",
+            "index": 31,
+            "url": "/api/levels/31",
             "name": "Bard Level 12",
             "desc": []
         }
@@ -1144,7 +1144,7 @@
         "features": [
             {
                 "name": "Song of Rest (d10)",
-                "url": "/api/features/62"
+                "url": "/api/features/61"
             }
         ],
         "spellcasting": {
@@ -1171,12 +1171,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 33,
-            "url": "/api/levels/33",
+            "index": 32,
+            "url": "/api/levels/32",
             "name": "Bard Level 13",
             "desc": []
         }
@@ -1189,7 +1189,7 @@
         "features": [
             {
                 "name": "Magical Secrets 2",
-                "url": "/api/features/63"
+                "url": "/api/features/62"
             }
         ],
         "spellcasting": {
@@ -1216,12 +1216,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 34,
-            "url": "/api/levels/34",
+            "index": 33,
+            "url": "/api/levels/33",
             "name": "Bard Level 14",
             "desc": []
         }
@@ -1234,7 +1234,7 @@
         "features": [
             {
                 "name": "Bardic Inspiration (d12)",
-                "url": "/api/features/65"
+                "url": "/api/features/64"
             }
         ],
         "spellcasting": {
@@ -1261,12 +1261,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 35,
-            "url": "/api/levels/35",
+            "index": 34,
+            "url": "/api/levels/34",
             "name": "Bard Level 15",
             "desc": []
         }
@@ -1279,7 +1279,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 4",
-                "url": "/api/features/66"
+                "url": "/api/features/19"
             }
         ],
         "spellcasting": {
@@ -1306,12 +1306,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 36,
-            "url": "/api/levels/36",
+            "index": 35,
+            "url": "/api/levels/35",
             "name": "Bard Level 16",
             "desc": []
         }
@@ -1324,7 +1324,7 @@
         "features": [
             {
                 "name": "Song of Rest (d12)",
-                "url": "/api/features/67"
+                "url": "/api/features/66"
             }
         ],
         "spellcasting": {
@@ -1351,12 +1351,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 37,
-            "url": "/api/levels/37",
+            "index": 36,
+            "url": "/api/levels/36",
             "name": "Bard Level 17",
             "desc": []
         }
@@ -1369,7 +1369,7 @@
         "features": [
             {
                 "name": "Magical Secrets 3",
-                "url": "/api/features/68"
+                "url": "/api/features/67"
             }
         ],
         "spellcasting": {
@@ -1396,12 +1396,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 38,
-            "url": "/api/levels/38",
+            "index": 37,
+            "url": "/api/levels/37",
             "name": "Bard Level 18",
             "desc": []
         }
@@ -1414,6 +1414,51 @@
         "features": [
             {
                 "name": "Ability Score Improvement 5",
+                "url": "/api/features/22"
+            }
+        ],
+        "spellcasting": {
+            "cantrips_known": 4,
+            "spells_known": 22,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                3,
+                3,
+                2,
+                1,
+                1,
+                1
+            ]
+        },
+        "class_specific": {
+            "bardic_inspiration_die": 12,
+            "song_of_rest_die": 12,
+            "magical_secrets_max_5": 2,
+            "magical_secrets_max_7": 2,
+            "magical_secrets_max_9": 2
+        },
+        "class": {
+            "name": "Bard",
+            "url": "/api/classes/1"
+        },
+        "subclass": null,
+        "entry_descriptor": {
+            "index": 38,
+            "url": "/api/levels/38",
+            "name": "Bard Level 19",
+            "desc": []
+        }
+    },
+    {
+        "level": 20,
+        "ability_score_bonuses": 5,
+        "prof_bonus": 6,
+        "feature_choices": [],
+        "features": [
+            {
+                "name": "Superior Inspiration",
                 "url": "/api/features/69"
             }
         ],
@@ -1427,7 +1472,7 @@
                 3,
                 3,
                 2,
-                1,
+                2,
                 1,
                 1
             ]
@@ -1441,57 +1486,12 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": null,
         "entry_descriptor": {
             "index": 39,
             "url": "/api/levels/39",
-            "name": "Bard Level 19",
-            "desc": []
-        }
-    },
-    {
-        "level": 20,
-        "ability_score_bonuses": 5,
-        "prof_bonus": 6,
-        "feature_choices": [],
-        "features": [
-            {
-                "name": "Superior Inspiration",
-                "url": "/api/features/70"
-            }
-        ],
-        "spellcasting": {
-            "cantrips_known": 4,
-            "spells_known": 22,
-            "spell_slots": [
-                4,
-                3,
-                3,
-                3,
-                3,
-                2,
-                2,
-                1,
-                1
-            ]
-        },
-        "class_specific": {
-            "bardic_inspiration_die": 12,
-            "song_of_rest_die": 12,
-            "magical_secrets_max_5": 2,
-            "magical_secrets_max_7": 2,
-            "magical_secrets_max_9": 2
-        },
-        "class": {
-            "name": "Bard",
-            "url": "/api/classes/2"
-        },
-        "subclass": null,
-        "entry_descriptor": {
-            "index": 40,
-            "url": "/api/levels/40",
             "name": "Bard Level 20",
             "desc": []
         }
@@ -1504,15 +1504,15 @@
         "features": [
             {
                 "name": "Spellcasting",
-                "url": "/api/features/71"
+                "url": "/api/features/24"
             },
             {
                 "name": "Divine Domain",
-                "url": "/api/features/72"
+                "url": "/api/features/71"
             },
             {
                 "name": "Domain Spells 1",
-                "url": "/api/features/73"
+                "url": "/api/features/72"
             }
         ],
         "spellcasting": {
@@ -1536,12 +1536,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 41,
-            "url": "/api/levels/41",
+            "index": 40,
+            "url": "/api/levels/40",
             "name": "Cleric Level 1",
             "desc": []
         }
@@ -1554,11 +1554,11 @@
         "features": [
             {
                 "name": "Channel Divinity (1/rest)",
-                "url": "/api/features/76"
+                "url": "/api/features/75"
             },
             {
                 "name": "Channel Divinity: Turn Undead",
-                "url": "/api/features/77"
+                "url": "/api/features/76"
             }
         ],
         "spellcasting": {
@@ -1582,12 +1582,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 42,
-            "url": "/api/levels/42",
+            "index": 41,
+            "url": "/api/levels/41",
             "name": "Cleric Level 2",
             "desc": []
         }
@@ -1600,7 +1600,7 @@
         "features": [
             {
                 "name": "Domain Spells 2",
-                "url": "/api/features/79"
+                "url": "/api/features/78"
             }
         ],
         "spellcasting": {
@@ -1624,12 +1624,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 43,
-            "url": "/api/levels/43",
+            "index": 42,
+            "url": "/api/levels/42",
             "name": "Cleric Level 3",
             "desc": []
         }
@@ -1642,7 +1642,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 1",
-                "url": "/api/features/80"
+                "url": "/api/features/6"
             }
         ],
         "spellcasting": {
@@ -1666,12 +1666,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 44,
-            "url": "/api/levels/44",
+            "index": 43,
+            "url": "/api/levels/43",
             "name": "Cleric Level 4",
             "desc": []
         }
@@ -1684,11 +1684,11 @@
         "features": [
             {
                 "name": "Domain Spells 3",
-                "url": "/api/features/81"
+                "url": "/api/features/80"
             },
             {
                 "name": "Destroy Undead (CR 1/2 or below)",
-                "url": "/api/features/82"
+                "url": "/api/features/81"
             }
         ],
         "spellcasting": {
@@ -1712,12 +1712,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 45,
-            "url": "/api/levels/45",
+            "index": 44,
+            "url": "/api/levels/44",
             "name": "Cleric Level 5",
             "desc": []
         }
@@ -1730,7 +1730,7 @@
         "features": [
             {
                 "name": "Channel Divinity (2/rest)",
-                "url": "/api/features/83"
+                "url": "/api/features/82"
             }
         ],
         "spellcasting": {
@@ -1754,12 +1754,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 46,
-            "url": "/api/levels/46",
+            "index": 45,
+            "url": "/api/levels/45",
             "name": "Cleric Level 6",
             "desc": []
         }
@@ -1772,7 +1772,7 @@
         "features": [
             {
                 "name": "Domain Spells 4",
-                "url": "/api/features/85"
+                "url": "/api/features/84"
             }
         ],
         "spellcasting": {
@@ -1796,12 +1796,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 47,
-            "url": "/api/levels/47",
+            "index": 46,
+            "url": "/api/levels/46",
             "name": "Cleric Level 7",
             "desc": []
         }
@@ -1814,11 +1814,11 @@
         "features": [
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/86"
+                "url": "/api/features/11"
             },
             {
                 "name": "Destroy Undead (CR 1 or below)",
-                "url": "/api/features/87"
+                "url": "/api/features/86"
             }
         ],
         "spellcasting": {
@@ -1842,12 +1842,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 48,
-            "url": "/api/levels/48",
+            "index": 47,
+            "url": "/api/levels/47",
             "name": "Cleric Level 8",
             "desc": []
         }
@@ -1860,7 +1860,7 @@
         "features": [
             {
                 "name": "Domain Spells 5",
-                "url": "/api/features/89"
+                "url": "/api/features/88"
             }
         ],
         "spellcasting": {
@@ -1884,12 +1884,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 49,
-            "url": "/api/levels/49",
+            "index": 48,
+            "url": "/api/levels/48",
             "name": "Cleric Level 9",
             "desc": []
         }
@@ -1902,7 +1902,7 @@
         "features": [
             {
                 "name": "Divine Intervention",
-                "url": "/api/features/90"
+                "url": "/api/features/89"
             }
         ],
         "spellcasting": {
@@ -1926,12 +1926,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 50,
-            "url": "/api/levels/50",
+            "index": 49,
+            "url": "/api/levels/49",
             "name": "Cleric Level 10",
             "desc": []
         }
@@ -1944,7 +1944,7 @@
         "features": [
             {
                 "name": "Destroy Undead (CR 2 or below)",
-                "url": "/api/features/91"
+                "url": "/api/features/90"
             }
         ],
         "spellcasting": {
@@ -1968,12 +1968,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 51,
-            "url": "/api/levels/51",
+            "index": 50,
+            "url": "/api/levels/50",
             "name": "Cleric Level 11",
             "desc": []
         }
@@ -1986,7 +1986,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 3",
-                "url": "/api/features/92"
+                "url": "/api/features/15"
             }
         ],
         "spellcasting": {
@@ -2010,12 +2010,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 52,
-            "url": "/api/levels/52",
+            "index": 51,
+            "url": "/api/levels/51",
             "name": "Cleric Level 12",
             "desc": []
         }
@@ -2047,12 +2047,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 53,
-            "url": "/api/levels/53",
+            "index": 52,
+            "url": "/api/levels/52",
             "name": "Cleric Level 13",
             "desc": []
         }
@@ -2065,7 +2065,7 @@
         "features": [
             {
                 "name": "Destroy Undead (CR 3 or below)",
-                "url": "/api/features/93"
+                "url": "/api/features/92"
             }
         ],
         "spellcasting": {
@@ -2089,12 +2089,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 54,
-            "url": "/api/levels/54",
+            "index": 53,
+            "url": "/api/levels/53",
             "name": "Cleric Level 14",
             "desc": []
         }
@@ -2126,12 +2126,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 55,
-            "url": "/api/levels/55",
+            "index": 54,
+            "url": "/api/levels/54",
             "name": "Cleric Level 15",
             "desc": []
         }
@@ -2144,7 +2144,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 4",
-                "url": "/api/features/94"
+                "url": "/api/features/19"
             }
         ],
         "spellcasting": {
@@ -2168,12 +2168,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 56,
-            "url": "/api/levels/56",
+            "index": 55,
+            "url": "/api/levels/55",
             "name": "Cleric Level 16",
             "desc": []
         }
@@ -2186,11 +2186,11 @@
         "features": [
             {
                 "name": "Destroy Undead (CR 4 or below)",
-                "url": "/api/features/95"
+                "url": "/api/features/94"
             },
             {
                 "name": "Supreme Healing",
-                "url": "/api/features/96"
+                "url": "/api/features/95"
             }
         ],
         "spellcasting": {
@@ -2214,12 +2214,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 57,
-            "url": "/api/levels/57",
+            "index": 56,
+            "url": "/api/levels/56",
             "name": "Cleric Level 17",
             "desc": []
         }
@@ -2232,7 +2232,7 @@
         "features": [
             {
                 "name": "Channel Divinity (3/rest)",
-                "url": "/api/features/97"
+                "url": "/api/features/96"
             }
         ],
         "spellcasting": {
@@ -2256,12 +2256,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 58,
-            "url": "/api/levels/58",
+            "index": 57,
+            "url": "/api/levels/57",
             "name": "Cleric Level 18",
             "desc": []
         }
@@ -2274,6 +2274,48 @@
         "features": [
             {
                 "name": "Ability Score Improvement 5",
+                "url": "/api/features/22"
+            }
+        ],
+        "spellcasting": {
+            "cantrips_known": 5,
+            "spells_known": 22,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                3,
+                3,
+                2,
+                1,
+                1,
+                1
+            ]
+        },
+        "class_specific": {
+            "channel_divinity_charges": 3,
+            "destroy_undead_cr": 4
+        },
+        "class": {
+            "name": "Cleric",
+            "url": "/api/classes/2"
+        },
+        "subclass": null,
+        "entry_descriptor": {
+            "index": 58,
+            "url": "/api/levels/58",
+            "name": "Cleric Level 19",
+            "desc": []
+        }
+    },
+    {
+        "level": 20,
+        "ability_score_bonuses": 5,
+        "prof_bonus": 6,
+        "feature_choices": [],
+        "features": [
+            {
+                "name": "Divine Intervention Improvement",
                 "url": "/api/features/98"
             }
         ],
@@ -2287,7 +2329,7 @@
                 3,
                 3,
                 2,
-                1,
+                2,
                 1,
                 1
             ]
@@ -2298,54 +2340,12 @@
         },
         "class": {
             "name": "Cleric",
-            "url": "/api/classes/3"
+            "url": "/api/classes/2"
         },
         "subclass": null,
         "entry_descriptor": {
             "index": 59,
             "url": "/api/levels/59",
-            "name": "Cleric Level 19",
-            "desc": []
-        }
-    },
-    {
-        "level": 20,
-        "ability_score_bonuses": 5,
-        "prof_bonus": 6,
-        "feature_choices": [],
-        "features": [
-            {
-                "name": "Divine Intervention Improvement",
-                "url": "/api/features/99"
-            }
-        ],
-        "spellcasting": {
-            "cantrips_known": 5,
-            "spells_known": 22,
-            "spell_slots": [
-                4,
-                3,
-                3,
-                3,
-                3,
-                2,
-                2,
-                1,
-                1
-            ]
-        },
-        "class_specific": {
-            "channel_divinity_charges": 3,
-            "destroy_undead_cr": 4
-        },
-        "class": {
-            "name": "Cleric",
-            "url": "/api/classes/3"
-        },
-        "subclass": null,
-        "entry_descriptor": {
-            "index": 60,
-            "url": "/api/levels/60",
             "name": "Cleric Level 20",
             "desc": []
         }
@@ -2358,11 +2358,11 @@
         "features": [
             {
                 "name": "Spellcasting",
-                "url": "/api/features/100"
+                "url": "/api/features/24"
             },
             {
                 "name": "Druidic",
-                "url": "/api/features/101"
+                "url": "/api/features/100"
             }
         ],
         "spellcasting": {
@@ -2387,12 +2387,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 61,
-            "url": "/api/levels/61",
+            "index": 60,
+            "url": "/api/levels/60",
             "name": "Druid Level 1",
             "desc": []
         }
@@ -2405,11 +2405,11 @@
         "features": [
             {
                 "name": "Wild Shape (CR 1/4 or below, no flying or swim speed)",
-                "url": "/api/features/102"
+                "url": "/api/features/101"
             },
             {
                 "name": "Druid Circle",
-                "url": "/api/features/103"
+                "url": "/api/features/102"
             }
         ],
         "spellcasting": {
@@ -2434,12 +2434,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 62,
-            "url": "/api/levels/62",
+            "index": 61,
+            "url": "/api/levels/61",
             "name": "Druid Level 2",
             "desc": []
         }
@@ -2472,12 +2472,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 63,
-            "url": "/api/levels/63",
+            "index": 62,
+            "url": "/api/levels/62",
             "name": "Druid Level 3",
             "desc": []
         }
@@ -2490,11 +2490,11 @@
         "features": [
             {
                 "name": "Wild Shape (CR 1/2 or below, no flying speed)",
-                "url": "/api/features/115"
+                "url": "/api/features/114"
             },
             {
                 "name": "Ability Score Improvement 1",
-                "url": "/api/features/116"
+                "url": "/api/features/6"
             }
         ],
         "spellcasting": {
@@ -2519,12 +2519,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 64,
-            "url": "/api/levels/64",
+            "index": 63,
+            "url": "/api/levels/63",
             "name": "Druid Level 4",
             "desc": []
         }
@@ -2557,12 +2557,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 65,
-            "url": "/api/levels/65",
+            "index": 64,
+            "url": "/api/levels/64",
             "name": "Druid Level 5",
             "desc": []
         }
@@ -2595,12 +2595,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 66,
-            "url": "/api/levels/66",
+            "index": 65,
+            "url": "/api/levels/65",
             "name": "Druid Level 6",
             "desc": []
         }
@@ -2633,12 +2633,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 67,
-            "url": "/api/levels/67",
+            "index": 66,
+            "url": "/api/levels/66",
             "name": "Druid Level 7",
             "desc": []
         }
@@ -2651,11 +2651,11 @@
         "features": [
             {
                 "name": "Wild Shape (CR 1 or below)",
-                "url": "/api/features/120"
+                "url": "/api/features/119"
             },
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/121"
+                "url": "/api/features/11"
             }
         ],
         "spellcasting": {
@@ -2680,12 +2680,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 68,
-            "url": "/api/levels/68",
+            "index": 67,
+            "url": "/api/levels/67",
             "name": "Druid Level 8",
             "desc": []
         }
@@ -2718,12 +2718,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 69,
-            "url": "/api/levels/69",
+            "index": 68,
+            "url": "/api/levels/68",
             "name": "Druid Level 9",
             "desc": []
         }
@@ -2756,12 +2756,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 70,
-            "url": "/api/levels/70",
+            "index": 69,
+            "url": "/api/levels/69",
             "name": "Druid Level 10",
             "desc": []
         }
@@ -2794,12 +2794,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 71,
-            "url": "/api/levels/71",
+            "index": 70,
+            "url": "/api/levels/70",
             "name": "Druid Level 11",
             "desc": []
         }
@@ -2812,7 +2812,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 3",
-                "url": "/api/features/124"
+                "url": "/api/features/15"
             }
         ],
         "spellcasting": {
@@ -2837,12 +2837,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 72,
-            "url": "/api/levels/72",
+            "index": 71,
+            "url": "/api/levels/71",
             "name": "Druid Level 12",
             "desc": []
         }
@@ -2875,12 +2875,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 73,
-            "url": "/api/levels/73",
+            "index": 72,
+            "url": "/api/levels/72",
             "name": "Druid Level 13",
             "desc": []
         }
@@ -2913,12 +2913,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 74,
-            "url": "/api/levels/74",
+            "index": 73,
+            "url": "/api/levels/73",
             "name": "Druid Level 14",
             "desc": []
         }
@@ -2951,12 +2951,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 75,
-            "url": "/api/levels/75",
+            "index": 74,
+            "url": "/api/levels/74",
             "name": "Druid Level 15",
             "desc": []
         }
@@ -2969,7 +2969,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 4",
-                "url": "/api/features/126"
+                "url": "/api/features/19"
             }
         ],
         "spellcasting": {
@@ -2994,12 +2994,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 76,
-            "url": "/api/levels/76",
+            "index": 75,
+            "url": "/api/levels/75",
             "name": "Druid Level 16",
             "desc": []
         }
@@ -3032,12 +3032,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 77,
-            "url": "/api/levels/77",
+            "index": 76,
+            "url": "/api/levels/76",
             "name": "Druid Level 17",
             "desc": []
         }
@@ -3050,11 +3050,11 @@
         "features": [
             {
                 "name": "Timeless Body",
-                "url": "/api/features/127"
+                "url": "/api/features/126"
             },
             {
                 "name": "Beast Spells",
-                "url": "/api/features/128"
+                "url": "/api/features/127"
             }
         ],
         "spellcasting": {
@@ -3079,12 +3079,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 78,
-            "url": "/api/levels/78",
+            "index": 77,
+            "url": "/api/levels/77",
             "name": "Druid Level 18",
             "desc": []
         }
@@ -3097,6 +3097,49 @@
         "features": [
             {
                 "name": "Ability Score Improvement 5",
+                "url": "/api/features/22"
+            }
+        ],
+        "spellcasting": {
+            "cantrips_known": 4,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                3,
+                3,
+                2,
+                1,
+                1,
+                1
+            ]
+        },
+        "class_specific": {
+            "wild_shape_max_cr": 1,
+            "wild_shape_swim": true,
+            "wild_shape_fly": true
+        },
+        "class": {
+            "name": "Druid",
+            "url": "/api/classes/3"
+        },
+        "subclass": null,
+        "entry_descriptor": {
+            "index": 78,
+            "url": "/api/levels/78",
+            "name": "Druid Level 19",
+            "desc": []
+        }
+    },
+    {
+        "level": 20,
+        "ability_score_bonuses": 5,
+        "prof_bonus": 6,
+        "feature_choices": [],
+        "features": [
+            {
+                "name": "Archdruid",
                 "url": "/api/features/129"
             }
         ],
@@ -3110,7 +3153,7 @@
                 3,
                 3,
                 2,
-                1,
+                2,
                 1,
                 1
             ]
@@ -3122,55 +3165,12 @@
         },
         "class": {
             "name": "Druid",
-            "url": "/api/classes/4"
+            "url": "/api/classes/3"
         },
         "subclass": null,
         "entry_descriptor": {
             "index": 79,
             "url": "/api/levels/79",
-            "name": "Druid Level 19",
-            "desc": []
-        }
-    },
-    {
-        "level": 20,
-        "ability_score_bonuses": 5,
-        "prof_bonus": 6,
-        "feature_choices": [],
-        "features": [
-            {
-                "name": "Archdruid",
-                "url": "/api/features/130"
-            }
-        ],
-        "spellcasting": {
-            "cantrips_known": 4,
-            "spells_known": 0,
-            "spell_slots": [
-                4,
-                3,
-                3,
-                3,
-                3,
-                2,
-                2,
-                1,
-                1
-            ]
-        },
-        "class_specific": {
-            "wild_shape_max_cr": 1,
-            "wild_shape_swim": true,
-            "wild_shape_fly": true
-        },
-        "class": {
-            "name": "Druid",
-            "url": "/api/classes/4"
-        },
-        "subclass": null,
-        "entry_descriptor": {
-            "index": 80,
-            "url": "/api/levels/80",
             "name": "Druid Level 20",
             "desc": []
         }
@@ -3182,13 +3182,13 @@
         "feature_choices": [
             {
                 "name": "Choose: Fighting Style",
-                "url": "/api/features/131"
+                "url": "/api/features/130"
             }
         ],
         "features": [
             {
                 "name": "Second Wind",
-                "url": "/api/features/138"
+                "url": "/api/features/137"
             }
         ],
         "spellcasting": null,
@@ -3199,12 +3199,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 81,
-            "url": "/api/levels/81",
+            "index": 80,
+            "url": "/api/levels/80",
             "name": "Fighter Level 1",
             "desc": []
         }
@@ -3217,11 +3217,11 @@
         "features": [
             {
                 "name": "Action Surge (1 use)",
-                "url": "/api/features/139"
+                "url": "/api/features/138"
             },
             {
                 "name": "Action Surge (2 uses)",
-                "url": "/api/features/155"
+                "url": "/api/features/154"
             }
         ],
         "spellcasting": null,
@@ -3232,12 +3232,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 82,
-            "url": "/api/levels/82",
+            "index": 81,
+            "url": "/api/levels/81",
             "name": "Fighter Level 2",
             "desc": []
         }
@@ -3250,7 +3250,7 @@
         "features": [
             {
                 "name": "Martial Archetype",
-                "url": "/api/features/140"
+                "url": "/api/features/139"
             }
         ],
         "spellcasting": null,
@@ -3261,12 +3261,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 83,
-            "url": "/api/levels/83",
+            "index": 82,
+            "url": "/api/levels/82",
             "name": "Fighter Level 3",
             "desc": []
         }
@@ -3279,7 +3279,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 1",
-                "url": "/api/features/142"
+                "url": "/api/features/6"
             }
         ],
         "spellcasting": null,
@@ -3290,12 +3290,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 84,
-            "url": "/api/levels/84",
+            "index": 83,
+            "url": "/api/levels/83",
             "name": "Fighter Level 4",
             "desc": []
         }
@@ -3308,7 +3308,7 @@
         "features": [
             {
                 "name": "Extra Attack (1)",
-                "url": "/api/features/143"
+                "url": "/api/features/142"
             }
         ],
         "spellcasting": null,
@@ -3319,12 +3319,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 85,
-            "url": "/api/levels/85",
+            "index": 84,
+            "url": "/api/levels/84",
             "name": "Fighter Level 5",
             "desc": []
         }
@@ -3337,7 +3337,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/144"
+                "url": "/api/features/11"
             }
         ],
         "spellcasting": null,
@@ -3348,12 +3348,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 86,
-            "url": "/api/levels/86",
+            "index": 85,
+            "url": "/api/levels/85",
             "name": "Fighter Level 6",
             "desc": []
         }
@@ -3372,12 +3372,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 87,
-            "url": "/api/levels/87",
+            "index": 86,
+            "url": "/api/levels/86",
             "name": "Fighter Level 7",
             "desc": []
         }
@@ -3390,7 +3390,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 3",
-                "url": "/api/features/146"
+                "url": "/api/features/15"
             }
         ],
         "spellcasting": null,
@@ -3401,12 +3401,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 88,
-            "url": "/api/levels/88",
+            "index": 87,
+            "url": "/api/levels/87",
             "name": "Fighter Level 8",
             "desc": []
         }
@@ -3419,7 +3419,7 @@
         "features": [
             {
                 "name": "Indomitable (1 use)",
-                "url": "/api/features/147"
+                "url": "/api/features/146"
             }
         ],
         "spellcasting": null,
@@ -3430,12 +3430,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 89,
-            "url": "/api/levels/89",
+            "index": 88,
+            "url": "/api/levels/88",
             "name": "Fighter Level 9",
             "desc": []
         }
@@ -3454,12 +3454,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 90,
-            "url": "/api/levels/90",
+            "index": 89,
+            "url": "/api/levels/89",
             "name": "Fighter Level 10",
             "desc": []
         }
@@ -3472,7 +3472,7 @@
         "features": [
             {
                 "name": "Extra Attack (2)",
-                "url": "/api/features/149"
+                "url": "/api/features/148"
             }
         ],
         "spellcasting": null,
@@ -3483,12 +3483,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 91,
-            "url": "/api/levels/91",
+            "index": 90,
+            "url": "/api/levels/90",
             "name": "Fighter Level 11",
             "desc": []
         }
@@ -3501,7 +3501,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 4",
-                "url": "/api/features/150"
+                "url": "/api/features/19"
             }
         ],
         "spellcasting": null,
@@ -3512,12 +3512,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 92,
-            "url": "/api/levels/92",
+            "index": 91,
+            "url": "/api/levels/91",
             "name": "Fighter Level 12",
             "desc": []
         }
@@ -3530,7 +3530,7 @@
         "features": [
             {
                 "name": "Indomitable (2 uses)",
-                "url": "/api/features/151"
+                "url": "/api/features/150"
             }
         ],
         "spellcasting": null,
@@ -3541,12 +3541,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 93,
-            "url": "/api/levels/93",
+            "index": 92,
+            "url": "/api/levels/92",
             "name": "Fighter Level 13",
             "desc": []
         }
@@ -3559,7 +3559,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 5",
-                "url": "/api/features/152"
+                "url": "/api/features/22"
             }
         ],
         "spellcasting": null,
@@ -3570,12 +3570,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 94,
-            "url": "/api/levels/94",
+            "index": 93,
+            "url": "/api/levels/93",
             "name": "Fighter Level 14",
             "desc": []
         }
@@ -3594,12 +3594,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 95,
-            "url": "/api/levels/95",
+            "index": 94,
+            "url": "/api/levels/94",
             "name": "Fighter Level 15",
             "desc": []
         }
@@ -3612,7 +3612,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 6",
-                "url": "/api/features/154"
+                "url": "/api/features/153"
             }
         ],
         "spellcasting": null,
@@ -3623,12 +3623,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 96,
-            "url": "/api/levels/96",
+            "index": 95,
+            "url": "/api/levels/95",
             "name": "Fighter Level 16",
             "desc": []
         }
@@ -3641,7 +3641,7 @@
         "features": [
             {
                 "name": "Indomitable (3 uses)",
-                "url": "/api/features/156"
+                "url": "/api/features/155"
             }
         ],
         "spellcasting": null,
@@ -3652,12 +3652,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 97,
-            "url": "/api/levels/97",
+            "index": 96,
+            "url": "/api/levels/96",
             "name": "Fighter Level 17",
             "desc": []
         }
@@ -3676,12 +3676,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 98,
-            "url": "/api/levels/98",
+            "index": 97,
+            "url": "/api/levels/97",
             "name": "Fighter Level 18",
             "desc": []
         }
@@ -3694,7 +3694,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 7",
-                "url": "/api/features/158"
+                "url": "/api/features/157"
             }
         ],
         "spellcasting": null,
@@ -3705,12 +3705,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 99,
-            "url": "/api/levels/99",
+            "index": 98,
+            "url": "/api/levels/98",
             "name": "Fighter Level 19",
             "desc": []
         }
@@ -3723,7 +3723,7 @@
         "features": [
             {
                 "name": "Extra Attack (3)",
-                "url": "/api/features/159"
+                "url": "/api/features/158"
             }
         ],
         "spellcasting": null,
@@ -3734,12 +3734,12 @@
         },
         "class": {
             "name": "Fighter",
-            "url": "/api/classes/5"
+            "url": "/api/classes/4"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 100,
-            "url": "/api/levels/100",
+            "index": 99,
+            "url": "/api/levels/99",
             "name": "Fighter Level 20",
             "desc": []
         }
@@ -3752,11 +3752,11 @@
         "features": [
             {
                 "name": "Unarmored Defense",
-                "url": "/api/features/160"
+                "url": "/api/features/1"
             },
             {
                 "name": "Martial Arts",
-                "url": "/api/features/161"
+                "url": "/api/features/160"
             }
         ],
         "spellcasting": null,
@@ -3770,12 +3770,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 101,
-            "url": "/api/levels/101",
+            "index": 100,
+            "url": "/api/levels/100",
             "name": "Monk Level 1",
             "desc": []
         }
@@ -3788,23 +3788,23 @@
         "features": [
             {
                 "name": "Ki",
-                "url": "/api/features/162"
+                "url": "/api/features/161"
             },
             {
                 "name": "Flurry of Blows",
-                "url": "/api/features/163"
+                "url": "/api/features/162"
             },
             {
                 "name": "Patient Defense",
-                "url": "/api/features/164"
+                "url": "/api/features/163"
             },
             {
                 "name": "Step of the Wind",
-                "url": "/api/features/165"
+                "url": "/api/features/164"
             },
             {
                 "name": "Unarmored Movement 1",
-                "url": "/api/features/166"
+                "url": "/api/features/165"
             }
         ],
         "spellcasting": null,
@@ -3818,12 +3818,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 102,
-            "url": "/api/levels/102",
+            "index": 101,
+            "url": "/api/levels/101",
             "name": "Monk Level 2",
             "desc": []
         }
@@ -3836,11 +3836,11 @@
         "features": [
             {
                 "name": "Monastic Tradition",
-                "url": "/api/features/167"
+                "url": "/api/features/166"
             },
             {
                 "name": "Deflect Missiles",
-                "url": "/api/features/168"
+                "url": "/api/features/167"
             }
         ],
         "spellcasting": null,
@@ -3854,12 +3854,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 103,
-            "url": "/api/levels/103",
+            "index": 102,
+            "url": "/api/levels/102",
             "name": "Monk Level 3",
             "desc": []
         }
@@ -3872,11 +3872,11 @@
         "features": [
             {
                 "name": "Ability Score Improvement 1",
-                "url": "/api/features/170"
+                "url": "/api/features/6"
             },
             {
                 "name": "Slow Fall",
-                "url": "/api/features/171"
+                "url": "/api/features/170"
             }
         ],
         "spellcasting": null,
@@ -3890,12 +3890,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 104,
-            "url": "/api/levels/104",
+            "index": 103,
+            "url": "/api/levels/103",
             "name": "Monk Level 4",
             "desc": []
         }
@@ -3908,11 +3908,11 @@
         "features": [
             {
                 "name": "Extra Attack",
-                "url": "/api/features/172"
+                "url": "/api/features/7"
             },
             {
                 "name": "Stunning Strike",
-                "url": "/api/features/173"
+                "url": "/api/features/172"
             }
         ],
         "spellcasting": null,
@@ -3926,12 +3926,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 105,
-            "url": "/api/levels/105",
+            "index": 104,
+            "url": "/api/levels/104",
             "name": "Monk Level 5",
             "desc": []
         }
@@ -3944,7 +3944,7 @@
         "features": [
             {
                 "name": "Ki Empowered Strikes",
-                "url": "/api/features/174"
+                "url": "/api/features/173"
             }
         ],
         "spellcasting": null,
@@ -3958,12 +3958,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 106,
-            "url": "/api/levels/106",
+            "index": 105,
+            "url": "/api/levels/105",
             "name": "Monk Level 6",
             "desc": []
         }
@@ -3976,11 +3976,11 @@
         "features": [
             {
                 "name": "Evasion",
-                "url": "/api/features/176"
+                "url": "/api/features/175"
             },
             {
                 "name": "Stillness of Mind",
-                "url": "/api/features/177"
+                "url": "/api/features/176"
             }
         ],
         "spellcasting": null,
@@ -3994,12 +3994,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 107,
-            "url": "/api/levels/107",
+            "index": 106,
+            "url": "/api/levels/106",
             "name": "Monk Level 7",
             "desc": []
         }
@@ -4012,7 +4012,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/178"
+                "url": "/api/features/11"
             }
         ],
         "spellcasting": null,
@@ -4026,12 +4026,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 108,
-            "url": "/api/levels/108",
+            "index": 107,
+            "url": "/api/levels/107",
             "name": "Monk Level 8",
             "desc": []
         }
@@ -4044,7 +4044,7 @@
         "features": [
             {
                 "name": "Unarmored Movement 2",
-                "url": "/api/features/179"
+                "url": "/api/features/178"
             }
         ],
         "spellcasting": null,
@@ -4058,12 +4058,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 109,
-            "url": "/api/levels/109",
+            "index": 108,
+            "url": "/api/levels/108",
             "name": "Monk Level 9",
             "desc": []
         }
@@ -4076,7 +4076,7 @@
         "features": [
             {
                 "name": "Purity of Body",
-                "url": "/api/features/180"
+                "url": "/api/features/179"
             }
         ],
         "spellcasting": null,
@@ -4090,12 +4090,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 110,
-            "url": "/api/levels/110",
+            "index": 109,
+            "url": "/api/levels/109",
             "name": "Monk Level 10",
             "desc": []
         }
@@ -4117,12 +4117,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 111,
-            "url": "/api/levels/111",
+            "index": 110,
+            "url": "/api/levels/110",
             "name": "Monk Level 11",
             "desc": []
         }
@@ -4135,7 +4135,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 3",
-                "url": "/api/features/182"
+                "url": "/api/features/15"
             }
         ],
         "spellcasting": null,
@@ -4149,12 +4149,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 112,
-            "url": "/api/levels/112",
+            "index": 111,
+            "url": "/api/levels/111",
             "name": "Monk Level 12",
             "desc": []
         }
@@ -4167,7 +4167,7 @@
         "features": [
             {
                 "name": "Tongue of the Sun and Moon",
-                "url": "/api/features/183"
+                "url": "/api/features/182"
             }
         ],
         "spellcasting": null,
@@ -4181,12 +4181,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 113,
-            "url": "/api/levels/113",
+            "index": 112,
+            "url": "/api/levels/112",
             "name": "Monk Level 13",
             "desc": []
         }
@@ -4199,7 +4199,7 @@
         "features": [
             {
                 "name": "Diamond Soul",
-                "url": "/api/features/184"
+                "url": "/api/features/183"
             }
         ],
         "spellcasting": null,
@@ -4213,12 +4213,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 114,
-            "url": "/api/levels/114",
+            "index": 113,
+            "url": "/api/levels/113",
             "name": "Monk Level 14",
             "desc": []
         }
@@ -4231,7 +4231,7 @@
         "features": [
             {
                 "name": "Timeless Body",
-                "url": "/api/features/185"
+                "url": "/api/features/126"
             }
         ],
         "spellcasting": null,
@@ -4245,12 +4245,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 115,
-            "url": "/api/levels/115",
+            "index": 114,
+            "url": "/api/levels/114",
             "name": "Monk Level 15",
             "desc": []
         }
@@ -4263,7 +4263,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 4",
-                "url": "/api/features/186"
+                "url": "/api/features/19"
             }
         ],
         "spellcasting": null,
@@ -4277,12 +4277,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 116,
-            "url": "/api/levels/116",
+            "index": 115,
+            "url": "/api/levels/115",
             "name": "Monk Level 16",
             "desc": []
         }
@@ -4304,12 +4304,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 117,
-            "url": "/api/levels/117",
+            "index": 116,
+            "url": "/api/levels/116",
             "name": "Monk Level 17",
             "desc": []
         }
@@ -4322,7 +4322,7 @@
         "features": [
             {
                 "name": "Empty Body",
-                "url": "/api/features/188"
+                "url": "/api/features/187"
             }
         ],
         "spellcasting": null,
@@ -4336,12 +4336,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 118,
-            "url": "/api/levels/118",
+            "index": 117,
+            "url": "/api/levels/117",
             "name": "Monk Level 18",
             "desc": []
         }
@@ -4354,7 +4354,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 5",
-                "url": "/api/features/189"
+                "url": "/api/features/22"
             }
         ],
         "spellcasting": null,
@@ -4368,12 +4368,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 119,
-            "url": "/api/levels/119",
+            "index": 118,
+            "url": "/api/levels/118",
             "name": "Monk Level 19",
             "desc": []
         }
@@ -4386,7 +4386,7 @@
         "features": [
             {
                 "name": "Perfect Self",
-                "url": "/api/features/190"
+                "url": "/api/features/189"
             }
         ],
         "spellcasting": null,
@@ -4400,12 +4400,12 @@
         },
         "class": {
             "name": "Monk",
-            "url": "/api/classes/6"
+            "url": "/api/classes/5"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 120,
-            "url": "/api/levels/120",
+            "index": 119,
+            "url": "/api/levels/119",
             "name": "Monk Level 20",
             "desc": []
         }
@@ -4418,11 +4418,11 @@
         "features": [
             {
                 "name": "Divine Sense",
-                "url": "/api/features/191"
+                "url": "/api/features/190"
             },
             {
                 "name": "Lay on Hands",
-                "url": "/api/features/192"
+                "url": "/api/features/191"
             }
         ],
         "spellcasting": {
@@ -4441,12 +4441,12 @@
         },
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 121,
-            "url": "/api/levels/121",
+            "index": 120,
+            "url": "/api/levels/120",
             "name": "Paladin Level 1",
             "desc": []
         }
@@ -4458,17 +4458,17 @@
         "feature_choices": [
             {
                 "name": "Choose: Fighting Style",
-                "url": "/api/features/193"
+                "url": "/api/features/130"
             }
         ],
         "features": [
             {
                 "name": "Spellcasting",
-                "url": "/api/features/198"
+                "url": "/api/features/24"
             },
             {
                 "name": "Divine Smite",
-                "url": "/api/features/199"
+                "url": "/api/features/198"
             }
         ],
         "spellcasting": {
@@ -4487,12 +4487,12 @@
         },
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 122,
-            "url": "/api/levels/122",
+            "index": 121,
+            "url": "/api/levels/121",
             "name": "Paladin Level 2",
             "desc": []
         }
@@ -4505,19 +4505,19 @@
         "features": [
             {
                 "name": "Divine Health",
-                "url": "/api/features/200"
+                "url": "/api/features/199"
             },
             {
                 "name": "Sacred Oath",
-                "url": "/api/features/201"
+                "url": "/api/features/200"
             },
             {
                 "name": "Oath Spells",
-                "url": "/api/features/202"
+                "url": "/api/features/201"
             },
             {
                 "name": "Channel Divinity",
-                "url": "/api/features/203"
+                "url": "/api/features/202"
             }
         ],
         "spellcasting": {
@@ -4536,12 +4536,12 @@
         },
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 123,
-            "url": "/api/levels/123",
+            "index": 122,
+            "url": "/api/levels/122",
             "name": "Paladin Level 3",
             "desc": []
         }
@@ -4554,7 +4554,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 1",
-                "url": "/api/features/206"
+                "url": "/api/features/6"
             }
         ],
         "spellcasting": {
@@ -4573,12 +4573,12 @@
         },
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 124,
-            "url": "/api/levels/124",
+            "index": 123,
+            "url": "/api/levels/123",
             "name": "Paladin Level 4",
             "desc": []
         }
@@ -4591,7 +4591,7 @@
         "features": [
             {
                 "name": "Extra Attack",
-                "url": "/api/features/207"
+                "url": "/api/features/7"
             }
         ],
         "spellcasting": {
@@ -4610,12 +4610,12 @@
         },
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 125,
-            "url": "/api/levels/125",
+            "index": 124,
+            "url": "/api/levels/124",
             "name": "Paladin Level 5",
             "desc": []
         }
@@ -4628,7 +4628,7 @@
         "features": [
             {
                 "name": "Aura of Protection",
-                "url": "/api/features/208"
+                "url": "/api/features/207"
             }
         ],
         "spell_slots_level_1": 4,
@@ -4639,13 +4639,13 @@
         "aura_range": 10,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 126,
-            "url": "/api/levels/126",
+            "index": 125,
+            "url": "/api/levels/125",
             "name": "Paladin Level 6",
             "desc": []
         }
@@ -4664,13 +4664,13 @@
         "aura_range": 10,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 127,
-            "url": "/api/levels/127",
+            "index": 126,
+            "url": "/api/levels/126",
             "name": "Paladin Level 7",
             "desc": []
         }
@@ -4683,7 +4683,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/210"
+                "url": "/api/features/11"
             }
         ],
         "spell_slots_level_1": 4,
@@ -4694,13 +4694,13 @@
         "aura_range": 10,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 128,
-            "url": "/api/levels/128",
+            "index": 127,
+            "url": "/api/levels/127",
             "name": "Paladin Level 8",
             "desc": []
         }
@@ -4719,13 +4719,13 @@
         "aura_range": 10,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 129,
-            "url": "/api/levels/129",
+            "index": 128,
+            "url": "/api/levels/128",
             "name": "Paladin Level 9",
             "desc": []
         }
@@ -4738,7 +4738,7 @@
         "features": [
             {
                 "name": "Aura of Courage",
-                "url": "/api/features/211"
+                "url": "/api/features/210"
             }
         ],
         "spell_slots_level_1": 4,
@@ -4749,13 +4749,13 @@
         "aura_range": 10,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 130,
-            "url": "/api/levels/130",
+            "index": 129,
+            "url": "/api/levels/129",
             "name": "Paladin Level 10",
             "desc": []
         }
@@ -4768,7 +4768,7 @@
         "features": [
             {
                 "name": "Improved Divine Smite",
-                "url": "/api/features/212"
+                "url": "/api/features/211"
             }
         ],
         "spell_slots_level_1": 4,
@@ -4779,13 +4779,13 @@
         "aura_range": 10,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 131,
-            "url": "/api/levels/131",
+            "index": 130,
+            "url": "/api/levels/130",
             "name": "Paladin Level 11",
             "desc": []
         }
@@ -4798,7 +4798,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 3",
-                "url": "/api/features/213"
+                "url": "/api/features/15"
             }
         ],
         "spell_slots_level_1": 4,
@@ -4809,13 +4809,13 @@
         "aura_range": 10,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 132,
-            "url": "/api/levels/132",
+            "index": 131,
+            "url": "/api/levels/131",
             "name": "Paladin Level 12",
             "desc": []
         }
@@ -4834,13 +4834,13 @@
         "aura_range": 10,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 133,
-            "url": "/api/levels/133",
+            "index": 132,
+            "url": "/api/levels/132",
             "name": "Paladin Level 13",
             "desc": []
         }
@@ -4853,7 +4853,7 @@
         "features": [
             {
                 "name": "Cleansing Touch",
-                "url": "/api/features/214"
+                "url": "/api/features/213"
             }
         ],
         "spell_slots_level_1": 4,
@@ -4864,13 +4864,13 @@
         "aura_range": 10,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 134,
-            "url": "/api/levels/134",
+            "index": 133,
+            "url": "/api/levels/133",
             "name": "Paladin Level 14",
             "desc": []
         }
@@ -4897,12 +4897,12 @@
         },
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 135,
-            "url": "/api/levels/135",
+            "index": 134,
+            "url": "/api/levels/134",
             "name": "Paladin Level 15",
             "desc": []
         }
@@ -4915,7 +4915,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 4",
-                "url": "/api/features/216"
+                "url": "/api/features/19"
             }
         ],
         "spell_slots_level_1": 4,
@@ -4926,13 +4926,13 @@
         "aura_range": 10,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 136,
-            "url": "/api/levels/136",
+            "index": 135,
+            "url": "/api/levels/135",
             "name": "Paladin Level 16",
             "desc": []
         }
@@ -4951,13 +4951,13 @@
         "aura_range": 10,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 137,
-            "url": "/api/levels/137",
+            "index": 136,
+            "url": "/api/levels/136",
             "name": "Paladin Level 17",
             "desc": []
         }
@@ -4970,7 +4970,7 @@
         "features": [
             {
                 "name": "Aura improvements",
-                "url": "/api/features/217"
+                "url": "/api/features/216"
             }
         ],
         "spell_slots_level_1": 4,
@@ -4981,13 +4981,13 @@
         "aura_range": 30,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 138,
-            "url": "/api/levels/138",
+            "index": 137,
+            "url": "/api/levels/137",
             "name": "Paladin Level 18",
             "desc": []
         }
@@ -5000,7 +5000,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 5",
-                "url": "/api/features/218"
+                "url": "/api/features/22"
             }
         ],
         "spell_slots_level_1": 4,
@@ -5011,13 +5011,13 @@
         "aura_range": 30,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 139,
-            "url": "/api/levels/139",
+            "index": 138,
+            "url": "/api/levels/138",
             "name": "Paladin Level 19",
             "desc": []
         }
@@ -5036,13 +5036,13 @@
         "aura_range": 30,
         "class": {
             "name": "Paladin",
-            "url": "/api/classes/7"
+            "url": "/api/classes/6"
         },
         "subclass": null,
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 140,
-            "url": "/api/levels/140",
+            "index": 139,
+            "url": "/api/levels/139",
             "name": "Paladin Level 20",
             "desc": []
         }
@@ -5055,11 +5055,11 @@
         "features": [
             {
                 "name": "Favored Enemy (1 type)",
-                "url": "/api/features/220"
+                "url": "/api/features/219"
             },
             {
                 "name": "Natural Explorer (1 terrain type)",
-                "url": "/api/features/221"
+                "url": "/api/features/220"
             }
         ],
         "spellcasting": {
@@ -5079,12 +5079,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 141,
-            "url": "/api/levels/141",
+            "index": 140,
+            "url": "/api/levels/140",
             "name": "Ranger Level 1",
             "desc": []
         }
@@ -5096,13 +5096,13 @@
         "feature_choices": [
             {
                 "name": "Choose: Fighting Style",
-                "url": "/api/features/222"
+                "url": "/api/features/130"
             }
         ],
         "features": [
             {
                 "name": "Spellcasting",
-                "url": "/api/features/227"
+                "url": "/api/features/24"
             }
         ],
         "spellcasting": {
@@ -5122,12 +5122,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 142,
-            "url": "/api/levels/142",
+            "index": 141,
+            "url": "/api/levels/141",
             "name": "Ranger Level 2",
             "desc": []
         }
@@ -5140,11 +5140,11 @@
         "features": [
             {
                 "name": "Ranger Archetype",
-                "url": "/api/features/228"
+                "url": "/api/features/227"
             },
             {
                 "name": "Primeval Awareness",
-                "url": "/api/features/233"
+                "url": "/api/features/232"
             }
         ],
         "spellcasting": {
@@ -5164,12 +5164,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 143,
-            "url": "/api/levels/143",
+            "index": 142,
+            "url": "/api/levels/142",
             "name": "Ranger Level 3",
             "desc": []
         }
@@ -5182,7 +5182,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 1",
-                "url": "/api/features/234"
+                "url": "/api/features/6"
             }
         ],
         "spellcasting": {
@@ -5202,12 +5202,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 144,
-            "url": "/api/levels/144",
+            "index": 143,
+            "url": "/api/levels/143",
             "name": "Ranger Level 4",
             "desc": []
         }
@@ -5220,7 +5220,7 @@
         "features": [
             {
                 "name": "Extra Attack",
-                "url": "/api/features/235"
+                "url": "/api/features/7"
             }
         ],
         "spellcasting": {
@@ -5240,12 +5240,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 145,
-            "url": "/api/levels/145",
+            "index": 144,
+            "url": "/api/levels/144",
             "name": "Ranger Level 5",
             "desc": []
         }
@@ -5258,11 +5258,11 @@
         "features": [
             {
                 "name": "Favored Enemy (2 types)",
-                "url": "/api/features/236"
+                "url": "/api/features/235"
             },
             {
                 "name": "Natural Explorer (2 terrain types)",
-                "url": "/api/features/237"
+                "url": "/api/features/236"
             }
         ],
         "spellcasting": {
@@ -5282,12 +5282,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 146,
-            "url": "/api/levels/146",
+            "index": 145,
+            "url": "/api/levels/145",
             "name": "Ranger Level 6",
             "desc": []
         }
@@ -5315,12 +5315,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 147,
-            "url": "/api/levels/147",
+            "index": 146,
+            "url": "/api/levels/146",
             "name": "Ranger Level 7",
             "desc": []
         }
@@ -5333,11 +5333,11 @@
         "features": [
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/242"
+                "url": "/api/features/11"
             },
             {
                 "name": "Land's Stride",
-                "url": "/api/features/243"
+                "url": "/api/features/117"
             }
         ],
         "spellcasting": {
@@ -5357,12 +5357,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 148,
-            "url": "/api/levels/148",
+            "index": 147,
+            "url": "/api/levels/147",
             "name": "Ranger Level 8",
             "desc": []
         }
@@ -5390,12 +5390,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 149,
-            "url": "/api/levels/149",
+            "index": 148,
+            "url": "/api/levels/148",
             "name": "Ranger Level 9",
             "desc": []
         }
@@ -5408,11 +5408,11 @@
         "features": [
             {
                 "name": "Natural Explorer (3 terrain types)",
-                "url": "/api/features/244"
+                "url": "/api/features/243"
             },
             {
                 "name": "Hide in Plain Sight",
-                "url": "/api/features/245"
+                "url": "/api/features/244"
             }
         ],
         "spellcasting": {
@@ -5432,12 +5432,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 150,
-            "url": "/api/levels/150",
+            "index": 149,
+            "url": "/api/levels/149",
             "name": "Ranger Level 10",
             "desc": []
         }
@@ -5465,12 +5465,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 151,
-            "url": "/api/levels/151",
+            "index": 150,
+            "url": "/api/levels/150",
             "name": "Ranger Level 11",
             "desc": []
         }
@@ -5483,7 +5483,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 4",
-                "url": "/api/features/249"
+                "url": "/api/features/19"
             }
         ],
         "spellcasting": {
@@ -5503,12 +5503,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 152,
-            "url": "/api/levels/152",
+            "index": 151,
+            "url": "/api/levels/151",
             "name": "Ranger Level 12",
             "desc": []
         }
@@ -5536,12 +5536,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 153,
-            "url": "/api/levels/153",
+            "index": 152,
+            "url": "/api/levels/152",
             "name": "Ranger Level 13",
             "desc": []
         }
@@ -5554,11 +5554,11 @@
         "features": [
             {
                 "name": "Favored Enemy (3 enemies)",
-                "url": "/api/features/250"
+                "url": "/api/features/249"
             },
             {
                 "name": "Vanish",
-                "url": "/api/features/251"
+                "url": "/api/features/250"
             }
         ],
         "spellcasting": {
@@ -5578,12 +5578,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 154,
-            "url": "/api/levels/154",
+            "index": 153,
+            "url": "/api/levels/153",
             "name": "Ranger Level 14",
             "desc": []
         }
@@ -5611,12 +5611,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 155,
-            "url": "/api/levels/155",
+            "index": 154,
+            "url": "/api/levels/154",
             "name": "Ranger Level 15",
             "desc": []
         }
@@ -5629,7 +5629,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 4",
-                "url": "/api/features/256"
+                "url": "/api/features/19"
             }
         ],
         "spellcasting": {
@@ -5649,12 +5649,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 156,
-            "url": "/api/levels/156",
+            "index": 155,
+            "url": "/api/levels/155",
             "name": "Ranger Level 16",
             "desc": []
         }
@@ -5682,12 +5682,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 157,
-            "url": "/api/levels/157",
+            "index": 156,
+            "url": "/api/levels/156",
             "name": "Ranger Level 17",
             "desc": []
         }
@@ -5700,7 +5700,7 @@
         "features": [
             {
                 "name": "Feral Senses",
-                "url": "/api/features/257"
+                "url": "/api/features/256"
             }
         ],
         "spellcasting": {
@@ -5720,12 +5720,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 158,
-            "url": "/api/levels/158",
+            "index": 157,
+            "url": "/api/levels/157",
             "name": "Ranger Level 18",
             "desc": []
         }
@@ -5738,6 +5738,44 @@
         "features": [
             {
                 "name": "Ability Score Improvement 5",
+                "url": "/api/features/22"
+            }
+        ],
+        "spellcasting": {
+            "spells_known": 11,
+            "cantrips_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                3,
+                2
+            ]
+        },
+        "class_specific": {
+            "favored_enemies": 3,
+            "favored_terrain": 3
+        },
+        "class": {
+            "name": "Ranger",
+            "url": "/api/classes/7"
+        },
+        "subclass": null,
+        "entry_descriptor": {
+            "index": 158,
+            "url": "/api/levels/158",
+            "name": "Ranger Level 19",
+            "desc": []
+        }
+    },
+    {
+        "level": 20,
+        "ability_score_bonuses": 5,
+        "prof_bonus": 6,
+        "feature_choices": [],
+        "features": [
+            {
+                "name": "Foe Slayer",
                 "url": "/api/features/258"
             }
         ],
@@ -5758,50 +5796,12 @@
         },
         "class": {
             "name": "Ranger",
-            "url": "/api/classes/8"
+            "url": "/api/classes/7"
         },
         "subclass": null,
         "entry_descriptor": {
             "index": 159,
             "url": "/api/levels/159",
-            "name": "Ranger Level 19",
-            "desc": []
-        }
-    },
-    {
-        "level": 20,
-        "ability_score_bonuses": 5,
-        "prof_bonus": 6,
-        "feature_choices": [],
-        "features": [
-            {
-                "name": "Foe Slayer",
-                "url": "/api/features/259"
-            }
-        ],
-        "spellcasting": {
-            "spells_known": 11,
-            "cantrips_known": 0,
-            "spell_slots": [
-                4,
-                3,
-                3,
-                3,
-                2
-            ]
-        },
-        "class_specific": {
-            "favored_enemies": 3,
-            "favored_terrain": 3
-        },
-        "class": {
-            "name": "Ranger",
-            "url": "/api/classes/8"
-        },
-        "subclass": null,
-        "entry_descriptor": {
-            "index": 160,
-            "url": "/api/levels/160",
             "name": "Ranger Level 20",
             "desc": []
         }
@@ -5813,17 +5813,17 @@
         "feature_choices": [
             {
                 "name": "Expertise 1",
-                "url": "/api/features/32"
+                "url": "/api/features/31"
             }
         ],
         "features": [
             {
                 "name": "Sneak Attack",
-                "url": "/api/features/280"
+                "url": "/api/features/279"
             },
             {
                 "name": "Thieves' Cant",
-                "url": "/api/features/281"
+                "url": "/api/features/280"
             }
         ],
         "spellcasting": null,
@@ -5835,12 +5835,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 161,
-            "url": "/api/levels/161",
+            "index": 160,
+            "url": "/api/levels/160",
             "name": "Rogue Level 1",
             "desc": []
         }
@@ -5853,7 +5853,7 @@
         "features": [
             {
                 "name": "Cunning Action",
-                "url": "/api/features/282"
+                "url": "/api/features/281"
             }
         ],
         "spellcasting": null,
@@ -5865,12 +5865,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 162,
-            "url": "/api/levels/162",
+            "index": 161,
+            "url": "/api/levels/161",
             "name": "Rogue Level 2",
             "desc": []
         }
@@ -5883,7 +5883,7 @@
         "features": [
             {
                 "name": "Roguish Archetype",
-                "url": "/api/features/283"
+                "url": "/api/features/282"
             }
         ],
         "spellcasting": null,
@@ -5895,12 +5895,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 163,
-            "url": "/api/levels/163",
+            "index": 162,
+            "url": "/api/levels/162",
             "name": "Rogue Level 3",
             "desc": []
         }
@@ -5913,7 +5913,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 1",
-                "url": "/api/features/286"
+                "url": "/api/features/6"
             }
         ],
         "spellcasting": null,
@@ -5925,12 +5925,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 164,
-            "url": "/api/levels/164",
+            "index": 163,
+            "url": "/api/levels/163",
             "name": "Rogue Level 4",
             "desc": []
         }
@@ -5943,7 +5943,7 @@
         "features": [
             {
                 "name": "Uncanny Dodge",
-                "url": "/api/features/287"
+                "url": "/api/features/286"
             }
         ],
         "spellcasting": null,
@@ -5955,12 +5955,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 165,
-            "url": "/api/levels/165",
+            "index": 164,
+            "url": "/api/levels/164",
             "name": "Rogue Level 5",
             "desc": []
         }
@@ -5972,7 +5972,7 @@
         "feature_choices": [
             {
                 "name": "Expertise 2",
-                "url": "/api/features/59"
+                "url": "/api/features/58"
             }
         ],
         "features": [],
@@ -5985,12 +5985,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 166,
-            "url": "/api/levels/166",
+            "index": 165,
+            "url": "/api/levels/165",
             "name": "Rogue Level 6",
             "desc": []
         }
@@ -6003,7 +6003,7 @@
         "features": [
             {
                 "name": "Evasion",
-                "url": "/api/features/289"
+                "url": "/api/features/175"
             }
         ],
         "spellcasting": null,
@@ -6015,12 +6015,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 167,
-            "url": "/api/levels/167",
+            "index": 166,
+            "url": "/api/levels/166",
             "name": "Rogue Level 7",
             "desc": []
         }
@@ -6033,7 +6033,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/290"
+                "url": "/api/features/11"
             }
         ],
         "spellcasting": null,
@@ -6045,12 +6045,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 168,
-            "url": "/api/levels/168",
+            "index": 167,
+            "url": "/api/levels/167",
             "name": "Rogue Level 8",
             "desc": []
         }
@@ -6063,7 +6063,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/290"
+                "url": "/api/features/11"
             }
         ],
         "spellcasting": null,
@@ -6075,12 +6075,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 169,
-            "url": "/api/levels/169",
+            "index": 168,
+            "url": "/api/levels/168",
             "name": "Rogue Level 9",
             "desc": []
         }
@@ -6093,7 +6093,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 3",
-                "url": "/api/features/292"
+                "url": "/api/features/15"
             }
         ],
         "spellcasting": null,
@@ -6105,12 +6105,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 170,
-            "url": "/api/levels/170",
+            "index": 169,
+            "url": "/api/levels/169",
             "name": "Rogue Level 10",
             "desc": []
         }
@@ -6123,7 +6123,7 @@
         "features": [
             {
                 "name": "Reliable Talent",
-                "url": "/api/features/293"
+                "url": "/api/features/292"
             }
         ],
         "spellcasting": null,
@@ -6135,12 +6135,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 171,
-            "url": "/api/levels/171",
+            "index": 170,
+            "url": "/api/levels/170",
             "name": "Rogue Level 11",
             "desc": []
         }
@@ -6153,7 +6153,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 4",
-                "url": "/api/features/294"
+                "url": "/api/features/19"
             }
         ],
         "spellcasting": null,
@@ -6165,12 +6165,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 172,
-            "url": "/api/levels/172",
+            "index": 171,
+            "url": "/api/levels/171",
             "name": "Rogue Level 12",
             "desc": []
         }
@@ -6190,12 +6190,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 173,
-            "url": "/api/levels/173",
+            "index": 172,
+            "url": "/api/levels/172",
             "name": "Rogue Level 13",
             "desc": []
         }
@@ -6208,7 +6208,7 @@
         "features": [
             {
                 "name": "Blindsense",
-                "url": "/api/features/296"
+                "url": "/api/features/295"
             }
         ],
         "spellcasting": null,
@@ -6220,12 +6220,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 174,
-            "url": "/api/levels/174",
+            "index": 173,
+            "url": "/api/levels/173",
             "name": "Rogue Level 14",
             "desc": []
         }
@@ -6238,7 +6238,7 @@
         "features": [
             {
                 "name": "Slippery Mind",
-                "url": "/api/features/297"
+                "url": "/api/features/296"
             }
         ],
         "spellcasting": null,
@@ -6250,12 +6250,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 175,
-            "url": "/api/levels/175",
+            "index": 174,
+            "url": "/api/levels/174",
             "name": "Rogue Level 15",
             "desc": []
         }
@@ -6268,7 +6268,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 5",
-                "url": "/api/features/298"
+                "url": "/api/features/22"
             }
         ],
         "spellcasting": null,
@@ -6280,12 +6280,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 176,
-            "url": "/api/levels/176",
+            "index": 175,
+            "url": "/api/levels/175",
             "name": "Rogue Level 16",
             "desc": []
         }
@@ -6305,12 +6305,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 177,
-            "url": "/api/levels/177",
+            "index": 176,
+            "url": "/api/levels/176",
             "name": "Rogue Level 17",
             "desc": []
         }
@@ -6323,7 +6323,7 @@
         "features": [
             {
                 "name": "Elusive",
-                "url": "/api/features/300"
+                "url": "/api/features/299"
             }
         ],
         "spellcasting": null,
@@ -6335,12 +6335,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 178,
-            "url": "/api/levels/178",
+            "index": 177,
+            "url": "/api/levels/177",
             "name": "Rogue Level 18",
             "desc": []
         }
@@ -6353,7 +6353,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 6",
-                "url": "/api/features/301"
+                "url": "/api/features/153"
             }
         ],
         "spellcasting": null,
@@ -6365,12 +6365,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 179,
-            "url": "/api/levels/179",
+            "index": 178,
+            "url": "/api/levels/178",
             "name": "Rogue Level 19",
             "desc": []
         }
@@ -6383,7 +6383,7 @@
         "features": [
             {
                 "name": "Stroke of Luck",
-                "url": "/api/features/302"
+                "url": "/api/features/301"
             }
         ],
         "spellcasting": null,
@@ -6395,12 +6395,12 @@
         },
         "class": {
             "name": "Rogue",
-            "url": "/api/classes/9"
+            "url": "/api/classes/8"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 180,
-            "url": "/api/levels/180",
+            "index": 179,
+            "url": "/api/levels/179",
             "name": "Rogue Level 20",
             "desc": []
         }
@@ -6413,11 +6413,11 @@
         "features": [
             {
                 "name": "Spellcasting",
-                "url": "/api/features/303"
+                "url": "/api/features/24"
             },
             {
                 "name": "Sorcerous Origin",
-                "url": "/api/features/304"
+                "url": "/api/features/303"
             }
         ],
         "spellcasting": {
@@ -6442,12 +6442,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 181,
-            "url": "/api/levels/181",
+            "index": 180,
+            "url": "/api/levels/180",
             "name": "Sorcerer Level 1",
             "desc": []
         }
@@ -6460,15 +6460,15 @@
         "features": [
             {
                 "name": "Font of Magic",
-                "url": "/api/features/317"
+                "url": "/api/features/316"
             },
             {
                 "name": "Flexible Casting: Creating Spell Slots",
-                "url": "/api/features/318"
+                "url": "/api/features/317"
             },
             {
                 "name": "Flexible Casting: Converting Spell Slot",
-                "url": "/api/features/319"
+                "url": "/api/features/318"
             }
         ],
         "spellcasting": {
@@ -6514,12 +6514,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 182,
-            "url": "/api/levels/182",
+            "index": 181,
+            "url": "/api/levels/181",
             "name": "Sorcerer Level 2",
             "desc": []
         }
@@ -6531,7 +6531,7 @@
         "feature_choices": [
             {
                 "name": "Choose: Metamagic, First and Second",
-                "url": "/api/features/320"
+                "url": "/api/features/319"
             }
         ],
         "features": [],
@@ -6578,12 +6578,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 183,
-            "url": "/api/levels/183",
+            "index": 182,
+            "url": "/api/levels/182",
             "name": "Sorcerer Level 3",
             "desc": []
         }
@@ -6596,7 +6596,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 1",
-                "url": "/api/features/329"
+                "url": "/api/features/6"
             }
         ],
         "spellcasting": {
@@ -6642,12 +6642,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 184,
-            "url": "/api/levels/184",
+            "index": 183,
+            "url": "/api/levels/183",
             "name": "Sorcerer Level 4",
             "desc": []
         }
@@ -6701,12 +6701,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 185,
-            "url": "/api/levels/185",
+            "index": 184,
+            "url": "/api/levels/184",
             "name": "Sorcerer Level 5",
             "desc": []
         }
@@ -6760,12 +6760,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 186,
-            "url": "/api/levels/186",
+            "index": 185,
+            "url": "/api/levels/185",
             "name": "Sorcerer Level 6",
             "desc": []
         }
@@ -6819,12 +6819,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 187,
-            "url": "/api/levels/187",
+            "index": 186,
+            "url": "/api/levels/186",
             "name": "Sorcerer Level 7",
             "desc": []
         }
@@ -6837,7 +6837,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/331"
+                "url": "/api/features/11"
             }
         ],
         "spellcasting": {
@@ -6883,12 +6883,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 188,
-            "url": "/api/levels/188",
+            "index": 187,
+            "url": "/api/levels/187",
             "name": "Sorcerer Level 8",
             "desc": []
         }
@@ -6942,12 +6942,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 189,
-            "url": "/api/levels/189",
+            "index": 188,
+            "url": "/api/levels/188",
             "name": "Sorcerer Level 9",
             "desc": []
         }
@@ -6959,7 +6959,7 @@
         "feature_choices": [
             {
                 "name": "Choose: Metamagic, Third",
-                "url": "/api/features/320"
+                "url": "/api/features/319"
             }
         ],
         "features": [],
@@ -7006,12 +7006,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 190,
-            "url": "/api/levels/190",
+            "index": 189,
+            "url": "/api/levels/189",
             "name": "Sorcerer Level 10",
             "desc": []
         }
@@ -7065,12 +7065,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 191,
-            "url": "/api/levels/191",
+            "index": 190,
+            "url": "/api/levels/190",
             "name": "Sorcerer Level 11",
             "desc": []
         }
@@ -7083,7 +7083,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 3",
-                "url": "/api/features/333"
+                "url": "/api/features/15"
             }
         ],
         "spellcasting": {
@@ -7129,12 +7129,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 192,
-            "url": "/api/levels/192",
+            "index": 191,
+            "url": "/api/levels/191",
             "name": "Sorcerer Level 12",
             "desc": []
         }
@@ -7188,12 +7188,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 193,
-            "url": "/api/levels/193",
+            "index": 192,
+            "url": "/api/levels/192",
             "name": "Sorcerer Level 13",
             "desc": []
         }
@@ -7247,12 +7247,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 194,
-            "url": "/api/levels/194",
+            "index": 193,
+            "url": "/api/levels/193",
             "name": "Sorcerer Level 14",
             "desc": []
         }
@@ -7306,12 +7306,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 195,
-            "url": "/api/levels/195",
+            "index": 194,
+            "url": "/api/levels/194",
             "name": "Sorcerer Level 15",
             "desc": []
         }
@@ -7324,7 +7324,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 4",
-                "url": "/api/features/335"
+                "url": "/api/features/19"
             }
         ],
         "spellcasting": {
@@ -7370,12 +7370,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 196,
-            "url": "/api/levels/196",
+            "index": 195,
+            "url": "/api/levels/195",
             "name": "Sorcerer Level 16",
             "desc": []
         }
@@ -7387,7 +7387,7 @@
         "feature_choices": [
             {
                 "name": "Choose: Metamagic, Fourth",
-                "url": "/api/features/320"
+                "url": "/api/features/319"
             }
         ],
         "features": [],
@@ -7434,12 +7434,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 197,
-            "url": "/api/levels/197",
+            "index": 196,
+            "url": "/api/levels/196",
             "name": "Sorcerer Level 17",
             "desc": []
         }
@@ -7493,12 +7493,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 198,
-            "url": "/api/levels/198",
+            "index": 197,
+            "url": "/api/levels/197",
             "name": "Sorcerer Level 18",
             "desc": []
         }
@@ -7511,7 +7511,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 5",
-                "url": "/api/features/338"
+                "url": "/api/features/22"
             }
         ],
         "spellcasting": {
@@ -7557,12 +7557,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 199,
-            "url": "/api/levels/199",
+            "index": 198,
+            "url": "/api/levels/198",
             "name": "Sorcerer Level 19",
             "desc": []
         }
@@ -7575,7 +7575,7 @@
         "features": [
             {
                 "name": "Sorcerous Restoration",
-                "url": "/api/features/339"
+                "url": "/api/features/338"
             }
         ],
         "spellcasting": {
@@ -7621,12 +7621,12 @@
         },
         "class": {
             "name": "Sorcerer",
-            "url": "/api/classes/10"
+            "url": "/api/classes/9"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 200,
-            "url": "/api/levels/200",
+            "index": 199,
+            "url": "/api/levels/199",
             "name": "Sorcerer Level 20",
             "desc": []
         }
@@ -7639,11 +7639,11 @@
         "features": [
             {
                 "name": "Otherworldly Patron",
-                "url": "/api/features/340"
+                "url": "/api/features/339"
             },
             {
                 "name": "Pact Magic",
-                "url": "/api/features/342"
+                "url": "/api/features/341"
             }
         ],
         "spellcasting": {
@@ -7670,12 +7670,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 201,
-            "url": "/api/levels/201",
+            "index": 200,
+            "url": "/api/levels/200",
             "name": "Warlock Level 1",
             "desc": []
         }
@@ -7688,7 +7688,7 @@
         "features": [
             {
                 "name": "Choose: Eldritch Invocations",
-                "url": "/api/features/343"
+                "url": "/api/features/342"
             }
         ],
         "spellcasting": {
@@ -7715,12 +7715,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 202,
-            "url": "/api/levels/202",
+            "index": 201,
+            "url": "/api/levels/201",
             "name": "Warlock Level 2",
             "desc": []
         }
@@ -7733,7 +7733,7 @@
         "features": [
             {
                 "name": "Choose: Pact Boon",
-                "url": "/api/features/376"
+                "url": "/api/features/375"
             }
         ],
         "spellcasting": {
@@ -7760,12 +7760,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 203,
-            "url": "/api/levels/203",
+            "index": 202,
+            "url": "/api/levels/202",
             "name": "Warlock Level 3",
             "desc": []
         }
@@ -7778,7 +7778,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 1",
-                "url": "/api/features/380"
+                "url": "/api/features/6"
             }
         ],
         "spellcasting": {
@@ -7805,12 +7805,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 204,
-            "url": "/api/levels/204",
+            "index": 203,
+            "url": "/api/levels/203",
             "name": "Warlock Level 4",
             "desc": []
         }
@@ -7823,7 +7823,7 @@
         "features": [
             {
                 "name": "Choose: Additional Eldritch Invocation",
-                "url": "/api/features/381"
+                "url": "/api/features/380"
             }
         ],
         "spellcasting": {
@@ -7850,12 +7850,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 205,
-            "url": "/api/levels/205",
+            "index": 204,
+            "url": "/api/levels/204",
             "name": "Warlock Level 5",
             "desc": []
         }
@@ -7890,12 +7890,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 206,
-            "url": "/api/levels/206",
+            "index": 205,
+            "url": "/api/levels/205",
             "name": "Warlock Level 6",
             "desc": []
         }
@@ -7908,7 +7908,7 @@
         "features": [
             {
                 "name": "Choose: Additional Eldritch Invocation",
-                "url": "/api/features/383"
+                "url": "/api/features/380"
             }
         ],
         "spellcasting": {
@@ -7935,12 +7935,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 207,
-            "url": "/api/levels/207",
+            "index": 206,
+            "url": "/api/levels/206",
             "name": "Warlock Level 7",
             "desc": []
         }
@@ -7953,7 +7953,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/384"
+                "url": "/api/features/11"
             }
         ],
         "spellcasting": {
@@ -7980,12 +7980,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 208,
-            "url": "/api/levels/208",
+            "index": 207,
+            "url": "/api/levels/207",
             "name": "Warlock Level 8",
             "desc": []
         }
@@ -7998,7 +7998,7 @@
         "features": [
             {
                 "name": "Choose: Additional Eldritch Invocation",
-                "url": "/api/features/385"
+                "url": "/api/features/380"
             }
         ],
         "spellcasting": {
@@ -8025,12 +8025,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 209,
-            "url": "/api/levels/209",
+            "index": 208,
+            "url": "/api/levels/208",
             "name": "Warlock Level 9",
             "desc": []
         }
@@ -8065,12 +8065,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 210,
-            "url": "/api/levels/210",
+            "index": 209,
+            "url": "/api/levels/209",
             "name": "Warlock Level 10",
             "desc": []
         }
@@ -8083,7 +8083,7 @@
         "features": [
             {
                 "name": "Mystic Arcanum (6th level)",
-                "url": "/api/features/387"
+                "url": "/api/features/386"
             }
         ],
         "spellcasting": {
@@ -8110,12 +8110,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 211,
-            "url": "/api/levels/211",
+            "index": 210,
+            "url": "/api/levels/210",
             "name": "Warlock Level 11",
             "desc": []
         }
@@ -8128,11 +8128,11 @@
         "features": [
             {
                 "name": "Ability Score Improvement 3",
-                "url": "/api/features/388"
+                "url": "/api/features/15"
             },
             {
                 "name": "Choose: Additional Eldritch Invocation",
-                "url": "/api/features/389"
+                "url": "/api/features/380"
             }
         ],
         "spellcasting": {
@@ -8159,12 +8159,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 212,
-            "url": "/api/levels/212",
+            "index": 211,
+            "url": "/api/levels/211",
             "name": "Warlock Level 12",
             "desc": []
         }
@@ -8177,7 +8177,7 @@
         "features": [
             {
                 "name": "Mystic Arcanum (7th level)",
-                "url": "/api/features/390"
+                "url": "/api/features/389"
             }
         ],
         "spellcasting": {
@@ -8204,12 +8204,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 213,
-            "url": "/api/levels/213",
+            "index": 212,
+            "url": "/api/levels/212",
             "name": "Warlock Level 13",
             "desc": []
         }
@@ -8244,12 +8244,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 214,
-            "url": "/api/levels/214",
+            "index": 213,
+            "url": "/api/levels/213",
             "name": "Warlock Level 14",
             "desc": []
         }
@@ -8262,11 +8262,11 @@
         "features": [
             {
                 "name": "Mystic Arcanum (8th level)",
-                "url": "/api/features/392"
+                "url": "/api/features/391"
             },
             {
                 "name": "Choose: Additional Eldritch Invocation",
-                "url": "/api/features/393"
+                "url": "/api/features/380"
             }
         ],
         "spellcasting": {
@@ -8293,12 +8293,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 215,
-            "url": "/api/levels/215",
+            "index": 214,
+            "url": "/api/levels/214",
             "name": "Warlock Level 15",
             "desc": []
         }
@@ -8311,7 +8311,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 5",
-                "url": "/api/features/394"
+                "url": "/api/features/22"
             }
         ],
         "spellcasting": {
@@ -8338,12 +8338,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 216,
-            "url": "/api/levels/216",
+            "index": 215,
+            "url": "/api/levels/215",
             "name": "Warlock Level 16",
             "desc": []
         }
@@ -8356,7 +8356,7 @@
         "features": [
             {
                 "name": "Mystic Arcanum (9th level)",
-                "url": "/api/features/395"
+                "url": "/api/features/394"
             }
         ],
         "spellcasting": {
@@ -8383,12 +8383,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 217,
-            "url": "/api/levels/217",
+            "index": 216,
+            "url": "/api/levels/216",
             "name": "Warlock Level 17",
             "desc": []
         }
@@ -8401,7 +8401,7 @@
         "features": [
             {
                 "name": "Choose: Additional Eldritch Invocation",
-                "url": "/api/features/396"
+                "url": "/api/features/380"
             }
         ],
         "spellcasting": {
@@ -8428,12 +8428,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 218,
-            "url": "/api/levels/218",
+            "index": 217,
+            "url": "/api/levels/217",
             "name": "Warlock Level 18",
             "desc": []
         }
@@ -8446,7 +8446,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 6",
-                "url": "/api/features/397"
+                "url": "/api/features/153"
             }
         ],
         "spellcasting": {
@@ -8473,12 +8473,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 219,
-            "url": "/api/levels/219",
+            "index": 218,
+            "url": "/api/levels/218",
             "name": "Warlock Level 19",
             "desc": []
         }
@@ -8491,11 +8491,11 @@
         "features": [
             {
                 "name": "Eldritch Master",
-                "url": "/api/features/398"
+                "url": "/api/features/397"
             },
             {
                 "name": "Choose: Additional Eldritch Invocation",
-                "url": "/api/features/399"
+                "url": "/api/features/380"
             }
         ],
         "spellcasting": {
@@ -8522,12 +8522,12 @@
         },
         "class": {
             "name": "Warlock",
-            "url": "/api/classes/11"
+            "url": "/api/classes/10"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 220,
-            "url": "/api/levels/220",
+            "index": 219,
+            "url": "/api/levels/219",
             "name": "Warlock Level 20",
             "desc": []
         }
@@ -8540,11 +8540,11 @@
         "features": [
             {
                 "name": "Spellcasting",
-                "url": "/api/features/25"
+                "url": "/api/features/24"
             },
             {
                 "name": "Arcane Recovery",
-                "url": "/api/features/401"
+                "url": "/api/features/400"
             }
         ],
         "spellcasting": {
@@ -8567,12 +8567,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 221,
-            "url": "/api/levels/221",
+            "index": 220,
+            "url": "/api/levels/220",
             "name": "Wizard Level 1",
             "desc": []
         }
@@ -8585,7 +8585,7 @@
         "features": [
             {
                 "name": "Arcane Tradition",
-                "url": "/api/features/402"
+                "url": "/api/features/401"
             }
         ],
         "spellcasting": {
@@ -8608,12 +8608,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 222,
-            "url": "/api/levels/222",
+            "index": 221,
+            "url": "/api/levels/221",
             "name": "Wizard Level 2",
             "desc": []
         }
@@ -8644,12 +8644,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 223,
-            "url": "/api/levels/223",
+            "index": 222,
+            "url": "/api/levels/222",
             "name": "Wizard Level 3",
             "desc": []
         }
@@ -8662,7 +8662,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 1",
-                "url": "/api/features/7"
+                "url": "/api/features/6"
             }
         ],
         "spellcasting": {
@@ -8685,12 +8685,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 224,
-            "url": "/api/levels/224",
+            "index": 223,
+            "url": "/api/levels/223",
             "name": "Wizard Level 4",
             "desc": []
         }
@@ -8721,12 +8721,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 225,
-            "url": "/api/levels/225",
+            "index": 224,
+            "url": "/api/levels/224",
             "name": "Wizard Level 5",
             "desc": []
         }
@@ -8757,12 +8757,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 226,
-            "url": "/api/levels/226",
+            "index": 225,
+            "url": "/api/levels/225",
             "name": "Wizard Level 6",
             "desc": []
         }
@@ -8793,12 +8793,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 227,
-            "url": "/api/levels/227",
+            "index": 226,
+            "url": "/api/levels/226",
             "name": "Wizard Level 7",
             "desc": []
         }
@@ -8811,7 +8811,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 2",
-                "url": "/api/features/12"
+                "url": "/api/features/11"
             }
         ],
         "spellcasting": {
@@ -8834,12 +8834,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 228,
-            "url": "/api/levels/228",
+            "index": 227,
+            "url": "/api/levels/227",
             "name": "Wizard Level 8",
             "desc": []
         }
@@ -8870,12 +8870,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 229,
-            "url": "/api/levels/229",
+            "index": 228,
+            "url": "/api/levels/228",
             "name": "Wizard Level 9",
             "desc": []
         }
@@ -8906,12 +8906,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 230,
-            "url": "/api/levels/230",
+            "index": 229,
+            "url": "/api/levels/229",
             "name": "Wizard Level 10",
             "desc": []
         }
@@ -8942,12 +8942,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 231,
-            "url": "/api/levels/231",
+            "index": 230,
+            "url": "/api/levels/230",
             "name": "Wizard Level 11",
             "desc": []
         }
@@ -8960,7 +8960,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 3",
-                "url": "/api/features/16"
+                "url": "/api/features/15"
             }
         ],
         "spellcasting": {
@@ -8983,12 +8983,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 232,
-            "url": "/api/levels/232",
+            "index": 231,
+            "url": "/api/levels/231",
             "name": "Wizard Level 12",
             "desc": []
         }
@@ -9019,12 +9019,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 233,
-            "url": "/api/levels/233",
+            "index": 232,
+            "url": "/api/levels/232",
             "name": "Wizard Level 13",
             "desc": []
         }
@@ -9055,12 +9055,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 234,
-            "url": "/api/levels/234",
+            "index": 233,
+            "url": "/api/levels/233",
             "name": "Wizard Level 14",
             "desc": []
         }
@@ -9091,12 +9091,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 235,
-            "url": "/api/levels/235",
+            "index": 234,
+            "url": "/api/levels/234",
             "name": "Wizard Level 15",
             "desc": []
         }
@@ -9109,7 +9109,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 4",
-                "url": "/api/features/20"
+                "url": "/api/features/19"
             }
         ],
         "spellcasting": {
@@ -9132,12 +9132,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 236,
-            "url": "/api/levels/236",
+            "index": 235,
+            "url": "/api/levels/235",
             "name": "Wizard Level 16",
             "desc": []
         }
@@ -9168,12 +9168,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 237,
-            "url": "/api/levels/237",
+            "index": 236,
+            "url": "/api/levels/236",
             "name": "Wizard Level 17",
             "desc": []
         }
@@ -9186,7 +9186,7 @@
         "features": [
             {
                 "name": "Spell Mastery",
-                "url": "/api/features/412"
+                "url": "/api/features/411"
             }
         ],
         "spellcasting": {
@@ -9209,12 +9209,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 238,
-            "url": "/api/levels/238",
+            "index": 237,
+            "url": "/api/levels/237",
             "name": "Wizard Level 18",
             "desc": []
         }
@@ -9227,7 +9227,7 @@
         "features": [
             {
                 "name": "Ability Score Improvement 5",
-                "url": "/api/features/23"
+                "url": "/api/features/22"
             }
         ],
         "spellcasting": {
@@ -9250,12 +9250,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 239,
-            "url": "/api/levels/239",
+            "index": 238,
+            "url": "/api/levels/238",
             "name": "Wizard Level 19",
             "desc": []
         }
@@ -9268,7 +9268,7 @@
         "features": [
             {
                 "name": "Signature Spell",
-                "url": "/api/features/414"
+                "url": "/api/features/413"
             }
         ],
         "spellcasting": {
@@ -9291,12 +9291,12 @@
         },
         "class": {
             "name": "Wizard",
-            "url": "/api/classes/12"
+            "url": "/api/classes/11"
         },
         "subclass": null,
         "entry_descriptor": {
-            "index": 240,
-            "url": "/api/levels/240",
+            "index": 239,
+            "url": "/api/levels/239",
             "name": "Wizard Level 20",
             "desc": []
         }
@@ -9307,25 +9307,25 @@
         "features": [
             {
                 "name": "Primal Path",
-                "url": "/api/features/5"
+                "url": "/api/features/4"
             },
             {
                 "name": "Frenzy",
-                "url": "/api/features/6"
+                "url": "/api/features/5"
             }
         ],
         "spellcasting": null,
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": {
             "name": "Berserker",
-            "url": "/api/subclasses/1"
+            "url": "/api/subclasses/0"
         },
         "entry_descriptor": {
-            "index": 241,
-            "url": "/api/levels/241",
+            "index": 240,
+            "url": "/api/levels/240",
             "name": "Barbarian Berserker Level 3",
             "desc": []
         }
@@ -9336,21 +9336,21 @@
         "features": [
             {
                 "name": "Mindless Rage",
-                "url": "/api/features/10"
+                "url": "/api/features/9"
             }
         ],
         "spellcasting": null,
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": {
             "name": "Berserker",
-            "url": "/api/subclasses/1"
+            "url": "/api/subclasses/0"
         },
         "entry_descriptor": {
-            "index": 242,
-            "url": "/api/levels/242",
+            "index": 241,
+            "url": "/api/levels/241",
             "name": "Barbarian Berserker Level 6",
             "desc": []
         }
@@ -9361,21 +9361,21 @@
         "features": [
             {
                 "name": "Intimidating Presence",
-                "url": "/api/features/14"
+                "url": "/api/features/13"
             }
         ],
         "spellcasting": null,
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": {
             "name": "Berserker",
-            "url": "/api/subclasses/1"
+            "url": "/api/subclasses/0"
         },
         "entry_descriptor": {
-            "index": 243,
-            "url": "/api/levels/243",
+            "index": 242,
+            "url": "/api/levels/242",
             "name": "Barbarian Berserker Level 10",
             "desc": []
         }
@@ -9386,21 +9386,21 @@
         "features": [
             {
                 "name": "Retaliation",
-                "url": "/api/features/18"
+                "url": "/api/features/17"
             }
         ],
         "spellcasting": null,
         "class": {
             "name": "Barbarian",
-            "url": "/api/classes/1"
+            "url": "/api/classes/0"
         },
         "subclass": {
             "name": "Berserker",
-            "url": "/api/subclasses/1"
+            "url": "/api/subclasses/0"
         },
         "entry_descriptor": {
-            "index": 244,
-            "url": "/api/levels/244",
+            "index": 243,
+            "url": "/api/levels/243",
             "name": "Barbarian Berserker Level 14",
             "desc": []
         }
@@ -9411,11 +9411,11 @@
         "features": [
             {
                 "name": "Bonus Proficiencies",
-                "url": "/api/features/30"
+                "url": "/api/features/29"
             },
             {
                 "name": "Cutting Words",
-                "url": "/api/features/31"
+                "url": "/api/features/30"
             }
         ],
         "spellcasting": null,
@@ -9424,15 +9424,15 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": {
             "name": "Lore",
-            "url": "/api/subclasses/2"
+            "url": "/api/subclasses/1"
         },
         "entry_descriptor": {
-            "index": 245,
-            "url": "/api/levels/245",
+            "index": 244,
+            "url": "/api/levels/244",
             "name": "Bard Lore Level 3",
             "desc": []
         }
@@ -9443,7 +9443,7 @@
         "features": [
             {
                 "name": "Additional Magical Secrets",
-                "url": "/api/features/55"
+                "url": "/api/features/54"
             }
         ],
         "spellcasting": null,
@@ -9452,15 +9452,15 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": {
             "name": "Lore",
-            "url": "/api/subclasses/2"
+            "url": "/api/subclasses/1"
         },
         "entry_descriptor": {
-            "index": 246,
-            "url": "/api/levels/246",
+            "index": 245,
+            "url": "/api/levels/245",
             "name": "Bard Lore Level 6",
             "desc": []
         }
@@ -9471,7 +9471,7 @@
         "features": [
             {
                 "name": "Peerless Skill",
-                "url": "/api/features/64"
+                "url": "/api/features/63"
             }
         ],
         "spellcasting": null,
@@ -9480,15 +9480,15 @@
         },
         "class": {
             "name": "Bard",
-            "url": "/api/classes/2"
+            "url": "/api/classes/1"
         },
         "subclass": {
             "name": "Lore",
-            "url": "/api/subclasses/2"
+            "url": "/api/subclasses/1"
         },
         "entry_descriptor": {
-            "index": 247,
-            "url": "/api/levels/247",
+            "index": 246,
+            "url": "/api/levels/246",
             "name": "Bard Lore Level 14",
             "desc": []
         }

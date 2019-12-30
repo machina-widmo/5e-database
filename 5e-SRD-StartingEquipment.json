@@ -1,20 +1,20 @@
 [
     {
         "class": {
-            "url": "/api/classes/1",
+            "url": "/api/classes/0",
             "name": "Barbarian"
         },
         "starting_equipment": [
             {
                 "item": {
-                    "url": "/api/equipment/158",
+                    "url": "/api/equipment/157",
                     "name": "Explorer's Pack"
                 },
                 "quantity": 1
             },
             {
                 "item": {
-                    "url": "/api/equipment/5",
+                    "url": "/api/equipment/4",
                     "name": "Javelin"
                 },
                 "quantity": 4
@@ -28,7 +28,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/18",
+                                "url": "/api/equipment/17",
                                 "name": "Greataxe"
                             },
                             "quantity": 1
@@ -41,126 +41,126 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/15",
+                                "url": "/api/equipment/14",
                                 "name": "Battleaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/16",
+                                "url": "/api/equipment/15",
                                 "name": "Flail"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/17",
+                                "url": "/api/equipment/16",
                                 "name": "Glaive"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/18",
+                                "url": "/api/equipment/17",
                                 "name": "Greataxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/19",
+                                "url": "/api/equipment/18",
                                 "name": "Greatsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/20",
+                                "url": "/api/equipment/19",
                                 "name": "Halberd"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/21",
+                                "url": "/api/equipment/20",
                                 "name": "Lance"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/22",
+                                "url": "/api/equipment/21",
                                 "name": "Longsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/23",
+                                "url": "/api/equipment/22",
                                 "name": "Maul"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/24",
+                                "url": "/api/equipment/23",
                                 "name": "Morningstar"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/25",
+                                "url": "/api/equipment/24",
                                 "name": "Pike"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/26",
+                                "url": "/api/equipment/25",
                                 "name": "Rapier"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/27",
+                                "url": "/api/equipment/26",
                                 "name": "Scimitar"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/28",
+                                "url": "/api/equipment/27",
                                 "name": "Shortsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/29",
+                                "url": "/api/equipment/28",
                                 "name": "Trident"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/30",
+                                "url": "/api/equipment/29",
                                 "name": "War pick"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/31",
+                                "url": "/api/equipment/30",
                                 "name": "Warhammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/32",
+                                "url": "/api/equipment/31",
                                 "name": "Whip"
                             },
                             "quantity": 1
@@ -175,7 +175,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 2
@@ -188,98 +188,98 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/1",
+                                "url": "/api/equipment/0",
                                 "name": "Club"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/2",
+                                "url": "/api/equipment/1",
                                 "name": "Dagger"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/3",
+                                "url": "/api/equipment/2",
                                 "name": "Greatclub"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/5",
+                                "url": "/api/equipment/4",
                                 "name": "Javelin"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/6",
+                                "url": "/api/equipment/5",
                                 "name": "Light hammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/7",
+                                "url": "/api/equipment/6",
                                 "name": "Mace"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/8",
+                                "url": "/api/equipment/7",
                                 "name": "Quarterstaff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/9",
+                                "url": "/api/equipment/8",
                                 "name": "Sickle"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/10",
+                                "url": "/api/equipment/9",
                                 "name": "Spear"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/12",
+                                "url": "/api/equipment/11",
                                 "name": "Dart"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/13",
+                                "url": "/api/equipment/12",
                                 "name": "Shortbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/14",
+                                "url": "/api/equipment/13",
                                 "name": "Sling"
                             },
                             "quantity": 1
@@ -289,28 +289,28 @@
             ]
         ],
         "entry_descriptor": {
-            "index": 1,
-            "url": "/api/startingequipment/1",
+            "index": 0,
+            "url": "/api/startingequipment/0",
             "name": "Barbarian",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/2",
+            "url": "/api/classes/1",
             "name": "Bard"
         },
         "starting_equipment": [
             {
                 "item": {
-                    "url": "/api/equipment/39",
+                    "url": "/api/equipment/38",
                     "name": "Leather"
                 },
                 "quantity": 1
             },
             {
                 "item": {
-                    "url": "/api/equipment/2",
+                    "url": "/api/equipment/1",
                     "name": "Dagger"
                 },
                 "quantity": 1
@@ -324,7 +324,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/26",
+                                "url": "/api/equipment/25",
                                 "name": "Rapier"
                             },
                             "quantity": 1
@@ -337,7 +337,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/22",
+                                "url": "/api/equipment/21",
                                 "name": "Longsword"
                             },
                             "quantity": 1
@@ -350,98 +350,98 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/1",
+                                "url": "/api/equipment/0",
                                 "name": "Club"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/2",
+                                "url": "/api/equipment/1",
                                 "name": "Dagger"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/3",
+                                "url": "/api/equipment/2",
                                 "name": "Greatclub"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/5",
+                                "url": "/api/equipment/4",
                                 "name": "Javelin"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/6",
+                                "url": "/api/equipment/5",
                                 "name": "Light hammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/7",
+                                "url": "/api/equipment/6",
                                 "name": "Mace"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/8",
+                                "url": "/api/equipment/7",
                                 "name": "Quarterstaff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/9",
+                                "url": "/api/equipment/8",
                                 "name": "Sickle"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/10",
+                                "url": "/api/equipment/9",
                                 "name": "Spear"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/12",
+                                "url": "/api/equipment/11",
                                 "name": "Dart"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/13",
+                                "url": "/api/equipment/12",
                                 "name": "Shortbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/14",
+                                "url": "/api/equipment/13",
                                 "name": "Sling"
                             },
                             "quantity": 1
@@ -456,7 +456,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/155",
+                                "url": "/api/equipment/154",
                                 "name": "Diplomat's Pack"
                             },
                             "quantity": 1
@@ -469,7 +469,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/157",
+                                "url": "/api/equipment/156",
                                 "name": "Entertainer's Pack"
                             },
                             "quantity": 1
@@ -484,7 +484,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/184",
+                                "url": "/api/equipment/183",
                                 "name": "Lute"
                             },
                             "quantity": 1
@@ -497,70 +497,70 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/180",
+                                "url": "/api/equipment/179",
                                 "name": "Bagpipes"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/181",
+                                "url": "/api/equipment/180",
                                 "name": "Drum"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/182",
+                                "url": "/api/equipment/181",
                                 "name": "Dulcimer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/183",
+                                "url": "/api/equipment/182",
                                 "name": "Flute"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/184",
+                                "url": "/api/equipment/183",
                                 "name": "Lute"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/185",
+                                "url": "/api/equipment/184",
                                 "name": "Lyre"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/186",
+                                "url": "/api/equipment/185",
                                 "name": "Horn"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/187",
+                                "url": "/api/equipment/186",
                                 "name": "Pan flute"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/188",
+                                "url": "/api/equipment/187",
                                 "name": "Shawm"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/189",
+                                "url": "/api/equipment/188",
                                 "name": "Viol"
                             },
                             "quantity": 1
@@ -570,21 +570,21 @@
             ]
         ],
         "entry_descriptor": {
-            "index": 2,
-            "url": "/api/startingequipment/2",
+            "index": 1,
+            "url": "/api/startingequipment/1",
             "name": "Bard",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/3",
+            "url": "/api/classes/2",
             "name": "Cleric"
         },
         "starting_equipment": [
             {
                 "item": {
-                    "url": "/api/equipment/50",
+                    "url": "/api/equipment/49",
                     "name": "Shield"
                 },
                 "quantity": 1
@@ -598,7 +598,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/7",
+                                "url": "/api/equipment/6",
                                 "name": "Mace"
                             },
                             "quantity": 1
@@ -611,7 +611,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/31",
+                                "url": "/api/equipment/30",
                                 "name": "Warhammer"
                             },
                             "quantity": 1,
@@ -619,7 +619,7 @@
                                 {
                                     "type": "proficiency",
                                     "proficiency": {
-                                        "url": "/api/proficiencies/51",
+                                        "url": "/api/proficiencies/50",
                                         "name": "Warhammers"
                                     }
                                 }
@@ -635,7 +635,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/43",
+                                "url": "/api/equipment/42",
                                 "name": "Scale Mail"
                             },
                             "quantity": 1
@@ -648,7 +648,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/39",
+                                "url": "/api/equipment/38",
                                 "name": "Leather"
                             },
                             "quantity": 1
@@ -661,7 +661,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/47",
+                                "url": "/api/equipment/46",
                                 "name": "Chain Mail"
                             },
                             "quantity": 1,
@@ -669,7 +669,7 @@
                                 {
                                     "type": "proficiency",
                                     "proficiency": {
-                                        "url": "/api/proficiencies/14",
+                                        "url": "/api/proficiencies/13",
                                         "name": "Chain Mail"
                                     }
                                 }
@@ -685,14 +685,14 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/56",
+                                "url": "/api/equipment/55",
                                 "name": "Crossbow bolt"
                             },
                             "quantity": 20
@@ -705,98 +705,98 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/1",
+                                "url": "/api/equipment/0",
                                 "name": "Club"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/2",
+                                "url": "/api/equipment/1",
                                 "name": "Dagger"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/3",
+                                "url": "/api/equipment/2",
                                 "name": "Greatclub"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/5",
+                                "url": "/api/equipment/4",
                                 "name": "Javelin"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/6",
+                                "url": "/api/equipment/5",
                                 "name": "Light hammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/7",
+                                "url": "/api/equipment/6",
                                 "name": "Mace"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/8",
+                                "url": "/api/equipment/7",
                                 "name": "Quarterstaff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/9",
+                                "url": "/api/equipment/8",
                                 "name": "Sickle"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/10",
+                                "url": "/api/equipment/9",
                                 "name": "Spear"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/12",
+                                "url": "/api/equipment/11",
                                 "name": "Dart"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/13",
+                                "url": "/api/equipment/12",
                                 "name": "Shortbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/14",
+                                "url": "/api/equipment/13",
                                 "name": "Sling"
                             },
                             "quantity": 1
@@ -811,7 +811,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/159",
+                                "url": "/api/equipment/158",
                                 "name": "Priest's Pack"
                             },
                             "quantity": 1
@@ -824,7 +824,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/158",
+                                "url": "/api/equipment/157",
                                 "name": "Explorer's Pack"
                             },
                             "quantity": 1
@@ -839,21 +839,21 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/58",
+                                "url": "/api/equipment/57",
                                 "name": "Amulet"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/93",
+                                "url": "/api/equipment/92",
                                 "name": "Emblem"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/134",
+                                "url": "/api/equipment/133",
                                 "name": "Reliquary"
                             },
                             "quantity": 1
@@ -863,28 +863,28 @@
             ]
         ],
         "entry_descriptor": {
-            "index": 3,
-            "url": "/api/startingequipment/3",
+            "index": 2,
+            "url": "/api/startingequipment/2",
             "name": "Cleric",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/4",
+            "url": "/api/classes/3",
             "name": "Druid"
         },
         "starting_equipment": [
             {
                 "item": {
-                    "url": "/api/equipment/39",
+                    "url": "/api/equipment/38",
                     "name": "Leather"
                 },
                 "quantity": 1
             },
             {
                 "item": {
-                    "url": "/api/equipment/158",
+                    "url": "/api/equipment/157",
                     "name": "Explorer's Pack"
                 },
                 "quantity": 1
@@ -898,7 +898,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/50",
+                                "url": "/api/equipment/49",
                                 "name": "Shield"
                             },
                             "quantity": 1
@@ -911,98 +911,98 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/1",
+                                "url": "/api/equipment/0",
                                 "name": "Club"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/2",
+                                "url": "/api/equipment/1",
                                 "name": "Dagger"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/3",
+                                "url": "/api/equipment/2",
                                 "name": "Greatclub"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/5",
+                                "url": "/api/equipment/4",
                                 "name": "Javelin"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/6",
+                                "url": "/api/equipment/5",
                                 "name": "Light hammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/7",
+                                "url": "/api/equipment/6",
                                 "name": "Mace"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/8",
+                                "url": "/api/equipment/7",
                                 "name": "Quarterstaff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/9",
+                                "url": "/api/equipment/8",
                                 "name": "Sickle"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/10",
+                                "url": "/api/equipment/9",
                                 "name": "Spear"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/12",
+                                "url": "/api/equipment/11",
                                 "name": "Dart"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/13",
+                                "url": "/api/equipment/12",
                                 "name": "Shortbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/14",
+                                "url": "/api/equipment/13",
                                 "name": "Sling"
                             },
                             "quantity": 1
@@ -1017,7 +1017,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/27",
+                                "url": "/api/equipment/26",
                                 "name": "Scimitar"
                             },
                             "quantity": 1
@@ -1030,70 +1030,70 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/1",
+                                "url": "/api/equipment/0",
                                 "name": "Club"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/2",
+                                "url": "/api/equipment/1",
                                 "name": "Dagger"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/3",
+                                "url": "/api/equipment/2",
                                 "name": "Greatclub"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/5",
+                                "url": "/api/equipment/4",
                                 "name": "Javelin"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/6",
+                                "url": "/api/equipment/5",
                                 "name": "Light hammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/7",
+                                "url": "/api/equipment/6",
                                 "name": "Mace"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/8",
+                                "url": "/api/equipment/7",
                                 "name": "Quarterstaff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/9",
+                                "url": "/api/equipment/8",
                                 "name": "Sickle"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/10",
+                                "url": "/api/equipment/9",
                                 "name": "Spear"
                             },
                             "quantity": 1
@@ -1108,28 +1108,28 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/89",
+                                "url": "/api/equipment/88",
                                 "name": "Sprig of mistletoe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/90",
+                                "url": "/api/equipment/89",
                                 "name": "Totem"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/91",
+                                "url": "/api/equipment/90",
                                 "name": "Wooden staff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/92",
+                                "url": "/api/equipment/91",
                                 "name": "Yew wand"
                             },
                             "quantity": 1
@@ -1139,15 +1139,15 @@
             ]
         ],
         "entry_descriptor": {
-            "index": 4,
-            "url": "/api/startingequipment/4",
+            "index": 3,
+            "url": "/api/startingequipment/3",
             "name": "Druid",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/5",
+            "url": "/api/classes/4",
             "name": "Fighter"
         },
         "starting_equipment": [],
@@ -1159,7 +1159,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/47",
+                                "url": "/api/equipment/46",
                                 "name": "Chain Mail"
                             },
                             "quantity": 1
@@ -1172,21 +1172,21 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/39",
+                                "url": "/api/equipment/38",
                                 "name": "Leather"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/36",
+                                "url": "/api/equipment/35",
                                 "name": "Longbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/54",
+                                "url": "/api/equipment/53",
                                 "name": "Arrow"
                             },
                             "quantity": 20
@@ -1201,7 +1201,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/50",
+                                "url": "/api/equipment/49",
                                 "name": "Shield"
                             },
                             "quantity": 1
@@ -1214,161 +1214,161 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/15",
+                                "url": "/api/equipment/14",
                                 "name": "Battleaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/16",
+                                "url": "/api/equipment/15",
                                 "name": "Flail"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/17",
+                                "url": "/api/equipment/16",
                                 "name": "Glaive"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/18",
+                                "url": "/api/equipment/17",
                                 "name": "Greataxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/19",
+                                "url": "/api/equipment/18",
                                 "name": "Greatsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/20",
+                                "url": "/api/equipment/19",
                                 "name": "Halberd"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/21",
+                                "url": "/api/equipment/20",
                                 "name": "Lance"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/22",
+                                "url": "/api/equipment/21",
                                 "name": "Longsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/23",
+                                "url": "/api/equipment/22",
                                 "name": "Maul"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/24",
+                                "url": "/api/equipment/23",
                                 "name": "Morningstar"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/25",
+                                "url": "/api/equipment/24",
                                 "name": "Pike"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/26",
+                                "url": "/api/equipment/25",
                                 "name": "Rapier"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/27",
+                                "url": "/api/equipment/26",
                                 "name": "Scimitar"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/28",
+                                "url": "/api/equipment/27",
                                 "name": "Shortsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/29",
+                                "url": "/api/equipment/28",
                                 "name": "Trident"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/30",
+                                "url": "/api/equipment/29",
                                 "name": "War pick"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/31",
+                                "url": "/api/equipment/30",
                                 "name": "Warhammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/32",
+                                "url": "/api/equipment/31",
                                 "name": "Whip"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/33",
+                                "url": "/api/equipment/32",
                                 "name": "Blowgun"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/34",
+                                "url": "/api/equipment/33",
                                 "name": "Crossbow, hand"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/35",
+                                "url": "/api/equipment/34",
                                 "name": "Crossbow, heavy"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/36",
+                                "url": "/api/equipment/35",
                                 "name": "Longbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/37",
+                                "url": "/api/equipment/36",
                                 "name": "Net"
                             },
                             "quantity": 1
@@ -1383,14 +1383,14 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/56",
+                                "url": "/api/equipment/55",
                                 "name": "Crossbow bolt"
                             },
                             "quantity": 20
@@ -1403,7 +1403,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 2
@@ -1418,7 +1418,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/156",
+                                "url": "/api/equipment/155",
                                 "name": "Dungeoneer's Pack"
                             },
                             "quantity": 1
@@ -1431,7 +1431,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/158",
+                                "url": "/api/equipment/157",
                                 "name": "Explorer's Pack"
                             },
                             "quantity": 1
@@ -1446,161 +1446,161 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/15",
+                                "url": "/api/equipment/14",
                                 "name": "Battleaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/16",
+                                "url": "/api/equipment/15",
                                 "name": "Flail"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/17",
+                                "url": "/api/equipment/16",
                                 "name": "Glaive"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/18",
+                                "url": "/api/equipment/17",
                                 "name": "Greataxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/19",
+                                "url": "/api/equipment/18",
                                 "name": "Greatsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/20",
+                                "url": "/api/equipment/19",
                                 "name": "Halberd"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/21",
+                                "url": "/api/equipment/20",
                                 "name": "Lance"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/22",
+                                "url": "/api/equipment/21",
                                 "name": "Longsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/23",
+                                "url": "/api/equipment/22",
                                 "name": "Maul"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/24",
+                                "url": "/api/equipment/23",
                                 "name": "Morningstar"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/25",
+                                "url": "/api/equipment/24",
                                 "name": "Pike"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/26",
+                                "url": "/api/equipment/25",
                                 "name": "Rapier"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/27",
+                                "url": "/api/equipment/26",
                                 "name": "Scimitar"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/28",
+                                "url": "/api/equipment/27",
                                 "name": "Shortsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/29",
+                                "url": "/api/equipment/28",
                                 "name": "Trident"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/30",
+                                "url": "/api/equipment/29",
                                 "name": "War pick"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/31",
+                                "url": "/api/equipment/30",
                                 "name": "Warhammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/32",
+                                "url": "/api/equipment/31",
                                 "name": "Whip"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/33",
+                                "url": "/api/equipment/32",
                                 "name": "Blowgun"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/34",
+                                "url": "/api/equipment/33",
                                 "name": "Crossbow, hand"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/35",
+                                "url": "/api/equipment/34",
                                 "name": "Crossbow, heavy"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/36",
+                                "url": "/api/equipment/35",
                                 "name": "Longbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/37",
+                                "url": "/api/equipment/36",
                                 "name": "Net"
                             },
                             "quantity": 1
@@ -1610,21 +1610,21 @@
             ]
         ],
         "entry_descriptor": {
-            "index": 5,
-            "url": "/api/startingequipment/5",
+            "index": 4,
+            "url": "/api/startingequipment/4",
             "name": "Fighter",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/6",
+            "url": "/api/classes/5",
             "name": "Monk"
         },
         "starting_equipment": [
             {
                 "item": {
-                    "url": "/api/equipment/12",
+                    "url": "/api/equipment/11",
                     "name": "Dart"
                 },
                 "quantity": 10
@@ -1638,7 +1638,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/28",
+                                "url": "/api/equipment/27",
                                 "name": "Shortsword"
                             },
                             "quantity": 1
@@ -1651,98 +1651,98 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/1",
+                                "url": "/api/equipment/0",
                                 "name": "Club"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/2",
+                                "url": "/api/equipment/1",
                                 "name": "Dagger"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/3",
+                                "url": "/api/equipment/2",
                                 "name": "Greatclub"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/5",
+                                "url": "/api/equipment/4",
                                 "name": "Javelin"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/6",
+                                "url": "/api/equipment/5",
                                 "name": "Light hammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/7",
+                                "url": "/api/equipment/6",
                                 "name": "Mace"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/8",
+                                "url": "/api/equipment/7",
                                 "name": "Quarterstaff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/9",
+                                "url": "/api/equipment/8",
                                 "name": "Sickle"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/10",
+                                "url": "/api/equipment/9",
                                 "name": "Spear"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/12",
+                                "url": "/api/equipment/11",
                                 "name": "Dart"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/13",
+                                "url": "/api/equipment/12",
                                 "name": "Shortbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/14",
+                                "url": "/api/equipment/13",
                                 "name": "Sling"
                             },
                             "quantity": 1
@@ -1757,7 +1757,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/156",
+                                "url": "/api/equipment/155",
                                 "name": "Dungeoneer's Pack"
                             },
                             "quantity": 1
@@ -1770,7 +1770,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/158",
+                                "url": "/api/equipment/157",
                                 "name": "Explorer's Pack"
                             },
                             "quantity": 1
@@ -1780,21 +1780,21 @@
             ]
         ],
         "entry_descriptor": {
-            "index": 6,
-            "url": "/api/startingequipment/6",
+            "index": 5,
+            "url": "/api/startingequipment/5",
             "name": "Monk",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/7",
+            "url": "/api/classes/6",
             "name": "Paladin"
         },
         "starting_equipment": [
             {
                 "item": {
-                    "url": "/api/equipment/47",
+                    "url": "/api/equipment/46",
                     "name": "Chain Mail"
                 },
                 "quantity": 1
@@ -1808,7 +1808,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/50",
+                                "url": "/api/equipment/49",
                                 "name": "Shield"
                             },
                             "quantity": 1
@@ -1821,161 +1821,161 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/15",
+                                "url": "/api/equipment/14",
                                 "name": "Battleaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/16",
+                                "url": "/api/equipment/15",
                                 "name": "Flail"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/17",
+                                "url": "/api/equipment/16",
                                 "name": "Glaive"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/18",
+                                "url": "/api/equipment/17",
                                 "name": "Greataxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/19",
+                                "url": "/api/equipment/18",
                                 "name": "Greatsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/20",
+                                "url": "/api/equipment/19",
                                 "name": "Halberd"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/21",
+                                "url": "/api/equipment/20",
                                 "name": "Lance"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/22",
+                                "url": "/api/equipment/21",
                                 "name": "Longsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/23",
+                                "url": "/api/equipment/22",
                                 "name": "Maul"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/24",
+                                "url": "/api/equipment/23",
                                 "name": "Morningstar"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/25",
+                                "url": "/api/equipment/24",
                                 "name": "Pike"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/26",
+                                "url": "/api/equipment/25",
                                 "name": "Rapier"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/27",
+                                "url": "/api/equipment/26",
                                 "name": "Scimitar"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/28",
+                                "url": "/api/equipment/27",
                                 "name": "Shortsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/29",
+                                "url": "/api/equipment/28",
                                 "name": "Trident"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/30",
+                                "url": "/api/equipment/29",
                                 "name": "War pick"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/31",
+                                "url": "/api/equipment/30",
                                 "name": "Warhammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/32",
+                                "url": "/api/equipment/31",
                                 "name": "Whip"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/33",
+                                "url": "/api/equipment/32",
                                 "name": "Blowgun"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/34",
+                                "url": "/api/equipment/33",
                                 "name": "Crossbow, hand"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/35",
+                                "url": "/api/equipment/34",
                                 "name": "Crossbow, heavy"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/36",
+                                "url": "/api/equipment/35",
                                 "name": "Longbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/37",
+                                "url": "/api/equipment/36",
                                 "name": "Net"
                             },
                             "quantity": 1
@@ -1990,7 +1990,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/5",
+                                "url": "/api/equipment/4",
                                 "name": "Javelin"
                             },
                             "quantity": 5
@@ -2003,98 +2003,98 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/1",
+                                "url": "/api/equipment/0",
                                 "name": "Club"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/2",
+                                "url": "/api/equipment/1",
                                 "name": "Dagger"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/3",
+                                "url": "/api/equipment/2",
                                 "name": "Greatclub"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/5",
+                                "url": "/api/equipment/4",
                                 "name": "Javelin"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/6",
+                                "url": "/api/equipment/5",
                                 "name": "Light hammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/7",
+                                "url": "/api/equipment/6",
                                 "name": "Mace"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/8",
+                                "url": "/api/equipment/7",
                                 "name": "Quarterstaff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/9",
+                                "url": "/api/equipment/8",
                                 "name": "Sickle"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/10",
+                                "url": "/api/equipment/9",
                                 "name": "Spear"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/12",
+                                "url": "/api/equipment/11",
                                 "name": "Dart"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/13",
+                                "url": "/api/equipment/12",
                                 "name": "Shortbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/14",
+                                "url": "/api/equipment/13",
                                 "name": "Sling"
                             },
                             "quantity": 1
@@ -2109,7 +2109,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/159",
+                                "url": "/api/equipment/158",
                                 "name": "Priest's Pack"
                             },
                             "quantity": 1
@@ -2122,7 +2122,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/158",
+                                "url": "/api/equipment/157",
                                 "name": "Explorer's Pack"
                             },
                             "quantity": 1
@@ -2137,21 +2137,21 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/58",
+                                "url": "/api/equipment/57",
                                 "name": "Amulet"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/93",
+                                "url": "/api/equipment/92",
                                 "name": "Emblem"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/134",
+                                "url": "/api/equipment/133",
                                 "name": "Reliquary"
                             },
                             "quantity": 1
@@ -2166,161 +2166,161 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/15",
+                                "url": "/api/equipment/14",
                                 "name": "Battleaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/16",
+                                "url": "/api/equipment/15",
                                 "name": "Flail"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/17",
+                                "url": "/api/equipment/16",
                                 "name": "Glaive"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/18",
+                                "url": "/api/equipment/17",
                                 "name": "Greataxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/19",
+                                "url": "/api/equipment/18",
                                 "name": "Greatsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/20",
+                                "url": "/api/equipment/19",
                                 "name": "Halberd"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/21",
+                                "url": "/api/equipment/20",
                                 "name": "Lance"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/22",
+                                "url": "/api/equipment/21",
                                 "name": "Longsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/23",
+                                "url": "/api/equipment/22",
                                 "name": "Maul"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/24",
+                                "url": "/api/equipment/23",
                                 "name": "Morningstar"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/25",
+                                "url": "/api/equipment/24",
                                 "name": "Pike"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/26",
+                                "url": "/api/equipment/25",
                                 "name": "Rapier"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/27",
+                                "url": "/api/equipment/26",
                                 "name": "Scimitar"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/28",
+                                "url": "/api/equipment/27",
                                 "name": "Shortsword"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/29",
+                                "url": "/api/equipment/28",
                                 "name": "Trident"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/30",
+                                "url": "/api/equipment/29",
                                 "name": "War pick"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/31",
+                                "url": "/api/equipment/30",
                                 "name": "Warhammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/32",
+                                "url": "/api/equipment/31",
                                 "name": "Whip"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/33",
+                                "url": "/api/equipment/32",
                                 "name": "Blowgun"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/34",
+                                "url": "/api/equipment/33",
                                 "name": "Crossbow, hand"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/35",
+                                "url": "/api/equipment/34",
                                 "name": "Crossbow, heavy"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/36",
+                                "url": "/api/equipment/35",
                                 "name": "Longbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/37",
+                                "url": "/api/equipment/36",
                                 "name": "Net"
                             },
                             "quantity": 1
@@ -2330,28 +2330,28 @@
             ]
         ],
         "entry_descriptor": {
-            "index": 7,
-            "url": "/api/startingequipment/7",
+            "index": 6,
+            "url": "/api/startingequipment/6",
             "name": "Paladin",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/8",
+            "url": "/api/classes/7",
             "name": "Ranger"
         },
         "starting_equipment": [
             {
                 "item": {
-                    "url": "/api/equipment/36",
+                    "url": "/api/equipment/35",
                     "name": "Longbow"
                 },
                 "quantity": 1
             },
             {
                 "item": {
-                    "url": "/api/equipment/54",
+                    "url": "/api/equipment/53",
                     "name": "Arrow"
                 },
                 "quantity": 20
@@ -2365,7 +2365,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/43",
+                                "url": "/api/equipment/42",
                                 "name": "Scale Mail"
                             },
                             "quantity": 1
@@ -2378,7 +2378,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/39",
+                                "url": "/api/equipment/38",
                                 "name": "Leather"
                             },
                             "quantity": 1
@@ -2393,7 +2393,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/28",
+                                "url": "/api/equipment/27",
                                 "name": "Shortsword"
                             },
                             "quantity": 2
@@ -2406,70 +2406,70 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/1",
+                                "url": "/api/equipment/0",
                                 "name": "Club"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/2",
+                                "url": "/api/equipment/1",
                                 "name": "Dagger"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/3",
+                                "url": "/api/equipment/2",
                                 "name": "Greatclub"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/5",
+                                "url": "/api/equipment/4",
                                 "name": "Javelin"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/6",
+                                "url": "/api/equipment/5",
                                 "name": "Light hammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/7",
+                                "url": "/api/equipment/6",
                                 "name": "Mace"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/8",
+                                "url": "/api/equipment/7",
                                 "name": "Quarterstaff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/9",
+                                "url": "/api/equipment/8",
                                 "name": "Sickle"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/10",
+                                "url": "/api/equipment/9",
                                 "name": "Spear"
                             },
                             "quantity": 1
@@ -2484,7 +2484,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/156",
+                                "url": "/api/equipment/155",
                                 "name": "Dungeoneer's Pack"
                             },
                             "quantity": 1
@@ -2497,7 +2497,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/158",
+                                "url": "/api/equipment/157",
                                 "name": "Explorer's Pack"
                             },
                             "quantity": 1
@@ -2507,35 +2507,35 @@
             ]
         ],
         "entry_descriptor": {
-            "index": 8,
-            "url": "/api/startingequipment/8",
+            "index": 7,
+            "url": "/api/startingequipment/7",
             "name": "Ranger",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/9",
+            "url": "/api/classes/8",
             "name": "Rogue"
         },
         "starting_equipment": [
             {
                 "item": {
-                    "url": "/api/equipment/39",
+                    "url": "/api/equipment/38",
                     "name": "Leather"
                 },
                 "quantity": 1
             },
             {
                 "item": {
-                    "url": "/api/equipment/2",
+                    "url": "/api/equipment/1",
                     "name": "Dagger"
                 },
                 "quantity": 2
             },
             {
                 "item": {
-                    "url": "/api/equipment/191",
+                    "url": "/api/equipment/190",
                     "name": "Thieves' tools"
                 },
                 "quantity": 1
@@ -2549,7 +2549,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/26",
+                                "url": "/api/equipment/25",
                                 "name": "Rapier"
                             },
                             "quantity": 1
@@ -2562,7 +2562,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/28",
+                                "url": "/api/equipment/27",
                                 "name": "Shortsword"
                             },
                             "quantity": 1
@@ -2577,14 +2577,14 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/13",
+                                "url": "/api/equipment/12",
                                 "name": "Shortbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/54",
+                                "url": "/api/equipment/53",
                                 "name": "Arrow"
                             },
                             "quantity": 20
@@ -2597,7 +2597,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/28",
+                                "url": "/api/equipment/27",
                                 "name": "Shortsword"
                             },
                             "quantity": 1
@@ -2612,7 +2612,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/154",
+                                "url": "/api/equipment/153",
                                 "name": "Burglar's Pack"
                             },
                             "quantity": 1
@@ -2625,7 +2625,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/156",
+                                "url": "/api/equipment/155",
                                 "name": "Dungeoneer's Pack"
                             },
                             "quantity": 1
@@ -2638,7 +2638,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/158",
+                                "url": "/api/equipment/157",
                                 "name": "Explorer's Pack"
                             },
                             "quantity": 1
@@ -2648,21 +2648,21 @@
             ]
         ],
         "entry_descriptor": {
-            "index": 9,
-            "url": "/api/startingequipment/9",
+            "index": 8,
+            "url": "/api/startingequipment/8",
             "name": "Rogue",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/10",
+            "url": "/api/classes/9",
             "name": "Sorcerer"
         },
         "starting_equipment": [
             {
                 "item": {
-                    "url": "/api/equipment/2",
+                    "url": "/api/equipment/1",
                     "name": "Dagger"
                 },
                 "quantity": 2
@@ -2676,14 +2676,14 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/56",
+                                "url": "/api/equipment/55",
                                 "name": "Crossbow bolt"
                             },
                             "quantity": 20
@@ -2696,98 +2696,98 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/1",
+                                "url": "/api/equipment/0",
                                 "name": "Club"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/2",
+                                "url": "/api/equipment/1",
                                 "name": "Dagger"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/3",
+                                "url": "/api/equipment/2",
                                 "name": "Greatclub"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/5",
+                                "url": "/api/equipment/4",
                                 "name": "Javelin"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/6",
+                                "url": "/api/equipment/5",
                                 "name": "Light hammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/7",
+                                "url": "/api/equipment/6",
                                 "name": "Mace"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/8",
+                                "url": "/api/equipment/7",
                                 "name": "Quarterstaff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/9",
+                                "url": "/api/equipment/8",
                                 "name": "Sickle"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/10",
+                                "url": "/api/equipment/9",
                                 "name": "Spear"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/12",
+                                "url": "/api/equipment/11",
                                 "name": "Dart"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/13",
+                                "url": "/api/equipment/12",
                                 "name": "Shortbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/14",
+                                "url": "/api/equipment/13",
                                 "name": "Sling"
                             },
                             "quantity": 1
@@ -2802,7 +2802,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/87",
+                                "url": "/api/equipment/86",
                                 "name": "Component pouch"
                             },
                             "quantity": 2
@@ -2815,35 +2815,35 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/60",
+                                "url": "/api/equipment/59",
                                 "name": "Crystal"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/61",
+                                "url": "/api/equipment/60",
                                 "name": "Orb"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/62",
+                                "url": "/api/equipment/61",
                                 "name": "Rod"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/63",
+                                "url": "/api/equipment/62",
                                 "name": "Staff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/64",
+                                "url": "/api/equipment/63",
                                 "name": "Wand"
                             },
                             "quantity": 1
@@ -2858,7 +2858,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/156",
+                                "url": "/api/equipment/155",
                                 "name": "Dungeoneer's Pack"
                             },
                             "quantity": 1
@@ -2871,7 +2871,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/158",
+                                "url": "/api/equipment/157",
                                 "name": "Explorer's Pack"
                             },
                             "quantity": 1
@@ -2881,28 +2881,28 @@
             ]
         ],
         "entry_descriptor": {
-            "index": 10,
-            "url": "/api/startingequipment/10",
+            "index": 9,
+            "url": "/api/startingequipment/9",
             "name": "Sorcerer",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/11",
+            "url": "/api/classes/10",
             "name": "Warlock"
         },
         "starting_equipment": [
             {
                 "item": {
-                    "url": "/api/equipment/2",
+                    "url": "/api/equipment/1",
                     "name": "Dagger"
                 },
                 "quantity": 2
             },
             {
                 "item": {
-                    "url": "/api/equipment/39",
+                    "url": "/api/equipment/38",
                     "name": "Leather"
                 },
                 "quantity": 1
@@ -2916,14 +2916,14 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/56",
+                                "url": "/api/equipment/55",
                                 "name": "Crossbow bolt"
                             },
                             "quantity": 20
@@ -2936,98 +2936,98 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/1",
+                                "url": "/api/equipment/0",
                                 "name": "Club"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/2",
+                                "url": "/api/equipment/1",
                                 "name": "Dagger"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/3",
+                                "url": "/api/equipment/2",
                                 "name": "Greatclub"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/5",
+                                "url": "/api/equipment/4",
                                 "name": "Javelin"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/6",
+                                "url": "/api/equipment/5",
                                 "name": "Light hammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/7",
+                                "url": "/api/equipment/6",
                                 "name": "Mace"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/8",
+                                "url": "/api/equipment/7",
                                 "name": "Quarterstaff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/9",
+                                "url": "/api/equipment/8",
                                 "name": "Sickle"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/10",
+                                "url": "/api/equipment/9",
                                 "name": "Spear"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/12",
+                                "url": "/api/equipment/11",
                                 "name": "Dart"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/13",
+                                "url": "/api/equipment/12",
                                 "name": "Shortbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/14",
+                                "url": "/api/equipment/13",
                                 "name": "Sling"
                             },
                             "quantity": 1
@@ -3042,7 +3042,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/87",
+                                "url": "/api/equipment/86",
                                 "name": "Component pouch"
                             },
                             "quantity": 2
@@ -3055,35 +3055,35 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/60",
+                                "url": "/api/equipment/59",
                                 "name": "Crystal"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/61",
+                                "url": "/api/equipment/60",
                                 "name": "Orb"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/62",
+                                "url": "/api/equipment/61",
                                 "name": "Rod"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/63",
+                                "url": "/api/equipment/62",
                                 "name": "Staff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/64",
+                                "url": "/api/equipment/63",
                                 "name": "Wand"
                             },
                             "quantity": 1
@@ -3098,7 +3098,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/160",
+                                "url": "/api/equipment/159",
                                 "name": "Scholar's Pack"
                             },
                             "quantity": 1
@@ -3111,7 +3111,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/156",
+                                "url": "/api/equipment/155",
                                 "name": "Dungeoneer's Pack"
                             },
                             "quantity": 1
@@ -3126,98 +3126,98 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/1",
+                                "url": "/api/equipment/0",
                                 "name": "Club"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/2",
+                                "url": "/api/equipment/1",
                                 "name": "Dagger"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/3",
+                                "url": "/api/equipment/2",
                                 "name": "Greatclub"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/4",
+                                "url": "/api/equipment/3",
                                 "name": "Handaxe"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/5",
+                                "url": "/api/equipment/4",
                                 "name": "Javelin"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/6",
+                                "url": "/api/equipment/5",
                                 "name": "Light hammer"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/7",
+                                "url": "/api/equipment/6",
                                 "name": "Mace"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/8",
+                                "url": "/api/equipment/7",
                                 "name": "Quarterstaff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/9",
+                                "url": "/api/equipment/8",
                                 "name": "Sickle"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/10",
+                                "url": "/api/equipment/9",
                                 "name": "Spear"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/11",
+                                "url": "/api/equipment/10",
                                 "name": "Crossbow, light"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/12",
+                                "url": "/api/equipment/11",
                                 "name": "Dart"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/13",
+                                "url": "/api/equipment/12",
                                 "name": "Shortbow"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/14",
+                                "url": "/api/equipment/13",
                                 "name": "Sling"
                             },
                             "quantity": 1
@@ -3227,21 +3227,21 @@
             ]
         ],
         "entry_descriptor": {
-            "index": 11,
-            "url": "/api/startingequipment/11",
+            "index": 10,
+            "url": "/api/startingequipment/10",
             "name": "Warlock",
             "desc": []
         }
     },
     {
         "class": {
-            "url": "/api/classes/12",
+            "url": "/api/classes/11",
             "name": "Wizard"
         },
         "starting_equipment": [
             {
                 "item": {
-                    "url": "/api/equipment/145",
+                    "url": "/api/equipment/144",
                     "name": "Spellbook"
                 },
                 "quantity": 1
@@ -3255,7 +3255,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/2",
+                                "url": "/api/equipment/1",
                                 "name": "Dagger"
                             },
                             "quantity": 1
@@ -3268,7 +3268,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/8",
+                                "url": "/api/equipment/7",
                                 "name": "Quarterstaff"
                             },
                             "quantity": 1
@@ -3283,7 +3283,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/87",
+                                "url": "/api/equipment/86",
                                 "name": "Component pouch"
                             },
                             "quantity": 2
@@ -3296,35 +3296,35 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/60",
+                                "url": "/api/equipment/59",
                                 "name": "Crystal"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/61",
+                                "url": "/api/equipment/60",
                                 "name": "Orb"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/62",
+                                "url": "/api/equipment/61",
                                 "name": "Rod"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/63",
+                                "url": "/api/equipment/62",
                                 "name": "Staff"
                             },
                             "quantity": 1
                         },
                         {
                             "item": {
-                                "url": "/api/equipment/64",
+                                "url": "/api/equipment/63",
                                 "name": "Wand"
                             },
                             "quantity": 1
@@ -3339,7 +3339,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/160",
+                                "url": "/api/equipment/159",
                                 "name": "Scholar's Pack"
                             },
                             "quantity": 1
@@ -3352,7 +3352,7 @@
                     "from": [
                         {
                             "item": {
-                                "url": "/api/equipment/156",
+                                "url": "/api/equipment/155",
                                 "name": "Dungeoneer's Pack"
                             },
                             "quantity": 1
@@ -3362,8 +3362,8 @@
             ]
         ],
         "entry_descriptor": {
-            "index": 12,
-            "url": "/api/startingequipment/12",
+            "index": 11,
+            "url": "/api/startingequipment/11",
             "name": "Wizard",
             "desc": []
         }

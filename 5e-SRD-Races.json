@@ -15,19 +15,19 @@
         "size_description": "Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.",
         "starting_proficiencies": [
             {
-                "url": "/api/proficiencies/35",
+                "url": "/api/proficiencies/34",
                 "name": "Battleaxes"
             },
             {
-                "url": "/api/proficiencies/24",
+                "url": "/api/proficiencies/23",
                 "name": "Handaxes"
             },
             {
-                "url": "/api/proficiencies/26",
+                "url": "/api/proficiencies/25",
                 "name": "Light hammers"
             },
             {
-                "url": "/api/proficiencies/51",
+                "url": "/api/proficiencies/50",
                 "name": "Warhammers"
             }
         ],
@@ -36,26 +36,26 @@
             "type": "proficiencies",
             "from": [
                 {
-                    "url": "/api/proficiencies/71",
+                    "url": "/api/proficiencies/70",
                     "name": "Smith's tools"
                 },
                 {
-                    "url": "/api/proficiencies/59",
+                    "url": "/api/proficiencies/58",
                     "name": "Brewer's supplies"
                 },
                 {
-                    "url": "/api/proficiencies/68",
+                    "url": "/api/proficiencies/67",
                     "name": "Mason's tools"
                 }
             ]
         },
         "languages": [
             {
-                "url": "/api/languages/1",
+                "url": "/api/languages/0",
                 "name": "Common"
             },
             {
-                "url": "/api/languages/2",
+                "url": "/api/languages/1",
                 "name": "Dwarvish"
             }
         ],
@@ -64,26 +64,26 @@
         "traits": [
             {
                 "name": "Darkvision",
-                "url": "/api/traits/1"
+                "url": "/api/traits/0"
             },
             {
                 "name": "Dwarven Resilience",
-                "url": "/api/traits/2"
+                "url": "/api/traits/1"
             },
             {
                 "name": "Stonecunning",
-                "url": "/api/traits/4"
+                "url": "/api/traits/3"
             }
         ],
         "subraces": [
             {
-                "url": "/api/subraces/1",
+                "url": "/api/subraces/0",
                 "name": "Hill Dwarf"
             }
         ],
         "entry_descriptor": {
-            "index": 1,
-            "url": "/api/races/1",
+            "index": 0,
+            "url": "/api/races/0",
             "name": "Dwarf",
             "desc": []
         }
@@ -104,18 +104,18 @@
         "size_description": "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.",
         "starting_proficiencies": [
             {
-                "url": "/api/proficiencies/116",
+                "url": "/api/proficiencies/115",
                 "name": "Skill: Perception"
             }
         ],
         "starting_proficiency_options": null,
         "languages": [
             {
-                "url": "/api/languages/1",
+                "url": "/api/languages/0",
                 "name": "Common"
             },
             {
-                "url": "/api/languages/3",
+                "url": "/api/languages/2",
                 "name": "Elvish"
             }
         ],
@@ -124,26 +124,26 @@
         "traits": [
             {
                 "name": "Darkvision",
-                "url": "/api/traits/1"
+                "url": "/api/traits/0"
             },
             {
                 "name": "Fey Ancestry",
-                "url": "/api/traits/7"
+                "url": "/api/traits/6"
             },
             {
                 "name": "Trance",
-                "url": "/api/traits/8"
+                "url": "/api/traits/7"
             }
         ],
         "subraces": [
             {
-                "url": "/api/subraces/2",
+                "url": "/api/subraces/1",
                 "name": "High Elf"
             }
         ],
         "entry_descriptor": {
-            "index": 2,
-            "url": "/api/races/2",
+            "index": 1,
+            "url": "/api/races/1",
             "name": "Elf",
             "desc": []
         }
@@ -166,11 +166,11 @@
         "starting_proficiency_options": null,
         "languages": [
             {
-                "url": "/api/languages/1",
+                "url": "/api/languages/0",
                 "name": "Common"
             },
             {
-                "url": "/api/languages/7",
+                "url": "/api/languages/6",
                 "name": "Halfling"
             }
         ],
@@ -179,26 +179,26 @@
         "traits": [
             {
                 "name": "Brave",
-                "url": "/api/traits/13"
+                "url": "/api/traits/12"
             },
             {
                 "name": "Halfling Nimbleness",
-                "url": "/api/traits/14"
+                "url": "/api/traits/13"
             },
             {
                 "name": "Lucky",
-                "url": "/api/traits/12"
+                "url": "/api/traits/11"
             }
         ],
         "subraces": [
             {
-                "url": "/api/subraces/3",
+                "url": "/api/subraces/2",
                 "name": "Lightfoot Halfling"
             }
         ],
         "entry_descriptor": {
-            "index": 3,
-            "url": "/api/races/3",
+            "index": 2,
+            "url": "/api/races/2",
             "name": "Halfling",
             "desc": []
         }
@@ -246,7 +246,7 @@
         "starting_proficiency_options": null,
         "languages": [
             {
-                "url": "/api/languages/1",
+                "url": "/api/languages/0",
                 "name": "Common"
             }
         ],
@@ -255,63 +255,63 @@
             "type": "languages",
             "from": [
                 {
-                    "url": "/api/languages/2",
+                    "url": "/api/languages/1",
                     "name": "Dwarvish"
                 },
                 {
-                    "url": "/api/languages/3",
+                    "url": "/api/languages/2",
                     "name": "Elvish"
                 },
                 {
-                    "url": "/api/languages/4",
+                    "url": "/api/languages/3",
                     "name": "Giant"
                 },
                 {
-                    "url": "/api/languages/5",
+                    "url": "/api/languages/4",
                     "name": "Gnomish"
                 },
                 {
-                    "url": "/api/languages/6",
+                    "url": "/api/languages/5",
                     "name": "Goblin"
                 },
                 {
-                    "url": "/api/languages/7",
+                    "url": "/api/languages/6",
                     "name": "Halfling"
                 },
                 {
-                    "url": "/api/languages/8",
+                    "url": "/api/languages/7",
                     "name": "Orc"
                 },
                 {
-                    "url": "/api/languages/9",
+                    "url": "/api/languages/8",
                     "name": "Abyssal"
                 },
                 {
-                    "url": "/api/languages/10",
+                    "url": "/api/languages/9",
                     "name": "Celestial"
                 },
                 {
-                    "url": "/api/languages/11",
+                    "url": "/api/languages/10",
                     "name": "Draconic"
                 },
                 {
-                    "url": "/api/languages/12",
+                    "url": "/api/languages/11",
                     "name": "Deep Speech"
                 },
                 {
-                    "url": "/api/languages/13",
+                    "url": "/api/languages/12",
                     "name": "Infernal"
                 },
                 {
-                    "url": "/api/languages/14",
+                    "url": "/api/languages/13",
                     "name": "Primordial"
                 },
                 {
-                    "url": "/api/languages/15",
+                    "url": "/api/languages/14",
                     "name": "Sylvan"
                 },
                 {
-                    "url": "/api/languages/16",
+                    "url": "/api/languages/15",
                     "name": "Undercommon"
                 }
             ]
@@ -320,8 +320,8 @@
         "traits": [],
         "subraces": [],
         "entry_descriptor": {
-            "index": 4,
-            "url": "/api/races/4",
+            "index": 3,
+            "url": "/api/races/3",
             "name": "Human",
             "desc": []
         }
@@ -349,11 +349,11 @@
         "starting_proficiency_options": null,
         "languages": [
             {
-                "url": "/api/languages/1",
+                "url": "/api/languages/0",
                 "name": "Common"
             },
             {
-                "url": "/api/languages/11",
+                "url": "/api/languages/10",
                 "name": "Draconic"
             }
         ],
@@ -362,15 +362,15 @@
         "traits": [
             {
                 "name": "Draconic Ancestry",
-                "url": "/api/traits/16"
+                "url": "/api/traits/15"
             },
             {
                 "name": "Breath Weapon",
-                "url": "/api/traits/17"
+                "url": "/api/traits/16"
             },
             {
                 "name": "Damage Resistance",
-                "url": "/api/traits/18"
+                "url": "/api/traits/17"
             }
         ],
         "trait_options": {
@@ -378,51 +378,51 @@
             "from": [
                 {
                     "name": "Breath Weapon (Black)",
-                    "url": "/api/traits/17"
+                    "url": "/api/traits/16"
                 },
                 {
                     "name": "Breath Weapon (Blue)",
-                    "url": "/api/traits/17"
+                    "url": "/api/traits/16"
                 },
                 {
                     "name": "Breath Weapon (Brass)",
-                    "url": "/api/traits/17"
+                    "url": "/api/traits/16"
                 },
                 {
                     "name": "Breath Weapon (Bronze)",
-                    "url": "/api/traits/17"
+                    "url": "/api/traits/16"
                 },
                 {
                     "name": "Breath Weapon (Copper)",
-                    "url": "/api/traits/17"
+                    "url": "/api/traits/16"
                 },
                 {
                     "name": "Breath Weapon (Gold)",
-                    "url": "/api/traits/17"
+                    "url": "/api/traits/16"
                 },
                 {
                     "name": "Breath Weapon (Green)",
-                    "url": "/api/traits/17"
+                    "url": "/api/traits/16"
                 },
                 {
                     "name": "Breath Weapon (Red)",
-                    "url": "/api/traits/17"
+                    "url": "/api/traits/16"
                 },
                 {
                     "name": "Breath Weapon (Silver)",
-                    "url": "/api/traits/17"
+                    "url": "/api/traits/16"
                 },
                 {
                     "name": "Breath Weapon (White)",
-                    "url": "/api/traits/17"
+                    "url": "/api/traits/16"
                 }
             ],
             "type": "trait"
         },
         "subraces": [],
         "entry_descriptor": {
-            "index": 5,
-            "url": "/api/races/5",
+            "index": 4,
+            "url": "/api/races/4",
             "name": "Dragonborn",
             "desc": []
         }
@@ -445,11 +445,11 @@
         "starting_proficiency_options": null,
         "languages": [
             {
-                "url": "/api/languages/1",
+                "url": "/api/languages/0",
                 "name": "Common"
             },
             {
-                "url": "/api/languages/5",
+                "url": "/api/languages/4",
                 "name": "Gnomish"
             }
         ],
@@ -458,23 +458,23 @@
         "traits": [
             {
                 "name": "Darkvision",
-                "url": "/api/traits/1"
+                "url": "/api/traits/0"
             },
             {
                 "name": "Gnome Cunning",
-                "url": "/api/traits/19"
+                "url": "/api/traits/18"
             }
         ],
         "trait_options": null,
         "subraces": [
             {
-                "url": "/api/subraces/4",
+                "url": "/api/subraces/3",
                 "name": "Rock Gnome"
             }
         ],
         "entry_descriptor": {
-            "index": 6,
-            "url": "/api/races/6",
+            "index": 5,
+            "url": "/api/races/5",
             "name": "Gnome",
             "desc": []
         }
@@ -528,11 +528,11 @@
         "languages": [
             {
                 "name": "Common",
-                "url": "/api/languages/1"
+                "url": "/api/languages/0"
             },
             {
                 "name": "Elvish",
-                "url": "/api/languages/3"
+                "url": "/api/languages/2"
             }
         ],
         "language_options": {
@@ -541,59 +541,59 @@
             "from": [
                 {
                     "name": "Dwarvish",
-                    "url": "/api/languages/2"
+                    "url": "/api/languages/1"
                 },
                 {
                     "name": "Giant",
-                    "url": "/api/languages/4"
+                    "url": "/api/languages/3"
                 },
                 {
                     "name": "Gnomish",
-                    "url": "/api/languages/5"
+                    "url": "/api/languages/4"
                 },
                 {
                     "name": "Goblin",
-                    "url": "/api/languages/6"
+                    "url": "/api/languages/5"
                 },
                 {
                     "name": "Halfling",
-                    "url": "/api/languages/7"
+                    "url": "/api/languages/6"
                 },
                 {
                     "name": "Orc",
-                    "url": "/api/languages/8"
+                    "url": "/api/languages/7"
                 },
                 {
                     "name": "Abyssal",
-                    "url": "/api/languages/9"
+                    "url": "/api/languages/8"
                 },
                 {
                     "name": "Celestial",
-                    "url": "/api/languages/10"
+                    "url": "/api/languages/9"
                 },
                 {
                     "name": "Draconic",
-                    "url": "/api/languages/11"
+                    "url": "/api/languages/10"
                 },
                 {
                     "name": "Deep Speech",
-                    "url": "/api/languages/12"
+                    "url": "/api/languages/11"
                 },
                 {
                     "name": "Infernal",
-                    "url": "/api/languages/13"
+                    "url": "/api/languages/12"
                 },
                 {
                     "name": "Primordial",
-                    "url": "/api/languages/14"
+                    "url": "/api/languages/13"
                 },
                 {
                     "name": "Sylvan",
-                    "url": "/api/languages/15"
+                    "url": "/api/languages/14"
                 },
                 {
                     "name": "Undercommon",
-                    "url": "/api/languages/16"
+                    "url": "/api/languages/15"
                 }
             ]
         },
@@ -601,22 +601,22 @@
         "traits": [
             {
                 "name": "Darkvision",
-                "url": "/api/traits/1"
+                "url": "/api/traits/0"
             },
             {
                 "name": "Fey Ancestry",
-                "url": "/api/traits/7"
+                "url": "/api/traits/6"
             },
             {
                 "name": "Skill Versatility",
-                "url": "/api/traits/22"
+                "url": "/api/traits/21"
             }
         ],
         "trait_options": null,
         "subraces": [],
         "entry_descriptor": {
-            "index": 7,
-            "url": "/api/races/7",
+            "index": 6,
+            "url": "/api/races/6",
             "name": "Half-Elf",
             "desc": []
         }
@@ -643,17 +643,17 @@
         "starting_proficiencies": [
             {
                 "name": "Skill: Intimidation",
-                "url": "/api/proficiencies/112"
+                "url": "/api/proficiencies/111"
             }
         ],
         "starting_proficiency_options": null,
         "languages": [
             {
-                "url": "/api/languages/1",
+                "url": "/api/languages/0",
                 "name": "Common"
             },
             {
-                "url": "/api/languages/8",
+                "url": "/api/languages/7",
                 "name": "Orcish"
             }
         ],
@@ -662,22 +662,22 @@
         "traits": [
             {
                 "name": "Darkvision",
-                "url": "/api/traits/1"
+                "url": "/api/traits/0"
             },
             {
                 "name": "Savage Attacks",
-                "url": "/api/traits/25"
+                "url": "/api/traits/24"
             },
             {
                 "name": "Restless Endurance",
-                "url": "/api/traits/24"
+                "url": "/api/traits/23"
             }
         ],
         "trait_options": null,
         "subraces": [],
         "entry_descriptor": {
-            "index": 8,
-            "url": "/api/races/8",
+            "index": 7,
+            "url": "/api/races/7",
             "name": "Half-Orc",
             "desc": []
         }
@@ -705,11 +705,11 @@
         "starting_proficiency_options": null,
         "languages": [
             {
-                "url": "/api/languages/1",
+                "url": "/api/languages/0",
                 "name": "Common"
             },
             {
-                "url": "/api/languages/13",
+                "url": "/api/languages/12",
                 "name": "Infernal"
             }
         ],
@@ -718,22 +718,22 @@
         "traits": [
             {
                 "name": "Darkvision",
-                "url": "/api/traits/1"
+                "url": "/api/traits/0"
             },
             {
                 "name": "Hellish Resistance",
-                "url": "/api/traits/26"
+                "url": "/api/traits/25"
             },
             {
                 "name": "Infernal Legacy",
-                "url": "/api/traits/27"
+                "url": "/api/traits/26"
             }
         ],
         "trait_options": null,
         "subraces": [],
         "entry_descriptor": {
-            "index": 9,
-            "url": "/api/races/9",
+            "index": 8,
+            "url": "/api/races/8",
             "name": "Tiefling",
             "desc": []
         }

@@ -3,13 +3,13 @@
         "full_name": "Strength",
         "skills": [
             {
-                "url": "/api/skills/4",
+                "url": "/api/skills/3",
                 "name": "Athletics"
             }
         ],
         "entry_descriptor": {
-            "index": 1,
-            "url": "/api/ability-scores/1",
+            "index": 0,
+            "url": "/api/ability-scores/0",
             "name": "STR",
             "desc": [
                 "Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.",
@@ -21,21 +21,21 @@
         "full_name": "Dexterity",
         "skills": [
             {
-                "url": "/api/skills/1",
+                "url": "/api/skills/0",
                 "name": "Acrobatics"
             },
             {
-                "url": "/api/skills/16",
+                "url": "/api/skills/15",
                 "name": "Sleight of Hand"
             },
             {
-                "url": "/api/skills/17",
+                "url": "/api/skills/16",
                 "name": "Stealth"
             }
         ],
         "entry_descriptor": {
-            "index": 2,
-            "url": "/api/ability-scores/2",
+            "index": 1,
+            "url": "/api/ability-scores/1",
             "name": "DEX",
             "desc": [
                 "Dexterity measures agility, reflexes, and balance.",
@@ -47,8 +47,8 @@
         "full_name": "Constitution",
         "skills": [],
         "entry_descriptor": {
-            "index": 3,
-            "url": "/api/ability-scores/3",
+            "index": 2,
+            "url": "/api/ability-scores/2",
             "name": "CON",
             "desc": [
                 "Constitution measures health, stamina, and vital force.",
@@ -60,29 +60,29 @@
         "full_name": "Intelligence",
         "skills": [
             {
-                "url": "/api/skills/3",
+                "url": "/api/skills/2",
                 "name": "Arcana"
             },
             {
-                "url": "/api/skills/6",
+                "url": "/api/skills/5",
                 "name": "History"
             },
             {
-                "url": "/api/skills/9",
+                "url": "/api/skills/8",
                 "name": "Investigation"
             },
             {
-                "url": "/api/skills/11",
+                "url": "/api/skills/10",
                 "name": "Nature"
             },
             {
-                "url": "/api/skills/15",
+                "url": "/api/skills/14",
                 "name": "Religion"
             }
         ],
         "entry_descriptor": {
-            "index": 4,
-            "url": "/api/ability-scores/4",
+            "index": 3,
+            "url": "/api/ability-scores/3",
             "name": "INT",
             "desc": [
                 "Intelligence measures mental acuity, accuracy of recall, and the ability to reason.",
@@ -94,29 +94,29 @@
         "full_name": "Wisdom",
         "skills": [
             {
-                "url": "/api/skills/2",
+                "url": "/api/skills/1",
                 "name": "Animal Handling"
             },
             {
-                "url": "/api/skills/7",
+                "url": "/api/skills/6",
                 "name": "Insight"
             },
             {
-                "url": "/api/skills/10",
+                "url": "/api/skills/9",
                 "name": "Medicine"
             },
             {
-                "url": "/api/skills/12",
+                "url": "/api/skills/11",
                 "name": "Perception"
             },
             {
-                "url": "/api/skills/18",
+                "url": "/api/skills/17",
                 "name": "Survival"
             }
         ],
         "entry_descriptor": {
-            "index": 5,
-            "url": "/api/ability-scores/5",
+            "index": 4,
+            "url": "/api/ability-scores/4",
             "name": "WIS",
             "desc": [
                 "Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.",
@@ -128,25 +128,25 @@
         "full_name": "Charisma",
         "skills": [
             {
-                "url": "/api/skills/5",
+                "url": "/api/skills/4",
                 "name": "Deception"
             },
             {
-                "url": "/api/skills/8",
+                "url": "/api/skills/7",
                 "name": "Intimidation"
             },
             {
-                "url": "/api/skills/13",
+                "url": "/api/skills/12",
                 "name": "Performance"
             },
             {
-                "url": "/api/skills/14",
+                "url": "/api/skills/13",
                 "name": "Persuasion"
             }
         ],
         "entry_descriptor": {
-            "index": 6,
-            "url": "/api/ability-scores/6",
+            "index": 5,
+            "url": "/api/ability-scores/5",
             "name": "CHA",
             "desc": [
                 "Charisma measures your ability to interact effectively with others. It includes such factors as confidence and eloquence, and it can represent a charming or commanding personality.",

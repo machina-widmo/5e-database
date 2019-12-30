@@ -6,8 +6,8 @@
         ],
         "script": "Common",
         "entry_descriptor": {
-            "index": 1,
-            "url": "/api/languages/1",
+            "index": 0,
+            "url": "/api/languages/0",
             "name": "Common",
             "desc": []
         }
@@ -19,8 +19,8 @@
         ],
         "script": "Dwarvish",
         "entry_descriptor": {
-            "index": 2,
-            "url": "/api/languages/2",
+            "index": 1,
+            "url": "/api/languages/1",
             "name": "Dwarvish",
             "desc": []
         }
@@ -32,8 +32,8 @@
         ],
         "script": "Elvish",
         "entry_descriptor": {
-            "index": 3,
-            "url": "/api/languages/3",
+            "index": 2,
+            "url": "/api/languages/2",
             "name": "Elvish",
             "desc": []
         }
@@ -46,8 +46,8 @@
         ],
         "script": "Dwarvish",
         "entry_descriptor": {
-            "index": 4,
-            "url": "/api/languages/4",
+            "index": 3,
+            "url": "/api/languages/3",
             "name": "Giant",
             "desc": []
         }
@@ -59,8 +59,8 @@
         ],
         "script": "Dwarvish",
         "entry_descriptor": {
-            "index": 5,
-            "url": "/api/languages/5",
+            "index": 4,
+            "url": "/api/languages/4",
             "name": "Gnomish",
             "desc": []
         }
@@ -72,8 +72,8 @@
         ],
         "script": "Dwarvish",
         "entry_descriptor": {
-            "index": 6,
-            "url": "/api/languages/6",
+            "index": 5,
+            "url": "/api/languages/5",
             "name": "Goblin",
             "desc": []
         }
@@ -85,8 +85,8 @@
         ],
         "script": "Common",
         "entry_descriptor": {
-            "index": 7,
-            "url": "/api/languages/7",
+            "index": 6,
+            "url": "/api/languages/6",
             "name": "Halfling",
             "desc": []
         }
@@ -98,8 +98,8 @@
         ],
         "script": "Dwarvish",
         "entry_descriptor": {
-            "index": 8,
-            "url": "/api/languages/8",
+            "index": 7,
+            "url": "/api/languages/7",
             "name": "Orc",
             "desc": []
         }
@@ -111,8 +111,8 @@
         ],
         "script": "Infernal",
         "entry_descriptor": {
-            "index": 9,
-            "url": "/api/languages/9",
+            "index": 8,
+            "url": "/api/languages/8",
             "name": "Abyssal",
             "desc": []
         }
@@ -124,8 +124,8 @@
         ],
         "script": "Celestial",
         "entry_descriptor": {
-            "index": 10,
-            "url": "/api/languages/10",
+            "index": 9,
+            "url": "/api/languages/9",
             "name": "Celestial",
             "desc": []
         }
@@ -138,8 +138,8 @@
         ],
         "script": "Draconic",
         "entry_descriptor": {
-            "index": 11,
-            "url": "/api/languages/11",
+            "index": 10,
+            "url": "/api/languages/10",
             "name": "Draconic",
             "desc": []
         }
@@ -152,8 +152,8 @@
         ],
         "script": null,
         "entry_descriptor": {
-            "index": 12,
-            "url": "/api/languages/12",
+            "index": 11,
+            "url": "/api/languages/11",
             "name": "Deep Speech",
             "desc": []
         }
@@ -165,8 +165,8 @@
         ],
         "script": "Infernal",
         "entry_descriptor": {
-            "index": 13,
-            "url": "/api/languages/13",
+            "index": 12,
+            "url": "/api/languages/12",
             "name": "Infernal",
             "desc": []
         }
@@ -178,8 +178,8 @@
         ],
         "script": "Dwarvish",
         "entry_descriptor": {
-            "index": 14,
-            "url": "/api/languages/14",
+            "index": 13,
+            "url": "/api/languages/13",
             "name": "Primordial",
             "desc": []
         }
@@ -191,8 +191,8 @@
         ],
         "script": "Elvish",
         "entry_descriptor": {
-            "index": 15,
-            "url": "/api/languages/15",
+            "index": 14,
+            "url": "/api/languages/14",
             "name": "Sylvan",
             "desc": []
         }
@@ -204,8 +204,8 @@
         ],
         "script": "Elvish",
         "entry_descriptor": {
-            "index": 16,
-            "url": "/api/languages/16",
+            "index": 15,
+            "url": "/api/languages/15",
             "name": "Undercommon",
             "desc": []
         }

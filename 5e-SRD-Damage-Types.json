@@ -1,8 +1,8 @@
 [
     {
         "entry_descriptor": {
-            "index": 1,
-            "url": "/api/damage-types/1",
+            "index": 0,
+            "url": "/api/damage-types/0",
             "name": "Acid",
             "desc": [
                 "The corrosive spray of a black dragon's breath and the dissolving enzymes secreted by a black pudding deal acid damage."
@@ -11,8 +11,8 @@
     },
     {
         "entry_descriptor": {
-            "index": 2,
-            "url": "/api/damage-types/2",
+            "index": 1,
+            "url": "/api/damage-types/1",
             "name": "Bludgeoning",
             "desc": [
                 "Blunt force attacks, falling, constriction, and the like deal bludgeoning damage."
@@ -21,8 +21,8 @@
     },
     {
         "entry_descriptor": {
-            "index": 3,
-            "url": "/api/damage-types/3",
+            "index": 2,
+            "url": "/api/damage-types/2",
             "name": "Cold",
             "desc": [
                 "The infernal chill radiating from an ice devil's spear and the frigid blast of a white dragon's breath deal cold damage."
@@ -31,8 +31,8 @@
     },
     {
         "entry_descriptor": {
-            "index": 4,
-            "url": "/api/damage-types/4",
+            "index": 3,
+            "url": "/api/damage-types/3",
             "name": "Fire",
             "desc": [
                 "Red dragons breathe fire, and many spells conjure flames to deal fire damage."
@@ -41,8 +41,8 @@
     },
     {
         "entry_descriptor": {
-            "index": 5,
-            "url": "/api/damage-types/5",
+            "index": 4,
+            "url": "/api/damage-types/4",
             "name": "Force",
             "desc": [
                 "Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including magic missile and spiritual weapon."
@@ -51,8 +51,8 @@
     },
     {
         "entry_descriptor": {
-            "index": 6,
-            "url": "/api/damage-types/6",
+            "index": 5,
+            "url": "/api/damage-types/5",
             "name": "Lightning",
             "desc": [
                 "A lightning bolt spell and a blue dragon's breath deal lightning damage."
@@ -61,8 +61,8 @@
     },
     {
         "entry_descriptor": {
-            "index": 7,
-            "url": "/api/damage-types/7",
+            "index": 6,
+            "url": "/api/damage-types/6",
             "name": "Necrotic",
             "desc": [
                 "Necrotic damage, dealt by certain undead and a spell such as chill touch, withers matter and even the soul."
@@ -71,8 +71,8 @@
     },
     {
         "entry_descriptor": {
-            "index": 8,
-            "url": "/api/damage-types/8",
+            "index": 7,
+            "url": "/api/damage-types/7",
             "name": "Piercing",
             "desc": [
                 "Puncturing and impaling attacks, including spears and monsters' bites, deal piercing damage."
@@ -81,8 +81,8 @@
     },
     {
         "entry_descriptor": {
-            "index": 9,
-            "url": "/api/damage-types/9",
+            "index": 8,
+            "url": "/api/damage-types/8",
             "name": "Poison",
             "desc": [
                 "Venomous stings and the toxic gas of a green dragon's breath deal poison damage."
@@ -91,8 +91,8 @@
     },
     {
         "entry_descriptor": {
-            "index": 10,
-            "url": "/api/damage-types/10",
+            "index": 9,
+            "url": "/api/damage-types/9",
             "name": "Psychic",
             "desc": [
                 "Mental abilities such as a psionic blast deal psychic damage."
@@ -101,8 +101,8 @@
     },
     {
         "entry_descriptor": {
-            "index": 11,
-            "url": "/api/damage-types/11",
+            "index": 10,
+            "url": "/api/damage-types/10",
             "name": "Radiant",
             "desc": [
                 "Radiant damage, dealt by a cleric's flame strike spell or an angel's smiting weapon, sears the flesh like fire and overloads the spirit with power."
@@ -111,8 +111,8 @@
     },
     {
         "entry_descriptor": {
-            "index": 12,
-            "url": "/api/damage-types/12",
+            "index": 11,
+            "url": "/api/damage-types/11",
             "name": "Slashing",
             "desc": [
                 "Swords, axes, and monsters' claws deal slashing damage."
@@ -121,8 +121,8 @@
     },
     {
         "entry_descriptor": {
-            "index": 13,
-            "url": "/api/damage-types/13",
+            "index": 12,
+            "url": "/api/damage-types/12",
             "name": "Thunder",
             "desc": [
                 "A concussive burst of sound, such as the effect of the thunderwave spell, deals thunder damage."

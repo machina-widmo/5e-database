@@ -3,156 +3,156 @@
         "equipment": [
             {
                 "name": "Club",
-                "url": "/api/equipment/1"
+                "url": "/api/equipment/0"
             },
             {
                 "name": "Dagger",
-                "url": "/api/equipment/2"
+                "url": "/api/equipment/1"
             },
             {
                 "name": "Greatclub",
-                "url": "/api/equipment/3"
+                "url": "/api/equipment/2"
             },
             {
                 "name": "Handaxe",
-                "url": "/api/equipment/4"
+                "url": "/api/equipment/3"
             },
             {
                 "name": "Javelin",
-                "url": "/api/equipment/5"
+                "url": "/api/equipment/4"
             },
             {
                 "name": "Light hammer",
-                "url": "/api/equipment/6"
+                "url": "/api/equipment/5"
             },
             {
                 "name": "Mace",
-                "url": "/api/equipment/7"
+                "url": "/api/equipment/6"
             },
             {
                 "name": "Quarterstaff",
-                "url": "/api/equipment/8"
+                "url": "/api/equipment/7"
             },
             {
                 "name": "Sickle",
-                "url": "/api/equipment/9"
+                "url": "/api/equipment/8"
             },
             {
                 "name": "Spear",
-                "url": "/api/equipment/10"
+                "url": "/api/equipment/9"
             },
             {
                 "name": "Crossbow, light",
-                "url": "/api/equipment/11"
+                "url": "/api/equipment/10"
             },
             {
                 "name": "Dart",
-                "url": "/api/equipment/12"
+                "url": "/api/equipment/11"
             },
             {
                 "name": "Shortbow",
-                "url": "/api/equipment/13"
+                "url": "/api/equipment/12"
             },
             {
                 "name": "Sling",
-                "url": "/api/equipment/14"
+                "url": "/api/equipment/13"
             },
             {
                 "name": "Battleaxe",
-                "url": "/api/equipment/15"
+                "url": "/api/equipment/14"
             },
             {
                 "name": "Flail",
-                "url": "/api/equipment/16"
+                "url": "/api/equipment/15"
             },
             {
                 "name": "Glaive",
-                "url": "/api/equipment/17"
+                "url": "/api/equipment/16"
             },
             {
                 "name": "Greataxe",
-                "url": "/api/equipment/18"
+                "url": "/api/equipment/17"
             },
             {
                 "name": "Greatsword",
-                "url": "/api/equipment/19"
+                "url": "/api/equipment/18"
             },
             {
                 "name": "Halberd",
-                "url": "/api/equipment/20"
+                "url": "/api/equipment/19"
             },
             {
                 "name": "Lance",
-                "url": "/api/equipment/21"
+                "url": "/api/equipment/20"
             },
             {
                 "name": "Longsword",
-                "url": "/api/equipment/22"
+                "url": "/api/equipment/21"
             },
             {
                 "name": "Maul",
-                "url": "/api/equipment/23"
+                "url": "/api/equipment/22"
             },
             {
                 "name": "Morningstar",
-                "url": "/api/equipment/24"
+                "url": "/api/equipment/23"
             },
             {
                 "name": "Pike",
-                "url": "/api/equipment/25"
+                "url": "/api/equipment/24"
             },
             {
                 "name": "Rapier",
-                "url": "/api/equipment/26"
+                "url": "/api/equipment/25"
             },
             {
                 "name": "Scimitar",
-                "url": "/api/equipment/27"
+                "url": "/api/equipment/26"
             },
             {
                 "name": "Shortsword",
-                "url": "/api/equipment/28"
+                "url": "/api/equipment/27"
             },
             {
                 "name": "Trident",
-                "url": "/api/equipment/29"
+                "url": "/api/equipment/28"
             },
             {
                 "name": "War pick",
-                "url": "/api/equipment/30"
+                "url": "/api/equipment/29"
             },
             {
                 "name": "Warhammer",
-                "url": "/api/equipment/31"
+                "url": "/api/equipment/30"
             },
             {
                 "name": "Whip",
-                "url": "/api/equipment/32"
+                "url": "/api/equipment/31"
             },
             {
                 "name": "Blowgun",
-                "url": "/api/equipment/33"
+                "url": "/api/equipment/32"
             },
             {
                 "name": "Crossbow, hand",
-                "url": "/api/equipment/34"
+                "url": "/api/equipment/33"
             },
             {
                 "name": "Crossbow, heavy",
-                "url": "/api/equipment/35"
+                "url": "/api/equipment/34"
             },
             {
                 "name": "Longbow",
-                "url": "/api/equipment/36"
+                "url": "/api/equipment/35"
             },
             {
                 "name": "Net",
-                "url": "/api/equipment/37"
+                "url": "/api/equipment/36"
             }
         ],
         "entry_descriptor": {
-            "index": 1,
-            "url": "/api/equipment-categories/1",
+            "index": 0,
+            "url": "/api/equipment-categories/0",
             "name": "Weapon",
             "desc": []
         }
@@ -161,60 +161,60 @@
         "equipment": [
             {
                 "name": "Padded",
-                "url": "/api/equipment/38"
+                "url": "/api/equipment/37"
             },
             {
                 "name": "Leather",
-                "url": "/api/equipment/39"
+                "url": "/api/equipment/38"
             },
             {
                 "name": "Studded Leather",
-                "url": "/api/equipment/40"
+                "url": "/api/equipment/39"
             },
             {
                 "name": "Hide",
-                "url": "/api/equipment/41"
+                "url": "/api/equipment/40"
             },
             {
                 "name": "Chain Shirt",
-                "url": "/api/equipment/42"
+                "url": "/api/equipment/41"
             },
             {
                 "name": "Scale Mail",
-                "url": "/api/equipment/43"
+                "url": "/api/equipment/42"
             },
             {
                 "name": "Breastplate",
-                "url": "/api/equipment/44"
+                "url": "/api/equipment/43"
             },
             {
                 "name": "Half Plate",
-                "url": "/api/equipment/45"
+                "url": "/api/equipment/44"
             },
             {
                 "name": "Ring Mail",
-                "url": "/api/equipment/46"
+                "url": "/api/equipment/45"
             },
             {
                 "name": "Chain Mail",
-                "url": "/api/equipment/47"
+                "url": "/api/equipment/46"
             },
             {
                 "name": "Splint",
-                "url": "/api/equipment/48"
+                "url": "/api/equipment/47"
             },
             {
                 "name": "Plate",
-                "url": "/api/equipment/49"
+                "url": "/api/equipment/48"
             },
             {
                 "name": "Shield",
-                "url": "/api/equipment/50"
+                "url": "/api/equipment/49"
             }
         ],
         "entry_descriptor": {
-            "index": 2,
-            "url": "/api/equipment-categories/2",
+            "index": 1,
+            "url": "/api/equipment-categories/1",
             "name": "Armor",
             "desc": []
         }
@@ -222,465 +222,465 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/51",
+                "url": "/api/equipment/50",
                 "name": "Abacus"
             },
             {
-                "url": "/api/equipment/52",
+                "url": "/api/equipment/51",
                 "name": "Acid (vial)"
             },
             {
-                "url": "/api/equipment/53",
+                "url": "/api/equipment/52",
                 "name": "Alchemist's fire (flask)"
             },
             {
-                "url": "/api/equipment/54",
+                "url": "/api/equipment/53",
                 "name": "Arrow"
             },
             {
-                "url": "/api/equipment/55",
+                "url": "/api/equipment/54",
                 "name": "Blowgun needle"
             },
             {
-                "url": "/api/equipment/56",
+                "url": "/api/equipment/55",
                 "name": "Crossbow bolt"
             },
             {
-                "url": "/api/equipment/57",
+                "url": "/api/equipment/56",
                 "name": "Sling bullet"
             },
             {
-                "url": "/api/equipment/58",
+                "url": "/api/equipment/57",
                 "name": "Amulet"
             },
             {
-                "url": "/api/equipment/59",
+                "url": "/api/equipment/58",
                 "name": "Antitoxin (vial)"
             },
             {
-                "url": "/api/equipment/60",
+                "url": "/api/equipment/59",
                 "name": "Crystal"
             },
             {
-                "url": "/api/equipment/61",
+                "url": "/api/equipment/60",
                 "name": "Orb"
             },
             {
-                "url": "/api/equipment/62",
+                "url": "/api/equipment/61",
                 "name": "Rod"
             },
             {
-                "url": "/api/equipment/63",
+                "url": "/api/equipment/62",
                 "name": "Staff"
             },
             {
-                "url": "/api/equipment/64",
+                "url": "/api/equipment/63",
                 "name": "Wand"
             },
             {
-                "url": "/api/equipment/65",
+                "url": "/api/equipment/64",
                 "name": "Backpack"
             },
             {
-                "url": "/api/equipment/66",
+                "url": "/api/equipment/65",
                 "name": "Ball bearings (bag of 1,000)"
             },
             {
-                "url": "/api/equipment/67",
+                "url": "/api/equipment/66",
                 "name": "Barrel"
             },
             {
-                "url": "/api/equipment/68",
+                "url": "/api/equipment/67",
                 "name": "Basket"
             },
             {
-                "url": "/api/equipment/69",
+                "url": "/api/equipment/68",
                 "name": "Bedroll"
             },
             {
-                "url": "/api/equipment/70",
+                "url": "/api/equipment/69",
                 "name": "Bell"
             },
             {
-                "url": "/api/equipment/71",
+                "url": "/api/equipment/70",
                 "name": "Blanket"
             },
             {
-                "url": "/api/equipment/72",
+                "url": "/api/equipment/71",
                 "name": "Block and tackle"
             },
             {
-                "url": "/api/equipment/73",
+                "url": "/api/equipment/72",
                 "name": "Book"
             },
             {
-                "url": "/api/equipment/74",
+                "url": "/api/equipment/73",
                 "name": "Bottle, glass"
             },
             {
-                "url": "/api/equipment/75",
+                "url": "/api/equipment/74",
                 "name": "Bucket"
             },
             {
-                "url": "/api/equipment/76",
+                "url": "/api/equipment/75",
                 "name": "Caltrops"
             },
             {
-                "url": "/api/equipment/77",
+                "url": "/api/equipment/76",
                 "name": "Candle"
             },
             {
-                "url": "/api/equipment/78",
+                "url": "/api/equipment/77",
                 "name": "Case, crossbow bolt"
             },
             {
-                "url": "/api/equipment/79",
+                "url": "/api/equipment/78",
                 "name": "Case, map or scroll"
             },
             {
-                "url": "/api/equipment/80",
+                "url": "/api/equipment/79",
                 "name": "Chain (10 feet)"
             },
             {
-                "url": "/api/equipment/81",
+                "url": "/api/equipment/80",
                 "name": "Chalk (1 piece)"
             },
             {
-                "url": "/api/equipment/82",
+                "url": "/api/equipment/81",
                 "name": "Chest"
             },
             {
-                "url": "/api/equipment/83",
+                "url": "/api/equipment/82",
                 "name": "Clothes, common"
             },
             {
-                "url": "/api/equipment/84",
+                "url": "/api/equipment/83",
                 "name": "Clothes, costume"
             },
             {
-                "url": "/api/equipment/85",
+                "url": "/api/equipment/84",
                 "name": "Clothes, fine"
             },
             {
-                "url": "/api/equipment/86",
+                "url": "/api/equipment/85",
                 "name": "Clothes, traveler's"
             },
             {
-                "url": "/api/equipment/87",
+                "url": "/api/equipment/86",
                 "name": "Component pouch"
             },
             {
-                "url": "/api/equipment/88",
+                "url": "/api/equipment/87",
                 "name": "Crowbar"
             },
             {
-                "url": "/api/equipment/89",
+                "url": "/api/equipment/88",
                 "name": "Sprig of mistletoe"
             },
             {
-                "url": "/api/equipment/90",
+                "url": "/api/equipment/89",
                 "name": "Totem"
             },
             {
-                "url": "/api/equipment/91",
+                "url": "/api/equipment/90",
                 "name": "Wooden staff"
             },
             {
-                "url": "/api/equipment/92",
+                "url": "/api/equipment/91",
                 "name": "Yew wand"
             },
             {
-                "url": "/api/equipment/93",
+                "url": "/api/equipment/92",
                 "name": "Emblem"
             },
             {
-                "url": "/api/equipment/94",
+                "url": "/api/equipment/93",
                 "name": "Fishing tackle"
             },
             {
-                "url": "/api/equipment/95",
+                "url": "/api/equipment/94",
                 "name": "Flask or tankard"
             },
             {
-                "url": "/api/equipment/96",
+                "url": "/api/equipment/95",
                 "name": "Grappling hook"
             },
             {
-                "url": "/api/equipment/97",
+                "url": "/api/equipment/96",
                 "name": "Hammer"
             },
             {
-                "url": "/api/equipment/98",
+                "url": "/api/equipment/97",
                 "name": "Hammer, sledge"
             },
             {
-                "url": "/api/equipment/99",
+                "url": "/api/equipment/98",
                 "name": "Holy water (flask)"
             },
             {
-                "url": "/api/equipment/100",
+                "url": "/api/equipment/99",
                 "name": "Hourglass"
             },
             {
-                "url": "/api/equipment/101",
+                "url": "/api/equipment/100",
                 "name": "Hunting trap"
             },
             {
-                "url": "/api/equipment/102",
+                "url": "/api/equipment/101",
                 "name": "Ink (1 ounce bottle)"
             },
             {
-                "url": "/api/equipment/103",
+                "url": "/api/equipment/102",
                 "name": "Ink pen"
             },
             {
-                "url": "/api/equipment/100",
+                "url": "/api/equipment/99",
                 "name": "Hourglass"
             },
             {
-                "url": "/api/equipment/101",
+                "url": "/api/equipment/100",
                 "name": "Hunting trap"
             },
             {
-                "url": "/api/equipment/102",
+                "url": "/api/equipment/101",
                 "name": "Ink (1 ounce bottle)"
             },
             {
-                "url": "/api/equipment/103",
+                "url": "/api/equipment/102",
                 "name": "Ink pen"
             },
             {
-                "url": "/api/equipment/104",
+                "url": "/api/equipment/103",
                 "name": "Jug or pitcher"
             },
             {
-                "url": "/api/equipment/105",
+                "url": "/api/equipment/104",
                 "name": "Climber's Kit"
             },
             {
-                "url": "/api/equipment/106",
+                "url": "/api/equipment/105",
                 "name": "Disguise Kit"
             },
             {
-                "url": "/api/equipment/107",
+                "url": "/api/equipment/106",
                 "name": "Forgery Kit"
             },
             {
-                "url": "/api/equipment/108",
+                "url": "/api/equipment/107",
                 "name": "Herbalism Kit"
             },
             {
-                "url": "/api/equipment/109",
+                "url": "/api/equipment/108",
                 "name": "Healer's Kit"
             },
             {
-                "url": "/api/equipment/110",
+                "url": "/api/equipment/109",
                 "name": "Mess Kit"
             },
             {
-                "url": "/api/equipment/111",
+                "url": "/api/equipment/110",
                 "name": "Poisoner's Kit"
             },
             {
-                "url": "/api/equipment/112",
+                "url": "/api/equipment/111",
                 "name": "Ladder (10-foot)"
             },
             {
-                "url": "/api/equipment/113",
+                "url": "/api/equipment/112",
                 "name": "Lamp"
             },
             {
-                "url": "/api/equipment/114",
+                "url": "/api/equipment/113",
                 "name": "Lantern, bullseye"
             },
             {
-                "url": "/api/equipment/115",
+                "url": "/api/equipment/114",
                 "name": "Lantern, hooded"
             },
             {
-                "url": "/api/equipment/116",
+                "url": "/api/equipment/115",
                 "name": "Lock"
             },
             {
-                "url": "/api/equipment/117",
+                "url": "/api/equipment/116",
                 "name": "Magnifying glass"
             },
             {
-                "url": "/api/equipment/118",
+                "url": "/api/equipment/117",
                 "name": "Manacles"
             },
             {
-                "url": "/api/equipment/119",
+                "url": "/api/equipment/118",
                 "name": "Mirror, steel"
             },
             {
-                "url": "/api/equipment/120",
+                "url": "/api/equipment/119",
                 "name": "Oil (flask)"
             },
             {
-                "url": "/api/equipment/121",
+                "url": "/api/equipment/120",
                 "name": "Paper (one sheet)"
             },
             {
-                "url": "/api/equipment/122",
+                "url": "/api/equipment/121",
                 "name": "Parchment (one sheet)"
             },
             {
-                "url": "/api/equipment/123",
+                "url": "/api/equipment/122",
                 "name": "Perfume (vial)"
             },
             {
-                "url": "/api/equipment/124",
+                "url": "/api/equipment/123",
                 "name": "Pick, miner's"
             },
             {
-                "url": "/api/equipment/125",
+                "url": "/api/equipment/124",
                 "name": "Piton"
             },
             {
-                "url": "/api/equipment/126",
+                "url": "/api/equipment/125",
                 "name": "Poison, basic (vial)"
             },
             {
-                "url": "/api/equipment/127",
+                "url": "/api/equipment/126",
                 "name": "Pole (10-foot)"
             },
             {
-                "url": "/api/equipment/128",
+                "url": "/api/equipment/127",
                 "name": "Pot, iron"
             },
             {
-                "url": "/api/equipment/129",
+                "url": "/api/equipment/128",
                 "name": "Potion of healing"
             },
             {
-                "url": "/api/equipment/130",
+                "url": "/api/equipment/129",
                 "name": "Pouch"
             },
             {
-                "url": "/api/equipment/131",
+                "url": "/api/equipment/130",
                 "name": "Quiver"
             },
             {
-                "url": "/api/equipment/132",
+                "url": "/api/equipment/131",
                 "name": "Ram, portable"
             },
             {
-                "url": "/api/equipment/133",
+                "url": "/api/equipment/132",
                 "name": "Rations (1 day)"
             },
             {
-                "url": "/api/equipment/134",
+                "url": "/api/equipment/133",
                 "name": "Reliquary"
             },
             {
-                "url": "/api/equipment/135",
+                "url": "/api/equipment/134",
                 "name": "Robes"
             },
             {
-                "url": "/api/equipment/136",
+                "url": "/api/equipment/135",
                 "name": "Rope, hempen (50 feet)"
             },
             {
-                "url": "/api/equipment/137",
+                "url": "/api/equipment/136",
                 "name": "Rope, silk (50 feet)"
             },
             {
-                "url": "/api/equipment/138",
+                "url": "/api/equipment/137",
                 "name": "Sack"
             },
             {
-                "url": "/api/equipment/139",
+                "url": "/api/equipment/138",
                 "name": "Scale, merchant's"
             },
             {
-                "url": "/api/equipment/140",
+                "url": "/api/equipment/139",
                 "name": "Sealing wax"
             },
             {
-                "url": "/api/equipment/141",
+                "url": "/api/equipment/140",
                 "name": "Shovel"
             },
             {
-                "url": "/api/equipment/142",
+                "url": "/api/equipment/141",
                 "name": "Signal whistle"
             },
             {
-                "url": "/api/equipment/143",
+                "url": "/api/equipment/142",
                 "name": "Signet ring"
             },
             {
-                "url": "/api/equipment/144",
+                "url": "/api/equipment/143",
                 "name": "Soap"
             },
             {
-                "url": "/api/equipment/145",
+                "url": "/api/equipment/144",
                 "name": "Spellbook"
             },
             {
-                "url": "/api/equipment/146",
+                "url": "/api/equipment/145",
                 "name": "Spike, iron"
             },
             {
-                "url": "/api/equipment/147",
+                "url": "/api/equipment/146",
                 "name": "Spyglass"
             },
             {
-                "url": "/api/equipment/148",
+                "url": "/api/equipment/147",
                 "name": "Tent, two-person"
             },
             {
-                "url": "/api/equipment/149",
+                "url": "/api/equipment/148",
                 "name": "Tinderbox"
             },
             {
-                "url": "/api/equipment/150",
+                "url": "/api/equipment/149",
                 "name": "Torch"
             },
             {
-                "url": "/api/equipment/151",
+                "url": "/api/equipment/150",
                 "name": "Vial"
             },
             {
-                "url": "/api/equipment/152",
+                "url": "/api/equipment/151",
                 "name": "Waterskin"
             },
             {
-                "url": "/api/equipment/153",
+                "url": "/api/equipment/152",
                 "name": "Whetstone"
             },
             {
-                "url": "/api/equipment/154",
+                "url": "/api/equipment/153",
                 "name": "Burglar's Pack"
             },
             {
-                "url": "/api/equipment/155",
+                "url": "/api/equipment/154",
                 "name": "Diplomat's Pack"
             },
             {
-                "url": "/api/equipment/156",
+                "url": "/api/equipment/155",
                 "name": "Dungeoneer's Pack"
             },
             {
-                "url": "/api/equipment/157",
+                "url": "/api/equipment/156",
                 "name": "Entertainer's Pack"
             },
             {
-                "url": "/api/equipment/158",
+                "url": "/api/equipment/157",
                 "name": "Explorer's Pack"
             },
             {
-                "url": "/api/equipment/159",
+                "url": "/api/equipment/158",
                 "name": "Priest's Pack"
             },
             {
-                "url": "/api/equipment/160",
+                "url": "/api/equipment/159",
                 "name": "Scholar's Pack"
             }
         ],
         "entry_descriptor": {
-            "index": 3,
-            "url": "/api/equipment-categories/3",
+            "index": 2,
+            "url": "/api/equipment-categories/2",
             "name": "Adventuring Gear",
             "desc": []
         }
@@ -688,133 +688,133 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/161",
+                "url": "/api/equipment/160",
                 "name": "Alchemist's supplies"
             },
             {
-                "url": "/api/equipment/162",
+                "url": "/api/equipment/161",
                 "name": "Brewer's supplies"
             },
             {
-                "url": "/api/equipment/163",
+                "url": "/api/equipment/162",
                 "name": "Calligrapher's supplies"
             },
             {
-                "url": "/api/equipment/164",
+                "url": "/api/equipment/163",
                 "name": "Carpenter's tools"
             },
             {
-                "url": "/api/equipment/165",
+                "url": "/api/equipment/164",
                 "name": "Cartographer's tools"
             },
             {
-                "url": "/api/equipment/166",
+                "url": "/api/equipment/165",
                 "name": "Cobbler's tools"
             },
             {
-                "url": "/api/equipment/167",
+                "url": "/api/equipment/166",
                 "name": "Cook's utensils"
             },
             {
-                "url": "/api/equipment/168",
+                "url": "/api/equipment/167",
                 "name": "Glassblower's tools"
             },
             {
-                "url": "/api/equipment/169",
+                "url": "/api/equipment/168",
                 "name": "Jeweler's tools"
             },
             {
-                "url": "/api/equipment/170",
+                "url": "/api/equipment/169",
                 "name": "Leatherworker's tools"
             },
             {
-                "url": "/api/equipment/171",
+                "url": "/api/equipment/170",
                 "name": "Mason's tools"
             },
             {
-                "url": "/api/equipment/172",
+                "url": "/api/equipment/171",
                 "name": "Painter's supplies"
             },
             {
-                "url": "/api/equipment/173",
+                "url": "/api/equipment/172",
                 "name": "Potter's tools"
             },
             {
-                "url": "/api/equipment/174",
+                "url": "/api/equipment/173",
                 "name": "Smith's tools"
             },
             {
-                "url": "/api/equipment/175",
+                "url": "/api/equipment/174",
                 "name": "Tinker's tools"
             },
             {
-                "url": "/api/equipment/176",
+                "url": "/api/equipment/175",
                 "name": "Weaver's tools"
             },
             {
-                "url": "/api/equipment/177",
+                "url": "/api/equipment/176",
                 "name": "Woodcarver's tools"
             },
             {
-                "url": "/api/equipment/178",
+                "url": "/api/equipment/177",
                 "name": "Dice set"
             },
             {
-                "url": "/api/equipment/179",
+                "url": "/api/equipment/178",
                 "name": "Playing card set"
             },
             {
-                "url": "/api/equipment/180",
+                "url": "/api/equipment/179",
                 "name": "Bagpipes"
             },
             {
-                "url": "/api/equipment/181",
+                "url": "/api/equipment/180",
                 "name": "Drum"
             },
             {
-                "url": "/api/equipment/182",
+                "url": "/api/equipment/181",
                 "name": "Dulcimer"
             },
             {
-                "url": "/api/equipment/183",
+                "url": "/api/equipment/182",
                 "name": "Flute"
             },
             {
-                "url": "/api/equipment/184",
+                "url": "/api/equipment/183",
                 "name": "Lute"
             },
             {
-                "url": "/api/equipment/185",
+                "url": "/api/equipment/184",
                 "name": "Lyre"
             },
             {
-                "url": "/api/equipment/186",
+                "url": "/api/equipment/185",
                 "name": "Horn"
             },
             {
-                "url": "/api/equipment/187",
+                "url": "/api/equipment/186",
                 "name": "Pan flute"
             },
             {
-                "url": "/api/equipment/188",
+                "url": "/api/equipment/187",
                 "name": "Shawm"
             },
             {
-                "url": "/api/equipment/189",
+                "url": "/api/equipment/188",
                 "name": "Viol"
             },
             {
-                "url": "/api/equipment/190",
+                "url": "/api/equipment/189",
                 "name": "Navigator's tools"
             },
             {
-                "url": "/api/equipment/191",
+                "url": "/api/equipment/190",
                 "name": "Thieves' tools"
             }
         ],
         "entry_descriptor": {
-            "index": 4,
-            "url": "/api/equipment-categories/4",
+            "index": 3,
+            "url": "/api/equipment-categories/3",
             "name": "Tools",
             "desc": []
         }
@@ -822,261 +822,261 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/194",
+                "url": "/api/equipment/193",
                 "name": "Mule"
             },
             {
-                "url": "/api/equipment/195",
+                "url": "/api/equipment/194",
                 "name": "Elephant"
             },
             {
-                "url": "/api/equipment/196",
+                "url": "/api/equipment/195",
                 "name": "Horse, draft"
             },
             {
-                "url": "/api/equipment/197",
+                "url": "/api/equipment/196",
                 "name": "Horse, riding"
             },
             {
-                "url": "/api/equipment/198",
+                "url": "/api/equipment/197",
                 "name": "Mastiff"
             },
             {
-                "url": "/api/equipment/199",
+                "url": "/api/equipment/198",
                 "name": "Pony"
             },
             {
-                "url": "/api/equipment/200",
+                "url": "/api/equipment/199",
                 "name": "Warhorse"
             },
             {
-                "url": "/api/equipment/201",
+                "url": "/api/equipment/200",
                 "name": "Barding: Padded"
             },
             {
-                "url": "/api/equipment/202",
+                "url": "/api/equipment/201",
                 "name": "Barding: Leather"
             },
             {
-                "url": "/api/equipment/203",
+                "url": "/api/equipment/202",
                 "name": "Barding: Studded Leather"
             },
             {
-                "url": "/api/equipment/204",
+                "url": "/api/equipment/203",
                 "name": "Barding: Hide"
             },
             {
-                "url": "/api/equipment/205",
+                "url": "/api/equipment/204",
                 "name": "Barding: Chain shirt"
             },
             {
-                "url": "/api/equipment/206",
+                "url": "/api/equipment/205",
                 "name": "Barding: Scale mail"
             },
             {
-                "url": "/api/equipment/207",
+                "url": "/api/equipment/206",
                 "name": "Barding: Breastplate"
             },
             {
-                "url": "/api/equipment/208",
+                "url": "/api/equipment/207",
                 "name": "Barding: Half plate"
             },
             {
-                "url": "/api/equipment/209",
+                "url": "/api/equipment/208",
                 "name": "Barding: Ring mail"
             },
             {
-                "url": "/api/equipment/210",
+                "url": "/api/equipment/209",
                 "name": "Barding: Chain mail"
             },
             {
-                "url": "/api/equipment/211",
+                "url": "/api/equipment/210",
                 "name": "Barding: Splint"
             },
             {
-                "url": "/api/equipment/212",
+                "url": "/api/equipment/211",
                 "name": "Barding: Plate"
             },
             {
-                "url": "/api/equipment/213",
+                "url": "/api/equipment/212",
                 "name": "Bit and bridle"
             },
             {
-                "url": "/api/equipment/214",
+                "url": "/api/equipment/213",
                 "name": "Carriage"
             },
             {
-                "url": "/api/equipment/215",
+                "url": "/api/equipment/214",
                 "name": "Cart"
             },
             {
-                "url": "/api/equipment/216",
+                "url": "/api/equipment/215",
                 "name": "Chariot"
             },
             {
-                "url": "/api/equipment/217",
+                "url": "/api/equipment/216",
                 "name": "Animal Feed (1 day)"
             },
             {
-                "url": "/api/equipment/218",
+                "url": "/api/equipment/217",
                 "name": "Saddle, Exotic"
             },
             {
-                "url": "/api/equipment/219",
+                "url": "/api/equipment/218",
                 "name": "Saddle, Military"
             },
             {
-                "url": "/api/equipment/220",
+                "url": "/api/equipment/219",
                 "name": "Saddle, Pack"
             },
             {
-                "url": "/api/equipment/221",
+                "url": "/api/equipment/220",
                 "name": "Riding"
             },
             {
-                "url": "/api/equipment/222",
+                "url": "/api/equipment/221",
                 "name": "Saddlebags"
             },
             {
-                "url": "/api/equipment/223",
+                "url": "/api/equipment/222",
                 "name": "Sled"
             },
             {
-                "url": "/api/equipment/224",
+                "url": "/api/equipment/223",
                 "name": "Stabling (1 day)"
             },
             {
-                "url": "/api/equipment/225",
+                "url": "/api/equipment/224",
                 "name": "Wagon"
             },
             {
-                "url": "/api/equipment/201",
+                "url": "/api/equipment/200",
                 "name": "Barding: Padded"
             },
             {
-                "url": "/api/equipment/202",
+                "url": "/api/equipment/201",
                 "name": "Barding: Leather"
             },
             {
-                "url": "/api/equipment/203",
+                "url": "/api/equipment/202",
                 "name": "Barding: Studded Leather"
             },
             {
-                "url": "/api/equipment/204",
+                "url": "/api/equipment/203",
                 "name": "Barding: Hide"
             },
             {
-                "url": "/api/equipment/205",
+                "url": "/api/equipment/204",
                 "name": "Barding: Chain shirt"
             },
             {
-                "url": "/api/equipment/206",
+                "url": "/api/equipment/205",
                 "name": "Barding: Scale mail"
             },
             {
-                "url": "/api/equipment/207",
+                "url": "/api/equipment/206",
                 "name": "Barding: Breastplate"
             },
             {
-                "url": "/api/equipment/208",
+                "url": "/api/equipment/207",
                 "name": "Barding: Half plate"
             },
             {
-                "url": "/api/equipment/209",
+                "url": "/api/equipment/208",
                 "name": "Barding: Ring mail"
             },
             {
-                "url": "/api/equipment/210",
+                "url": "/api/equipment/209",
                 "name": "Barding: Chain mail"
             },
             {
-                "url": "/api/equipment/211",
+                "url": "/api/equipment/210",
                 "name": "Barding: Splint"
             },
             {
-                "url": "/api/equipment/212",
+                "url": "/api/equipment/211",
                 "name": "Barding: Plate"
             },
             {
-                "url": "/api/equipment/213",
+                "url": "/api/equipment/212",
                 "name": "Bit and bridle"
             },
             {
-                "url": "/api/equipment/214",
+                "url": "/api/equipment/213",
                 "name": "Carriage"
             },
             {
-                "url": "/api/equipment/215",
+                "url": "/api/equipment/214",
                 "name": "Cart"
             },
             {
-                "url": "/api/equipment/216",
+                "url": "/api/equipment/215",
                 "name": "Chariot"
             },
             {
-                "url": "/api/equipment/217",
+                "url": "/api/equipment/216",
                 "name": "Animal Feed (1 day)"
             },
             {
-                "url": "/api/equipment/218",
+                "url": "/api/equipment/217",
                 "name": "Saddle, Exotic"
             },
             {
-                "url": "/api/equipment/219",
+                "url": "/api/equipment/218",
                 "name": "Saddle, Military"
             },
             {
-                "url": "/api/equipment/220",
+                "url": "/api/equipment/219",
                 "name": "Saddle, Pack"
             },
             {
-                "url": "/api/equipment/221",
+                "url": "/api/equipment/220",
                 "name": "Riding"
             },
             {
-                "url": "/api/equipment/222",
+                "url": "/api/equipment/221",
                 "name": "Saddlebags"
             },
             {
-                "url": "/api/equipment/223",
+                "url": "/api/equipment/222",
                 "name": "Sled"
             },
             {
-                "url": "/api/equipment/224",
+                "url": "/api/equipment/223",
                 "name": "Stabling (1 day)"
             },
             {
-                "url": "/api/equipment/225",
+                "url": "/api/equipment/224",
                 "name": "Wagon"
             },
             {
-                "url": "/api/equipment/226",
+                "url": "/api/equipment/225",
                 "name": "Galley"
             },
             {
-                "url": "/api/equipment/227",
+                "url": "/api/equipment/226",
                 "name": "Keelboat"
             },
             {
-                "url": "/api/equipment/228",
+                "url": "/api/equipment/227",
                 "name": "Longship"
             },
             {
-                "url": "/api/equipment/229",
+                "url": "/api/equipment/228",
                 "name": "Rowboat"
             },
             {
-                "url": "/api/equipment/230",
+                "url": "/api/equipment/229",
                 "name": "Sailing ship"
             },
             {
-                "url": "/api/equipment/231",
+                "url": "/api/equipment/230",
                 "name": "Warship"
             }
         ],
         "entry_descriptor": {
-            "index": 5,
-            "url": "/api/equipment-categories/5",
+            "index": 4,
+            "url": "/api/equipment-categories/4",
             "name": "Mounts and Vehicles",
             "desc": []
         }
@@ -1084,49 +1084,49 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/1",
+                "url": "/api/equipment/0",
                 "name": "Club"
             },
             {
-                "url": "/api/equipment/2",
+                "url": "/api/equipment/1",
                 "name": "Dagger"
             },
             {
-                "url": "/api/equipment/3",
+                "url": "/api/equipment/2",
                 "name": "Greatclub"
             },
             {
-                "url": "/api/equipment/4",
+                "url": "/api/equipment/3",
                 "name": "Handaxe"
             },
             {
-                "url": "/api/equipment/5",
+                "url": "/api/equipment/4",
                 "name": "Javelin"
             },
             {
-                "url": "/api/equipment/6",
+                "url": "/api/equipment/5",
                 "name": "Light hammer"
             },
             {
-                "url": "/api/equipment/7",
+                "url": "/api/equipment/6",
                 "name": "Mace"
             },
             {
-                "url": "/api/equipment/8",
+                "url": "/api/equipment/7",
                 "name": "Quarterstaff"
             },
             {
-                "url": "/api/equipment/9",
+                "url": "/api/equipment/8",
                 "name": "Sickle"
             },
             {
-                "url": "/api/equipment/10",
+                "url": "/api/equipment/9",
                 "name": "Spear"
             }
         ],
         "entry_descriptor": {
-            "index": 6,
-            "url": "/api/equipment-categories/6",
+            "index": 5,
+            "url": "/api/equipment-categories/5",
             "name": "Simple Weapons",
             "desc": []
         }
@@ -1134,101 +1134,101 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/15",
+                "url": "/api/equipment/14",
                 "name": "Battleaxe"
             },
             {
-                "url": "/api/equipment/16",
+                "url": "/api/equipment/15",
                 "name": "Flail"
             },
             {
-                "url": "/api/equipment/17",
+                "url": "/api/equipment/16",
                 "name": "Glaive"
             },
             {
-                "url": "/api/equipment/18",
+                "url": "/api/equipment/17",
                 "name": "Greataxe"
             },
             {
-                "url": "/api/equipment/19",
+                "url": "/api/equipment/18",
                 "name": "Greatsword"
             },
             {
-                "url": "/api/equipment/20",
+                "url": "/api/equipment/19",
                 "name": "Halberd"
             },
             {
-                "url": "/api/equipment/21",
+                "url": "/api/equipment/20",
                 "name": "Lance"
             },
             {
-                "url": "/api/equipment/22",
+                "url": "/api/equipment/21",
                 "name": "Longsword"
             },
             {
-                "url": "/api/equipment/23",
+                "url": "/api/equipment/22",
                 "name": "Maul"
             },
             {
-                "url": "/api/equipment/24",
+                "url": "/api/equipment/23",
                 "name": "Morningstar"
             },
             {
-                "url": "/api/equipment/25",
+                "url": "/api/equipment/24",
                 "name": "Pike"
             },
             {
-                "url": "/api/equipment/26",
+                "url": "/api/equipment/25",
                 "name": "Rapier"
             },
             {
-                "url": "/api/equipment/27",
+                "url": "/api/equipment/26",
                 "name": "Scimitar"
             },
             {
-                "url": "/api/equipment/28",
+                "url": "/api/equipment/27",
                 "name": "Shortsword"
             },
             {
-                "url": "/api/equipment/29",
+                "url": "/api/equipment/28",
                 "name": "Trident"
             },
             {
-                "url": "/api/equipment/30",
+                "url": "/api/equipment/29",
                 "name": "War pick"
             },
             {
-                "url": "/api/equipment/31",
+                "url": "/api/equipment/30",
                 "name": "Warhammer"
             },
             {
-                "url": "/api/equipment/32",
+                "url": "/api/equipment/31",
                 "name": "Whip"
             },
             {
-                "url": "/api/equipment/33",
+                "url": "/api/equipment/32",
                 "name": "Blowgun"
             },
             {
-                "url": "/api/equipment/34",
+                "url": "/api/equipment/33",
                 "name": "Crossbow, hand"
             },
             {
-                "url": "/api/equipment/35",
+                "url": "/api/equipment/34",
                 "name": "Crossbow, heavy"
             },
             {
-                "url": "/api/equipment/36",
+                "url": "/api/equipment/35",
                 "name": "Longbow"
             },
             {
-                "url": "/api/equipment/37",
+                "url": "/api/equipment/36",
                 "name": "Net"
             }
         ],
         "entry_descriptor": {
-            "index": 7,
-            "url": "/api/equipment-categories/7",
+            "index": 6,
+            "url": "/api/equipment-categories/6",
             "name": "Martial Weapons",
             "desc": []
         }
@@ -1236,49 +1236,49 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/1",
+                "url": "/api/equipment/0",
                 "name": "Club"
             },
             {
-                "url": "/api/equipment/2",
+                "url": "/api/equipment/1",
                 "name": "Dagger"
             },
             {
-                "url": "/api/equipment/3",
+                "url": "/api/equipment/2",
                 "name": "Greatclub"
             },
             {
-                "url": "/api/equipment/4",
+                "url": "/api/equipment/3",
                 "name": "Handaxe"
             },
             {
-                "url": "/api/equipment/5",
+                "url": "/api/equipment/4",
                 "name": "Javelin"
             },
             {
-                "url": "/api/equipment/6",
+                "url": "/api/equipment/5",
                 "name": "Light hammer"
             },
             {
-                "url": "/api/equipment/7",
+                "url": "/api/equipment/6",
                 "name": "Mace"
             },
             {
-                "url": "/api/equipment/8",
+                "url": "/api/equipment/7",
                 "name": "Quarterstaff"
             },
             {
-                "url": "/api/equipment/9",
+                "url": "/api/equipment/8",
                 "name": "Sickle"
             },
             {
-                "url": "/api/equipment/10",
+                "url": "/api/equipment/9",
                 "name": "Spear"
             }
         ],
         "entry_descriptor": {
-            "index": 8,
-            "url": "/api/equipment-categories/8",
+            "index": 7,
+            "url": "/api/equipment-categories/7",
             "name": "Simple Melee Weapons",
             "desc": []
         }
@@ -1286,25 +1286,25 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/11",
+                "url": "/api/equipment/10",
                 "name": "Crossbow, light"
             },
             {
-                "url": "/api/equipment/12",
+                "url": "/api/equipment/11",
                 "name": "Dart"
             },
             {
-                "url": "/api/equipment/13",
+                "url": "/api/equipment/12",
                 "name": "Shortbow"
             },
             {
-                "url": "/api/equipment/14",
+                "url": "/api/equipment/13",
                 "name": "Sling"
             }
         ],
         "entry_descriptor": {
-            "index": 9,
-            "url": "/api/equipment-categories/9",
+            "index": 8,
+            "url": "/api/equipment-categories/8",
             "name": "Simple Ranged Weapons",
             "desc": []
         }
@@ -1312,81 +1312,81 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/15",
+                "url": "/api/equipment/14",
                 "name": "Battleaxe"
             },
             {
-                "url": "/api/equipment/16",
+                "url": "/api/equipment/15",
                 "name": "Flail"
             },
             {
-                "url": "/api/equipment/17",
+                "url": "/api/equipment/16",
                 "name": "Glaive"
             },
             {
-                "url": "/api/equipment/18",
+                "url": "/api/equipment/17",
                 "name": "Greataxe"
             },
             {
-                "url": "/api/equipment/19",
+                "url": "/api/equipment/18",
                 "name": "Greatsword"
             },
             {
-                "url": "/api/equipment/20",
+                "url": "/api/equipment/19",
                 "name": "Halberd"
             },
             {
-                "url": "/api/equipment/21",
+                "url": "/api/equipment/20",
                 "name": "Lance"
             },
             {
-                "url": "/api/equipment/22",
+                "url": "/api/equipment/21",
                 "name": "Longsword"
             },
             {
-                "url": "/api/equipment/23",
+                "url": "/api/equipment/22",
                 "name": "Maul"
             },
             {
-                "url": "/api/equipment/24",
+                "url": "/api/equipment/23",
                 "name": "Morningstar"
             },
             {
-                "url": "/api/equipment/25",
+                "url": "/api/equipment/24",
                 "name": "Pike"
             },
             {
-                "url": "/api/equipment/26",
+                "url": "/api/equipment/25",
                 "name": "Rapier"
             },
             {
-                "url": "/api/equipment/27",
+                "url": "/api/equipment/26",
                 "name": "Scimitar"
             },
             {
-                "url": "/api/equipment/28",
+                "url": "/api/equipment/27",
                 "name": "Shortsword"
             },
             {
-                "url": "/api/equipment/29",
+                "url": "/api/equipment/28",
                 "name": "Trident"
             },
             {
-                "url": "/api/equipment/30",
+                "url": "/api/equipment/29",
                 "name": "War pick"
             },
             {
-                "url": "/api/equipment/31",
+                "url": "/api/equipment/30",
                 "name": "Warhammer"
             },
             {
-                "url": "/api/equipment/32",
+                "url": "/api/equipment/31",
                 "name": "Whip"
             }
         ],
         "entry_descriptor": {
-            "index": 10,
-            "url": "/api/equipment-categories/10",
+            "index": 9,
+            "url": "/api/equipment-categories/9",
             "name": "Martial Melee Weapons",
             "desc": []
         }
@@ -1394,29 +1394,29 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/33",
+                "url": "/api/equipment/32",
                 "name": "Blowgun"
             },
             {
-                "url": "/api/equipment/34",
+                "url": "/api/equipment/33",
                 "name": "Crossbow, hand"
             },
             {
-                "url": "/api/equipment/35",
+                "url": "/api/equipment/34",
                 "name": "Crossbow, heavy"
             },
             {
-                "url": "/api/equipment/36",
+                "url": "/api/equipment/35",
                 "name": "Longbow"
             },
             {
-                "url": "/api/equipment/37",
+                "url": "/api/equipment/36",
                 "name": "Net"
             }
         ],
         "entry_descriptor": {
-            "index": 11,
-            "url": "/api/equipment-categories/11",
+            "index": 10,
+            "url": "/api/equipment-categories/10",
             "name": "Martial Ranged Weapons",
             "desc": []
         }
@@ -1424,21 +1424,21 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/38",
+                "url": "/api/equipment/37",
                 "name": "Padded"
             },
             {
-                "url": "/api/equipment/39",
+                "url": "/api/equipment/38",
                 "name": "Leather"
             },
             {
-                "url": "/api/equipment/40",
+                "url": "/api/equipment/39",
                 "name": "Studded Leather"
             }
         ],
         "entry_descriptor": {
-            "index": 12,
-            "url": "/api/equipment-categories/12",
+            "index": 11,
+            "url": "/api/equipment-categories/11",
             "name": "Light Armor",
             "desc": []
         }
@@ -1446,29 +1446,29 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/41",
+                "url": "/api/equipment/40",
                 "name": "Hide"
             },
             {
-                "url": "/api/equipment/42",
+                "url": "/api/equipment/41",
                 "name": "Chain Shirt"
             },
             {
-                "url": "/api/equipment/43",
+                "url": "/api/equipment/42",
                 "name": "Scale Mail"
             },
             {
-                "url": "/api/equipment/44",
+                "url": "/api/equipment/43",
                 "name": "Breastplate"
             },
             {
-                "url": "/api/equipment/45",
+                "url": "/api/equipment/44",
                 "name": "Half Plate"
             }
         ],
         "entry_descriptor": {
-            "index": 13,
-            "url": "/api/equipment-categories/13",
+            "index": 12,
+            "url": "/api/equipment-categories/12",
             "name": "Medium Armor",
             "desc": []
         }
@@ -1476,25 +1476,25 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/46",
+                "url": "/api/equipment/45",
                 "name": "Ring Mail"
             },
             {
-                "url": "/api/equipment/47",
+                "url": "/api/equipment/46",
                 "name": "Chain Mail"
             },
             {
-                "url": "/api/equipment/48",
+                "url": "/api/equipment/47",
                 "name": "Splint"
             },
             {
-                "url": "/api/equipment/49",
+                "url": "/api/equipment/48",
                 "name": "Plate"
             }
         ],
         "entry_descriptor": {
-            "index": 14,
-            "url": "/api/equipment-categories/14",
+            "index": 13,
+            "url": "/api/equipment-categories/13",
             "name": "Heavy Armor",
             "desc": []
         }
@@ -1502,13 +1502,13 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/50",
+                "url": "/api/equipment/49",
                 "name": "Shield"
             }
         ],
         "entry_descriptor": {
-            "index": 15,
-            "url": "/api/equipment-categories/15",
+            "index": 14,
+            "url": "/api/equipment-categories/14",
             "name": "Shields",
             "desc": []
         }
@@ -1516,409 +1516,409 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/51",
+                "url": "/api/equipment/50",
                 "name": "Abacus"
             },
             {
-                "url": "/api/equipment/52",
+                "url": "/api/equipment/51",
                 "name": "Acid (vial)"
             },
             {
-                "url": "/api/equipment/53",
+                "url": "/api/equipment/52",
                 "name": "Alchemist's fire (flask)"
             },
             {
-                "url": "/api/equipment/54",
+                "url": "/api/equipment/53",
                 "name": "Arrow"
             },
             {
-                "url": "/api/equipment/55",
+                "url": "/api/equipment/54",
                 "name": "Blowgun needle"
             },
             {
-                "url": "/api/equipment/56",
+                "url": "/api/equipment/55",
                 "name": "Crossbow bolt"
             },
             {
-                "url": "/api/equipment/57",
+                "url": "/api/equipment/56",
                 "name": "Sling bullet"
             },
             {
-                "url": "/api/equipment/58",
+                "url": "/api/equipment/57",
                 "name": "Amulet"
             },
             {
-                "url": "/api/equipment/59",
+                "url": "/api/equipment/58",
                 "name": "Antitoxin (vial)"
             },
             {
-                "url": "/api/equipment/60",
+                "url": "/api/equipment/59",
                 "name": "Crystal"
             },
             {
-                "url": "/api/equipment/61",
+                "url": "/api/equipment/60",
                 "name": "Orb"
             },
             {
-                "url": "/api/equipment/62",
+                "url": "/api/equipment/61",
                 "name": "Rod"
             },
             {
-                "url": "/api/equipment/63",
+                "url": "/api/equipment/62",
                 "name": "Staff"
             },
             {
-                "url": "/api/equipment/64",
+                "url": "/api/equipment/63",
                 "name": "Wand"
             },
             {
-                "url": "/api/equipment/65",
+                "url": "/api/equipment/64",
                 "name": "Backpack"
             },
             {
-                "url": "/api/equipment/66",
+                "url": "/api/equipment/65",
                 "name": "Ball bearings (bag of 1,000)"
             },
             {
-                "url": "/api/equipment/67",
+                "url": "/api/equipment/66",
                 "name": "Barrel"
             },
             {
-                "url": "/api/equipment/68",
+                "url": "/api/equipment/67",
                 "name": "Basket"
             },
             {
-                "url": "/api/equipment/69",
+                "url": "/api/equipment/68",
                 "name": "Bedroll"
             },
             {
-                "url": "/api/equipment/70",
+                "url": "/api/equipment/69",
                 "name": "Bell"
             },
             {
-                "url": "/api/equipment/71",
+                "url": "/api/equipment/70",
                 "name": "Blanket"
             },
             {
-                "url": "/api/equipment/72",
+                "url": "/api/equipment/71",
                 "name": "Block and tackle"
             },
             {
-                "url": "/api/equipment/73",
+                "url": "/api/equipment/72",
                 "name": "Book"
             },
             {
-                "url": "/api/equipment/74",
+                "url": "/api/equipment/73",
                 "name": "Bottle, glass"
             },
             {
-                "url": "/api/equipment/75",
+                "url": "/api/equipment/74",
                 "name": "Bucket"
             },
             {
-                "url": "/api/equipment/76",
+                "url": "/api/equipment/75",
                 "name": "Caltrops"
             },
             {
-                "url": "/api/equipment/77",
+                "url": "/api/equipment/76",
                 "name": "Candle"
             },
             {
-                "url": "/api/equipment/78",
+                "url": "/api/equipment/77",
                 "name": "Case, crossbow bolt"
             },
             {
-                "url": "/api/equipment/79",
+                "url": "/api/equipment/78",
                 "name": "Case, map or scroll"
             },
             {
-                "url": "/api/equipment/80",
+                "url": "/api/equipment/79",
                 "name": "Chain (10 feet)"
             },
             {
-                "url": "/api/equipment/81",
+                "url": "/api/equipment/80",
                 "name": "Chalk (1 piece)"
             },
             {
-                "url": "/api/equipment/82",
+                "url": "/api/equipment/81",
                 "name": "Chest"
             },
             {
-                "url": "/api/equipment/83",
+                "url": "/api/equipment/82",
                 "name": "Clothes, common"
             },
             {
-                "url": "/api/equipment/84",
+                "url": "/api/equipment/83",
                 "name": "Clothes, costume"
             },
             {
-                "url": "/api/equipment/85",
+                "url": "/api/equipment/84",
                 "name": "Clothes, fine"
             },
             {
-                "url": "/api/equipment/86",
+                "url": "/api/equipment/85",
                 "name": "Clothes, traveler's"
             },
             {
-                "url": "/api/equipment/87",
+                "url": "/api/equipment/86",
                 "name": "Component pouch"
             },
             {
-                "url": "/api/equipment/88",
+                "url": "/api/equipment/87",
                 "name": "Crowbar"
             },
             {
-                "url": "/api/equipment/89",
+                "url": "/api/equipment/88",
                 "name": "Sprig of mistletoe"
             },
             {
-                "url": "/api/equipment/90",
+                "url": "/api/equipment/89",
                 "name": "Totem"
             },
             {
-                "url": "/api/equipment/91",
+                "url": "/api/equipment/90",
                 "name": "Wooden staff"
             },
             {
-                "url": "/api/equipment/92",
+                "url": "/api/equipment/91",
                 "name": "Yew wand"
             },
             {
-                "url": "/api/equipment/93",
+                "url": "/api/equipment/92",
                 "name": "Emblem"
             },
             {
-                "url": "/api/equipment/94",
+                "url": "/api/equipment/93",
                 "name": "Fishing tackle"
             },
             {
-                "url": "/api/equipment/95",
+                "url": "/api/equipment/94",
                 "name": "Flask or tankard"
             },
             {
-                "url": "/api/equipment/96",
+                "url": "/api/equipment/95",
                 "name": "Grappling hook"
             },
             {
-                "url": "/api/equipment/97",
+                "url": "/api/equipment/96",
                 "name": "Hammer"
             },
             {
-                "url": "/api/equipment/98",
+                "url": "/api/equipment/97",
                 "name": "Hammer, sledge"
             },
             {
-                "url": "/api/equipment/99",
+                "url": "/api/equipment/98",
                 "name": "Holy water (flask)"
             },
             {
-                "url": "/api/equipment/100",
+                "url": "/api/equipment/99",
                 "name": "Hourglass"
             },
             {
-                "url": "/api/equipment/101",
+                "url": "/api/equipment/100",
                 "name": "Hunting trap"
             },
             {
-                "url": "/api/equipment/102",
+                "url": "/api/equipment/101",
                 "name": "Ink (1 ounce bottle)"
             },
             {
-                "url": "/api/equipment/103",
+                "url": "/api/equipment/102",
                 "name": "Ink pen"
             },
             {
-                "url": "/api/equipment/100",
+                "url": "/api/equipment/99",
                 "name": "Hourglass"
             },
             {
-                "url": "/api/equipment/101",
+                "url": "/api/equipment/100",
                 "name": "Hunting trap"
             },
             {
-                "url": "/api/equipment/102",
+                "url": "/api/equipment/101",
                 "name": "Ink (1 ounce bottle)"
             },
             {
-                "url": "/api/equipment/103",
+                "url": "/api/equipment/102",
                 "name": "Ink pen"
             },
             {
-                "url": "/api/equipment/104",
+                "url": "/api/equipment/103",
                 "name": "Jug or pitcher"
             },
             {
-                "url": "/api/equipment/112",
+                "url": "/api/equipment/111",
                 "name": "Ladder (10-foot)"
             },
             {
-                "url": "/api/equipment/113",
+                "url": "/api/equipment/112",
                 "name": "Lamp"
             },
             {
-                "url": "/api/equipment/114",
+                "url": "/api/equipment/113",
                 "name": "Lantern, bullseye"
             },
             {
-                "url": "/api/equipment/115",
+                "url": "/api/equipment/114",
                 "name": "Lantern, hooded"
             },
             {
-                "url": "/api/equipment/116",
+                "url": "/api/equipment/115",
                 "name": "Lock"
             },
             {
-                "url": "/api/equipment/117",
+                "url": "/api/equipment/116",
                 "name": "Magnifying glass"
             },
             {
-                "url": "/api/equipment/118",
+                "url": "/api/equipment/117",
                 "name": "Manacles"
             },
             {
-                "url": "/api/equipment/119",
+                "url": "/api/equipment/118",
                 "name": "Mirror, steel"
             },
             {
-                "url": "/api/equipment/120",
+                "url": "/api/equipment/119",
                 "name": "Oil (flask)"
             },
             {
-                "url": "/api/equipment/121",
+                "url": "/api/equipment/120",
                 "name": "Paper (one sheet)"
             },
             {
-                "url": "/api/equipment/122",
+                "url": "/api/equipment/121",
                 "name": "Parchment (one sheet)"
             },
             {
-                "url": "/api/equipment/123",
+                "url": "/api/equipment/122",
                 "name": "Perfume (vial)"
             },
             {
-                "url": "/api/equipment/124",
+                "url": "/api/equipment/123",
                 "name": "Pick, miner's"
             },
             {
-                "url": "/api/equipment/125",
+                "url": "/api/equipment/124",
                 "name": "Piton"
             },
             {
-                "url": "/api/equipment/126",
+                "url": "/api/equipment/125",
                 "name": "Poison, basic (vial)"
             },
             {
-                "url": "/api/equipment/127",
+                "url": "/api/equipment/126",
                 "name": "Pole (10-foot)"
             },
             {
-                "url": "/api/equipment/128",
+                "url": "/api/equipment/127",
                 "name": "Pot, iron"
             },
             {
-                "url": "/api/equipment/129",
+                "url": "/api/equipment/128",
                 "name": "Potion of healing"
             },
             {
-                "url": "/api/equipment/130",
+                "url": "/api/equipment/129",
                 "name": "Pouch"
             },
             {
-                "url": "/api/equipment/131",
+                "url": "/api/equipment/130",
                 "name": "Quiver"
             },
             {
-                "url": "/api/equipment/132",
+                "url": "/api/equipment/131",
                 "name": "Ram, portable"
             },
             {
-                "url": "/api/equipment/133",
+                "url": "/api/equipment/132",
                 "name": "Rations (1 day)"
             },
             {
-                "url": "/api/equipment/134",
+                "url": "/api/equipment/133",
                 "name": "Reliquary"
             },
             {
-                "url": "/api/equipment/135",
+                "url": "/api/equipment/134",
                 "name": "Robes"
             },
             {
-                "url": "/api/equipment/136",
+                "url": "/api/equipment/135",
                 "name": "Rope, hempen (50 feet)"
             },
             {
-                "url": "/api/equipment/137",
+                "url": "/api/equipment/136",
                 "name": "Rope, silk (50 feet)"
             },
             {
-                "url": "/api/equipment/138",
+                "url": "/api/equipment/137",
                 "name": "Sack"
             },
             {
-                "url": "/api/equipment/139",
+                "url": "/api/equipment/138",
                 "name": "Scale, merchant's"
             },
             {
-                "url": "/api/equipment/140",
+                "url": "/api/equipment/139",
                 "name": "Sealing wax"
             },
             {
-                "url": "/api/equipment/141",
+                "url": "/api/equipment/140",
                 "name": "Shovel"
             },
             {
-                "url": "/api/equipment/142",
+                "url": "/api/equipment/141",
                 "name": "Signal whistle"
             },
             {
-                "url": "/api/equipment/143",
+                "url": "/api/equipment/142",
                 "name": "Signet ring"
             },
             {
-                "url": "/api/equipment/144",
+                "url": "/api/equipment/143",
                 "name": "Soap"
             },
             {
-                "url": "/api/equipment/145",
+                "url": "/api/equipment/144",
                 "name": "Spellbook"
             },
             {
-                "url": "/api/equipment/146",
+                "url": "/api/equipment/145",
                 "name": "Spike, iron"
             },
             {
-                "url": "/api/equipment/147",
+                "url": "/api/equipment/146",
                 "name": "Spyglass"
             },
             {
-                "url": "/api/equipment/148",
+                "url": "/api/equipment/147",
                 "name": "Tent, two-person"
             },
             {
-                "url": "/api/equipment/149",
+                "url": "/api/equipment/148",
                 "name": "Tinderbox"
             },
             {
-                "url": "/api/equipment/150",
+                "url": "/api/equipment/149",
                 "name": "Torch"
             },
             {
-                "url": "/api/equipment/151",
+                "url": "/api/equipment/150",
                 "name": "Vial"
             },
             {
-                "url": "/api/equipment/152",
+                "url": "/api/equipment/151",
                 "name": "Waterskin"
             },
             {
-                "url": "/api/equipment/153",
+                "url": "/api/equipment/152",
                 "name": "Whetstone"
             }
         ],
         "entry_descriptor": {
-            "index": 16,
-            "url": "/api/equipment-categories/16",
+            "index": 15,
+            "url": "/api/equipment-categories/15",
             "name": "Standard Gear",
             "desc": []
         }
@@ -1926,37 +1926,37 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/105",
+                "url": "/api/equipment/104",
                 "name": "Climber's Kit"
             },
             {
-                "url": "/api/equipment/106",
+                "url": "/api/equipment/105",
                 "name": "Disguise Kit"
             },
             {
-                "url": "/api/equipment/107",
+                "url": "/api/equipment/106",
                 "name": "Forgery Kit"
             },
             {
-                "url": "/api/equipment/108",
+                "url": "/api/equipment/107",
                 "name": "Herbalism Kit"
             },
             {
-                "url": "/api/equipment/109",
+                "url": "/api/equipment/108",
                 "name": "Healer's Kit"
             },
             {
-                "url": "/api/equipment/110",
+                "url": "/api/equipment/109",
                 "name": "Mess Kit"
             },
             {
-                "url": "/api/equipment/111",
+                "url": "/api/equipment/110",
                 "name": "Poisoner's Kit"
             }
         ],
         "entry_descriptor": {
-            "index": 17,
-            "url": "/api/equipment-categories/17",
+            "index": 16,
+            "url": "/api/equipment-categories/16",
             "name": "Kits",
             "desc": []
         }
@@ -1964,37 +1964,37 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/154",
+                "url": "/api/equipment/153",
                 "name": "Burglar's Pack"
             },
             {
-                "url": "/api/equipment/155",
+                "url": "/api/equipment/154",
                 "name": "Diplomat's Pack"
             },
             {
-                "url": "/api/equipment/156",
+                "url": "/api/equipment/155",
                 "name": "Dungeoneer's Pack"
             },
             {
-                "url": "/api/equipment/157",
+                "url": "/api/equipment/156",
                 "name": "Entertainer's Pack"
             },
             {
-                "url": "/api/equipment/158",
+                "url": "/api/equipment/157",
                 "name": "Explorer's Pack"
             },
             {
-                "url": "/api/equipment/159",
+                "url": "/api/equipment/158",
                 "name": "Priest's Pack"
             },
             {
-                "url": "/api/equipment/160",
+                "url": "/api/equipment/159",
                 "name": "Scholar's Pack"
             }
         ],
         "entry_descriptor": {
-            "index": 18,
-            "url": "/api/equipment-categories/18",
+            "index": 17,
+            "url": "/api/equipment-categories/17",
             "name": "Equipment Packs",
             "desc": []
         }
@@ -2002,77 +2002,77 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/161",
+                "url": "/api/equipment/160",
                 "name": "Alchemist's supplies"
             },
             {
-                "url": "/api/equipment/162",
+                "url": "/api/equipment/161",
                 "name": "Brewer's supplies"
             },
             {
-                "url": "/api/equipment/163",
+                "url": "/api/equipment/162",
                 "name": "Calligrapher's supplies"
             },
             {
-                "url": "/api/equipment/164",
+                "url": "/api/equipment/163",
                 "name": "Carpenter's tools"
             },
             {
-                "url": "/api/equipment/165",
+                "url": "/api/equipment/164",
                 "name": "Cartographer's tools"
             },
             {
-                "url": "/api/equipment/166",
+                "url": "/api/equipment/165",
                 "name": "Cobbler's tools"
             },
             {
-                "url": "/api/equipment/167",
+                "url": "/api/equipment/166",
                 "name": "Cook's utensils"
             },
             {
-                "url": "/api/equipment/168",
+                "url": "/api/equipment/167",
                 "name": "Glassblower's tools"
             },
             {
-                "url": "/api/equipment/169",
+                "url": "/api/equipment/168",
                 "name": "Jeweler's tools"
             },
             {
-                "url": "/api/equipment/170",
+                "url": "/api/equipment/169",
                 "name": "Leatherworker's tools"
             },
             {
-                "url": "/api/equipment/171",
+                "url": "/api/equipment/170",
                 "name": "Mason's tools"
             },
             {
-                "url": "/api/equipment/172",
+                "url": "/api/equipment/171",
                 "name": "Painter's supplies"
             },
             {
-                "url": "/api/equipment/173",
+                "url": "/api/equipment/172",
                 "name": "Potter's tools"
             },
             {
-                "url": "/api/equipment/174",
+                "url": "/api/equipment/173",
                 "name": "Smith's tools"
             },
             {
-                "url": "/api/equipment/175",
+                "url": "/api/equipment/174",
                 "name": "Tinker's tools"
             },
             {
-                "url": "/api/equipment/176",
+                "url": "/api/equipment/175",
                 "name": "Weaver's tools"
             },
             {
-                "url": "/api/equipment/177",
+                "url": "/api/equipment/176",
                 "name": "Woodcarver's tools"
             }
         ],
         "entry_descriptor": {
-            "index": 19,
-            "url": "/api/equipment-categories/19",
+            "index": 18,
+            "url": "/api/equipment-categories/18",
             "name": "Artisan's Tools",
             "desc": []
         }
@@ -2080,17 +2080,17 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/178",
+                "url": "/api/equipment/177",
                 "name": "Dice set"
             },
             {
-                "url": "/api/equipment/179",
+                "url": "/api/equipment/178",
                 "name": "Playing card set"
             }
         ],
         "entry_descriptor": {
-            "index": 20,
-            "url": "/api/equipment-categories/20",
+            "index": 19,
+            "url": "/api/equipment-categories/19",
             "name": "Gaming Sets",
             "desc": []
         }
@@ -2098,49 +2098,49 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/180",
+                "url": "/api/equipment/179",
                 "name": "Bagpipes"
             },
             {
-                "url": "/api/equipment/181",
+                "url": "/api/equipment/180",
                 "name": "Drum"
             },
             {
-                "url": "/api/equipment/182",
+                "url": "/api/equipment/181",
                 "name": "Dulcimer"
             },
             {
-                "url": "/api/equipment/183",
+                "url": "/api/equipment/182",
                 "name": "Flute"
             },
             {
-                "url": "/api/equipment/184",
+                "url": "/api/equipment/183",
                 "name": "Lute"
             },
             {
-                "url": "/api/equipment/185",
+                "url": "/api/equipment/184",
                 "name": "Lyre"
             },
             {
-                "url": "/api/equipment/186",
+                "url": "/api/equipment/185",
                 "name": "Horn"
             },
             {
-                "url": "/api/equipment/187",
+                "url": "/api/equipment/186",
                 "name": "Pan flute"
             },
             {
-                "url": "/api/equipment/188",
+                "url": "/api/equipment/187",
                 "name": "Shawm"
             },
             {
-                "url": "/api/equipment/189",
+                "url": "/api/equipment/188",
                 "name": "Viol"
             }
         ],
         "entry_descriptor": {
-            "index": 21,
-            "url": "/api/equipment-categories/21",
+            "index": 20,
+            "url": "/api/equipment-categories/20",
             "name": "Musical Instruments",
             "desc": []
         }
@@ -2148,17 +2148,17 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/190",
+                "url": "/api/equipment/189",
                 "name": "Navigator's tools"
             },
             {
-                "url": "/api/equipment/191",
+                "url": "/api/equipment/190",
                 "name": "Thieves' tools"
             }
         ],
         "entry_descriptor": {
-            "index": 22,
-            "url": "/api/equipment-categories/22",
+            "index": 21,
+            "url": "/api/equipment-categories/21",
             "name": "Other Tools",
             "desc": []
         }
@@ -2166,37 +2166,37 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/194",
+                "url": "/api/equipment/193",
                 "name": "Mule"
             },
             {
-                "url": "/api/equipment/195",
+                "url": "/api/equipment/194",
                 "name": "Elephant"
             },
             {
-                "url": "/api/equipment/196",
+                "url": "/api/equipment/195",
                 "name": "Horse, draft"
             },
             {
-                "url": "/api/equipment/197",
+                "url": "/api/equipment/196",
                 "name": "Horse, riding"
             },
             {
-                "url": "/api/equipment/198",
+                "url": "/api/equipment/197",
                 "name": "Mastiff"
             },
             {
-                "url": "/api/equipment/199",
+                "url": "/api/equipment/198",
                 "name": "Pony"
             },
             {
-                "url": "/api/equipment/200",
+                "url": "/api/equipment/199",
                 "name": "Warhorse"
             }
         ],
         "entry_descriptor": {
-            "index": 23,
-            "url": "/api/equipment-categories/23",
+            "index": 22,
+            "url": "/api/equipment-categories/22",
             "name": "Mounts and Other Animals",
             "desc": []
         }
@@ -2204,109 +2204,109 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/201",
+                "url": "/api/equipment/200",
                 "name": "Barding: Padded"
             },
             {
-                "url": "/api/equipment/202",
+                "url": "/api/equipment/201",
                 "name": "Barding: Leather"
             },
             {
-                "url": "/api/equipment/203",
+                "url": "/api/equipment/202",
                 "name": "Barding: Studded Leather"
             },
             {
-                "url": "/api/equipment/204",
+                "url": "/api/equipment/203",
                 "name": "Barding: Hide"
             },
             {
-                "url": "/api/equipment/205",
+                "url": "/api/equipment/204",
                 "name": "Barding: Chain shirt"
             },
             {
-                "url": "/api/equipment/206",
+                "url": "/api/equipment/205",
                 "name": "Barding: Scale mail"
             },
             {
-                "url": "/api/equipment/207",
+                "url": "/api/equipment/206",
                 "name": "Barding: Breastplate"
             },
             {
-                "url": "/api/equipment/208",
+                "url": "/api/equipment/207",
                 "name": "Barding: Half plate"
             },
             {
-                "url": "/api/equipment/209",
+                "url": "/api/equipment/208",
                 "name": "Barding: Ring mail"
             },
             {
-                "url": "/api/equipment/210",
+                "url": "/api/equipment/209",
                 "name": "Barding: Chain mail"
             },
             {
-                "url": "/api/equipment/211",
+                "url": "/api/equipment/210",
                 "name": "Barding: Splint"
             },
             {
-                "url": "/api/equipment/212",
+                "url": "/api/equipment/211",
                 "name": "Barding: Plate"
             },
             {
-                "url": "/api/equipment/213",
+                "url": "/api/equipment/212",
                 "name": "Bit and bridle"
             },
             {
-                "url": "/api/equipment/214",
+                "url": "/api/equipment/213",
                 "name": "Carriage"
             },
             {
-                "url": "/api/equipment/215",
+                "url": "/api/equipment/214",
                 "name": "Cart"
             },
             {
-                "url": "/api/equipment/216",
+                "url": "/api/equipment/215",
                 "name": "Chariot"
             },
             {
-                "url": "/api/equipment/217",
+                "url": "/api/equipment/216",
                 "name": "Animal Feed (1 day)"
             },
             {
-                "url": "/api/equipment/218",
+                "url": "/api/equipment/217",
                 "name": "Saddle, Exotic"
             },
             {
-                "url": "/api/equipment/219",
+                "url": "/api/equipment/218",
                 "name": "Saddle, Military"
             },
             {
-                "url": "/api/equipment/220",
+                "url": "/api/equipment/219",
                 "name": "Saddle, Pack"
             },
             {
-                "url": "/api/equipment/221",
+                "url": "/api/equipment/220",
                 "name": "Riding"
             },
             {
-                "url": "/api/equipment/222",
+                "url": "/api/equipment/221",
                 "name": "Saddlebags"
             },
             {
-                "url": "/api/equipment/223",
+                "url": "/api/equipment/222",
                 "name": "Sled"
             },
             {
-                "url": "/api/equipment/224",
+                "url": "/api/equipment/223",
                 "name": "Stabling (1 day)"
             },
             {
-                "url": "/api/equipment/225",
+                "url": "/api/equipment/224",
                 "name": "Wagon"
             }
         ],
         "entry_descriptor": {
-            "index": 24,
-            "url": "/api/equipment-categories/24",
+            "index": 23,
+            "url": "/api/equipment-categories/23",
             "name": "Tack, Harness, and Drawn Vehicles",
             "desc": []
         }
@@ -2314,33 +2314,33 @@
     {
         "equipment": [
             {
-                "url": "/api/equipment/226",
+                "url": "/api/equipment/225",
                 "name": "Galley"
             },
             {
-                "url": "/api/equipment/227",
+                "url": "/api/equipment/226",
                 "name": "Keelboat"
             },
             {
-                "url": "/api/equipment/228",
+                "url": "/api/equipment/227",
                 "name": "Longship"
             },
             {
-                "url": "/api/equipment/229",
+                "url": "/api/equipment/228",
                 "name": "Rowboat"
             },
             {
-                "url": "/api/equipment/230",
+                "url": "/api/equipment/229",
                 "name": "Sailing ship"
             },
             {
-                "url": "/api/equipment/231",
+                "url": "/api/equipment/230",
                 "name": "Warship"
             }
         ],
         "entry_descriptor": {
-            "index": 25,
-            "url": "/api/equipment-categories/25",
+            "index": 24,
+            "url": "/api/equipment-categories/24",
             "name": "Waterborne Vehicles",
             "desc": []
         }

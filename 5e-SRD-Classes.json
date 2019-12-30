@@ -7,27 +7,27 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/106",
+                        "url": "/api/proficiencies/105",
                         "name": "Skill: Animal Handling"
                     },
                     {
-                        "url": "/api/proficiencies/108",
+                        "url": "/api/proficiencies/107",
                         "name": "Skill: Athletics"
                     },
                     {
-                        "url": "/api/proficiencies/112",
+                        "url": "/api/proficiencies/111",
                         "name": "Skill: Intimidation"
                     },
                     {
-                        "url": "/api/proficiencies/115",
+                        "url": "/api/proficiencies/114",
                         "name": "Skill: Nature"
                     },
                     {
-                        "url": "/api/proficiencies/116",
+                        "url": "/api/proficiencies/115",
                         "name": "Skill: Perception"
                     },
                     {
-                        "url": "/api/proficiencies/122",
+                        "url": "/api/proficiencies/121",
                         "name": "Skill: Survival"
                     }
                 ]
@@ -36,53 +36,53 @@
         "proficiencies": [
             {
                 "name": "Light armor",
-                "url": "/api/proficiencies/1"
+                "url": "/api/proficiencies/0"
             },
             {
                 "name": "Medium armor",
-                "url": "/api/proficiencies/2"
+                "url": "/api/proficiencies/1"
             },
             {
                 "name": "Shields",
-                "url": "/api/proficiencies/18"
+                "url": "/api/proficiencies/17"
             },
             {
                 "name": "Simple weapons",
-                "url": "/api/proficiencies/19"
+                "url": "/api/proficiencies/18"
             },
             {
                 "name": "Martial weapons",
-                "url": "/api/proficiencies/20"
+                "url": "/api/proficiencies/19"
             }
         ],
         "saving_throws": [
             {
                 "name": "STR",
-                "url": "/api/ability-scores/1"
+                "url": "/api/ability-scores/0"
             },
             {
                 "name": "CON",
-                "url": "/api/ability-scores/3"
+                "url": "/api/ability-scores/2"
             }
         ],
         "starting_equipment": {
-            "url": "/api/startingequipment/1",
+            "url": "/api/startingequipment/0",
             "name": "Barbarian"
         },
         "class_levels": {
-            "url": "/api/classes/1",
+            "url": "/api/classes/0",
             "name": "Barbarian"
         },
         "subclasses": [
             {
-                "url": "/api/subclasses/1",
+                "url": "/api/subclasses/0",
                 "name": "Berserker"
             }
         ],
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 1,
-            "url": "/api/classes/1",
+            "index": 0,
+            "url": "/api/classes/0",
             "name": "Barbarian",
             "desc": []
         }
@@ -95,75 +95,75 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/105",
+                        "url": "/api/proficiencies/104",
                         "name": "Skill: Acrobatics"
                     },
                     {
-                        "url": "/api/proficiencies/106",
+                        "url": "/api/proficiencies/105",
                         "name": "Skill: Animal Handling"
                     },
                     {
-                        "url": "/api/proficiencies/107",
+                        "url": "/api/proficiencies/106",
                         "name": "Skill: Arcana"
                     },
                     {
-                        "url": "/api/proficiencies/108",
+                        "url": "/api/proficiencies/107",
                         "name": "Skill: Athletics"
                     },
                     {
-                        "url": "/api/proficiencies/109",
+                        "url": "/api/proficiencies/108",
                         "name": "Skill: Deception"
                     },
                     {
-                        "url": "/api/proficiencies/110",
+                        "url": "/api/proficiencies/109",
                         "name": "Skill: History"
                     },
                     {
-                        "url": "/api/proficiencies/111",
+                        "url": "/api/proficiencies/110",
                         "name": "Skill: Insight"
                     },
                     {
-                        "url": "/api/proficiencies/112",
+                        "url": "/api/proficiencies/111",
                         "name": "Skill: Intimidation"
                     },
                     {
-                        "url": "/api/proficiencies/113",
+                        "url": "/api/proficiencies/112",
                         "name": "Skill: Investigation"
                     },
                     {
-                        "url": "/api/proficiencies/114",
+                        "url": "/api/proficiencies/113",
                         "name": "Skill: Medicine"
                     },
                     {
-                        "url": "/api/proficiencies/115",
+                        "url": "/api/proficiencies/114",
                         "name": "Skill: Nature"
                     },
                     {
-                        "url": "/api/proficiencies/116",
+                        "url": "/api/proficiencies/115",
                         "name": "Skill: Perception"
                     },
                     {
-                        "url": "/api/proficiencies/117",
+                        "url": "/api/proficiencies/116",
                         "name": "Skill: Performance"
                     },
                     {
-                        "url": "/api/proficiencies/118",
+                        "url": "/api/proficiencies/117",
                         "name": "Skill: Persuasion"
                     },
                     {
-                        "url": "/api/proficiencies/119",
+                        "url": "/api/proficiencies/118",
                         "name": "Skill: Religion"
                     },
                     {
-                        "url": "/api/proficiencies/120",
+                        "url": "/api/proficiencies/119",
                         "name": "Skill: Sleight of Hand"
                     },
                     {
-                        "url": "/api/proficiencies/121",
+                        "url": "/api/proficiencies/120",
                         "name": "Skill: Stealth"
                     },
                     {
-                        "url": "/api/proficiencies/122",
+                        "url": "/api/proficiencies/121",
                         "name": "Skill: Survival"
                     }
                 ]
@@ -173,43 +173,43 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/81",
+                        "url": "/api/proficiencies/80",
                         "name": "Bagpipes"
                     },
                     {
-                        "url": "/api/proficiencies/82",
+                        "url": "/api/proficiencies/81",
                         "name": "Drum"
                     },
                     {
-                        "url": "/api/proficiencies/83",
+                        "url": "/api/proficiencies/82",
                         "name": "Dulcimer"
                     },
                     {
-                        "url": "/api/proficiencies/84",
+                        "url": "/api/proficiencies/83",
                         "name": "Flute"
                     },
                     {
-                        "url": "/api/proficiencies/85",
+                        "url": "/api/proficiencies/84",
                         "name": "Lute"
                     },
                     {
-                        "url": "/api/proficiencies/86",
+                        "url": "/api/proficiencies/85",
                         "name": "Lyre"
                     },
                     {
-                        "url": "/api/proficiencies/87",
+                        "url": "/api/proficiencies/86",
                         "name": "Horn"
                     },
                     {
-                        "url": "/api/proficiencies/88",
+                        "url": "/api/proficiencies/87",
                         "name": "Pan flute"
                     },
                     {
-                        "url": "/api/proficiencies/89",
+                        "url": "/api/proficiencies/88",
                         "name": "Shawm"
                     },
                     {
-                        "url": "/api/proficiencies/90",
+                        "url": "/api/proficiencies/89",
                         "name": "Viol"
                     }
                 ]
@@ -218,60 +218,60 @@
         "proficiencies": [
             {
                 "name": "Light armor",
-                "url": "/api/proficiencies/1"
+                "url": "/api/proficiencies/0"
             },
             {
                 "name": "Simple weapons",
-                "url": "/api/proficiencies/19"
+                "url": "/api/proficiencies/18"
             },
             {
                 "name": "Longswords",
-                "url": "/api/proficiencies/42"
+                "url": "/api/proficiencies/41"
             },
             {
                 "name": "Rapiers",
-                "url": "/api/proficiencies/46"
+                "url": "/api/proficiencies/45"
             },
             {
                 "name": "Shortswords",
-                "url": "/api/proficiencies/48"
+                "url": "/api/proficiencies/47"
             },
             {
                 "name": "Crossbows, hand",
-                "url": "/api/proficiencies/54"
+                "url": "/api/proficiencies/53"
             }
         ],
         "saving_throws": [
             {
                 "name": "DEX",
-                "url": "/api/ability-scores/2"
+                "url": "/api/ability-scores/1"
             },
             {
                 "name": "CHA",
-                "url": "/api/ability-scores/6"
+                "url": "/api/ability-scores/5"
             }
         ],
         "starting_equipment": {
-            "url": "/api/startingequipment/2",
+            "url": "/api/startingequipment/1",
             "name": "Bard"
         },
         "class_levels": {
-            "url": "/api/classes/2",
+            "url": "/api/classes/1",
             "name": "Bard"
         },
         "subclasses": [
             {
-                "url": "/api/subclasses/2",
+                "url": "/api/subclasses/1",
                 "name": "Lore"
             }
         ],
         "spellcasting": {
-            "url": "/api/spellcasting/1",
+            "url": "/api/spellcasting/0",
             "name": "Bard"
         },
         "entry_descriptor": {
-            "index": 2,
-            "url": "/api/classes/2",
+            "index": 1,
+            "url": "/api/classes/1",
             "name": "Bard",
             "desc": []
         }
@@ -284,23 +284,23 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/110",
+                        "url": "/api/proficiencies/109",
                         "name": "Skill: History"
                     },
                     {
-                        "url": "/api/proficiencies/111",
+                        "url": "/api/proficiencies/110",
                         "name": "Skill: Insight"
                     },
                     {
-                        "url": "/api/proficiencies/114",
+                        "url": "/api/proficiencies/113",
                         "name": "Skill: Medicine"
                     },
                     {
-                        "url": "/api/proficiencies/118",
+                        "url": "/api/proficiencies/117",
                         "name": "Skill: Persuasion"
                     },
                     {
-                        "url": "/api/proficiencies/119",
+                        "url": "/api/proficiencies/118",
                         "name": "Skill: Religion"
                     }
                 ]
@@ -309,52 +309,52 @@
         "proficiencies": [
             {
                 "name": "Light armor",
-                "url": "/api/proficiencies/1"
+                "url": "/api/proficiencies/0"
             },
             {
                 "name": "Medium armor",
-                "url": "/api/proficiencies/2"
+                "url": "/api/proficiencies/1"
             },
             {
                 "name": "Shields",
-                "url": "/api/proficiencies/18"
+                "url": "/api/proficiencies/17"
             },
             {
                 "name": "Simple weapons",
-                "url": "/api/proficiencies/19"
+                "url": "/api/proficiencies/18"
             }
         ],
         "saving_throws": [
             {
                 "name": "WIS",
-                "url": "/api/ability-scores/5"
+                "url": "/api/ability-scores/4"
             },
             {
                 "name": "CHA",
-                "url": "/api/ability-scores/6"
+                "url": "/api/ability-scores/5"
             }
         ],
         "starting_equipment": {
-            "url": "/api/startingequipment/3",
+            "url": "/api/startingequipment/2",
             "name": "Cleric"
         },
         "class_levels": {
-            "url": "/api/classes/3",
+            "url": "/api/classes/2",
             "name": "Cleric"
         },
         "subclasses": [
             {
-                "url": "/api/subclasses/3",
+                "url": "/api/subclasses/2",
                 "name": "Life"
             }
         ],
         "spellcasting": {
-            "url": "/api/spellcasting/2",
+            "url": "/api/spellcasting/1",
             "name": "Cleric"
         },
         "entry_descriptor": {
-            "index": 3,
-            "url": "/api/classes/3",
+            "index": 2,
+            "url": "/api/classes/2",
             "name": "Cleric",
             "desc": []
         }
@@ -367,35 +367,35 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/106",
+                        "url": "/api/proficiencies/105",
                         "name": "Skill: Animal Handling"
                     },
                     {
-                        "url": "/api/proficiencies/107",
+                        "url": "/api/proficiencies/106",
                         "name": "Skill: Arcana"
                     },
                     {
-                        "url": "/api/proficiencies/111",
+                        "url": "/api/proficiencies/110",
                         "name": "Skill: Insight"
                     },
                     {
-                        "url": "/api/proficiencies/114",
+                        "url": "/api/proficiencies/113",
                         "name": "Skill: Medicine"
                     },
                     {
-                        "url": "/api/proficiencies/115",
+                        "url": "/api/proficiencies/114",
                         "name": "Skill: Nature"
                     },
                     {
-                        "url": "/api/proficiencies/116",
+                        "url": "/api/proficiencies/115",
                         "name": "Skill: Perception"
                     },
                     {
-                        "url": "/api/proficiencies/119",
+                        "url": "/api/proficiencies/118",
                         "name": "Skill: Religion"
                     },
                     {
-                        "url": "/api/proficiencies/122",
+                        "url": "/api/proficiencies/121",
                         "name": "Skill: Survival"
                     }
                 ]
@@ -404,92 +404,92 @@
         "proficiencies": [
             {
                 "name": "Light armor",
-                "url": "/api/proficiencies/1"
+                "url": "/api/proficiencies/0"
             },
             {
                 "name": "Medium armor",
-                "url": "/api/proficiencies/2"
+                "url": "/api/proficiencies/1"
             },
             {
                 "name": "Shields",
-                "url": "/api/proficiencies/18"
+                "url": "/api/proficiencies/17"
             },
             {
                 "name": "Clubs",
-                "url": "/api/proficiencies/21"
+                "url": "/api/proficiencies/20"
             },
             {
                 "name": "Daggers",
-                "url": "/api/proficiencies/22"
+                "url": "/api/proficiencies/21"
             },
             {
                 "name": "Javelins",
-                "url": "/api/proficiencies/25"
+                "url": "/api/proficiencies/24"
             },
             {
                 "name": "Maces",
-                "url": "/api/proficiencies/27"
+                "url": "/api/proficiencies/26"
             },
             {
                 "name": "Quarterstaffs",
-                "url": "/api/proficiencies/28"
+                "url": "/api/proficiencies/27"
             },
             {
                 "name": "Sickles",
-                "url": "/api/proficiencies/29"
+                "url": "/api/proficiencies/28"
             },
             {
                 "name": "Spears",
-                "url": "/api/proficiencies/30"
+                "url": "/api/proficiencies/29"
             },
             {
                 "name": "Darts",
-                "url": "/api/proficiencies/32"
+                "url": "/api/proficiencies/31"
             },
             {
                 "name": "Slings",
-                "url": "/api/proficiencies/34"
+                "url": "/api/proficiencies/33"
             },
             {
                 "name": "Scimitars",
-                "url": "/api/proficiencies/47"
+                "url": "/api/proficiencies/46"
             },
             {
                 "name": "Herbalism Kit",
-                "url": "/api/proficiencies/93"
+                "url": "/api/proficiencies/92"
             }
         ],
         "saving_throws": [
             {
                 "name": "INT",
-                "url": "/api/ability-scores/4"
+                "url": "/api/ability-scores/3"
             },
             {
                 "name": "WIS",
-                "url": "/api/ability-scores/5"
+                "url": "/api/ability-scores/4"
             }
         ],
         "starting_equipment": {
-            "url": "/api/startingequipment/4",
+            "url": "/api/startingequipment/3",
             "name": "Druid"
         },
         "class_levels": {
-            "url": "/api/classes/4",
+            "url": "/api/classes/3",
             "name": "Druid"
         },
         "subclasses": [
             {
-                "url": "/api/subclasses/4",
+                "url": "/api/subclasses/3",
                 "name": "Land"
             }
         ],
         "spellcasting": {
-            "url": "/api/spellcasting/3",
+            "url": "/api/spellcasting/2",
             "name": "Druid"
         },
         "entry_descriptor": {
-            "index": 4,
-            "url": "/api/classes/4",
+            "index": 3,
+            "url": "/api/classes/3",
             "name": "Druid",
             "desc": []
         }
@@ -502,35 +502,35 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/105",
+                        "url": "/api/proficiencies/104",
                         "name": "Skill: Acrobatics"
                     },
                     {
-                        "url": "/api/proficiencies/106",
+                        "url": "/api/proficiencies/105",
                         "name": "Skill: Animal Handling"
                     },
                     {
-                        "url": "/api/proficiencies/108",
+                        "url": "/api/proficiencies/107",
                         "name": "Skill: Athletics"
                     },
                     {
-                        "url": "/api/proficiencies/110",
+                        "url": "/api/proficiencies/109",
                         "name": "Skill: History"
                     },
                     {
-                        "url": "/api/proficiencies/111",
+                        "url": "/api/proficiencies/110",
                         "name": "Skill: Insight"
                     },
                     {
-                        "url": "/api/proficiencies/112",
+                        "url": "/api/proficiencies/111",
                         "name": "Skill: Intimidation"
                     },
                     {
-                        "url": "/api/proficiencies/116",
+                        "url": "/api/proficiencies/115",
                         "name": "Skill: Perception"
                     },
                     {
-                        "url": "/api/proficiencies/122",
+                        "url": "/api/proficiencies/121",
                         "name": "Skill: Survival"
                     }
                 ]
@@ -539,49 +539,49 @@
         "proficiencies": [
             {
                 "name": "All armor",
-                "url": "/api/proficiencies/4"
+                "url": "/api/proficiencies/3"
             },
             {
                 "name": "Shields",
-                "url": "/api/proficiencies/18"
+                "url": "/api/proficiencies/17"
             },
             {
                 "name": "Simple weapons",
-                "url": "/api/proficiencies/19"
+                "url": "/api/proficiencies/18"
             },
             {
                 "name": "Martial weapons",
-                "url": "/api/proficiencies/20"
+                "url": "/api/proficiencies/19"
             }
         ],
         "saving_throws": [
             {
                 "name": "STR",
-                "url": "/api/ability-scores/1"
+                "url": "/api/ability-scores/0"
             },
             {
                 "name": "CON",
-                "url": "/api/ability-scores/3"
+                "url": "/api/ability-scores/2"
             }
         ],
         "starting_equipment": {
-            "url": "/api/startingequipment/5",
+            "url": "/api/startingequipment/4",
             "name": "Fighter"
         },
         "class_levels": {
-            "url": "/api/classes/5",
+            "url": "/api/classes/4",
             "name": "Fighter"
         },
         "subclasses": [
             {
-                "url": "/api/subclasses/5",
+                "url": "/api/subclasses/4",
                 "name": "Champion"
             }
         ],
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 5,
-            "url": "/api/classes/5",
+            "index": 4,
+            "url": "/api/classes/4",
             "name": "Fighter",
             "desc": []
         }
@@ -594,79 +594,79 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/58",
+                        "url": "/api/proficiencies/57",
                         "name": "Alchemist's supplies"
                     },
                     {
-                        "url": "/api/proficiencies/59",
+                        "url": "/api/proficiencies/58",
                         "name": "Brewer's supplies"
                     },
                     {
-                        "url": "/api/proficiencies/60",
+                        "url": "/api/proficiencies/59",
                         "name": "Calligrapher's supplies"
                     },
                     {
-                        "url": "/api/proficiencies/61",
+                        "url": "/api/proficiencies/60",
                         "name": "Carpenter's tools"
                     },
                     {
-                        "url": "/api/proficiencies/62",
+                        "url": "/api/proficiencies/61",
                         "name": "Cartographer's tools"
                     },
                     {
-                        "url": "/api/proficiencies/63",
+                        "url": "/api/proficiencies/62",
                         "name": "Cobbler's tools"
                     },
                     {
-                        "url": "/api/proficiencies/64",
+                        "url": "/api/proficiencies/63",
                         "name": "Cook's utensils"
                     },
                     {
-                        "url": "/api/proficiencies/65",
+                        "url": "/api/proficiencies/64",
                         "name": "Glassblower's tools"
                     },
                     {
-                        "url": "/api/proficiencies/66",
+                        "url": "/api/proficiencies/65",
                         "name": "Jeweler's tools"
                     },
                     {
-                        "url": "/api/proficiencies/67",
+                        "url": "/api/proficiencies/66",
                         "name": "Leatherworker's tools"
                     },
                     {
-                        "url": "/api/proficiencies/68",
+                        "url": "/api/proficiencies/67",
                         "name": "Mason's tools"
                     },
                     {
-                        "url": "/api/proficiencies/69",
+                        "url": "/api/proficiencies/68",
                         "name": "Painter's supplies"
                     },
                     {
-                        "url": "/api/proficiencies/70",
+                        "url": "/api/proficiencies/69",
                         "name": "Potter's tools"
                     },
                     {
-                        "url": "/api/proficiencies/71",
+                        "url": "/api/proficiencies/70",
                         "name": "Smith's tools"
                     },
                     {
-                        "url": "/api/proficiencies/72",
+                        "url": "/api/proficiencies/71",
                         "name": "Tinker's tools"
                     },
                     {
-                        "url": "/api/proficiencies/73",
+                        "url": "/api/proficiencies/72",
                         "name": "Weaver's tools"
                     },
                     {
-                        "url": "/api/proficiencies/74",
+                        "url": "/api/proficiencies/73",
                         "name": "Woodcarver's tools"
                     },
                     {
-                        "url": "/api/proficiencies/75",
+                        "url": "/api/proficiencies/74",
                         "name": "Disguise kit"
                     },
                     {
-                        "url": "/api/proficiencies/76",
+                        "url": "/api/proficiencies/75",
                         "name": "Forgery kit"
                     }
                 ]
@@ -676,43 +676,43 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/81",
+                        "url": "/api/proficiencies/80",
                         "name": "Bagpipes"
                     },
                     {
-                        "url": "/api/proficiencies/82",
+                        "url": "/api/proficiencies/81",
                         "name": "Drum"
                     },
                     {
-                        "url": "/api/proficiencies/83",
+                        "url": "/api/proficiencies/82",
                         "name": "Dulcimer"
                     },
                     {
-                        "url": "/api/proficiencies/84",
+                        "url": "/api/proficiencies/83",
                         "name": "Flute"
                     },
                     {
-                        "url": "/api/proficiencies/85",
+                        "url": "/api/proficiencies/84",
                         "name": "Lute"
                     },
                     {
-                        "url": "/api/proficiencies/86",
+                        "url": "/api/proficiencies/85",
                         "name": "Lyre"
                     },
                     {
-                        "url": "/api/proficiencies/87",
+                        "url": "/api/proficiencies/86",
                         "name": "Horn"
                     },
                     {
-                        "url": "/api/proficiencies/88",
+                        "url": "/api/proficiencies/87",
                         "name": "Pan flute"
                     },
                     {
-                        "url": "/api/proficiencies/89",
+                        "url": "/api/proficiencies/88",
                         "name": "Shawm"
                     },
                     {
-                        "url": "/api/proficiencies/90",
+                        "url": "/api/proficiencies/89",
                         "name": "Viol"
                     }
                 ]
@@ -722,27 +722,27 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/105",
+                        "url": "/api/proficiencies/104",
                         "name": "Skill: Acrobatics"
                     },
                     {
-                        "url": "/api/proficiencies/108",
+                        "url": "/api/proficiencies/107",
                         "name": "Skill: Athletics"
                     },
                     {
-                        "url": "/api/proficiencies/110",
+                        "url": "/api/proficiencies/109",
                         "name": "Skill: History"
                     },
                     {
-                        "url": "/api/proficiencies/111",
+                        "url": "/api/proficiencies/110",
                         "name": "Skill: Insight"
                     },
                     {
-                        "url": "/api/proficiencies/119",
+                        "url": "/api/proficiencies/118",
                         "name": "Skill: Religion"
                     },
                     {
-                        "url": "/api/proficiencies/121",
+                        "url": "/api/proficiencies/120",
                         "name": "Skill: Stealth"
                     }
                 ]
@@ -751,41 +751,41 @@
         "proficiencies": [
             {
                 "name": "Simple weapons",
-                "url": "/api/proficiencies/19"
+                "url": "/api/proficiencies/18"
             },
             {
                 "name": "Shortswords",
-                "url": "/api/proficiencies/48"
+                "url": "/api/proficiencies/47"
             }
         ],
         "saving_throws": [
             {
                 "name": "STR",
-                "url": "/api/ability-scores/1"
+                "url": "/api/ability-scores/0"
             },
             {
                 "name": "DEX",
-                "url": "/api/ability-scores/2"
+                "url": "/api/ability-scores/1"
             }
         ],
         "starting_equipment": {
-            "url": "/api/startingequipment/6",
+            "url": "/api/startingequipment/5",
             "name": "Monk"
         },
         "class_levels": {
-            "url": "/api/classes/6",
+            "url": "/api/classes/5",
             "name": "Monk"
         },
         "subclasses": [
             {
-                "url": "/api/subclasses/6",
+                "url": "/api/subclasses/5",
                 "name": "Open Hand"
             }
         ],
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 6,
-            "url": "/api/classes/6",
+            "index": 5,
+            "url": "/api/classes/5",
             "name": "Monk",
             "desc": []
         }
@@ -798,27 +798,27 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/108",
+                        "url": "/api/proficiencies/107",
                         "name": "Skill: Athletics"
                     },
                     {
-                        "url": "/api/proficiencies/111",
+                        "url": "/api/proficiencies/110",
                         "name": "Skill: Insight"
                     },
                     {
-                        "url": "/api/proficiencies/112",
+                        "url": "/api/proficiencies/111",
                         "name": "Skill: Intimidation"
                     },
                     {
-                        "url": "/api/proficiencies/114",
+                        "url": "/api/proficiencies/113",
                         "name": "Skill: Medicine"
                     },
                     {
-                        "url": "/api/proficiencies/118",
+                        "url": "/api/proficiencies/117",
                         "name": "Skill: Persuasion"
                     },
                     {
-                        "url": "/api/proficiencies/119",
+                        "url": "/api/proficiencies/118",
                         "name": "Skill: Religion"
                     }
                 ]
@@ -827,52 +827,52 @@
         "proficiencies": [
             {
                 "name": "All armor",
-                "url": "/api/proficiencies/4"
+                "url": "/api/proficiencies/3"
             },
             {
                 "name": "Shields",
-                "url": "/api/proficiencies/18"
+                "url": "/api/proficiencies/17"
             },
             {
                 "name": "Simple weapons",
-                "url": "/api/proficiencies/19"
+                "url": "/api/proficiencies/18"
             },
             {
                 "name": "Martial weapons",
-                "url": "/api/proficiencies/20"
+                "url": "/api/proficiencies/19"
             }
         ],
         "saving_throws": [
             {
                 "name": "WIS",
-                "url": "/api/ability-scores/5"
+                "url": "/api/ability-scores/4"
             },
             {
                 "name": "CHA",
-                "url": "/api/ability-scores/6"
+                "url": "/api/ability-scores/5"
             }
         ],
         "starting_equipment": {
-            "url": "/api/startingequipment/7",
+            "url": "/api/startingequipment/6",
             "name": "Paladin"
         },
         "class_levels": {
-            "url": "/api/classes/7",
+            "url": "/api/classes/6",
             "name": "Paladin"
         },
         "subclasses": [
             {
-                "url": "/api/subclasses/7",
+                "url": "/api/subclasses/6",
                 "name": "Devotion"
             }
         ],
         "spellcasting": {
-            "url": "/api/spellcasting/4",
+            "url": "/api/spellcasting/3",
             "name": "Paladin"
         },
         "entry_descriptor": {
-            "index": 7,
-            "url": "/api/classes/7",
+            "index": 6,
+            "url": "/api/classes/6",
             "name": "Paladin",
             "desc": []
         }
@@ -885,35 +885,35 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/106",
+                        "url": "/api/proficiencies/105",
                         "name": "Skill: Animal Handling"
                     },
                     {
-                        "url": "/api/proficiencies/108",
+                        "url": "/api/proficiencies/107",
                         "name": "Skill: Athletics"
                     },
                     {
-                        "url": "/api/proficiencies/111",
+                        "url": "/api/proficiencies/110",
                         "name": "Skill: Insight"
                     },
                     {
-                        "url": "/api/proficiencies/113",
+                        "url": "/api/proficiencies/112",
                         "name": "Skill: Investigation"
                     },
                     {
-                        "url": "/api/proficiencies/115",
+                        "url": "/api/proficiencies/114",
                         "name": "Skill: Nature"
                     },
                     {
-                        "url": "/api/proficiencies/116",
+                        "url": "/api/proficiencies/115",
                         "name": "Skill: Perception"
                     },
                     {
-                        "url": "/api/proficiencies/121",
+                        "url": "/api/proficiencies/120",
                         "name": "Skill: Stealth"
                     },
                     {
-                        "url": "/api/proficiencies/122",
+                        "url": "/api/proficiencies/121",
                         "name": "Skill: Survival"
                     }
                 ]
@@ -922,56 +922,56 @@
         "proficiencies": [
             {
                 "name": "Light armor",
-                "url": "/api/proficiencies/1"
+                "url": "/api/proficiencies/0"
             },
             {
                 "name": "Medium armor",
-                "url": "/api/proficiencies/2"
+                "url": "/api/proficiencies/1"
             },
             {
                 "name": "Shields",
-                "url": "/api/proficiencies/18"
+                "url": "/api/proficiencies/17"
             },
             {
                 "name": "Simple weapons",
-                "url": "/api/proficiencies/19"
+                "url": "/api/proficiencies/18"
             },
             {
                 "name": "Martial weapons",
-                "url": "/api/proficiencies/20"
+                "url": "/api/proficiencies/19"
             }
         ],
         "saving_throws": [
             {
                 "name": "STR",
-                "url": "/api/ability-scores/1"
+                "url": "/api/ability-scores/0"
             },
             {
                 "name": "DEX",
-                "url": "/api/ability-scores/2"
+                "url": "/api/ability-scores/1"
             }
         ],
         "starting_equipment": {
-            "url": "/api/startingequipment/8",
+            "url": "/api/startingequipment/7",
             "name": "Ranger"
         },
         "class_levels": {
-            "url": "/api/classes/8",
+            "url": "/api/classes/7",
             "name": "Ranger"
         },
         "subclasses": [
             {
-                "url": "/api/subclasses/8",
+                "url": "/api/subclasses/7",
                 "name": "Hunter"
             }
         ],
         "spellcasting": {
-            "url": "/api/spellcasting/5",
+            "url": "/api/spellcasting/4",
             "name": "Ranger"
         },
         "entry_descriptor": {
-            "index": 8,
-            "url": "/api/classes/8",
+            "index": 7,
+            "url": "/api/classes/7",
             "name": "Ranger",
             "desc": []
         }
@@ -984,47 +984,47 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/105",
+                        "url": "/api/proficiencies/104",
                         "name": "Skill: Acrobatics"
                     },
                     {
-                        "url": "/api/proficiencies/108",
+                        "url": "/api/proficiencies/107",
                         "name": "Skill: Athletics"
                     },
                     {
-                        "url": "/api/proficiencies/109",
+                        "url": "/api/proficiencies/108",
                         "name": "Skill: Deception"
                     },
                     {
-                        "url": "/api/proficiencies/111",
+                        "url": "/api/proficiencies/110",
                         "name": "Skill: Insight"
                     },
                     {
-                        "url": "/api/proficiencies/112",
+                        "url": "/api/proficiencies/111",
                         "name": "Skill: Intimidation"
                     },
                     {
-                        "url": "/api/proficiencies/113",
+                        "url": "/api/proficiencies/112",
                         "name": "Skill: Investigation"
                     },
                     {
-                        "url": "/api/proficiencies/116",
+                        "url": "/api/proficiencies/115",
                         "name": "Skill: Perception"
                     },
                     {
-                        "url": "/api/proficiencies/117",
+                        "url": "/api/proficiencies/116",
                         "name": "Skill: Performance"
                     },
                     {
-                        "url": "/api/proficiencies/118",
+                        "url": "/api/proficiencies/117",
                         "name": "Skill: Persuasion"
                     },
                     {
-                        "url": "/api/proficiencies/120",
+                        "url": "/api/proficiencies/119",
                         "name": "Skill: Sleight of Hand"
                     },
                     {
-                        "url": "/api/proficiencies/121",
+                        "url": "/api/proficiencies/120",
                         "name": "Skill: Stealth"
                     }
                 ]
@@ -1033,61 +1033,61 @@
         "proficiencies": [
             {
                 "name": "Light armor",
-                "url": "/api/proficiencies/1"
+                "url": "/api/proficiencies/0"
             },
             {
                 "name": "Simple weapons",
-                "url": "/api/proficiencies/19"
+                "url": "/api/proficiencies/18"
             },
             {
                 "name": "Longswords",
-                "url": "/api/proficiencies/42"
+                "url": "/api/proficiencies/41"
             },
             {
                 "name": "Rapiers",
-                "url": "/api/proficiencies/46"
+                "url": "/api/proficiencies/45"
             },
             {
                 "name": "Shortswords",
-                "url": "/api/proficiencies/48"
+                "url": "/api/proficiencies/47"
             },
             {
                 "name": "Crossbows, hand",
-                "url": "/api/proficiencies/54"
+                "url": "/api/proficiencies/53"
             },
             {
                 "name": "Thieves' Tools",
-                "url": "/api/proficiencies/96"
+                "url": "/api/proficiencies/95"
             }
         ],
         "saving_throws": [
             {
                 "name": "DEX",
-                "url": "/api/ability-scores/2"
+                "url": "/api/ability-scores/1"
             },
             {
                 "name": "INT",
-                "url": "/api/ability-scores/4"
+                "url": "/api/ability-scores/3"
             }
         ],
         "starting_equipment": {
-            "url": "/api/startingequipment/9",
+            "url": "/api/startingequipment/8",
             "name": "Rogue"
         },
         "class_levels": {
-            "url": "/api/classes/9",
+            "url": "/api/classes/8",
             "name": "Rogue"
         },
         "subclasses": [
             {
-                "url": "/api/subclasses/9",
+                "url": "/api/subclasses/8",
                 "name": "Thief"
             }
         ],
         "spellcasting": null,
         "entry_descriptor": {
-            "index": 9,
-            "url": "/api/classes/9",
+            "index": 8,
+            "url": "/api/classes/8",
             "name": "Rogue",
             "desc": []
         }
@@ -1100,27 +1100,27 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/107",
+                        "url": "/api/proficiencies/106",
                         "name": "Skill: Arcana"
                     },
                     {
-                        "url": "/api/proficiencies/109",
+                        "url": "/api/proficiencies/108",
                         "name": "Skill: Deception"
                     },
                     {
-                        "url": "/api/proficiencies/111",
+                        "url": "/api/proficiencies/110",
                         "name": "Skill: Insight"
                     },
                     {
-                        "url": "/api/proficiencies/112",
+                        "url": "/api/proficiencies/111",
                         "name": "Skill: Intimidation"
                     },
                     {
-                        "url": "/api/proficiencies/118",
+                        "url": "/api/proficiencies/117",
                         "name": "Skill: Persuasion"
                     },
                     {
-                        "url": "/api/proficiencies/119",
+                        "url": "/api/proficiencies/118",
                         "name": "Skill: Religion"
                     }
                 ]
@@ -1129,52 +1129,52 @@
         "proficiencies": [
             {
                 "name": "Daggers",
-                "url": "/api/proficiencies/22"
+                "url": "/api/proficiencies/21"
             },
             {
                 "name": "Quarterstaffs",
-                "url": "/api/proficiencies/28"
+                "url": "/api/proficiencies/27"
             },
             {
                 "name": "Darts",
-                "url": "/api/proficiencies/32"
+                "url": "/api/proficiencies/31"
             },
             {
                 "name": "Slings",
-                "url": "/api/proficiencies/34"
+                "url": "/api/proficiencies/33"
             }
         ],
         "saving_throws": [
             {
                 "name": "CON",
-                "url": "/api/ability-scores/3"
+                "url": "/api/ability-scores/2"
             },
             {
                 "name": "CHA",
-                "url": "/api/ability-scores/6"
+                "url": "/api/ability-scores/5"
             }
         ],
         "starting_equipment": {
-            "url": "/api/startingequipment/10",
+            "url": "/api/startingequipment/9",
             "name": "Sorcerer"
         },
         "class_levels": {
-            "url": "/api/classes/10",
+            "url": "/api/classes/9",
             "name": "Sorcerer"
         },
         "subclasses": [
             {
-                "url": "/api/subclasses/10",
+                "url": "/api/subclasses/9",
                 "name": "Draconic"
             }
         ],
         "spellcasting": {
-            "url": "/api/spellcasting/6",
+            "url": "/api/spellcasting/5",
             "name": "Sorcerer"
         },
         "entry_descriptor": {
-            "index": 10,
-            "url": "/api/classes/10",
+            "index": 9,
+            "url": "/api/classes/9",
             "name": "Sorcerer",
             "desc": []
         }
@@ -1187,31 +1187,31 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/107",
+                        "url": "/api/proficiencies/106",
                         "name": "Skill: Arcana"
                     },
                     {
-                        "url": "/api/proficiencies/109",
+                        "url": "/api/proficiencies/108",
                         "name": "Skill: Deception"
                     },
                     {
-                        "url": "/api/proficiencies/110",
+                        "url": "/api/proficiencies/109",
                         "name": "Skill: History"
                     },
                     {
-                        "url": "/api/proficiencies/112",
+                        "url": "/api/proficiencies/111",
                         "name": "Skill: Intimidation"
                     },
                     {
-                        "url": "/api/proficiencies/113",
+                        "url": "/api/proficiencies/112",
                         "name": "Skill: Investigation"
                     },
                     {
-                        "url": "/api/proficiencies/115",
+                        "url": "/api/proficiencies/114",
                         "name": "Skill: Nature"
                     },
                     {
-                        "url": "/api/proficiencies/119",
+                        "url": "/api/proficiencies/118",
                         "name": "Skill: Religion"
                     }
                 ]
@@ -1220,44 +1220,44 @@
         "proficiencies": [
             {
                 "name": "Light armor",
-                "url": "/api/proficiencies/1"
+                "url": "/api/proficiencies/0"
             },
             {
                 "name": "Simple weapons",
-                "url": "/api/proficiencies/19"
+                "url": "/api/proficiencies/18"
             }
         ],
         "saving_throws": [
             {
                 "name": "WIS",
-                "url": "/api/ability-scores/5"
+                "url": "/api/ability-scores/4"
             },
             {
                 "name": "CHA",
-                "url": "/api/ability-scores/6"
+                "url": "/api/ability-scores/5"
             }
         ],
         "starting_equipment": {
-            "url": "/api/startingequipment/11",
+            "url": "/api/startingequipment/10",
             "name": "Warlock"
         },
         "class_levels": {
-            "url": "/api/classes/11",
+            "url": "/api/classes/10",
             "name": "Warlock"
         },
         "subclasses": [
             {
-                "url": "/api/subclasses/11",
+                "url": "/api/subclasses/10",
                 "name": "Fiend"
             }
         ],
         "spellcasting": {
-            "url": "/api/spellcasting/7",
+            "url": "/api/spellcasting/6",
             "name": "Warlock"
         },
         "entry_descriptor": {
-            "index": 11,
-            "url": "/api/classes/11",
+            "index": 10,
+            "url": "/api/classes/10",
             "name": "Warlock",
             "desc": []
         }
@@ -1270,27 +1270,27 @@
                 "type": "proficiencies",
                 "from": [
                     {
-                        "url": "/api/proficiencies/107",
+                        "url": "/api/proficiencies/106",
                         "name": "Skill: Arcana"
                     },
                     {
-                        "url": "/api/proficiencies/110",
+                        "url": "/api/proficiencies/109",
                         "name": "Skill: History"
                     },
                     {
-                        "url": "/api/proficiencies/111",
+                        "url": "/api/proficiencies/110",
                         "name": "Skill: Insight"
                     },
                     {
-                        "url": "/api/proficiencies/113",
+                        "url": "/api/proficiencies/112",
                         "name": "Skill: Investigation"
                     },
                     {
-                        "url": "/api/proficiencies/114",
+                        "url": "/api/proficiencies/113",
                         "name": "Skill: Medicine"
                     },
                     {
-                        "url": "/api/proficiencies/119",
+                        "url": "/api/proficiencies/118",
                         "name": "Skill: Religion"
                     }
                 ]
@@ -1299,52 +1299,52 @@
         "proficiencies": [
             {
                 "name": "Daggers",
-                "url": "/api/proficiencies/22"
+                "url": "/api/proficiencies/21"
             },
             {
                 "name": "Quarterstaffs",
-                "url": "/api/proficiencies/28"
+                "url": "/api/proficiencies/27"
             },
             {
                 "name": "Darts",
-                "url": "/api/proficiencies/32"
+                "url": "/api/proficiencies/31"
             },
             {
                 "name": "Slings",
-                "url": "/api/proficiencies/34"
+                "url": "/api/proficiencies/33"
             }
         ],
         "saving_throws": [
             {
                 "name": "INT",
-                "url": "/api/ability-scores/4"
+                "url": "/api/ability-scores/3"
             },
             {
                 "name": "WIS",
-                "url": "/api/ability-scores/5"
+                "url": "/api/ability-scores/4"
             }
         ],
         "starting_equipment": {
-            "url": "/api/startingequipment/12",
+            "url": "/api/startingequipment/11",
             "name": "Wizard"
         },
         "class_levels": {
-            "url": "/api/classes/12",
+            "url": "/api/classes/11",
             "name": "Wizard"
         },
         "subclasses": [
             {
-                "url": "/api/subclasses/12",
+                "url": "/api/subclasses/11",
                 "name": "Evocation"
             }
         ],
         "spellcasting": {
-            "url": "/api/spellcasting/8",
+            "url": "/api/spellcasting/7",
             "name": "Wizard"
         },
         "entry_descriptor": {
-            "index": 12,
-            "url": "/api/classes/12",
+            "index": 11,
+            "url": "/api/classes/11",
             "name": "Wizard",
             "desc": []
         }

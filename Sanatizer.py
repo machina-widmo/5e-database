@@ -32,7 +32,7 @@ class DatabaseNameFinder():
         entry_names = self.names_by_database.setdefault(database_name, [])
         if len(entry_names) == 0:
             entry_names = [
-                (entry[ENTRY_DESCRIPTOR]["name"], enum_index + 1)
+                (entry[ENTRY_DESCRIPTOR]["name"], enum_index)
                 for enum_index, entry in enumerate(self.databases_by_name[database_name])
             ]
 
@@ -82,7 +82,6 @@ def Sanatize_LevelsDatabase(raw_json_data, database_name):
     new_json_data = []
     counter = 0
     for class_name, levels in levels_by_class.items():
-        counter += 1
         class_levels = {
             "name": f"{class_name} Levels",
             "url": f"/api/levels/{counter}",
@@ -90,6 +89,8 @@ def Sanatize_LevelsDatabase(raw_json_data, database_name):
             "index": counter,
             "class": levels[0]["class"]
         }
+
+        counter += 1
 
         sorted_levels = sorted(levels, lambda x: x["level"])
         for level in sorted_levels:
@@ -118,7 +119,7 @@ def Sanatize_EquipmentDatabase(raw_json_data, database_name):
     def TransformNameToReference(name):
         if isinstance(name, str):
             # This will get fixed up later.
-            name = {"name": name, "url": "/api/equipment-categories/1"}
+            name = {"name": name, "url": "/api/equipment-categories/0"}
 
         return name
 
@@ -268,14 +269,14 @@ def FixupReference(field, field_name_scoped, database_name_finder):
     
     database_name = url_parts[1]
     database = database_name_finder.GetDatabaseFromName(database_name)
-    index = -1 if (len(url_parts) != 3 or (not url_parts[2].isnumeric())) else (int(url_parts[2]) - 1)
+    index = -1 if (len(url_parts) != 3 or (not url_parts[2].isnumeric())) else (int(url_parts[2]))
 
     if database is None:
         new_database_name, score = database_name_finder.FindBestDatabaseName(database_name)
 
         log.info(f'{GetScopeName()} "url" field does not name a valid database ({url})')
         log.info(f'Using "{new_database_name}" instead of "{database_name}"')
-        field["url"] = f'/api/{new_database_name}/{index+1}'
+        field["url"] = f'/api/{new_database_name}/{index}'
         database_name = new_database_name
         database = database_name_finder.GetDatabaseFromName(database_name)
 
@@ -381,8 +382,6 @@ def Sanatize(raw_json_data, database_name):
 
     index = 0
     for json_object in raw_json_data:
-        index = index + 1
-
         entry_descriptor = json_object.setdefault(ENTRY_DESCRIPTOR, {})
         for field_to_move in ["index", "url", "name", "desc"]:
             value = json_object.get(field_to_move, None)
@@ -402,6 +401,8 @@ def Sanatize(raw_json_data, database_name):
 
         elif len(description) > 0:
             entry_descriptor["desc"] = [str(desc_line) for desc_line in description]
+
+        index += 1
 
     raw_json_data = [__SanatizeRecurse(entry) for entry in raw_json_data]
 

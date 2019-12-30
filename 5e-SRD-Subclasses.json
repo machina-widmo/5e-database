@@ -1,23 +1,23 @@
 [
     {
         "class": {
-            "url": "/api/classes/1",
+            "url": "/api/classes/0",
             "name": "Barbarian"
         },
         "subclass_flavor": "Primal Path",
         "features": [
             {
                 "name": "Primal Path",
-                "url": "/api/features/5"
+                "url": "/api/features/4"
             },
             {
                 "name": "Frenzy",
-                "url": "/api/features/6"
+                "url": "/api/features/5"
             }
         ],
         "entry_descriptor": {
-            "index": 1,
-            "url": "/api/subclasses/1",
+            "index": 0,
+            "url": "/api/subclasses/0",
             "name": "Berserker",
             "desc": [
                 "For some barbarians, rage is a means to an end--that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being."
@@ -26,14 +26,14 @@
     },
     {
         "class": {
-            "url": "/api/classes/2",
+            "url": "/api/classes/1",
             "name": "Bard"
         },
         "subclass_flavor": "Bard College",
         "features": [],
         "entry_descriptor": {
-            "index": 2,
-            "url": "/api/subclasses/2",
+            "index": 1,
+            "url": "/api/subclasses/1",
             "name": "Lore",
             "desc": [
                 "Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king. The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic. The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority."
@@ -42,7 +42,7 @@
     },
     {
         "class": {
-            "url": "/api/classes/3",
+            "url": "/api/classes/2",
             "name": "Cleric"
         },
         "subclass_flavor": "Divine Domain",
@@ -56,7 +56,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/29",
+                    "url": "/api/spells/28",
                     "name": "Bless"
                 }
             },
@@ -68,7 +68,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/70",
+                    "url": "/api/spells/69",
                     "name": "Cure Wounds"
                 }
             },
@@ -80,7 +80,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/178",
+                    "url": "/api/spells/177",
                     "name": "Lesser Restoration"
                 }
             },
@@ -92,7 +92,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/278",
+                    "url": "/api/spells/277",
                     "name": "Spiritual Weapon"
                 }
             },
@@ -104,7 +104,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/25",
+                    "url": "/api/spells/24",
                     "name": "Beacon of Hope"
                 }
             },
@@ -116,7 +116,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/248",
+                    "url": "/api/spells/247",
                     "name": "Revivify"
                 }
             },
@@ -128,7 +128,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/75",
+                    "url": "/api/spells/74",
                     "name": "Death Ward"
                 }
             },
@@ -140,7 +140,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/195",
+                    "url": "/api/spells/194",
                     "name": "Mass Cure Wounds"
                 }
             },
@@ -152,14 +152,14 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/238",
+                    "url": "/api/spells/237",
                     "name": "Raise Dead"
                 }
             }
         ],
         "entry_descriptor": {
-            "index": 3,
-            "url": "/api/subclasses/3",
+            "index": 2,
+            "url": "/api/subclasses/2",
             "name": "Life",
             "desc": [
                 "The Life domain focuses on the vibrant positive energy--one of the fundamental forces of the universe--that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities, sun gods, gods of healing or endurance, and gods of home and community."
@@ -168,7 +168,7 @@
     },
     {
         "class": {
-            "url": "/api/classes/4",
+            "url": "/api/classes/3",
             "name": "Druid"
         },
         "subclass_flavor": "Druid Circle",
@@ -182,11 +182,11 @@
                     },
                     {
                         "name": "Circle of the Land: Arctic",
-                        "url": "/api/features/105"
+                        "url": "/api/features/104"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/161",
+                    "url": "/api/spells/160",
                     "name": "Hold Person"
                 }
             },
@@ -198,11 +198,11 @@
                     },
                     {
                         "name": "Circle of the Land: Arctic",
-                        "url": "/api/features/105"
+                        "url": "/api/features/104"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/276",
+                    "url": "/api/spells/275",
                     "name": "Spike Growth"
                 }
             },
@@ -214,11 +214,11 @@
                     },
                     {
                         "name": "Circle of the Land: Arctic",
-                        "url": "/api/features/105"
+                        "url": "/api/features/104"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/269",
+                    "url": "/api/spells/268",
                     "name": "Sleet Storm"
                 }
             },
@@ -230,11 +230,11 @@
                     },
                     {
                         "name": "Circle of the Land: Arctic",
-                        "url": "/api/features/105"
+                        "url": "/api/features/104"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/270",
+                    "url": "/api/spells/269",
                     "name": "Slow"
                 }
             },
@@ -246,11 +246,11 @@
                     },
                     {
                         "name": "Circle of the Land: Arctic",
-                        "url": "/api/features/105"
+                        "url": "/api/features/104"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/130",
+                    "url": "/api/spells/129",
                     "name": "Freedom of Movement"
                 }
             },
@@ -262,11 +262,11 @@
                     },
                     {
                         "name": "Circle of the Land: Arctic",
-                        "url": "/api/features/105"
+                        "url": "/api/features/104"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/162",
+                    "url": "/api/spells/161",
                     "name": "Holy Aura"
                 }
             },
@@ -278,11 +278,11 @@
                     },
                     {
                         "name": "Circle of the Land: Arctic",
-                        "url": "/api/features/105"
+                        "url": "/api/features/104"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/47",
+                    "url": "/api/spells/46",
                     "name": "Commune"
                 }
             },
@@ -294,11 +294,11 @@
                     },
                     {
                         "name": "Circle of the Land: Arctic",
-                        "url": "/api/features/105"
+                        "url": "/api/features/104"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/49",
+                    "url": "/api/spells/48",
                     "name": "Comprehend Languages"
                 }
             },
@@ -310,11 +310,11 @@
                     },
                     {
                         "name": "Circle of the Land: Coast",
-                        "url": "/api/features/106"
+                        "url": "/api/features/105"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/207",
+                    "url": "/api/spells/206",
                     "name": "Mirror Image"
                 }
             },
@@ -326,11 +326,11 @@
                     },
                     {
                         "name": "Circle of the Land: Coast",
-                        "url": "/api/features/106"
+                        "url": "/api/features/105"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/209",
+                    "url": "/api/spells/208",
                     "name": "Misty Step"
                 }
             },
@@ -342,11 +342,11 @@
                     },
                     {
                         "name": "Circle of the Land: Coast",
-                        "url": "/api/features/106"
+                        "url": "/api/features/105"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/311",
+                    "url": "/api/spells/310",
                     "name": "Water Breathing"
                 }
             },
@@ -358,11 +358,11 @@
                     },
                     {
                         "name": "Circle of the Land: Coast",
-                        "url": "/api/features/106"
+                        "url": "/api/features/105"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/312",
+                    "url": "/api/spells/311",
                     "name": "Water Walk"
                 }
             },
@@ -374,11 +374,11 @@
                     },
                     {
                         "name": "Circle of the Land: Coast",
-                        "url": "/api/features/106"
+                        "url": "/api/features/105"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/63",
+                    "url": "/api/spells/62",
                     "name": "Control Water"
                 }
             },
@@ -390,11 +390,11 @@
                     },
                     {
                         "name": "Circle of the Land: Coast",
-                        "url": "/api/features/106"
+                        "url": "/api/features/105"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/130",
+                    "url": "/api/spells/129",
                     "name": "Freedom of Movement"
                 }
             },
@@ -406,11 +406,11 @@
                     },
                     {
                         "name": "Circle of the Land: Coast",
-                        "url": "/api/features/106"
+                        "url": "/api/features/105"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/55",
+                    "url": "/api/spells/54",
                     "name": "Conjure Elemental"
                 }
             },
@@ -422,11 +422,11 @@
                     },
                     {
                         "name": "Circle of the Land: Coast",
-                        "url": "/api/features/106"
+                        "url": "/api/features/105"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/253",
+                    "url": "/api/spells/252",
                     "name": "Scrying"
                 }
             },
@@ -438,11 +438,11 @@
                     },
                     {
                         "name": "Circle of the Land: Desert",
-                        "url": "/api/features/107"
+                        "url": "/api/features/106"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/33",
+                    "url": "/api/spells/32",
                     "name": "Blur"
                 }
             },
@@ -454,11 +454,11 @@
                     },
                     {
                         "name": "Circle of the Land: Desert",
-                        "url": "/api/features/107"
+                        "url": "/api/features/106"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/265",
+                    "url": "/api/spells/264",
                     "name": "Silence"
                 }
             },
@@ -470,11 +470,11 @@
                     },
                     {
                         "name": "Circle of the Land: Desert",
-                        "url": "/api/features/107"
+                        "url": "/api/features/106"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/66",
+                    "url": "/api/spells/65",
                     "name": "Create Food and Water"
                 }
             },
@@ -486,11 +486,11 @@
                     },
                     {
                         "name": "Circle of the Land: Desert",
-                        "url": "/api/features/107"
+                        "url": "/api/features/106"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/234",
+                    "url": "/api/spells/233",
                     "name": "Protection From Energy"
                 }
             },
@@ -502,11 +502,11 @@
                     },
                     {
                         "name": "Circle of the Land: Desert",
-                        "url": "/api/features/107"
+                        "url": "/api/features/106"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/30",
+                    "url": "/api/spells/29",
                     "name": "Blight"
                 }
             },
@@ -518,11 +518,11 @@
                     },
                     {
                         "name": "Circle of the Land: Desert",
-                        "url": "/api/features/107"
+                        "url": "/api/features/106"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/150",
+                    "url": "/api/spells/149",
                     "name": "Hallucinatory Terrain"
                 }
             },
@@ -534,11 +534,11 @@
                     },
                     {
                         "name": "Circle of the Land: Desert",
-                        "url": "/api/features/107"
+                        "url": "/api/features/106"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/171",
+                    "url": "/api/spells/170",
                     "name": "Insect Plague"
                 }
             },
@@ -550,11 +550,11 @@
                     },
                     {
                         "name": "Circle of the Land: Desert",
-                        "url": "/api/features/107"
+                        "url": "/api/features/106"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/308",
+                    "url": "/api/spells/307",
                     "name": "Wall of Stone"
                 }
             },
@@ -566,11 +566,11 @@
                     },
                     {
                         "name": "Circle of the Land: Forest",
-                        "url": "/api/features/108"
+                        "url": "/api/features/107"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/24",
+                    "url": "/api/spells/23",
                     "name": "Barkskin"
                 }
             },
@@ -582,11 +582,11 @@
                     },
                     {
                         "name": "Circle of the Land: Forest",
-                        "url": "/api/features/108"
+                        "url": "/api/features/107"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/275",
+                    "url": "/api/spells/274",
                     "name": "Spider Climb"
                 }
             },
@@ -598,11 +598,11 @@
                     },
                     {
                         "name": "Circle of the Land: Forest",
-                        "url": "/api/features/108"
+                        "url": "/api/features/107"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/36",
+                    "url": "/api/spells/35",
                     "name": "Call Lightning"
                 }
             },
@@ -614,11 +614,11 @@
                     },
                     {
                         "name": "Circle of the Land: Forest",
-                        "url": "/api/features/108"
+                        "url": "/api/features/107"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/221",
+                    "url": "/api/spells/220",
                     "name": "Plant Growth"
                 }
             },
@@ -630,11 +630,11 @@
                     },
                     {
                         "name": "Circle of the Land: Forest",
-                        "url": "/api/features/108"
+                        "url": "/api/features/107"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/87",
+                    "url": "/api/spells/86",
                     "name": "Divination"
                 }
             },
@@ -646,11 +646,11 @@
                     },
                     {
                         "name": "Circle of the Land: Forest",
-                        "url": "/api/features/108"
+                        "url": "/api/features/107"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/130",
+                    "url": "/api/spells/129",
                     "name": "Freedom of Movement"
                 }
             },
@@ -662,11 +662,11 @@
                     },
                     {
                         "name": "Circle of the Land: Forest",
-                        "url": "/api/features/108"
+                        "url": "/api/features/107"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/48",
+                    "url": "/api/spells/47",
                     "name": "Commune With Nature"
                 }
             },
@@ -678,11 +678,11 @@
                     },
                     {
                         "name": "Circle of the Land: Forest",
-                        "url": "/api/features/108"
+                        "url": "/api/features/107"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/297",
+                    "url": "/api/spells/296",
                     "name": "Tree Stride"
                 }
             },
@@ -694,11 +694,11 @@
                     },
                     {
                         "name": "Circle of the Land: Grassland",
-                        "url": "/api/features/109"
+                        "url": "/api/features/108"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/173",
+                    "url": "/api/spells/172",
                     "name": "Invisibility"
                 }
             },
@@ -710,11 +710,11 @@
                     },
                     {
                         "name": "Circle of the Land: Grassland",
-                        "url": "/api/features/109"
+                        "url": "/api/features/108"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/214",
+                    "url": "/api/spells/213",
                     "name": "Pass Without Trace"
                 }
             },
@@ -726,11 +726,11 @@
                     },
                     {
                         "name": "Circle of the Land: Grassland",
-                        "url": "/api/features/109"
+                        "url": "/api/features/108"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/74",
+                    "url": "/api/spells/73",
                     "name": "Daylight"
                 }
             },
@@ -742,11 +742,11 @@
                     },
                     {
                         "name": "Circle of the Land: Grassland",
-                        "url": "/api/features/109"
+                        "url": "/api/features/108"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/152",
+                    "url": "/api/spells/151",
                     "name": "Haste"
                 }
             },
@@ -758,11 +758,11 @@
                     },
                     {
                         "name": "Circle of the Land: Grassland",
-                        "url": "/api/features/109"
+                        "url": "/api/features/108"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/87",
+                    "url": "/api/spells/86",
                     "name": "Divination"
                 }
             },
@@ -774,11 +774,11 @@
                     },
                     {
                         "name": "Circle of the Land: Grassland",
-                        "url": "/api/features/109"
+                        "url": "/api/features/108"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/130",
+                    "url": "/api/spells/129",
                     "name": "Freedom of Movement"
                 }
             },
@@ -790,11 +790,11 @@
                     },
                     {
                         "name": "Circle of the Land: Grassland",
-                        "url": "/api/features/109"
+                        "url": "/api/features/108"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/93",
+                    "url": "/api/spells/92",
                     "name": "Dream"
                 }
             },
@@ -806,11 +806,11 @@
                     },
                     {
                         "name": "Circle of the Land: Grassland",
-                        "url": "/api/features/109"
+                        "url": "/api/features/108"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/171",
+                    "url": "/api/spells/170",
                     "name": "Insect Plague"
                 }
             },
@@ -822,11 +822,11 @@
                     },
                     {
                         "name": "Circle of the Land: Mountain",
-                        "url": "/api/features/110"
+                        "url": "/api/features/109"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/275",
+                    "url": "/api/spells/274",
                     "name": "Spider Climb"
                 }
             },
@@ -838,11 +838,11 @@
                     },
                     {
                         "name": "Circle of the Land: Mountain",
-                        "url": "/api/features/110"
+                        "url": "/api/features/109"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/276",
+                    "url": "/api/spells/275",
                     "name": "Spike Growth"
                 }
             },
@@ -854,11 +854,11 @@
                     },
                     {
                         "name": "Circle of the Land: Mountain",
-                        "url": "/api/features/110"
+                        "url": "/api/features/109"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/181",
+                    "url": "/api/spells/180",
                     "name": "Lightning Bolt"
                 }
             },
@@ -870,11 +870,11 @@
                     },
                     {
                         "name": "Circle of the Land: Mountain",
-                        "url": "/api/features/110"
+                        "url": "/api/features/109"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/200",
+                    "url": "/api/spells/199",
                     "name": "Meld Into Stone"
                 }
             },
@@ -886,11 +886,11 @@
                     },
                     {
                         "name": "Circle of the Land: Mountain",
-                        "url": "/api/features/110"
+                        "url": "/api/features/109"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/280",
+                    "url": "/api/spells/279",
                     "name": "Stone Shape"
                 }
             },
@@ -902,11 +902,11 @@
                     },
                     {
                         "name": "Circle of the Land: Mountain",
-                        "url": "/api/features/110"
+                        "url": "/api/features/109"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/281",
+                    "url": "/api/spells/280",
                     "name": "Stoneskin"
                 }
             },
@@ -918,11 +918,11 @@
                     },
                     {
                         "name": "Circle of the Land: Mountain",
-                        "url": "/api/features/110"
+                        "url": "/api/features/109"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/215",
+                    "url": "/api/spells/214",
                     "name": "Passwall"
                 }
             },
@@ -934,11 +934,11 @@
                     },
                     {
                         "name": "Circle of the Land: Mountain",
-                        "url": "/api/features/110"
+                        "url": "/api/features/109"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/308",
+                    "url": "/api/spells/307",
                     "name": "Wall of Stone"
                 }
             },
@@ -950,11 +950,11 @@
                     },
                     {
                         "name": "Circle of the Land: Swamp",
-                        "url": "/api/features/111"
+                        "url": "/api/features/110"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/1",
+                    "url": "/api/spells/0",
                     "name": "Acid Arrow"
                 }
             },
@@ -966,11 +966,11 @@
                     },
                     {
                         "name": "Circle of the Land: Swamp",
-                        "url": "/api/features/111"
+                        "url": "/api/features/110"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/72",
+                    "url": "/api/spells/71",
                     "name": "Darkness"
                 }
             },
@@ -982,11 +982,11 @@
                     },
                     {
                         "name": "Circle of the Land: Swamp",
-                        "url": "/api/features/111"
+                        "url": "/api/features/110"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/312",
+                    "url": "/api/spells/311",
                     "name": "Water Walk"
                 }
             },
@@ -998,11 +998,11 @@
                     },
                     {
                         "name": "Circle of the Land: Swamp",
-                        "url": "/api/features/111"
+                        "url": "/api/features/110"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/279",
+                    "url": "/api/spells/278",
                     "name": "Stinking Cloud"
                 }
             },
@@ -1014,11 +1014,11 @@
                     },
                     {
                         "name": "Circle of the Land: Swamp",
-                        "url": "/api/features/111"
+                        "url": "/api/features/110"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/130",
+                    "url": "/api/spells/129",
                     "name": "Freedom of Movement"
                 }
             },
@@ -1030,11 +1030,11 @@
                     },
                     {
                         "name": "Circle of the Land: Swamp",
-                        "url": "/api/features/111"
+                        "url": "/api/features/110"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/183",
+                    "url": "/api/spells/182",
                     "name": "Locate Creature"
                 }
             },
@@ -1046,11 +1046,11 @@
                     },
                     {
                         "name": "Circle of the Land: Swamp",
-                        "url": "/api/features/111"
+                        "url": "/api/features/110"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/171",
+                    "url": "/api/spells/170",
                     "name": "Insect Plague"
                 }
             },
@@ -1062,18 +1062,18 @@
                     },
                     {
                         "name": "Circle of the Land: Swamp",
-                        "url": "/api/features/111"
+                        "url": "/api/features/110"
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/253",
+                    "url": "/api/spells/252",
                     "name": "Scrying"
                 }
             }
         ],
         "entry_descriptor": {
-            "index": 4,
-            "url": "/api/subclasses/4",
+            "index": 3,
+            "url": "/api/subclasses/3",
             "name": "Land",
             "desc": [
                 "The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites."
@@ -1082,14 +1082,14 @@
     },
     {
         "class": {
-            "url": "/api/classes/5",
+            "url": "/api/classes/4",
             "name": "Fighter"
         },
         "subclass_flavor": "Martial Archetype",
         "features": [],
         "entry_descriptor": {
-            "index": 5,
-            "url": "/api/subclasses/5",
+            "index": 4,
+            "url": "/api/subclasses/4",
             "name": "Champion",
             "desc": [
                 "The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows."
@@ -1098,14 +1098,14 @@
     },
     {
         "class": {
-            "url": "/api/classes/6",
+            "url": "/api/classes/5",
             "name": "Monk"
         },
         "subclass_flavor": "Monastic Tradition",
         "features": [],
         "entry_descriptor": {
-            "index": 6,
-            "url": "/api/subclasses/6",
+            "index": 5,
+            "url": "/api/subclasses/5",
             "name": "Open Hand",
             "desc": [
                 "Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm."
@@ -1114,7 +1114,7 @@
     },
     {
         "class": {
-            "url": "/api/classes/7",
+            "url": "/api/classes/6",
             "name": "Paladin"
         },
         "subclass_flavor": "Sacred Oath",
@@ -1128,7 +1128,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/235",
+                    "url": "/api/spells/234",
                     "name": "Protection from Evil and Good"
                 }
             },
@@ -1140,7 +1140,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/251",
+                    "url": "/api/spells/250",
                     "name": "Sanctuary"
                 }
             },
@@ -1152,7 +1152,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/178",
+                    "url": "/api/spells/177",
                     "name": "Lesser Restoration"
                 }
             },
@@ -1164,7 +1164,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/319",
+                    "url": "/api/spells/318",
                     "name": "Zone of Truth"
                 }
             },
@@ -1176,7 +1176,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/25",
+                    "url": "/api/spells/24",
                     "name": "Beacon of Hope"
                 }
             },
@@ -1188,7 +1188,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/86",
+                    "url": "/api/spells/85",
                     "name": "Dispel Magic"
                 }
             },
@@ -1200,7 +1200,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/130",
+                    "url": "/api/spells/129",
                     "name": "Freedom of Movement"
                 }
             },
@@ -1212,7 +1212,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/47",
+                    "url": "/api/spells/46",
                     "name": "Commune"
                 }
             },
@@ -1224,14 +1224,14 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/121",
+                    "url": "/api/spells/120",
                     "name": "Flame Strike"
                 }
             }
         ],
         "entry_descriptor": {
-            "index": 7,
-            "url": "/api/subclasses/7",
+            "index": 6,
+            "url": "/api/subclasses/6",
             "name": "Devotion",
             "desc": [
                 "The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels--the perfect servants of good--as their ideals, and incorporate images of angelic wings into their helmets or coats of arms."
@@ -1240,14 +1240,14 @@
     },
     {
         "class": {
-            "url": "/api/classes/8",
+            "url": "/api/classes/7",
             "name": "Ranger"
         },
         "subclass_flavor": "Ranger Archetype",
         "features": [],
         "entry_descriptor": {
-            "index": 8,
-            "url": "/api/subclasses/8",
+            "index": 7,
+            "url": "/api/subclasses/7",
             "name": "Hunter",
             "desc": [
                 "Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons."
@@ -1256,14 +1256,14 @@
     },
     {
         "class": {
-            "url": "/api/classes/9",
+            "url": "/api/classes/8",
             "name": "Rogue"
         },
         "subclass_flavor": "Sorcerous Origins",
         "features": [],
         "entry_descriptor": {
-            "index": 9,
-            "url": "/api/subclasses/9",
+            "index": 8,
+            "url": "/api/subclasses/8",
             "name": "Thief",
             "desc": [
                 "You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ."
@@ -1272,14 +1272,14 @@
     },
     {
         "class": {
-            "url": "/api/classes/10",
+            "url": "/api/classes/9",
             "name": "Sorcerer"
         },
         "subclass_flavor": "Sorcerous Origins",
         "features": [],
         "entry_descriptor": {
-            "index": 10,
-            "url": "/api/subclasses/10",
+            "index": 9,
+            "url": "/api/subclasses/9",
             "name": "Draconic",
             "desc": [
                 "Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance."
@@ -1288,7 +1288,7 @@
     },
     {
         "class": {
-            "url": "/api/classes/11",
+            "url": "/api/classes/10",
             "name": "Warlock"
         },
         "subclass_flavor": "Otherworldly Patron",
@@ -1302,7 +1302,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/35",
+                    "url": "/api/spells/34",
                     "name": "Burning Hands"
                 }
             },
@@ -1314,7 +1314,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/46",
+                    "url": "/api/spells/45",
                     "name": "Command"
                 }
             },
@@ -1326,7 +1326,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/31",
+                    "url": "/api/spells/30",
                     "name": "Blindness/Deafness"
                 }
             },
@@ -1338,7 +1338,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/252",
+                    "url": "/api/spells/251",
                     "name": "Scorching Ray"
                 }
             },
@@ -1350,7 +1350,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/119",
+                    "url": "/api/spells/118",
                     "name": "Fireball"
                 }
             },
@@ -1362,7 +1362,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/279",
+                    "url": "/api/spells/278",
                     "name": "Stinking Cloud"
                 }
             },
@@ -1374,7 +1374,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/117",
+                    "url": "/api/spells/116",
                     "name": "Fire Shield"
                 }
             },
@@ -1386,7 +1386,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/305",
+                    "url": "/api/spells/304",
                     "name": "Wall of Fire"
                 }
             },
@@ -1398,7 +1398,7 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/121",
+                    "url": "/api/spells/120",
                     "name": "Flame Strike"
                 }
             },
@@ -1410,14 +1410,14 @@
                     }
                 ],
                 "spell": {
-                    "url": "/api/spells/149",
+                    "url": "/api/spells/148",
                     "name": "Hallow"
                 }
             }
         ],
         "entry_descriptor": {
-            "index": 11,
-            "url": "/api/subclasses/11",
+            "index": 10,
+            "url": "/api/subclasses/10",
             "name": "Fiend",
             "desc": [
                 "You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths."
@@ -1426,14 +1426,14 @@
     },
     {
         "class": {
-            "url": "/api/classes/12",
+            "url": "/api/classes/11",
             "name": "Wizard"
         },
         "subclass_flavor": "Arcane Tradition",
         "features": [],
         "entry_descriptor": {
-            "index": 12,
-            "url": "/api/subclasses/12",
+            "index": 11,
+            "url": "/api/subclasses/11",
             "name": "Evocation",
             "desc": [
                 "You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants."
