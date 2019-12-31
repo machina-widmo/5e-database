@@ -16,7 +16,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Melee",
@@ -63,7 +63,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Melee",
@@ -122,7 +122,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Melee",
@@ -165,7 +165,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Melee",
@@ -220,7 +220,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Melee",
@@ -271,7 +271,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Melee",
@@ -326,7 +326,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Melee",
@@ -369,7 +369,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Melee",
@@ -424,7 +424,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Melee",
@@ -471,7 +471,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Melee",
@@ -534,7 +534,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Ranged",
@@ -585,7 +585,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Ranged",
@@ -636,7 +636,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Ranged",
@@ -683,7 +683,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Simple",
+                "name": "Simple Weapons",
                 "url": "/api/equipment-categories/5"
             },
             "weapon_range": "Ranged",
@@ -726,7 +726,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -777,7 +777,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -815,7 +815,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -866,7 +866,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -913,7 +913,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -960,7 +960,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1011,7 +1011,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1061,7 +1061,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1112,7 +1112,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1159,7 +1159,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1197,7 +1197,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1248,7 +1248,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1291,7 +1291,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1338,7 +1338,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1389,7 +1389,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1448,7 +1448,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1486,7 +1486,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1537,7 +1537,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Melee",
@@ -1584,7 +1584,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Ranged",
@@ -1631,7 +1631,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Ranged",
@@ -1682,7 +1682,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Ranged",
@@ -1737,7 +1737,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Ranged",
@@ -1788,7 +1788,7 @@
                 "url": "/api/equipment-categories/0"
             },
             "weapon_category": {
-                "name": "Martial",
+                "name": "Martial Weapons",
                 "url": "/api/equipment-categories/6"
             },
             "weapon_range": "Ranged",
@@ -1842,7 +1842,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Light",
+                "name": "Light Armor",
                 "url": "/api/equipment-categories/11"
             },
             "armor_class": {
@@ -1872,7 +1872,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Light",
+                "name": "Light Armor",
                 "url": "/api/equipment-categories/11"
             },
             "armor_class": {
@@ -1902,7 +1902,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Light",
+                "name": "Light Armor",
                 "url": "/api/equipment-categories/11"
             },
             "armor_class": {
@@ -1932,7 +1932,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Medium",
+                "name": "Medium Armor",
                 "url": "/api/equipment-categories/12"
             },
             "armor_class": {
@@ -1962,7 +1962,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Medium",
+                "name": "Medium Armor",
                 "url": "/api/equipment-categories/12"
             },
             "armor_class": {
@@ -1992,7 +1992,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Medium",
+                "name": "Medium Armor",
                 "url": "/api/equipment-categories/12"
             },
             "armor_class": {
@@ -2022,7 +2022,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Medium",
+                "name": "Medium Armor",
                 "url": "/api/equipment-categories/12"
             },
             "armor_class": {
@@ -2052,7 +2052,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Medium",
+                "name": "Medium Armor",
                 "url": "/api/equipment-categories/12"
             },
             "armor_class": {
@@ -2082,7 +2082,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Heavy",
+                "name": "Heavy Armor",
                 "url": "/api/equipment-categories/13"
             },
             "armor_class": {
@@ -2112,7 +2112,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Heavy",
+                "name": "Heavy Armor",
                 "url": "/api/equipment-categories/13"
             },
             "armor_class": {
@@ -2142,7 +2142,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Heavy",
+                "name": "Heavy Armor",
                 "url": "/api/equipment-categories/13"
             },
             "armor_class": {
@@ -2172,7 +2172,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Heavy",
+                "name": "Heavy Armor",
                 "url": "/api/equipment-categories/13"
             },
             "armor_class": {
@@ -2202,7 +2202,7 @@
                 "url": "/api/equipment-categories/1"
             },
             "armor_category": {
-                "name": "Shield",
+                "name": "Shields",
                 "url": "/api/equipment-categories/14"
             },
             "armor_class": {
@@ -2309,7 +2309,7 @@
             },
             "gear_category": {
                 "name": "Ammunition",
-                "url": "/api/equipment-categories/2"
+                "url": "/api/equipment-categories/25"
             },
             "weight": 1
         }
@@ -2332,7 +2332,7 @@
             },
             "gear_category": {
                 "name": "Ammunition",
-                "url": "/api/equipment-categories/2"
+                "url": "/api/equipment-categories/25"
             },
             "weight": 1
         }
@@ -2355,7 +2355,7 @@
             },
             "gear_category": {
                 "name": "Ammunition",
-                "url": "/api/equipment-categories/2"
+                "url": "/api/equipment-categories/25"
             },
             "weight": 1.5
         }
@@ -2378,7 +2378,7 @@
             },
             "gear_category": {
                 "name": "Ammunition",
-                "url": "/api/equipment-categories/2"
+                "url": "/api/equipment-categories/25"
             },
             "weight": 1.5
         }
@@ -2404,7 +2404,7 @@
             },
             "gear_category": {
                 "name": "Holy Symbol",
-                "url": "/api/equipment-categories/3"
+                "url": "/api/equipment-categories/26"
             },
             "weight": 1
         }
@@ -2453,8 +2453,8 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Arcane focus",
-                "url": "/api/equipment-categories/18"
+                "name": "Arcane Focus",
+                "url": "/api/equipment-categories/28"
             },
             "weight": 1
         }
@@ -2478,8 +2478,8 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Arcane focus",
-                "url": "/api/equipment-categories/18"
+                "name": "Arcane Focus",
+                "url": "/api/equipment-categories/28"
             },
             "weight": 3
         }
@@ -2503,8 +2503,8 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Arcane focus",
-                "url": "/api/equipment-categories/18"
+                "name": "Arcane Focus",
+                "url": "/api/equipment-categories/28"
             },
             "weight": 2
         }
@@ -2528,8 +2528,8 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Arcane focus",
-                "url": "/api/equipment-categories/18"
+                "name": "Arcane Focus",
+                "url": "/api/equipment-categories/28"
             },
             "weight": 4
         }
@@ -2553,8 +2553,8 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Arcane focus",
-                "url": "/api/equipment-categories/18"
+                "name": "Arcane Focus",
+                "url": "/api/equipment-categories/28"
             },
             "weight": 1
         }
@@ -3155,8 +3155,8 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Druidic focus",
-                "url": "/api/equipment-categories/20"
+                "name": "Druidic Focus",
+                "url": "/api/equipment-categories/27"
             },
             "weight": 0
         }
@@ -3180,8 +3180,8 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Druidic focus",
-                "url": "/api/equipment-categories/20"
+                "name": "Druidic Focus",
+                "url": "/api/equipment-categories/27"
             },
             "weight": 0
         }
@@ -3205,8 +3205,8 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Druidic focus",
-                "url": "/api/equipment-categories/20"
+                "name": "Druidic Focus",
+                "url": "/api/equipment-categories/27"
             },
             "weight": 4
         }
@@ -3230,8 +3230,8 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Druidic focus",
-                "url": "/api/equipment-categories/20"
+                "name": "Druidic Focus",
+                "url": "/api/equipment-categories/27"
             },
             "weight": 1
         }
@@ -3257,7 +3257,7 @@
             },
             "gear_category": {
                 "name": "Holy Symbol",
-                "url": "/api/equipment-categories/3"
+                "url": "/api/equipment-categories/26"
             },
             "weight": 0
         }
@@ -3545,7 +3545,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Kit",
+                "name": "Kits",
                 "url": "/api/equipment-categories/16"
             },
             "weight": 12
@@ -3570,7 +3570,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Kit",
+                "name": "Kits",
                 "url": "/api/equipment-categories/16"
             },
             "weight": 3
@@ -3595,7 +3595,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Kit",
+                "name": "Kits",
                 "url": "/api/equipment-categories/16"
             },
             "weight": 5
@@ -3620,7 +3620,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Kit",
+                "name": "Kits",
                 "url": "/api/equipment-categories/16"
             },
             "weight": 3
@@ -3645,7 +3645,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Kit",
+                "name": "Kits",
                 "url": "/api/equipment-categories/16"
             },
             "weight": 3
@@ -3670,7 +3670,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Kit",
+                "name": "Kits",
                 "url": "/api/equipment-categories/16"
             },
             "weight": 1
@@ -3695,7 +3695,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Kit",
+                "name": "Kits",
                 "url": "/api/equipment-categories/16"
             },
             "weight": 2
@@ -4260,7 +4260,7 @@
             },
             "gear_category": {
                 "name": "Holy Symbol",
-                "url": "/api/equipment-categories/3"
+                "url": "/api/equipment-categories/26"
             },
             "weight": 2
         }
@@ -4736,7 +4736,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Equipment Pack",
+                "name": "Equipment Packs",
                 "url": "/api/equipment-categories/17"
             },
             "contents": [
@@ -4808,7 +4808,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Equipment Pack",
+                "name": "Equipment Packs",
                 "url": "/api/equipment-categories/17"
             },
             "contents": [
@@ -4876,7 +4876,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Equipment Pack",
+                "name": "Equipment Packs",
                 "url": "/api/equipment-categories/17"
             },
             "contents": [
@@ -4932,7 +4932,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Equipment Pack",
+                "name": "Equipment Packs",
                 "url": "/api/equipment-categories/17"
             },
             "contents": [
@@ -4984,7 +4984,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Equipment Pack",
+                "name": "Equipment Packs",
                 "url": "/api/equipment-categories/17"
             },
             "contents": [
@@ -5040,7 +5040,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Equipment Pack",
+                "name": "Equipment Packs",
                 "url": "/api/equipment-categories/17"
             },
             "contents": [
@@ -5088,7 +5088,7 @@
                 "url": "/api/equipment-categories/2"
             },
             "gear_category": {
-                "name": "Equipment Pack",
+                "name": "Equipment Packs",
                 "url": "/api/equipment-categories/17"
             },
             "contents": [
@@ -5609,7 +5609,7 @@
                 "url": "/api/equipment-categories/3"
             },
             "tool_category": {
-                "name": "Musical Instrument",
+                "name": "Musical Instruments",
                 "url": "/api/equipment-categories/20"
             },
             "weight": 6
@@ -5634,7 +5634,7 @@
                 "url": "/api/equipment-categories/3"
             },
             "tool_category": {
-                "name": "Musical Instrument",
+                "name": "Musical Instruments",
                 "url": "/api/equipment-categories/20"
             },
             "weight": 3
@@ -5659,7 +5659,7 @@
                 "url": "/api/equipment-categories/3"
             },
             "tool_category": {
-                "name": "Musical Instrument",
+                "name": "Musical Instruments",
                 "url": "/api/equipment-categories/20"
             },
             "weight": 10
@@ -5684,7 +5684,7 @@
                 "url": "/api/equipment-categories/3"
             },
             "tool_category": {
-                "name": "Musical Instrument",
+                "name": "Musical Instruments",
                 "url": "/api/equipment-categories/20"
             },
             "weight": 1
@@ -5709,7 +5709,7 @@
                 "url": "/api/equipment-categories/3"
             },
             "tool_category": {
-                "name": "Musical Instrument",
+                "name": "Musical Instruments",
                 "url": "/api/equipment-categories/20"
             },
             "weight": 2
@@ -5734,7 +5734,7 @@
                 "url": "/api/equipment-categories/3"
             },
             "tool_category": {
-                "name": "Musical Instrument",
+                "name": "Musical Instruments",
                 "url": "/api/equipment-categories/20"
             },
             "weight": 2
@@ -5759,7 +5759,7 @@
                 "url": "/api/equipment-categories/3"
             },
             "tool_category": {
-                "name": "Musical Instrument",
+                "name": "Musical Instruments",
                 "url": "/api/equipment-categories/20"
             },
             "weight": 2
@@ -5784,7 +5784,7 @@
                 "url": "/api/equipment-categories/3"
             },
             "tool_category": {
-                "name": "Musical Instrument",
+                "name": "Musical Instruments",
                 "url": "/api/equipment-categories/20"
             },
             "weight": 2
@@ -5809,7 +5809,7 @@
                 "url": "/api/equipment-categories/3"
             },
             "tool_category": {
-                "name": "Musical Instrument",
+                "name": "Musical Instruments",
                 "url": "/api/equipment-categories/20"
             },
             "weight": 1
@@ -5834,7 +5834,7 @@
                 "url": "/api/equipment-categories/3"
             },
             "tool_category": {
-                "name": "Musical Instrument",
+                "name": "Musical Instruments",
                 "url": "/api/equipment-categories/20"
             },
             "weight": 1

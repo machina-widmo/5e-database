@@ -2344,5 +2344,109 @@
             "name": "Waterborne Vehicles",
             "desc": []
         }
+    },
+    {
+        "equipment": [
+            {
+                "url": "/api/equipment/53",
+                "name": "Arrow"
+            },
+            {
+                "url": "/api/equipment/54",
+                "name": "Blowgun needle"
+            },
+            {
+                "url": "/api/equipment/55",
+                "name": "Crossbow bolt"
+            },
+            {
+                "url": "/api/equipment/56",
+                "name": "Sling bullet"
+            }
+        ],
+        "entry_descriptor": {
+            "index": 25,
+            "url": "/api/equipment-categories/25",
+            "name": "Ammunition",
+            "desc": []
+        }
+    },
+    {
+        "equipment": [
+            {
+                "url": "/api/equipment/57",
+                "name": "Amulet"
+            },
+            {
+                "url": "/api/equipment/92",
+                "name": "Emblem"
+            },
+            {
+                "url": "/api/equipment/133",
+                "name": "Reliquary"
+            }
+        ],
+        "entry_descriptor": {
+            "index": 26,
+            "url": "/api/equipment-categories/26",
+            "name": "Holy Symbol",
+            "desc": []
+        }
+    },
+    {
+        "equipment": [
+            {
+                "url": "/api/equipment/88",
+                "name": "Sprig of mistletoe"
+            },
+            {
+                "url": "/api/equipment/89",
+                "name": "Totem"
+            },
+            {
+                "url": "/api/equipment/90",
+                "name": "Wooden staff"
+            },
+            {
+                "url": "/api/equipment/91",
+                "name": "Yew wand"
+            }
+        ],
+        "entry_descriptor": {
+            "index": 27,
+            "url": "/api/equipment-categories/27",
+            "name": "Druidic Focus",
+            "desc": []
+        }
+    },
+    {
+        "equipment": [
+            {
+                "url": "/api/equipment/59",
+                "name": "Crystal"
+            },
+            {
+                "url": "/api/equipment/60",
+                "name": "Orb"
+            },
+            {
+                "url": "/api/equipment/61",
+                "name": "Rod"
+            },
+            {
+                "url": "/api/equipment/62",
+                "name": "Staff"
+            },
+            {
+                "url": "/api/equipment/63",
+                "name": "Wand"
+            }
+        ],
+        "entry_descriptor": {
+            "index": 28,
+            "url": "/api/equipment-categories/28",
+            "name": "Arcane Focus",
+            "desc": []
+        }
     }
 ]

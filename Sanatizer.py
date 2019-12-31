@@ -291,6 +291,7 @@ def FixupReference(field, field_name_scoped, database_name_finder):
         if score != 100:
             log.info(f'{GetScopeName()} "name" field ({name}) does not match any entries, recommended: {new_name[0]}')
 
+        field["name"] = new_name[0]
         field["url"] = f"/api/{database_name}/{new_name[1]}"
         log.debug(f'Swapping {old_entry} for {field}. Confidence is {confidence}')
 
