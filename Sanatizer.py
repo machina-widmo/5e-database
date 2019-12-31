@@ -116,25 +116,15 @@ def Sanatize_StartingEquipmentDatabase(raw_json_data, database_name):
 
 @CustomDatabaseSanatizer("equipment")
 def Sanatize_EquipmentDatabase(raw_json_data, database_name):
-    def TransformNameToReference(name):
-        if isinstance(name, str):
-            # This will get fixed up later.
-            name = {"name": name, "url": "/api/equipment-categories/0"}
-
-        return name
-
-    top_level_shared_attributes = ["cost", ENTRY_DESCRIPTOR, 'category_specific']
-
     for json_object in raw_json_data:
-        category_specific = json_object.setdefault('category_specific', {})
+        category_specific = json_object["category_specific"]
+        nested_category_specific = category_specific["category_specific"]
 
-        for key in list(json_object.keys()):
-            if key.endswith("_category"):
-                json_object[key] = TransformNameToReference(json_object[key])
-
-            if not key in top_level_shared_attributes:
-                category_specific[key] = json_object[key]
-                del json_object[key]
+        if "vehicle_category" in nested_category_specific:
+            for key in list(category_specific):
+                if not key in ["equipment_category", "category_specific"]:
+                    nested_category_specific[key] = category_specific[key]
+                    del category_specific[key]
 
     return raw_json_data
 
