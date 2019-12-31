@@ -1,7 +1,7 @@
 [
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -31,7 +31,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "properties": [
                 {
@@ -53,7 +53,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -83,7 +83,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "properties": [
                 {
@@ -117,7 +117,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -147,7 +147,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "10"
+                "quantity": 10.0
             },
             "properties": [
                 {
@@ -165,7 +165,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -195,7 +195,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "properties": [
                 {
@@ -225,7 +225,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -255,7 +255,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "properties": [
                 {
@@ -281,7 +281,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -311,7 +311,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "properties": [
                 {
@@ -341,7 +341,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -371,7 +371,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "properties": [
                 {
@@ -389,7 +389,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -419,7 +419,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "properties": [
                 {
@@ -449,7 +449,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -479,7 +479,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "properties": [
                 {
@@ -501,7 +501,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -531,7 +531,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "properties": [
                 {
@@ -569,7 +569,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -599,7 +599,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "properties": [
                 {
@@ -625,7 +625,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -655,7 +655,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0.25"
+                "quantity": 0.25
             },
             "properties": [
                 {
@@ -681,7 +681,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -711,7 +711,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "properties": [
                 {
@@ -733,7 +733,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -763,7 +763,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "properties": [
                 {
@@ -781,7 +781,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -811,7 +811,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "properties": [
                 {
@@ -837,7 +837,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -867,7 +867,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "properties": [],
             "category_specific": {
@@ -880,7 +880,7 @@
     },
     {
         "cost": {
-            "quantity": 20,
+            "quantity": 20.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -910,7 +910,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "6"
+                "quantity": 6.0
             },
             "properties": [
                 {
@@ -936,7 +936,7 @@
     },
     {
         "cost": {
-            "quantity": 30,
+            "quantity": 30.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -966,7 +966,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "7"
+                "quantity": 7.0
             },
             "properties": [
                 {
@@ -988,7 +988,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1018,7 +1018,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "6"
+                "quantity": 6.0
             },
             "properties": [
                 {
@@ -1040,7 +1040,7 @@
     },
     {
         "cost": {
-            "quantity": 20,
+            "quantity": 20.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1070,7 +1070,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "6"
+                "quantity": 6.0
             },
             "properties": [
                 {
@@ -1096,7 +1096,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1126,7 +1126,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "6"
+                "quantity": 6.0
             },
             "properties": [
                 {
@@ -1151,7 +1151,7 @@
     },
     {
         "cost": {
-            "quantity": 15,
+            "quantity": 15.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1181,7 +1181,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "properties": [
                 {
@@ -1207,7 +1207,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1237,7 +1237,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "10"
+                "quantity": 10.0
             },
             "properties": [
                 {
@@ -1259,7 +1259,7 @@
     },
     {
         "cost": {
-            "quantity": 15,
+            "quantity": 15.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1289,7 +1289,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "properties": [],
             "category_specific": {
@@ -1302,7 +1302,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1332,7 +1332,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "18"
+                "quantity": 18.0
             },
             "properties": [
                 {
@@ -1358,7 +1358,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1388,7 +1388,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "properties": [
                 {
@@ -1406,7 +1406,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1436,7 +1436,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "properties": [
                 {
@@ -1458,7 +1458,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1488,7 +1488,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "properties": [
                 {
@@ -1514,7 +1514,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1544,7 +1544,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "properties": [
                 {
@@ -1578,7 +1578,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1608,7 +1608,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "properties": [],
             "category_specific": {
@@ -1621,7 +1621,7 @@
     },
     {
         "cost": {
-            "quantity": 15,
+            "quantity": 15.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1651,7 +1651,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "properties": [
                 {
@@ -1677,7 +1677,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1707,7 +1707,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "properties": [
                 {
@@ -1729,7 +1729,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1759,7 +1759,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "properties": [
                 {
@@ -1781,7 +1781,7 @@
     },
     {
         "cost": {
-            "quantity": 75,
+            "quantity": 75.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1811,7 +1811,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "properties": [
                 {
@@ -1837,7 +1837,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1867,7 +1867,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "18"
+                "quantity": 18.0
             },
             "properties": [
                 {
@@ -1897,7 +1897,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1927,7 +1927,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "properties": [
                 {
@@ -1953,7 +1953,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -1983,7 +1983,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "properties": [
                 {
@@ -2012,7 +2012,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2035,7 +2035,7 @@
             "stealth_disadvantage": true,
             "weight": {
                 "unit": "lbs",
-                "quantity": "8"
+                "quantity": 8.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2047,7 +2047,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2070,7 +2070,7 @@
             "stealth_disadvantage": false,
             "weight": {
                 "unit": "lbs",
-                "quantity": "10"
+                "quantity": 10.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2082,7 +2082,7 @@
     },
     {
         "cost": {
-            "quantity": 45,
+            "quantity": 45.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2105,7 +2105,7 @@
             "stealth_disadvantage": false,
             "weight": {
                 "unit": "lbs",
-                "quantity": "13"
+                "quantity": 13.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2117,7 +2117,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2140,7 +2140,7 @@
             "stealth_disadvantage": false,
             "weight": {
                 "unit": "lbs",
-                "quantity": "12"
+                "quantity": 12.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2152,7 +2152,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2175,7 +2175,7 @@
             "stealth_disadvantage": false,
             "weight": {
                 "unit": "lbs",
-                "quantity": "20"
+                "quantity": 20.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2187,7 +2187,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2210,7 +2210,7 @@
             "stealth_disadvantage": true,
             "weight": {
                 "unit": "lbs",
-                "quantity": "45"
+                "quantity": 45.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2222,7 +2222,7 @@
     },
     {
         "cost": {
-            "quantity": 400,
+            "quantity": 400.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2245,7 +2245,7 @@
             "stealth_disadvantage": false,
             "weight": {
                 "unit": "lbs",
-                "quantity": "20"
+                "quantity": 20.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2257,7 +2257,7 @@
     },
     {
         "cost": {
-            "quantity": 750,
+            "quantity": 750.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2280,7 +2280,7 @@
             "stealth_disadvantage": true,
             "weight": {
                 "unit": "lbs",
-                "quantity": "40"
+                "quantity": 40.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2292,7 +2292,7 @@
     },
     {
         "cost": {
-            "quantity": 30,
+            "quantity": 30.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2315,7 +2315,7 @@
             "stealth_disadvantage": true,
             "weight": {
                 "unit": "lbs",
-                "quantity": "40"
+                "quantity": 40.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2327,7 +2327,7 @@
     },
     {
         "cost": {
-            "quantity": 75,
+            "quantity": 75.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2350,7 +2350,7 @@
             "stealth_disadvantage": true,
             "weight": {
                 "unit": "lbs",
-                "quantity": "55"
+                "quantity": 55.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2362,7 +2362,7 @@
     },
     {
         "cost": {
-            "quantity": 200,
+            "quantity": 200.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2385,7 +2385,7 @@
             "stealth_disadvantage": true,
             "weight": {
                 "unit": "lbs",
-                "quantity": "60"
+                "quantity": 60.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2397,7 +2397,7 @@
     },
     {
         "cost": {
-            "quantity": 1500,
+            "quantity": 1500.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2420,7 +2420,7 @@
             "stealth_disadvantage": true,
             "weight": {
                 "unit": "lbs",
-                "quantity": "65"
+                "quantity": 65.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2432,7 +2432,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2455,7 +2455,7 @@
             "stealth_disadvantage": false,
             "weight": {
                 "unit": "lbs",
-                "quantity": "6"
+                "quantity": 6.0
             },
             "category_specific": {
                 "armor_category": {
@@ -2467,7 +2467,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2483,7 +2483,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2495,7 +2495,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2514,7 +2514,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2526,7 +2526,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2546,7 +2546,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2558,7 +2558,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -2574,7 +2574,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2586,7 +2586,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -2602,7 +2602,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2614,7 +2614,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -2630,7 +2630,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1.5"
+                "quantity": 1.5
             },
             "category_specific": {
                 "gear_category": {
@@ -2642,7 +2642,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -2658,7 +2658,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1.5"
+                "quantity": 1.5
             },
             "category_specific": {
                 "gear_category": {
@@ -2670,7 +2670,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2689,7 +2689,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2701,7 +2701,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2719,7 +2719,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2731,7 +2731,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2749,7 +2749,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2761,7 +2761,7 @@
     },
     {
         "cost": {
-            "quantity": 20,
+            "quantity": 20.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2779,7 +2779,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2791,7 +2791,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2809,7 +2809,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2821,7 +2821,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2839,7 +2839,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2851,7 +2851,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2869,7 +2869,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2881,7 +2881,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2897,7 +2897,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2909,7 +2909,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2929,7 +2929,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2941,7 +2941,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -2957,7 +2957,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "70"
+                "quantity": 70.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2969,7 +2969,7 @@
     },
     {
         "cost": {
-            "quantity": 4,
+            "quantity": 4.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -2985,7 +2985,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -2997,7 +2997,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3013,7 +3013,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "7"
+                "quantity": 7.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3025,7 +3025,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3041,7 +3041,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3053,7 +3053,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -3069,7 +3069,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3081,7 +3081,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3099,7 +3099,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3111,7 +3111,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3129,7 +3129,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3141,7 +3141,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3157,7 +3157,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3169,7 +3169,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -3185,7 +3185,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3197,7 +3197,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -3218,7 +3218,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3230,7 +3230,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -3248,7 +3248,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3260,7 +3260,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3278,7 +3278,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3290,7 +3290,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3308,7 +3308,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3320,7 +3320,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3338,7 +3338,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "10"
+                "quantity": 10.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3350,7 +3350,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -3366,7 +3366,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3378,7 +3378,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3394,7 +3394,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "25"
+                "quantity": 25.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3406,7 +3406,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -3422,7 +3422,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3434,7 +3434,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3450,7 +3450,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3462,7 +3462,7 @@
     },
     {
         "cost": {
-            "quantity": 15,
+            "quantity": 15.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3478,7 +3478,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "6"
+                "quantity": 6.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3490,7 +3490,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3506,7 +3506,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3518,7 +3518,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3536,7 +3536,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3548,7 +3548,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3566,7 +3566,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3578,7 +3578,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3596,7 +3596,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3608,7 +3608,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3626,7 +3626,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3638,7 +3638,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3656,7 +3656,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3668,7 +3668,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3686,7 +3686,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3698,7 +3698,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3717,7 +3717,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3729,7 +3729,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3747,7 +3747,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3759,7 +3759,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -3775,7 +3775,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3787,7 +3787,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3803,7 +3803,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3815,7 +3815,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3831,7 +3831,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3843,7 +3843,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3859,7 +3859,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "10"
+                "quantity": 10.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3871,7 +3871,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3892,7 +3892,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3904,7 +3904,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3920,7 +3920,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3932,7 +3932,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3952,7 +3952,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "25"
+                "quantity": 25.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3964,7 +3964,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -3980,7 +3980,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -3992,7 +3992,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -4008,7 +4008,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4020,7 +4020,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -4036,7 +4036,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4048,7 +4048,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4066,7 +4066,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "12"
+                "quantity": 12.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4078,7 +4078,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4096,7 +4096,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4108,7 +4108,7 @@
     },
     {
         "cost": {
-            "quantity": 15,
+            "quantity": 15.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4126,7 +4126,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4138,7 +4138,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4156,7 +4156,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4168,7 +4168,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4186,7 +4186,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4198,7 +4198,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -4216,7 +4216,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4228,7 +4228,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4246,7 +4246,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4258,7 +4258,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -4274,7 +4274,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "25"
+                "quantity": 25.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4286,7 +4286,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -4304,7 +4304,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4316,7 +4316,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4334,7 +4334,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4346,7 +4346,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4364,7 +4364,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4376,7 +4376,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4394,7 +4394,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4406,7 +4406,7 @@
     },
     {
         "cost": {
-            "quantity": 100,
+            "quantity": 100.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4425,7 +4425,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4437,7 +4437,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4456,7 +4456,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "6"
+                "quantity": 6.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4468,7 +4468,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4484,7 +4484,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0.5"
+                "quantity": 0.5
             },
             "category_specific": {
                 "gear_category": {
@@ -4496,7 +4496,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -4518,7 +4518,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4530,7 +4530,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -4546,7 +4546,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4558,7 +4558,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -4574,7 +4574,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4586,7 +4586,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4602,7 +4602,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4614,7 +4614,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4630,7 +4630,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "10"
+                "quantity": 10.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4642,7 +4642,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -4658,7 +4658,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0.25"
+                "quantity": 0.25
             },
             "category_specific": {
                 "gear_category": {
@@ -4670,7 +4670,7 @@
     },
     {
         "cost": {
-            "quantity": 100,
+            "quantity": 100.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4688,7 +4688,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4700,7 +4700,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -4716,7 +4716,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "7"
+                "quantity": 7.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4728,7 +4728,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4744,7 +4744,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "10"
+                "quantity": 10.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4756,7 +4756,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4774,7 +4774,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0.5"
+                "quantity": 0.5
             },
             "category_specific": {
                 "gear_category": {
@@ -4786,7 +4786,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -4804,7 +4804,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4816,7 +4816,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4834,7 +4834,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4846,7 +4846,7 @@
     },
     {
         "cost": {
-            "quantity": 4,
+            "quantity": 4.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4864,7 +4864,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "35"
+                "quantity": 35.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4876,7 +4876,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -4894,7 +4894,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4906,7 +4906,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4925,7 +4925,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4937,7 +4937,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4953,7 +4953,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "4"
+                "quantity": 4.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4965,7 +4965,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -4983,7 +4983,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "10"
+                "quantity": 10.0
             },
             "category_specific": {
                 "gear_category": {
@@ -4995,7 +4995,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5013,7 +5013,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5025,7 +5025,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -5041,7 +5041,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0.5"
+                "quantity": 0.5
             },
             "category_specific": {
                 "gear_category": {
@@ -5053,7 +5053,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5071,7 +5071,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5083,7 +5083,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -5099,7 +5099,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5111,7 +5111,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5127,7 +5127,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5139,7 +5139,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -5155,7 +5155,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5167,7 +5167,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5183,7 +5183,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5195,7 +5195,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -5211,7 +5211,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5223,7 +5223,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5241,7 +5241,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5253,7 +5253,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -5269,7 +5269,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5281,7 +5281,7 @@
     },
     {
         "cost": {
-            "quantity": 1000,
+            "quantity": 1000.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5299,7 +5299,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5311,7 +5311,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5329,7 +5329,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "20"
+                "quantity": 20.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5341,7 +5341,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -5360,7 +5360,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5372,7 +5372,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -5390,7 +5390,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5402,7 +5402,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5418,7 +5418,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5430,7 +5430,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -5446,7 +5446,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5458,7 +5458,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -5474,7 +5474,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "gear_category": {
@@ -5486,7 +5486,7 @@
     },
     {
         "cost": {
-            "quantity": 16,
+            "quantity": 16.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5560,7 +5560,7 @@
     },
     {
         "cost": {
-            "quantity": 39,
+            "quantity": 39.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5630,7 +5630,7 @@
     },
     {
         "cost": {
-            "quantity": 12,
+            "quantity": 12.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5688,7 +5688,7 @@
     },
     {
         "cost": {
-            "quantity": 40,
+            "quantity": 40.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5742,7 +5742,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5800,7 +5800,7 @@
     },
     {
         "cost": {
-            "quantity": 19,
+            "quantity": 19.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5850,7 +5850,7 @@
     },
     {
         "cost": {
-            "quantity": 40,
+            "quantity": 40.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5896,7 +5896,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5914,7 +5914,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "8"
+                "quantity": 8.0
             },
             "category_specific": {
                 "tool_category": {
@@ -5926,7 +5926,7 @@
     },
     {
         "cost": {
-            "quantity": 20,
+            "quantity": 20.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5944,7 +5944,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "9"
+                "quantity": 9.0
             },
             "category_specific": {
                 "tool_category": {
@@ -5956,7 +5956,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -5974,7 +5974,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "tool_category": {
@@ -5986,7 +5986,7 @@
     },
     {
         "cost": {
-            "quantity": 8,
+            "quantity": 8.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6004,7 +6004,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "6"
+                "quantity": 6.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6016,7 +6016,7 @@
     },
     {
         "cost": {
-            "quantity": 15,
+            "quantity": 15.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6034,7 +6034,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "6"
+                "quantity": 6.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6046,7 +6046,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6064,7 +6064,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6076,7 +6076,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6094,7 +6094,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "8"
+                "quantity": 8.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6106,7 +6106,7 @@
     },
     {
         "cost": {
-            "quantity": 30,
+            "quantity": 30.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6124,7 +6124,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6136,7 +6136,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6154,7 +6154,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6166,7 +6166,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6184,7 +6184,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6196,7 +6196,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6214,7 +6214,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "8"
+                "quantity": 8.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6226,7 +6226,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6244,7 +6244,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6256,7 +6256,7 @@
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6274,7 +6274,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6286,7 +6286,7 @@
     },
     {
         "cost": {
-            "quantity": 20,
+            "quantity": 20.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6304,7 +6304,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "8"
+                "quantity": 8.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6316,7 +6316,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6334,7 +6334,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "10"
+                "quantity": 10.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6346,7 +6346,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6364,7 +6364,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6376,7 +6376,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6394,7 +6394,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "5"
+                "quantity": 5.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6406,7 +6406,7 @@
     },
     {
         "cost": {
-            "quantity": 1,
+            "quantity": 1.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -6424,7 +6424,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6436,7 +6436,7 @@
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -6454,7 +6454,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "0"
+                "quantity": 0.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6466,7 +6466,7 @@
     },
     {
         "cost": {
-            "quantity": 30,
+            "quantity": 30.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6484,7 +6484,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "6"
+                "quantity": 6.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6496,7 +6496,7 @@
     },
     {
         "cost": {
-            "quantity": 6,
+            "quantity": 6.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6514,7 +6514,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "3"
+                "quantity": 3.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6526,7 +6526,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6544,7 +6544,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "10"
+                "quantity": 10.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6556,7 +6556,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6574,7 +6574,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6586,7 +6586,7 @@
     },
     {
         "cost": {
-            "quantity": 35,
+            "quantity": 35.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6604,7 +6604,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6616,7 +6616,7 @@
     },
     {
         "cost": {
-            "quantity": 30,
+            "quantity": 30.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6634,7 +6634,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6646,7 +6646,7 @@
     },
     {
         "cost": {
-            "quantity": 3,
+            "quantity": 3.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6664,7 +6664,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6676,7 +6676,7 @@
     },
     {
         "cost": {
-            "quantity": 12,
+            "quantity": 12.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6694,7 +6694,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6706,7 +6706,7 @@
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6724,7 +6724,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6736,7 +6736,7 @@
     },
     {
         "cost": {
-            "quantity": 30,
+            "quantity": 30.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6754,7 +6754,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6766,7 +6766,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6784,7 +6784,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "2"
+                "quantity": 2.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6796,7 +6796,7 @@
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6814,7 +6814,7 @@
             },
             "weight": {
                 "unit": "lbs",
-                "quantity": "1"
+                "quantity": 1.0
             },
             "category_specific": {
                 "tool_category": {
@@ -6826,7 +6826,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6846,19 +6846,19 @@
                     "url": "/api/equipment-categories/22"
                 },
                 "speed": {
-                    "quantity": 50,
+                    "quantity": 50.0,
                     "unit": "ft/round"
                 },
                 "capacity": {
                     "unit": "lbs",
-                    "quantity": "480.0"
+                    "quantity": 480.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 8,
+            "quantity": 8.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6878,19 +6878,19 @@
                     "url": "/api/equipment-categories/22"
                 },
                 "speed": {
-                    "quantity": 40,
+                    "quantity": 40.0,
                     "unit": "ft/round"
                 },
                 "capacity": {
                     "unit": "lbs",
-                    "quantity": "420.0"
+                    "quantity": 420.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 8,
+            "quantity": 8.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6910,19 +6910,19 @@
                     "url": "/api/equipment-categories/22"
                 },
                 "speed": {
-                    "quantity": 40,
+                    "quantity": 40.0,
                     "unit": "ft/round"
                 },
                 "capacity": {
                     "unit": "lbs",
-                    "quantity": "420.0"
+                    "quantity": 420.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 200,
+            "quantity": 200.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6942,19 +6942,19 @@
                     "url": "/api/equipment-categories/22"
                 },
                 "speed": {
-                    "quantity": 40,
+                    "quantity": 40.0,
                     "unit": "ft/round"
                 },
                 "capacity": {
                     "unit": "lbs",
-                    "quantity": "1320.0"
+                    "quantity": 1320.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -6974,19 +6974,19 @@
                     "url": "/api/equipment-categories/22"
                 },
                 "speed": {
-                    "quantity": 40,
+                    "quantity": 40.0,
                     "unit": "ft/round"
                 },
                 "capacity": {
                     "unit": "lbs",
-                    "quantity": "540.0"
+                    "quantity": 540.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 75,
+            "quantity": 75.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7006,19 +7006,19 @@
                     "url": "/api/equipment-categories/22"
                 },
                 "speed": {
-                    "quantity": 60,
+                    "quantity": 60.0,
                     "unit": "ft/round"
                 },
                 "capacity": {
                     "unit": "lbs",
-                    "quantity": "480.0"
+                    "quantity": 480.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 25,
+            "quantity": 25.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7038,19 +7038,19 @@
                     "url": "/api/equipment-categories/22"
                 },
                 "speed": {
-                    "quantity": 40,
+                    "quantity": 40.0,
                     "unit": "ft/round"
                 },
                 "capacity": {
                     "unit": "lbs",
-                    "quantity": "195.0"
+                    "quantity": 195.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 30,
+            "quantity": 30.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7070,19 +7070,19 @@
                     "url": "/api/equipment-categories/22"
                 },
                 "speed": {
-                    "quantity": 40,
+                    "quantity": 40.0,
                     "unit": "ft/round"
                 },
                 "capacity": {
                     "unit": "lbs",
-                    "quantity": "225.0"
+                    "quantity": 225.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 400,
+            "quantity": 400.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7102,19 +7102,19 @@
                     "url": "/api/equipment-categories/22"
                 },
                 "speed": {
-                    "quantity": 60,
+                    "quantity": 60.0,
                     "unit": "ft/round"
                 },
                 "capacity": {
                     "unit": "lbs",
-                    "quantity": "540.0"
+                    "quantity": 540.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 20,
+            "quantity": 20.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7137,14 +7137,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "16"
+                    "quantity": 16.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 40,
+            "quantity": 40.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7167,14 +7167,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "20"
+                    "quantity": 20.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 180,
+            "quantity": 180.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7197,14 +7197,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "26"
+                    "quantity": 26.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 40,
+            "quantity": 40.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7227,14 +7227,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "24"
+                    "quantity": 24.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 200,
+            "quantity": 200.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7257,14 +7257,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "40"
+                    "quantity": 40.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 200,
+            "quantity": 200.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7287,14 +7287,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "90"
+                    "quantity": 90.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 1600,
+            "quantity": 1600.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7317,14 +7317,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "40"
+                    "quantity": 40.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 3000,
+            "quantity": 3000.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7347,14 +7347,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "80"
+                    "quantity": 80.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 12,
+            "quantity": 12.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7377,14 +7377,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "80"
+                    "quantity": 80.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 300,
+            "quantity": 300.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7407,14 +7407,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "110"
+                    "quantity": 110.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 800,
+            "quantity": 800.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7437,14 +7437,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "120"
+                    "quantity": 120.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 6000,
+            "quantity": 6000.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7467,14 +7467,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "130"
+                    "quantity": 130.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 2,
+            "quantity": 2.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7495,14 +7495,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "1"
+                    "quantity": 1.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 100,
+            "quantity": 100.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7523,14 +7523,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "600"
+                    "quantity": 600.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 15,
+            "quantity": 15.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7551,14 +7551,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "200"
+                    "quantity": 200.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 250,
+            "quantity": 250.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7579,14 +7579,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "100"
+                    "quantity": 100.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "cp"
         },
         "entry_descriptor": {
@@ -7607,14 +7607,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "10"
+                    "quantity": 10.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 60,
+            "quantity": 60.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7637,14 +7637,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "50"
+                    "quantity": 50.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 20,
+            "quantity": 20.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7667,14 +7667,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "30"
+                    "quantity": 30.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7697,14 +7697,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "15"
+                    "quantity": 15.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 10,
+            "quantity": 10.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7725,14 +7725,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "25"
+                    "quantity": 25.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 4,
+            "quantity": 4.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7753,14 +7753,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "8"
+                    "quantity": 8.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 20,
+            "quantity": 20.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7781,14 +7781,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "300"
+                    "quantity": 300.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 5,
+            "quantity": 5.0,
             "unit": "sp"
         },
         "entry_descriptor": {
@@ -7809,14 +7809,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "0"
+                    "quantity": 0.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 35,
+            "quantity": 35.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7837,14 +7837,14 @@
                 },
                 "weight": {
                     "unit": "lbs",
-                    "quantity": "400"
+                    "quantity": 400.0
                 }
             }
         }
     },
     {
         "cost": {
-            "quantity": 30000,
+            "quantity": 30000.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7864,7 +7864,7 @@
                     "url": "/api/equipment-categories/24"
                 },
                 "speed": {
-                    "quantity": 4,
+                    "quantity": 4.0,
                     "unit": "mph"
                 }
             }
@@ -7872,7 +7872,7 @@
     },
     {
         "cost": {
-            "quantity": 3000,
+            "quantity": 3000.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7894,7 +7894,7 @@
                     "url": "/api/equipment-categories/24"
                 },
                 "speed": {
-                    "quantity": 1,
+                    "quantity": 1.0,
                     "unit": "mph"
                 }
             }
@@ -7902,7 +7902,7 @@
     },
     {
         "cost": {
-            "quantity": 10000,
+            "quantity": 10000.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7922,7 +7922,7 @@
                     "url": "/api/equipment-categories/24"
                 },
                 "speed": {
-                    "quantity": 3,
+                    "quantity": 3.0,
                     "unit": "mph"
                 }
             }
@@ -7930,7 +7930,7 @@
     },
     {
         "cost": {
-            "quantity": 50,
+            "quantity": 50.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7960,7 +7960,7 @@
     },
     {
         "cost": {
-            "quantity": 10000,
+            "quantity": 10000.0,
             "unit": "gp"
         },
         "entry_descriptor": {
@@ -7980,7 +7980,7 @@
                     "url": "/api/equipment-categories/24"
                 },
                 "speed": {
-                    "quantity": 2,
+                    "quantity": 2.0,
                     "unit": "mph"
                 }
             }
@@ -7988,7 +7988,7 @@
     },
     {
         "cost": {
-            "quantity": 25000,
+            "quantity": 25000.0,
             "unit": "gp"
         },
         "entry_descriptor": {

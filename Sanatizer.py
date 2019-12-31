@@ -360,14 +360,9 @@ def Sanatize(raw_json_data, database_name):
                 else:
                     cur_object[key] = __SanatizeRecurse(value, is_top_level=False)
 
-                    # If we have a URL value, then this is a reference to some other database entry.
-                    # Do a quick sanity check to see if it conforms to our expected format.
-                    if not is_top_level:
-                        if "url" in value:
-                            if "name" not in value:
-                                log.info(f"Found object field '{key}' that appears to be a reference, but is missing name field. Database {database_name}.")
-                            if len(value) != 2:
-                                log.info(f"Found object field '{key}' that appears to be a reference, but has an incorrect number of fields (expects 2 found {len(value)}). Database {database_name}'")
+                    if len(value) == 2:
+                        if 'unit' in value and 'quantity' in value:
+                            value['quantity'] = float(value['quantity'])
 
         return cur_object
 
