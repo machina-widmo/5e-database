@@ -5812,7 +5812,7 @@
         "prof_bonus": 2,
         "feature_choices": [
             {
-                "name": "Expertise 1",
+                "name": "Choose: Expertise 1",
                 "url": "/api/features/31"
             }
         ],
@@ -5971,7 +5971,7 @@
         "prof_bonus": 3,
         "feature_choices": [
             {
-                "name": "Expertise 2",
+                "name": "Choose: Expertise 2",
                 "url": "/api/features/58"
             }
         ],
@@ -6530,7 +6530,7 @@
         "prof_bonus": 2,
         "feature_choices": [
             {
-                "name": "Choose: Metamagic, First and Second",
+                "name": "Choose: Metamagic",
                 "url": "/api/features/319"
             }
         ],
@@ -6958,7 +6958,7 @@
         "prof_bonus": 4,
         "feature_choices": [
             {
-                "name": "Choose: Metamagic, Third",
+                "name": "Choose: Metamagic",
                 "url": "/api/features/319"
             }
         ],
@@ -7386,7 +7386,7 @@
         "prof_bonus": 6,
         "feature_choices": [
             {
-                "name": "Choose: Metamagic, Fourth",
+                "name": "Choose: Metamagic",
                 "url": "/api/features/319"
             }
         ],

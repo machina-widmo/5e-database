@@ -491,7 +491,7 @@
                 ],
                 "spell": {
                     "url": "/api/spells/233",
-                    "name": "Protection From Energy"
+                    "name": "Protection from Energy"
                 }
             },
             {
@@ -667,7 +667,7 @@
                 ],
                 "spell": {
                     "url": "/api/spells/47",
-                    "name": "Commune With Nature"
+                    "name": "Commune with Nature"
                 }
             },
             {
@@ -715,7 +715,7 @@
                 ],
                 "spell": {
                     "url": "/api/spells/213",
-                    "name": "Pass Without Trace"
+                    "name": "Pass without Trace"
                 }
             },
             {
@@ -875,7 +875,7 @@
                 ],
                 "spell": {
                     "url": "/api/spells/199",
-                    "name": "Meld Into Stone"
+                    "name": "Meld into Stone"
                 }
             },
             {

@@ -373,52 +373,7 @@
                 "url": "/api/traits/17"
             }
         ],
-        "trait_options": {
-            "choose": 1,
-            "from": [
-                {
-                    "name": "Breath Weapon (Black)",
-                    "url": "/api/traits/16"
-                },
-                {
-                    "name": "Breath Weapon (Blue)",
-                    "url": "/api/traits/16"
-                },
-                {
-                    "name": "Breath Weapon (Brass)",
-                    "url": "/api/traits/16"
-                },
-                {
-                    "name": "Breath Weapon (Bronze)",
-                    "url": "/api/traits/16"
-                },
-                {
-                    "name": "Breath Weapon (Copper)",
-                    "url": "/api/traits/16"
-                },
-                {
-                    "name": "Breath Weapon (Gold)",
-                    "url": "/api/traits/16"
-                },
-                {
-                    "name": "Breath Weapon (Green)",
-                    "url": "/api/traits/16"
-                },
-                {
-                    "name": "Breath Weapon (Red)",
-                    "url": "/api/traits/16"
-                },
-                {
-                    "name": "Breath Weapon (Silver)",
-                    "url": "/api/traits/16"
-                },
-                {
-                    "name": "Breath Weapon (White)",
-                    "url": "/api/traits/16"
-                }
-            ],
-            "type": "trait"
-        },
+        "trait_options": null,
         "subraces": [],
         "entry_descriptor": {
             "index": 4,
@@ -654,7 +609,7 @@
             },
             {
                 "url": "/api/languages/7",
-                "name": "Orcish"
+                "name": "Orc"
             }
         ],
         "language_options": null,
@@ -669,7 +624,7 @@
                 "url": "/api/traits/24"
             },
             {
-                "name": "Restless Endurance",
+                "name": "Relentless Endurance",
                 "url": "/api/traits/23"
             }
         ],
@@ -725,7 +680,7 @@
                 "url": "/api/traits/25"
             },
             {
-                "name": "Infernal Legacy",
+                "name": "Internal Legacy",
                 "url": "/api/traits/26"
             }
         ],
