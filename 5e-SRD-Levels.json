@@ -4631,18 +4631,26 @@
                 "url": "/api/features/207"
             }
         ],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 2,
-        "spell_slots_level_3": 0,
-        "spell_slots_level_4": 0,
-        "spell_slots_level_5": 0,
         "aura_range": 10,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                2,
+                0,
+                0,
+                0
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 125,
             "url": "/api/levels/125",
@@ -4656,18 +4664,26 @@
         "prof_bonus": 3,
         "feature_choices": [],
         "features": [],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 0,
-        "spell_slots_level_4": 0,
-        "spell_slots_level_5": 0,
         "aura_range": 10,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                0,
+                0,
+                0
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 126,
             "url": "/api/levels/126",
@@ -4686,18 +4702,26 @@
                 "url": "/api/features/11"
             }
         ],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 0,
-        "spell_slots_level_4": 0,
-        "spell_slots_level_5": 0,
         "aura_range": 10,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                0,
+                0,
+                0
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 127,
             "url": "/api/levels/127",
@@ -4711,18 +4735,26 @@
         "prof_bonus": 4,
         "feature_choices": [],
         "features": [],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 2,
-        "spell_slots_level_4": 0,
-        "spell_slots_level_5": 0,
         "aura_range": 10,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                2,
+                0,
+                0
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 128,
             "url": "/api/levels/128",
@@ -4741,18 +4773,26 @@
                 "url": "/api/features/210"
             }
         ],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 2,
-        "spell_slots_level_4": 0,
-        "spell_slots_level_5": 0,
         "aura_range": 10,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                2,
+                0,
+                0
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 129,
             "url": "/api/levels/129",
@@ -4771,18 +4811,26 @@
                 "url": "/api/features/211"
             }
         ],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 3,
-        "spell_slots_level_4": 0,
-        "spell_slots_level_5": 0,
         "aura_range": 10,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                0,
+                0
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 130,
             "url": "/api/levels/130",
@@ -4801,18 +4849,26 @@
                 "url": "/api/features/15"
             }
         ],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 3,
-        "spell_slots_level_4": 0,
-        "spell_slots_level_5": 0,
         "aura_range": 10,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                0,
+                0
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 131,
             "url": "/api/levels/131",
@@ -4826,18 +4882,26 @@
         "prof_bonus": 5,
         "feature_choices": [],
         "features": [],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 3,
-        "spell_slots_level_4": 1,
-        "spell_slots_level_5": 0,
         "aura_range": 10,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                1,
+                0
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 132,
             "url": "/api/levels/132",
@@ -4856,18 +4920,26 @@
                 "url": "/api/features/213"
             }
         ],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 3,
-        "spell_slots_level_4": 1,
-        "spell_slots_level_5": 0,
         "aura_range": 10,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                1,
+                0
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 133,
             "url": "/api/levels/133",
@@ -4918,18 +4990,26 @@
                 "url": "/api/features/19"
             }
         ],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 3,
-        "spell_slots_level_4": 2,
-        "spell_slots_level_5": 0,
         "aura_range": 10,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                2,
+                0
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 135,
             "url": "/api/levels/135",
@@ -4943,18 +5023,26 @@
         "prof_bonus": 6,
         "feature_choices": [],
         "features": [],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 3,
-        "spell_slots_level_4": 3,
-        "spell_slots_level_5": 1,
         "aura_range": 10,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                3,
+                1
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 136,
             "url": "/api/levels/136",
@@ -4973,18 +5061,26 @@
                 "url": "/api/features/216"
             }
         ],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 3,
-        "spell_slots_level_4": 3,
-        "spell_slots_level_5": 1,
         "aura_range": 30,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                3,
+                1
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 137,
             "url": "/api/levels/137",
@@ -5003,18 +5099,26 @@
                 "url": "/api/features/22"
             }
         ],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 3,
-        "spell_slots_level_4": 3,
-        "spell_slots_level_5": 2,
         "aura_range": 30,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                3,
+                2
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 138,
             "url": "/api/levels/138",
@@ -5028,18 +5132,26 @@
         "prof_bonus": 6,
         "feature_choices": [],
         "features": [],
-        "spell_slots_level_1": 4,
-        "spell_slots_level_2": 3,
-        "spell_slots_level_3": 3,
-        "spell_slots_level_4": 3,
-        "spell_slots_level_5": 2,
         "aura_range": 30,
         "class": {
             "name": "Paladin",
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "spellcasting": null,
+        "spellcasting": {
+            "cantrips_known": 0,
+            "spells_known": 0,
+            "spell_slots": [
+                4,
+                3,
+                3,
+                3,
+                2
+            ]
+        },
+        "class_specific": {
+            "aura_range": 0
+        },
         "entry_descriptor": {
             "index": 139,
             "url": "/api/levels/139",
@@ -6438,7 +6550,13 @@
         "class_specific": {
             "sorcery_points": 0,
             "metamagic_known": 0,
-            "creating_spell_slots": []
+            "creating_spell_slots": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
         },
         "class": {
             "name": "Sorcerer",
@@ -6490,26 +6608,11 @@
             "sorcery_points": 2,
             "metamagic_known": 0,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -6554,26 +6657,11 @@
             "sorcery_points": 3,
             "metamagic_known": 2,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -6618,26 +6706,11 @@
             "sorcery_points": 4,
             "metamagic_known": 2,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -6677,26 +6750,11 @@
             "sorcery_points": 5,
             "metamagic_known": 2,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -6736,26 +6794,11 @@
             "sorcery_points": 6,
             "metamagic_known": 2,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -6795,26 +6838,11 @@
             "sorcery_points": 7,
             "metamagic_known": 2,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -6859,26 +6887,11 @@
             "sorcery_points": 8,
             "metamagic_known": 2,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -6918,26 +6931,11 @@
             "sorcery_points": 9,
             "metamagic_known": 2,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -6982,26 +6980,11 @@
             "sorcery_points": 10,
             "metamagic_known": 3,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -7041,26 +7024,11 @@
             "sorcery_points": 11,
             "metamagic_known": 3,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -7105,26 +7073,11 @@
             "sorcery_points": 12,
             "metamagic_known": 3,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -7164,26 +7117,11 @@
             "sorcery_points": 13,
             "metamagic_known": 3,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -7223,26 +7161,11 @@
             "sorcery_points": 14,
             "metamagic_known": 3,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -7282,26 +7205,11 @@
             "sorcery_points": 15,
             "metamagic_known": 3,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -7346,26 +7254,11 @@
             "sorcery_points": 16,
             "metamagic_known": 4,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -7410,26 +7303,11 @@
             "sorcery_points": 17,
             "metamagic_known": 4,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -7469,26 +7347,11 @@
             "sorcery_points": 18,
             "metamagic_known": 4,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -7533,26 +7396,11 @@
             "sorcery_points": 19,
             "metamagic_known": 4,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {
@@ -7597,26 +7445,11 @@
             "sorcery_points": 20,
             "metamagic_known": 4,
             "creating_spell_slots": [
-                {
-                    "spell_slot_level": 1,
-                    "sorcery_point_cost": 2
-                },
-                {
-                    "spell_slot_level": 2,
-                    "sorcery_point_cost": 3
-                },
-                {
-                    "spell_slot_level": 3,
-                    "sorcery_point_cost": 5
-                },
-                {
-                    "spell_slot_level": 4,
-                    "sorcery_point_cost": 6
-                },
-                {
-                    "spell_slot_level": 5,
-                    "sorcery_point_cost": 7
-                }
+                2,
+                3,
+                5,
+                6,
+                7
             ]
         },
         "class": {

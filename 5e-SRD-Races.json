@@ -3,9 +3,11 @@
         "speed": 30,
         "ability_bonuses": [
             {
-                "name": "CON",
-                "url": "/api/ability-scores/3",
-                "bonus": 2
+                "ability": {
+                    "name": "CON",
+                    "url": "/api/ability-scores/2"
+                },
+                "value": 2
             }
         ],
         "ability_bonus_options": null,
@@ -92,9 +94,11 @@
         "speed": 30,
         "ability_bonuses": [
             {
-                "name": "DEX",
-                "url": "/api/ability-scores/2",
-                "bonus": 2
+                "ability": {
+                    "name": "DEX",
+                    "url": "/api/ability-scores/1"
+                },
+                "value": 2
             }
         ],
         "ability_bonus_options": null,
@@ -152,9 +156,11 @@
         "speed": 25,
         "ability_bonuses": [
             {
-                "name": "DEX",
-                "url": "/api/ability-scores/2",
-                "bonus": 2
+                "ability": {
+                    "name": "DEX",
+                    "url": "/api/ability-scores/1"
+                },
+                "value": 2
             }
         ],
         "ability_bonus_options": null,
@@ -207,34 +213,46 @@
         "speed": 30,
         "ability_bonuses": [
             {
-                "name": "STR",
-                "url": "/api/ability-scores/1",
-                "bonus": 1
+                "ability": {
+                    "name": "STR",
+                    "url": "/api/ability-scores/0"
+                },
+                "value": 1
             },
             {
-                "name": "DEX",
-                "url": "/api/ability-scores/2",
-                "bonus": 1
+                "ability": {
+                    "name": "DEX",
+                    "url": "/api/ability-scores/1"
+                },
+                "value": 1
             },
             {
-                "name": "CON",
-                "url": "/api/ability-scores/3",
-                "bonus": 1
+                "ability": {
+                    "name": "CON",
+                    "url": "/api/ability-scores/2"
+                },
+                "value": 1
             },
             {
-                "name": "INT",
-                "url": "/api/ability-scores/4",
-                "bonus": 1
+                "ability": {
+                    "name": "INT",
+                    "url": "/api/ability-scores/3"
+                },
+                "value": 1
             },
             {
-                "name": "WIS",
-                "url": "/api/ability-scores/5",
-                "bonus": 1
+                "ability": {
+                    "name": "WIS",
+                    "url": "/api/ability-scores/4"
+                },
+                "value": 1
             },
             {
-                "name": "CHA",
-                "url": "/api/ability-scores/6",
-                "bonus": 1
+                "ability": {
+                    "name": "CHA",
+                    "url": "/api/ability-scores/5"
+                },
+                "value": 1
             }
         ],
         "ability_bonus_options": null,
@@ -330,14 +348,18 @@
         "speed": 30,
         "ability_bonuses": [
             {
-                "name": "STR",
-                "url": "/api/ability-scores/1",
-                "bonus": 2
+                "ability": {
+                    "name": "STR",
+                    "url": "/api/ability-scores/0"
+                },
+                "value": 2
             },
             {
-                "name": "CHA",
-                "url": "/api/ability-scores/6",
-                "bonus": 1
+                "ability": {
+                    "name": "CHA",
+                    "url": "/api/ability-scores/5"
+                },
+                "value": 1
             }
         ],
         "ability_bonus_options": null,
@@ -386,9 +408,11 @@
         "speed": 25,
         "ability_bonuses": [
             {
-                "name": "INT",
-                "url": "/api/ability-scores/4",
-                "bonus": 2
+                "ability": {
+                    "name": "INT",
+                    "url": "/api/ability-scores/3"
+                },
+                "value": 2
             }
         ],
         "ability_bonus_options": null,
@@ -438,9 +462,11 @@
         "speed": 30,
         "ability_bonuses": [
             {
-                "name": "CHA",
-                "url": "/api/ability-scores/6",
-                "bonus": 2
+                "ability": {
+                    "name": "CHA",
+                    "url": "/api/ability-scores/5"
+                },
+                "value": 2
             }
         ],
         "ability_bonus_options": {
@@ -580,14 +606,18 @@
         "speed": 30,
         "ability_bonuses": [
             {
-                "name": "STR",
-                "url": "/api/ability-scores/1",
-                "bonus": 2
+                "ability": {
+                    "name": "STR",
+                    "url": "/api/ability-scores/0"
+                },
+                "value": 2
             },
             {
-                "name": "CON",
-                "url": "/api/ability-scores/3",
-                "bonus": 1
+                "ability": {
+                    "name": "CON",
+                    "url": "/api/ability-scores/2"
+                },
+                "value": 1
             }
         ],
         "ability_bonus_options": null,
@@ -641,14 +671,18 @@
         "speed": 30,
         "ability_bonuses": [
             {
-                "name": "INT",
-                "url": "/api/ability-scores/4",
-                "bonus": 1
+                "ability": {
+                    "name": "INT",
+                    "url": "/api/ability-scores/3"
+                },
+                "value": 1
             },
             {
-                "name": "CHA",
-                "url": "/api/ability-scores/6",
-                "bonus": 2
+                "ability": {
+                    "name": "CHA",
+                    "url": "/api/ability-scores/5"
+                },
+                "value": 2
             }
         ],
         "ability_bonus_options": null,

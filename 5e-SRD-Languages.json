@@ -150,7 +150,7 @@
             "Aboleths",
             "Cloakers"
         ],
-        "script": null,
+        "script": "None",
         "entry_descriptor": {
             "index": 11,
             "url": "/api/languages/11",

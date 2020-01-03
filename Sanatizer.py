@@ -46,6 +46,9 @@ class DatabaseNameFinder():
     def GetDatabaseFromName(self, database_name):
         return self.databases_by_name.get(database_name, None)
 
+    def GetEntryFromUrl(self, url_parts):
+        return self.databases_by_name[url_parts[1]][int(url_parts[2])]
+
 
 def CustomDatabaseSanatizer(database_name):
     def Inner(func):
@@ -72,145 +75,33 @@ def CustomDatabaseSanatizer_PostRefFixup(database_name):
 def Noop(*args, **kwargs):
     return raw_json_data
 
-@CustomDatabaseSanatizer("levels")
-def Sanatize_LevelsDatabase(raw_json_data, database_name):
-    levels_by_class = {}
 
+@CustomDatabaseSanatizer("races")
+def Sanatize_RacesDatabase(raw_json_data, database_name):
     for json_object in raw_json_data:
-        levels_by_class.setdefault(json_object["class"]["name"], []).append(json_object)
+        ability_bonuses = json_object["ability_bonuses"]
+        for ability_bonus in ability_bonuses:
 
-    new_json_data = []
-    counter = 0
-    for class_name, levels in levels_by_class.items():
-        class_levels = {
-            "name": f"{class_name} Levels",
-            "url": f"/api/levels/{counter}",
-            "desc": None,
-            "index": counter,
-            "class": levels[0]["class"]
-        }
+            ability_bonus["ability"] = {}
+            
+            ability = ability_bonus["ability"]
+            ability["name"] = ability_bonus["name"]
+            ability["url"] = ability_bonus["url"]
 
-        counter += 1
-
-        sorted_levels = sorted(levels, lambda x: x["level"])
-        for level in sorted_levels:
-            del level["url"]
-            del level["name"]
-            del level["index"]
-            del level["class"]
-            del level["desc"]
-
-        class_levels["levels"] = sorted_levels
-        new_json_data.append(class_levels)
-
-    return new_json_data
-
-
-@CustomDatabaseSanatizer("startingequipment")
-def Sanatize_StartingEquipmentDatabase(raw_json_data, database_name):
-    for json_object in raw_json_data:
-        json_object[ENTRY_DESCRIPTOR]["name"] = json_object["class"]["name"]
+            ability_bonus["value"] = ability_bonus["bonus"]
+            del ability_bonus["name"]
+            del ability_bonus["url"]
+            del ability_bonus["bonus"]
 
     return raw_json_data
 
-
-@CustomDatabaseSanatizer("equipment")
-def Sanatize_EquipmentDatabase(raw_json_data, database_name):
-    for json_object in raw_json_data:
-        category_specific = json_object["category_specific"]
-        nested_category_specific = category_specific["category_specific"]
-
-        if "vehicle_category" in nested_category_specific:
-            for key in list(category_specific):
-                if not key in ["equipment_category", "category_specific"]:
-                    nested_category_specific[key] = category_specific[key]
-                    del category_specific[key]
-
-    return raw_json_data
-
-
-@CustomDatabaseSanatizer("levels")
-def Sanatize_LevelsDatabase(raw_json_data, database_name):
-    for json_object in raw_json_data:
-        # Add a valid name.
-        class_name = json_object['class']['name']
-        subclass_name = json_object['subclass']['name'] if json_object['subclass'] else None
-        level = json_object['level']
-
-        new_name = f"{class_name} {subclass_name} Level {level}" if subclass_name else f"{class_name} Level {level}"
-
-        json_object[ENTRY_DESCRIPTOR]["name"] = new_name
-
-        # Make sure we're using an array for spell slots and have specified cantrips and spells.
-        spell_casting = json_object.get("spellcasting", None)
-        if spell_casting is not None:
-            if not "spells_known" in spell_casting:
-                spell_casting["spells_known"] = 0
-
-            if not "cantrips_known" in spell_casting:
-                spell_casting["cantrips_known"] = 0
-
-            if not "spell_slots" in spell_casting:
-                spell_casting["spell_slots"] = []
-
-            spell_slots = spell_casting["spell_slots"]
-            all_fields = list(spell_casting.keys())
-
-            for field in all_fields:
-                if field.startswith("spell_slots_level"):
-                    spell_slot_level = int(field.split("_")[-1])
-                    assert spell_slot_level >= 1
-
-                    spell_slot_level_index = spell_slot_level - 1
-                    if spell_slot_level > len(spell_slots):
-                        spell_slots.extend([0] * (spell_slot_level - len(spell_slots)))
-
-                    spell_slots[spell_slot_level_index] = spell_casting[field]
-                    del spell_casting[field]
-
-        json_object["spellcasting"] = spell_casting
-
-
-    return raw_json_data
-
-
-@CustomDatabaseSanatizer("spellcasting")
-def Sanatize_SpellcastingDatabase(raw_json_data, database_name):
-    for json_object in raw_json_data:
-        json_object[ENTRY_DESCRIPTOR]["name"] = f'{json_object["class"]["name"]} Spellcasting'
-
-    return raw_json_data
-
-
-@CustomDatabaseSanatizer("traits")
-def Sanatize_TraitsDatabase(raw_json_data, database_name):
-
-    for json_object in raw_json_data:
-        for race in json_object["races"]:
-            race["url"] = "/api/races/0"
-
+@CustomDatabaseSanatizer("features")
+def Sanatize_FeaturesDatabase(raw_json_data, database_name):
     return raw_json_data
 
 @CustomDatabaseSanatizer_PostRefFixup("traits")
 def Sanatize_TraitsDatabase_PostRefFixup(raw_json_data, database_name, database_name_finder):
-
-    for json_object in raw_json_data:
-        subraces = json_object.setdefault("subraces", [])
-        for race in json_object["races"]:
-            subrace_name_and_index, subrace_score = database_name_finder.FindBestEntryName("subraces", race["name"])
-            _, race_score = database_name_finder.FindBestEntryName("races", race["name"])
-
-            if subrace_score > race_score:
-                subraces.append(race)
-                subraces[-1]["url"] = f"/api/subraces/{subrace_name_and_index[1]}"
-                subraces[-1]["name"] = subrace_name_and_index[0]
-
-        if len(subraces) > 0:
-            subrace_names = {subrace["name"] for subrace in json_object["subraces"]}
-            json_object["races"] = [
-                race for race in json_object["races"]
-                if race["name"] not in subrace_names
-            ]
+    pass
 
 
 def FixupReference(field, field_name_scoped, database_name_finder):
@@ -273,7 +164,14 @@ def FixupReference(field, field_name_scoped, database_name_finder):
     if index >= len(database) or index < 0 or database[index][ENTRY_DESCRIPTOR]["name"] != name:
         log.info(f'{GetScopeName()} "url" field does not point to the correct entry.')
 
-        new_name, score = database_name_finder.FindBestEntryName(database_name, name)
+        if name == '_':
+            found_entry = database_name_finder.GetEntryFromUrl(url_parts)
+            print(found_entry)
+            new_name = (found_entry["entry_descriptor"]["name"], int(url_parts[-1]))
+            score = 100
+
+        else:
+            new_name, score = database_name_finder.FindBestEntryName(database_name, name)
 
         old_entry = dict(field.items())
         confidence = "exact" if score == 100 else "high" if score >= 85 else "low"
