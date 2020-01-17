@@ -7,18 +7,27 @@
         "subclass_flavor": "Primal Path",
         "features": [
             {
-                "name": "Primal Path",
-                "url": "/api/features/4"
+                "url": "/api/features/5",
+                "name": "Frenzy"
+                
             },
             {
-                "name": "Frenzy",
-                "url": "/api/features/5"
+                "url": "/api/features/9",
+                "name": "Mindless Rage"
+            },
+            {
+                "url": "/api/features/13",
+                "name": "Intimidating Presence"
+            },
+            {
+                "url": "/api/features/17",
+                "name": "Retaliation",
             }
         ],
         "entry_descriptor": {
             "index": 0,
             "url": "/api/subclasses/0",
-            "name": "Berserker",
+            "name": "Path of the Berserker",
             "desc": [
                 "For some barbarians, rage is a means to an end--that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being."
             ]
@@ -1437,6 +1446,44 @@
             "name": "Evocation",
             "desc": [
                 "You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass_flavor": "Primal Path",
+        "features": [
+            {
+                "url": "/api/features/414",
+                "name": "Spirit Seeker"
+            },
+            {
+                "url": "/api/features/424",
+                "name": "Spirit Walker"
+            },
+            {
+                "url": "/api/features/425",
+                "name": "Totem Spirit"
+            },
+            {
+                "url": "/api/features/426",
+                "name": "Aspect of the Beast"
+            },
+            {
+                "url": "/api/features/427",
+                "name": "Totemic Attunement",
+            }
+        ],
+        "entry_descriptor": {
+            "index": 12,
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior",
+            "desc": [
+                "The Path of the Totem Warrior is a spiritual journy, as the barbarian accepts a spirit animal as a guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.",
+                "Most barbarian tribes consider a totem animal to be kin to a particular clan. In such cases, it is unusual for an individual to have more than one totem animal spirit, though exceptions exist."
             ]
         }
     }

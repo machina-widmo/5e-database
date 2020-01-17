@@ -92,7 +92,7 @@
         },
         "subclass": {
             "url": "/api/subclasses/0",
-            "name": "Berserker"
+            "name": "Path of the Berserker"
         },
         "level": 3,
         "entry_descriptor": {
@@ -236,7 +236,7 @@
             "name": "Intimidating Presence",
             "desc": [
                 "Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.",
-                " If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours."
+                "If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours."
             ]
         }
     },
@@ -8879,6 +8879,273 @@
             "desc": [
                 "When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.",
                 "If you want to cast either spell at a higher level, you must expend a spell slot as normal."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 3,
+        "entry_descriptor": {
+            "index": 414,
+            "url": "/api/features/414",
+            "name": "Spirit Seeker",
+            "desc": [
+                "Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the 'beast sense' and 'speak with animal spells', but only as rituals, as described in chatpr 10, 'Spellcasting'"
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 3,
+        "entry_descriptor": {
+            "index": 415,
+            "url": "/api/features/415",
+            "name": "Totem Spirit: Bear",
+            "desc": [
+                "While raging, you have resistance to all damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 3,
+        "entry_descriptor": {
+            "index": 416,
+            "url": "/api/features/416",
+            "name": "Totem Spirit: Eagle",
+            "desc": [
+                "While you're raging, other creatures have disadvantage on opportunity attack rolls against you, and you can use the Dash action as a bonus action on your turn. The spirit of the eagle makes you into a predator who can weave through the fray with ease."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 3,
+        "entry_descriptor": {
+            "index": 417,
+            "url": "/api/features/417",
+            "name": "Totem Spirit: Wolf",
+            "desc": [
+                "While you're raging, you're friends have advantage on melee attack rolls against any creature within 5 feet of you that is hostile to you. The spirit of the wolf makes you a leader of hunters."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 6,
+        "entry_descriptor": {
+            "index": 418,
+            "url": "/api/features/418",
+            "name": "Aspect of the Beast: Bear",
+            "desc": [
+                "You gain the might of a bear. Your carry capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks made to push, pull, lift, or break objects."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 6,
+        "entry_descriptor": {
+            "index": 419,
+            "url": "/api/features/419",
+            "name": "Aspect of the Beast: Eagle",
+            "desc": [
+                "You gain the eyesight on an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 6,
+        "entry_descriptor": {
+            "index": 420,
+            "url": "/api/features/420",
+            "name": "Aspect of the Beast: Wolf",
+            "desc": [
+                "You gain the hunting sensibilities of the wolf. You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace (see chapter 8 'Adventuring' for rules on travel pace)."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 14,
+        "entry_descriptor": {
+            "index": 421,
+            "url": "/api/features/421",
+            "name": "Totemic Attunement: Bear",
+            "desc": [
+                "While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be frightened."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 14,
+        "entry_descriptor": {
+            "index": 422,
+            "url": "/api/features/422",
+            "name": "Totemic Attunement: Eagle",
+            "desc": [
+                "While you're raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 14,
+        "entry_descriptor": {
+            "index": 423,
+            "url": "/api/features/423",
+            "name": "Totemic Attunement: Wolf",
+            "desc": [
+                "While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with a melee weapon attack."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 10,
+        "entry_descriptor": {
+            "index": 424,
+            "url": "/api/features/424",
+            "name": "Spirit Walker",
+            "desc": [
+                "You can cast the 'commune with nature spell', but only as a ritual. When you do so, a spirit version of one of the animals you chose for 'Totem Spirit' or 'Aspect of the Beast' appears to you to convey the information you seek."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 3,
+        "entry_descriptor": {
+            "index": 425,
+            "url": "/api/features/425",
+            "name": "Totem Spirit",
+            "desc": [
+                "When you adopt this path you choose a totem spirit and gain its feature. You must make or acquire a physical totem object - an amulet or similar adornment - that incorporates fur or feathers, claws, teeth, or bones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow.",
+                "Your totem animal might be an animal related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture in place of an eagle."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 6,
+        "entry_descriptor": {
+            "index": 426,
+            "url": "/api/features/426",
+            "name": "Aspect of the Beast",
+            "desc": [
+                "You gain a magical benefit based on the totem animal of your choice. You can choose the same animal you selected previously or a different one."
+            ]
+        }
+    },
+    {
+        "class": {
+            "url": "/api/classes/0",
+            "name": "Barbarian"
+        },
+        "subclass": {
+            "url": "/api/subclasses/12",
+            "name": "Path of the Totem Warrior"
+        },
+        "level": 6,
+        "entry_descriptor": {
+            "index": 427,
+            "url": "/api/features/427",
+            "name": "Totemic Attunement",
+            "desc": [
+                "You gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one."
             ]
         }
     }
