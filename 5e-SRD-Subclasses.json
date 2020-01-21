@@ -21,7 +21,7 @@
             },
             {
                 "url": "/api/features/17",
-                "name": "Retaliation",
+                "name": "Retaliation"
             }
         ],
         "entry_descriptor": {
@@ -1474,7 +1474,7 @@
             },
             {
                 "url": "/api/features/427",
-                "name": "Totemic Attunement",
+                "name": "Totemic Attunement"
             }
         ],
         "entry_descriptor": {

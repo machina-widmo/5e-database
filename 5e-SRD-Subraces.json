@@ -236,5 +236,40 @@
                 "As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes."
             ]
         }
+    },
+    {
+        "race": {
+            "url": "/api/races/2",
+            "name": "Halfling"
+        },
+        "ability_bonuses": [
+            {
+                "ability": {
+                    "url": "/api/ability-scores/2",
+                    "name": "CON"
+                },
+                "bonus": 1
+            }
+        ],
+        "ability_bonus_options": null,
+        "starting_proficiencies": [],
+        "starting_proficiency_options": null,
+        "languages": [],
+        "language_options": null,
+        "racial_traits": [
+            {
+                "url": "/api/traits/27",
+                "name": "Stout Resilience"
+            }
+        ],
+        "racial_trait_options": null,
+        "entry_descriptor": {
+            "index": 4,
+            "url": "/api/subraces/4",
+            "name": "Stout Halfling",
+            "desc": [
+                "As a stout halfling you're hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. In the Forgotten Realms, these halflings are called stronghearts, and they're most common in the south."
+            ]
+        }
     }
 ]

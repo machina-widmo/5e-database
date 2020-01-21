@@ -551,5 +551,22 @@
             ]
         },
         "subraces": []
+    },
+    {
+        "races": [],
+        "entry_descriptor": {
+            "index": 27,
+            "url": "/api/traits/27",
+            "name": "Stout Resilience",
+            "desc": [
+                "You have advantage on saving throws against poison, and you have resistance against poison damage."
+            ]
+        },
+        "subraces": [
+            {
+                "url": "/api/subraces/4",
+                "name": "Stout Halfling"
+            }
+        ]
     }
 ]
