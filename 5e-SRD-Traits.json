@@ -269,12 +269,7 @@
                 "When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
             ]
         },
-        "subraces": [
-            {
-                "name": "Lightfoot Halfling",
-                "url": "/api/subraces/2"
-            }
-        ]
+        "subraces": []
     },
     {
         "races": [
@@ -291,12 +286,7 @@
                 "You have advantage on saving throw against being frightened."
             ]
         },
-        "subraces": [
-            {
-                "name": "Lightfoot Halfling",
-                "url": "/api/subraces/2"
-            }
-        ]
+        "subraces": []
     },
     {
         "races": [
@@ -313,12 +303,7 @@
                 "You can move through the space of any creature that is of a size larger than yours."
             ]
         },
-        "subraces": [
-            {
-                "name": "Lightfoot Halfling",
-                "url": "/api/subraces/2"
-            }
-        ]
+        "subraces": []
     },
     {
         "races": [],
