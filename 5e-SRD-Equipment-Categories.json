@@ -2448,5 +2448,16 @@
             "name": "Arcane Focus",
             "desc": []
         }
+    },
+    {
+        "equipment": [],
+        "entry_description": {
+            "index": 29,
+            "url": "/api/equipment-categories/29",
+            "name": "Custom",
+            "desc": [
+                "Story Driver or User Made equipment that doesn't fall into standard categories"
+            ]
+        }
     }
 ]

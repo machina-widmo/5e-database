@@ -2778,9 +2778,7 @@
             "index": 62,
             "url": "/api/equipment/62",
             "name": "Staff",
-            "desc": [
-                "An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus."
-            ]
+            "desc": []
         },
         "category_specific": {
             "category_specific": {
@@ -3362,7 +3360,7 @@
         "entry_descriptor": {
             "index": 82,
             "url": "/api/equipment/82",
-            "name": "Clothes, common",
+            "name": "Common Clothes",
             "desc": []
         },
         "category_specific": {
@@ -3390,7 +3388,7 @@
         "entry_descriptor": {
             "index": 83,
             "url": "/api/equipment/83",
-            "name": "Clothes, costume",
+            "name": "Costume Clothes",
             "desc": []
         },
         "category_specific": {
@@ -3418,7 +3416,7 @@
         "entry_descriptor": {
             "index": 84,
             "url": "/api/equipment/84",
-            "name": "Clothes, fine",
+            "name": "Fine Clothes",
             "desc": []
         },
         "category_specific": {
@@ -3446,7 +3444,7 @@
         "entry_descriptor": {
             "index": 85,
             "url": "/api/equipment/85",
-            "name": "Clothes, traveler's",
+            "name": "Traveler's Clothes",
             "desc": []
         },
         "category_specific": {
@@ -5562,7 +5560,7 @@
                         "quantity": 1,
                         "item": {
                             "url": "/api/equipment/82",
-                            "name": "Clothes, common"
+                            "name": "Common Clothes"
                         }
                     },
                     {
@@ -5576,7 +5574,7 @@
                         "quantity": 5,
                         "item": {
                             "url": "/api/equipment/85",
-                            "name": "Clothes, traveler's"
+                            "name": "Traveler's Clothes"
                         }
                     },
                     {
@@ -5761,7 +5759,7 @@
                         "quantity": 2,
                         "item": {
                             "url": "/api/equipment/84",
-                            "name": "Clothes, fine"
+                            "name": "Fine Clothes"
                         }
                     },
                     {
@@ -6603,7 +6601,7 @@
         "entry_descriptor": {
             "index": 180,
             "url": "/api/equipment/180",
-            "name": "Drum",
+            "name": "Drum", 
             "desc": [
                 "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency."
             ]
