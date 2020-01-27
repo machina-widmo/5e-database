@@ -10,7 +10,7 @@
                     "name": "WIS",
                     "url": "/api/ability-scores/4"
                 },
-                "bonus": 1
+                "value": 1
             }
         ],
         "ability_bonus_options": null,
@@ -18,13 +18,13 @@
         "starting_proficiency_options": null,
         "languages": [],
         "language_options": null,
-        "racial_traits": [
+        "traits": [
             {
                 "url": "/api/traits/4",
                 "name": "Dwarven Toughness"
             }
         ],
-        "racial_trait_options": null,
+        "trait_options": null,
         "entry_descriptor": {
             "index": 0,
             "url": "/api/subraces/0",
@@ -45,7 +45,7 @@
                     "name": "INT",
                     "url": "/api/ability-scores/3"
                 },
-                "bonus": 1
+                "value": 1
             }
         ],
         "ability_bonus_options": null,
@@ -131,13 +131,13 @@
             ],
             "type": "language"
         },
-        "racial_traits": [
+        "traits": [
             {
                 "url": "/api/traits/9",
                 "name": "High Elf Cantrip"
             }
         ],
-        "racial_trait_options": null,
+        "trait_options": null,
         "entry_descriptor": {
             "index": 1,
             "url": "/api/subraces/1",
@@ -158,7 +158,7 @@
                     "name": "CHA",
                     "url": "/api/ability-scores/5"
                 },
-                "bonus": 1
+                "value": 1
             }
         ],
         "ability_bonus_options": null,
@@ -166,13 +166,13 @@
         "starting_proficiency_options": null,
         "languages": [],
         "language_options": null,
-        "racial_traits": [
+        "traits": [
             {
                 "url": "/api/traits/14",
                 "name": "Naturally Stealthy"
             }
         ],
-        "racial_trait_options": null,
+        "trait_options": null,
         "entry_descriptor": {
             "index": 2,
             "url": "/api/subraces/2",
@@ -193,9 +193,10 @@
                     "name": "CON",
                     "url": "/api/ability-scores/2"
                 },
-                "bonus": 1
+                "value": 1
             }
         ],
+        "ability_bonus_options": null,
         "starting_proficiencies": [],
         "starting_proficiency_options": null,
         "languages": [
@@ -209,7 +210,7 @@
             }
         ],
         "language_options": null,
-        "racial_traits": [
+        "traits": [
             {
                 "name": "Darkvision",
                 "url": "/api/traits/0"
@@ -227,7 +228,7 @@
                 "url": "/api/traits/20"
             }
         ],
-        "racial_trait_options": null,
+        "trait_options": null,
         "entry_descriptor": {
             "index": 3,
             "url": "/api/subraces/3",
@@ -248,7 +249,7 @@
                     "url": "/api/ability-scores/2",
                     "name": "CON"
                 },
-                "bonus": 1
+                "value": 1
             }
         ],
         "ability_bonus_options": null,
@@ -256,13 +257,13 @@
         "starting_proficiency_options": null,
         "languages": [],
         "language_options": null,
-        "racial_traits": [
+        "traits": [
             {
                 "url": "/api/traits/27",
                 "name": "Stout Resilience"
             }
         ],
-        "racial_trait_options": null,
+        "trait_options": null,
         "entry_descriptor": {
             "index": 4,
             "url": "/api/subraces/4",
