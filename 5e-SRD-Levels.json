@@ -3761,10 +3761,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 4
-            },
+            "martial_arts": "1d4",
             "ki_points": 0,
             "unarmored_movement": 10
         },
@@ -3809,10 +3806,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 4
-            },
+            "martial_arts": "1d4",
             "ki_points": 2,
             "unarmored_movement": 10
         },
@@ -3845,10 +3839,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 4
-            },
+            "martial_arts": "1d4",
             "ki_points": 3,
             "unarmored_movement": 10
         },
@@ -3881,10 +3872,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 4
-            },
+            "martial_arts": "1d4",
             "ki_points": 4,
             "unarmored_movement": 10
         },
@@ -3917,10 +3905,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 6
-            },
+            "martial_arts": "1d6",
             "ki_points": 5,
             "unarmored_movement": 15
         },
@@ -3949,10 +3934,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 6
-            },
+            "martial_arts": "1d6",
             "ki_points": 6,
             "unarmored_movement": 15
         },
@@ -3985,10 +3967,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 6
-            },
+            "martial_arts": "1d6",
             "ki_points": 7,
             "unarmored_movement": 15
         },
@@ -4017,10 +3996,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 6
-            },
+            "martial_arts": "1d6",
             "ki_points": 8,
             "unarmored_movement": 15
         },
@@ -4049,10 +4025,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 6
-            },
+            "martial_arts": "1d6",
             "ki_points": 9,
             "unarmored_movement": 15
         },
@@ -4081,10 +4054,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 6
-            },
+            "martial_arts": "1d6",
             "ki_points": 10,
             "unarmored_movement": 20
         },
@@ -4108,10 +4078,7 @@
         "features": [],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 8
-            },
+            "martial_arts": "1d8",
             "ki_points": 11,
             "unarmored_movement": 20
         },
@@ -4140,10 +4107,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 8
-            },
+            "martial_arts": "1d8",
             "ki_points": 12,
             "unarmored_movement": 20
         },
@@ -4172,10 +4136,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 8
-            },
+            "martial_arts": "1d8",
             "ki_points": 13,
             "unarmored_movement": 20
         },
@@ -4204,10 +4165,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 8
-            },
+            "martial_arts": "1d8",
             "ki_points": 14,
             "unarmored_movement": 25
         },
@@ -4236,10 +4194,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 8
-            },
+            "martial_arts": "1d8",
             "ki_points": 15,
             "unarmored_movement": 25
         },
@@ -4268,10 +4223,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 8
-            },
+            "martial_arts": "1d8",
             "ki_points": 16,
             "unarmored_movement": 25
         },
@@ -4295,10 +4247,7 @@
         "features": [],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 10
-            },
+            "martial_arts": "1d10",
             "ki_points": 17,
             "unarmored_movement": 25
         },
@@ -4327,10 +4276,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 10
-            },
+            "martial_arts": "1d10",
             "ki_points": 18,
             "unarmored_movement": 30
         },
@@ -4359,10 +4305,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 10
-            },
+            "martial_arts": "1d10",
             "ki_points": 19,
             "unarmored_movement": 30
         },
@@ -4391,10 +4334,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "martial_arts": {
-                "dice_count": 1,
-                "dice_value": 10
-            },
+            "martial_arts": "1d10",
             "ki_points": 20,
             "unarmored_movement": 30
         },
@@ -5940,10 +5880,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 1,
-                "dice_value": 6
-            }
+            "sneak_attack": "1d6"
         },
         "class": {
             "name": "Rogue",
@@ -5970,10 +5907,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 1,
-                "dice_value": 6
-            }
+            "sneak_attack": "1d6"
         },
         "class": {
             "name": "Rogue",
@@ -6000,10 +5934,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 2,
-                "dice_value": 6
-            }
+            "sneak_attack": "2d6"
         },
         "class": {
             "name": "Rogue",
@@ -6030,10 +5961,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 2,
-                "dice_value": 6
-            }
+            "sneak_attack": "2d6"
         },
         "class": {
             "name": "Rogue",
@@ -6060,10 +5988,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 3,
-                "dice_value": 6
-            }
+            "sneak_attack": "3d6"
         },
         "class": {
             "name": "Rogue",
@@ -6090,10 +6015,7 @@
         "features": [],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 3,
-                "dice_value": 6
-            }
+            "sneak_attack": "3d6"
         },
         "class": {
             "name": "Rogue",
@@ -6120,10 +6042,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 4,
-                "dice_value": 6
-            }
+            "sneak_attack": "4d6"
         },
         "class": {
             "name": "Rogue",
@@ -6150,10 +6069,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 4,
-                "dice_value": 6
-            }
+            "sneak_attack": "4d6"
         },
         "class": {
             "name": "Rogue",
@@ -6180,10 +6096,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 5,
-                "dice_value": 6
-            }
+            "sneak_attack": "5d6"
         },
         "class": {
             "name": "Rogue",
@@ -6210,10 +6123,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 5,
-                "dice_value": 6
-            }
+            "sneak_attack": "5d6"
         },
         "class": {
             "name": "Rogue",
@@ -6240,10 +6150,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 6,
-                "dice_value": 6
-            }
+            "sneak_attack": "6d6"
         },
         "class": {
             "name": "Rogue",
@@ -6270,10 +6177,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 6,
-                "dice_value": 6
-            }
+            "sneak_attack": "6d6"
         },
         "class": {
             "name": "Rogue",
@@ -6295,10 +6199,7 @@
         "features": [],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 7,
-                "dice_value": 6
-            }
+            "sneak_attack": "7d6"
         },
         "class": {
             "name": "Rogue",
@@ -6325,10 +6226,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 7,
-                "dice_value": 6
-            }
+            "sneak_attack": "7d6"
         },
         "class": {
             "name": "Rogue",
@@ -6355,10 +6253,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 8,
-                "dice_value": 6
-            }
+            "sneak_attack": "8d6"
         },
         "class": {
             "name": "Rogue",
@@ -6385,10 +6280,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 8,
-                "dice_value": 6
-            }
+            "sneak_attack": "8d6"
         },
         "class": {
             "name": "Rogue",
@@ -6410,10 +6302,7 @@
         "features": [],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 9,
-                "dice_value": 6
-            }
+            "sneak_attack": "9d6"
         },
         "class": {
             "name": "Rogue",
@@ -6440,10 +6329,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 9,
-                "dice_value": 6
-            }
+            "sneak_attack": "9d6"
         },
         "class": {
             "name": "Rogue",
@@ -6470,10 +6356,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 10,
-                "dice_value": 6
-            }
+            "sneak_attack": "10d6"
         },
         "class": {
             "name": "Rogue",
@@ -6500,10 +6383,7 @@
         ],
         "spellcasting": null,
         "class_specific": {
-            "sneak_attack": {
-                "dice_count": 10,
-                "dice_value": 6
-            }
+            "sneak_attack": "10d6"
         },
         "class": {
             "name": "Rogue",
