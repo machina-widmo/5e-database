@@ -5817,59 +5817,59 @@
             "category_specific": {
                 "contents": [
                     {
-                        "quantity": 1,
+                        "quantity": 10,
                         "item": {
-                            "url": "/api/equipment/65",
-                            "name": "Ball bearings (bag of 1,000)"
+                            "url": "/api/equipment/132",
+                            "name": "Rations (1 day)"
                         }
                     },
                     {
                         "quantity": 1,
                         "item": {
-                            "url": "/api/equipment/69",
-                            "name": "Bell"
+                            "url": "/api/equipment/64",
+                            "name": "Backpack"
                         }
                     },
                     {
                         "quantity": 1,
                         "item": {
-                            "url": "/api/equipment/110",
-                            "name": "Poisoner's Kit"
+                            "url": "/api/equipment/68",
+                            "name": "Bedroll"
                         }
                     },
                     {
                         "quantity": 1,
+                        "item": {
+                            "url": "/api/equipment/109",
+                            "name": "Mess Kit"
+                        }
+                    },
+                    {
+                        "quantity": 1,
+                        "item": {
+                            "url": "/api/equipment/148",
+                            "name": "Tinderbox"
+                        }
+                    },
+                    {
+                        "quantity": 10,
                         "item": {
                             "url": "/api/equipment/149",
                             "name": "Torch"
                         }
                     },
                     {
-                        "quantity": 10,
+                        "quantity": 1,
                         "item": {
-                            "url": "/api/equipment/150",
-                            "name": "Vial"
-                        }
-                    },
-                    {
-                        "quantity": 10,
-                        "item": {
-                            "url": "/api/equipment/133",
-                            "name": "Reliquary"
+                            "url": "/api/equipment/151",
+                            "name": "Waterskin"
                         }
                     },
                     {
                         "quantity": 1,
                         "item": {
-                            "url": "/api/equipment/152",
-                            "name": "Whetstone"
-                        }
-                    },
-                    {
-                        "quantity": 1,
-                        "item": {
-                            "url": "/api/equipment/106",
-                            "name": "Forgery Kit"
+                            "url": "/api/equipment/135",
+                            "name": "Rope, hempen (50 feet)"
                         }
                     }
                 ]
