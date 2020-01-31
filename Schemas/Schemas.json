@@ -1,0 +1,483 @@
+type DiceType
+    = FourSided
+    | SixSided
+    | EightSided
+    | TenSided
+    | TwelveSided
+    | TwentySided
+
+type alias DiceDescriptor =
+    { count : Int
+    , sides : DiceType
+    }
+
+type alias MeasuredUnit =
+    { quantity : Float
+    , unit : String
+    }
+
+type CurrencyType
+    = CopperPiece
+    | SilverPiece
+    | EtheriumPiece
+    | GoldPiece
+    | PlatinumPiece
+
+type alias CurrencyValue =
+    { quantity : Int
+    , unit : CurrencyType
+    }
+
+type alias InventoryItemDescriptor =
+    { item : DatabaseEntryReference
+    , quantity : Int
+    }
+
+type alias AbilityScoreValueDescriptor =
+    { ability : DatabaseEntryReference
+    , value : Int
+    }
+
+type alias DatabaseEntryDescriptor =
+    { index : Int
+    , name : String
+    , description : List String
+    , url : String
+    }
+
+type alias SimpleEntry =
+    { descriptor : DatabaseEntryDescriptor
+    }
+
+type alias DatabaseEntryReference =
+    { url : String
+    , name : String
+    }
+
+type alias ChoicePool a =
+    { numToChoose : Int
+    , choiceType : String
+    , chooseFrom : List a
+    }
+
+type alias AttributeEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , fullName : String
+    , relatedSkills : List DatabaseEntryReference
+    }
+
+type alias ClassEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , hitDie : Int
+    , proficiencyChoices : List (ChoicePool DatabaseEntryReference)
+    , proficiencies : List DatabaseEntryReference
+    , savingThrows : List DatabaseEntryReference
+    , startingEquipment : DatabaseEntryReference
+    , classLevels : DatabaseEntryReference
+    , subclasses : List DatabaseEntryReference
+    , spellcasting : Maybe DatabaseEntryReference
+    }
+
+type alias SubclassEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , class : DatabaseEntryReference
+    , subclassFlavor : String
+    , features : List DatabaseEntryReference
+    }
+
+type alias ConditionEntry = SimpleEntry
+type alias DamageTypeEntry = SimpleEntry
+type alias EquipmentCategoryEntry = SimpleEntry
+
+type alias FeatureEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , class : Maybe DatabaseEntryReference
+    , subclass : Maybe DatabaseEntryReference
+    , level : Int
+    }
+
+type alias LanguageEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , languageType : String
+    , typicalSpeakers : List String
+    , script : String
+    }
+
+type alias TraitEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , races : List DatabaseEntryReference
+    , subraces : List DatabaseEntryReference
+    }
+
+type alias WeaponPropertyEntry = SimpleEntry
+
+type SizeDescriptor
+    = VerySmall
+    | Small
+    | Medium
+    | Large
+    | VeryLarge
+
+type alias RaceEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , abilityScoreValues : List AbilityScoreValueDescriptor
+    , abilityScoreValueOptions : Maybe (ChoicePool DatabaseEntryReference)
+    , startingProficiencies : List DatabaseEntryReference
+    , startingProficiencyOptions : Maybe (ChoicePool DatabaseEntryReference)
+    , languages : List DatabaseEntryReference
+    , languageOptions : Maybe (ChoicePool DatabaseEntryReference)
+    , traits : List DatabaseEntryReference
+    , traitOptions : Maybe (ChoicePool DatabaseEntryReference)
+    , speed : Int
+    , alignment : String
+    , size : SizeDescriptor
+    , sizeDescription : String
+    , languageDescription : String
+    }
+
+type alias SubraceEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , abilityScoreValuees : List AbilityScoreValueDescriptor
+    , abilityScoreValueOptions : Maybe (ChoicePool DatabaseEntryReference)
+    , startingProficiencies : List DatabaseEntryReference
+    , startingProficiencyOptions : Maybe (ChoicePool DatabaseEntryReference)
+    , languages : List DatabaseEntryReference
+    , languageOptions : Maybe (ChoicePool DatabaseEntryReference)
+    , traits : List DatabaseEntryReference
+    , traitOptions : Maybe (ChoicePool DatabaseEntryReference)
+    , race : DatabaseEntryReference
+    }
+
+type alias StartingEquipmentEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , class : DatabaseEntryReference
+    , startingEquipment : List InventoryItemDescriptor
+    , choicesToMake : List (ExclusiveChoice InventoryItemDescriptor)
+    }
+
+type alias SpellEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , higherLevels : Maybe (List String)
+    , page : String
+    , range : String
+    , components : List String
+    , material : List String
+    , requiresRitual : Bool
+    , requiresConcentration : Bool
+    , duration : String
+    , castingTime : String
+    , level : Int
+    , school : DatabaseEntryReference
+    , classes : List DatabaseEntryReference
+    , subclasses : List DatabaseEntryReference
+    }
+
+type alias InfoDescriptor =
+    { name : String
+    , description : List String
+    }
+
+type alias SpellcastingEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , class : DatabaseEntryReference
+    , level : Int
+    , spellcastingAbility : DatabaseEntryReference
+    , info : List InfoDescriptor
+    }
+
+type alias SkillEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , ability : DatabaseEntryReference
+    }
+
+type alias ProficiencyEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , proficiencyType : String
+    , classes : List DatabaseEntryReference
+    , races : List DatabaseEntryReference
+    }
+
+type alias LevelEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , level : Int
+    , class : DatabaseEntryReference
+    , classSpecific : ClassSpecificLevelDescriptor
+    , subclass : Maybe DatabaseEntryReference
+    , abilityScoreBonus : Int
+    , proficiencyBonus : Int
+    , features : List DatabaseEntryReference
+    , featureChoices : List DatabaseEntryReference
+    , spellcasting : Maybe SpellcastingDescriptor
+    }
+
+type ClassSpecificLevelDescriptor
+    = BarbarianLevel BarbarianClassSpecificLevelDescriptor
+    | BardLevel BardClassSpecificLevelDescriptor
+    | ClericLevel ClericClassSpecificLevelDescriptor
+    | DruidLevel DruidClassSpecificLevelDescriptor
+    | FighterLevel FighterClassSpecificLevelDescriptor
+    | MonkLevel MonkClassSpecificLevelDescriptor
+    | PaladinLevel PaladinClassSpecificLevelDescriptor
+    | RangerLevel RangerClassSpecificLevelDescriptor
+    | RogueLevel RogueClassSpecificLevelDescriptor
+    | SorcererLevel SorcererClassSpecificLevelDescriptor
+    | WarlockLevel WarlockClassSpecificLevelDescriptor
+    | WizardLevel WizardClassSpecificLevelDescriptor
+
+type alias SpellcastingDescriptor =
+    { cantripsKnown : Int
+    , spellsKnown : Int
+    , spellSlots : List Int
+    }
+
+type alias BarbarianClassSpecificLevelDescriptor =
+    { rageCount : Int
+    , rageDamageBonus : Int
+    , brutalCriticalDice : Int
+    }
+
+type alias BardClassSpecificLevelDescriptor =
+    { inspirationDie : Int
+    , songOfRestDie : Int
+    , magicalSecretsMax5 : Int
+    , magicalSecretsMax7 : Int
+    , magicalSecretsMax9 : Int
+    }
+
+type alias ClericClassSpecificLevelDescriptor =
+    { channelDivinityCharges : Int
+    , destroyUndeadCrit : Float
+    }
+
+type alias DruidClassSpecificLevelDescriptor =
+    { wilShapeMaxCrit : Float
+    , wildShapeSwim : Bool
+    , whileShapeFly : Bool
+    }
+
+type alias FighterClassSpecificLevelDescriptor =
+    { actionSurges : Int
+    , indomitableUses : Int
+    , extraAttacks : Int
+    }
+
+type alias MonkClassSpecificLevelDescriptor =
+    { kiPoints : Int
+    , unarmoredMovement : Int
+    , martialArts : DiceDescriptor
+    }
+
+type alias PaladinClassSpecificLevelDescriptor =
+    { auraRange : Int
+    }
+
+type alias RangerClassSpecificLevelDescriptor =
+    { favoredEnemies : Int
+    , favoredTerrain : Int
+    }
+
+type alias RogueClassSpecificLevelDescriptor =
+    { sneakAttack : DiceDescriptor
+    }
+
+type alias SorcererClassSpecificLevelDescriptor =
+    { sorceryPoints : Int
+    , metamagicKnown : Int
+    , creatingSpellSlotsCost : List Int
+    }
+
+type alias WarlockClassSpecificLevelDescriptor =
+    { invocationsKnown : Int
+    , mysticArcanumLevel6 : Int
+    , mysticArcanumLevel7 : Int
+    , mysticArcanumLevel8 : Int
+    , mysticArcanumLevel9 : Int
+    }
+
+type alias WizardClassSpecificLevelDescriptor =
+    { arcaneRecoveryLevels : Int
+    }
+
+type alias MagicSchoolsEntry = SimpleEntry
+
+type alias EquipmentEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , cost : CurrencyValue
+    , equipmentCategory : DatabaseEntryReference
+    , categorySpecific : CategorySpecificEquipmentDescriptor
+    }
+
+type CategorySpecificEquipmentDescriptor
+    = Weapon WeaponEquipmentDescriptor
+    | Armor ArmorEquipmentDescriptor
+    | Tool ToolEquipmentDescriptor
+    | Mount MountEquipmentDescriptor
+    | AdventuringGear AdventuringGearEquipmentDescriptor
+
+type alias WeaponEquipmentDescriptor =
+    { weight : MeasuredUnit
+    , weaponCategory : DatabaseEntryReference
+    , weaponCategorySpecific : WeaponCategorySpecificDescriptor
+    , weaponRange : String
+    , categoryRange : String
+    , damage : DamageDescriptor
+    , range : RangeDescriptor
+    , properties : List DatabaseEntryReference
+    }
+
+type WeaponCategorySpecificDescriptor
+    = SimpleWeapon
+    | MartialWeapon
+
+type alias RangeDescriptor =
+    { normal : Maybe Int
+    , long : Maybe Int
+    }
+
+type alias DamageDescriptor =
+    { damageDice : String
+    , damageBonus : Int
+    , damageType : DatabaseEntryReference
+    }
+
+type alias ArmorEquipmentDescriptor =
+    { weight : MeasuredUnit
+    , armorCategory : DatabaseEntryReference
+    , armorCategorySpecific : ArmorCategorySpecificDescriptor
+    , armorClass : ArmorClassDescriptor
+    , strengthMinimum : Int
+    , stealthDisadvantage : Bool
+    }
+
+type ArmorCategorySpecificDescriptor
+    = LightArmor
+    | MediumArmor
+    | HeavyArmor
+    | Shield
+
+type alias ArmorClassDescriptor =
+    { baseArmor : Int
+    , dexterityBonus : Bool
+    , bonusLimit : Maybe Int
+    }
+
+type alias ToolEquipmentDescriptor = 
+    { weight : MeasuredUnit
+    , toolCategory : DatabaseEntryReference
+    , toolCategorySpecific : ToolCategorySpecificDescriptor
+    }
+
+type ToolCategorySpecificDescriptor
+    = ArtisansTool
+    | GamingSet
+    | MusicalInstrument
+    | OtherTool
+
+type alias MountEquipmentDescriptor =
+    { mountCategory : DatabaseEntryReference
+    , mountSpecific : MountCategorySpecificDescriptor
+    }
+
+type MountCategorySpecificDescriptor
+    = LandAndAirMount LandAndAirMountEquipmentDescriptor
+    | WaterborneMount WaterborneMountEquipmentDescriptor
+    | MountAccessory MountAccessoryEquipmentDescriptor
+
+type alias LandAndAirMountEquipmentDescriptor =
+    { speed : MeasuredUnit
+    , capacity : MeasuredUnit
+    }
+
+type alias MountAccessoryEquipmentDescriptor =
+    { weight : MeasuredUnit
+    }
+
+type alias WaterborneMountEquipmentDescriptor =
+    { speed : MeasuredUnit
+    }
+
+type alias AdventuringGearEquipmentDescriptor =
+    { gearCategory : DatabaseEntryReference
+    , gearCategorySpecific : AdventuringGearCategorySpecificDescriptor
+    }
+
+type AdventuringGearCategorySpecificDescriptor
+    = StandardGear StandardGearDescriptor
+    | Ammunition AmmunitionDescriptor
+    | HolySymbol HolySymbolDescriptor
+    | ArcaneFocus ArcaneFocusDescriptor
+    | DruidicFocus DruidicFocusDescriptor
+    | Kit KitDescriptor
+    | EquipmentPack EquipmentPackDescriptor
+
+type alias StandardGearDescriptor =
+    { weight : MeasuredUnit
+    }
+
+type alias AmmunitionDescriptor =
+    { weight : MeasuredUnit
+    }
+
+type alias HolySymbolDescriptor =
+    { weight : MeasuredUnit
+    }
+
+type alias ArcaneFocusDescriptor =
+    { weight : MeasuredUnit
+    }
+
+type alias DruidicFocusDescriptor =
+    { weight : MeasuredUnit
+    }
+
+type alias KitDescriptor =
+    { weight : MeasuredUnit
+    }
+
+type alias EquipmentPackDescriptor =
+    { contents : List InventoryItemDescriptor
+    }
+
+type alias BackgroundEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , skills : List DatabaseEntryReference
+    , suggestedOrigins : List String
+    , languages : List DatabaseEntryReference
+    , languageChoices : Maybe (ChoicePool DatabaseEntryReference)
+    , tools : List DatabaseEntryReference
+    , toolChoices : Maybe (ChoicePool DatabaseEntryReference)
+    , feature : Maybe DatabaseEntryReference
+    , featureChoices : Maybe (ChoicePool DatabaseEntryReference)
+    , equipment : List InventoryItemDescriptor
+    , currency : List CurrencyValue
+    }
+
+type alias BackgroundFeatureEntry =
+    { descriptor : DatabaseEntryDescriptor
+    , background : DatabaseEntryReference
+    }
+
+type DatabaseEntry
+    = AttributeDatabase AttributeEntry
+    | BackgroundDatabase BackgroundEntry
+    | BackgroundFeatureDatabase BackgroundFeatureEntry
+    | ClassDatabase ClassEntry
+    | ConditionDatabase ConditionEntry
+    | DamageTypeDatabase DamageTypeEntry
+    | EquipmentCategoryDatabase EquipmentCategoryEntry
+    | EquipmentDatabase EquipmentEntry
+    | FeatureDatabase FeatureEntry
+    | LanguageDatabase LanguageEntry
+    | LevelDatabase LevelEntry
+    | MagicSchoolsDatabase MagicSchoolsEntry
+    | ProficiencyDatabase ProficiencyEntry
+    | RaceDatabase RaceEntry
+    | SkillDatabase SkillEntry
+    | SpellcastingDatabase SpellcastingEntry
+    | SpellDatabase SpellEntry
+    | StartingEquipmentDatabase StartingEquipmentEntry
+    | SubclassDatabase SubclassEntry
+    | SubraceDatabase SubraceEntry
+    | TraitDatabase TraitEntry
+    | WeaponPropertyDatabase WeaponPropertyEntry
+
