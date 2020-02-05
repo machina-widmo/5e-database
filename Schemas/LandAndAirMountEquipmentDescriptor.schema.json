@@ -1,0 +1,18 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "LandAndAirMountEquipmentDescriptor.schema.json",
+    "title": "LandAndAirMountEquipmentDescriptor",
+    "type": "object",
+    "required": [
+        "speed",
+        "capacity"
+    ],
+    "properties": {
+        "speed": {
+            "$ref": "MeasuredUnit.schema.json"
+        },
+        "capacity": {
+            "$ref": "MeasuredUnit.schema.json"
+        }
+    }
+}

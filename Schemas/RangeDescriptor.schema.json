@@ -1,0 +1,32 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "RangeDescriptor.schema.json",
+    "title": "RangeDescriptor",
+    "type": "object",
+    "required": [
+        "normal",
+        "long"
+    ],
+    "properties": {
+        "normal": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "number"
+                }
+            ]
+        },
+        "long": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "number"
+                }
+            ]
+        }
+    }
+}

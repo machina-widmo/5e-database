@@ -1,0 +1,100 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "BackgroundEntry.schema.json",
+    "title": "BackgroundEntry",
+    "type": "object",
+    "required": [
+        "descriptor",
+        "skills",
+        "suggested_origins",
+        "languages",
+        "language_choices",
+        "tools",
+        "tool_choices",
+        "feature",
+        "feature_choices",
+        "equipment",
+        "currency"
+    ],
+    "properties": {
+        "descriptor": {
+            "$ref": "DatabaseEntryDescriptor.schema.json"
+        },
+        "skills": {
+            "type": "array",
+            "items": {
+                "$ref": "DatabaseEntryReference.schema.json"
+            }
+        },
+        "suggested_origins": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "languages": {
+            "type": "array",
+            "items": {
+                "$ref": "DatabaseEntryReference.schema.json"
+            }
+        },
+        "language_choices": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "ChoicePoolDatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "tools": {
+            "type": "array",
+            "items": {
+                "$ref": "DatabaseEntryReference.schema.json"
+            }
+        },
+        "tool_choices": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "ChoicePoolDatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "feature": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "DatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "feature_choices": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "ChoicePoolDatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "equipment": {
+            "type": "array",
+            "items": {
+                "$ref": "InventoryItemDescriptor.schema.json"
+            }
+        },
+        "currency": {
+            "type": "array",
+            "items": {
+                "$ref": "CurrencyValue.schema.json"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "WarlockClassSpecificLevelDescriptor.schema.json",
+    "title": "WarlockClassSpecificLevelDescriptor",
+    "type": "object",
+    "required": [
+        "invocations_known",
+        "mystic_arcanum_level6",
+        "mystic_arcanum_level7",
+        "mystic_arcanum_level8",
+        "mystic_arcanum_level9"
+    ],
+    "properties": {
+        "invocations_known": {
+            "type": "number"
+        },
+        "mystic_arcanum_level6": {
+            "type": "number"
+        },
+        "mystic_arcanum_level7": {
+            "type": "number"
+        },
+        "mystic_arcanum_level8": {
+            "type": "number"
+        },
+        "mystic_arcanum_level9": {
+            "type": "number"
+        }
+    }
+}

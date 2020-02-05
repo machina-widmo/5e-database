@@ -1,0 +1,311 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "LevelEntry.schema.json",
+    "title": "LevelEntry",
+    "type": "object",
+    "required": [
+        "descriptor",
+        "level",
+        "class",
+        "class_specific",
+        "subclass",
+        "ability_score_bonus",
+        "proficiency_bonus",
+        "features",
+        "feature_choices",
+        "spellcasting"
+    ],
+    "properties": {
+        "descriptor": {
+            "$ref": "DatabaseEntryDescriptor.schema.json"
+        },
+        "level": {
+            "type": "number"
+        },
+        "class": {
+            "$ref": "DatabaseEntryReference.schema.json"
+        },
+        "class_specific": {
+            "oneOf": [
+                {
+                    "if": {
+                        "properties": {
+                            "class": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Barbarian"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "class_specific": {
+                                "$ref": "BarbarianClassSpecificLevelDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "class": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Bard"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "class_specific": {
+                                "$ref": "BardClassSpecificLevelDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "class": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Cleric"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "class_specific": {
+                                "$ref": "ClericClassSpecificLevelDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "class": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Druid"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "class_specific": {
+                                "$ref": "DruidClassSpecificLevelDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "class": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Fighter"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "class_specific": {
+                                "$ref": "FighterClassSpecificLevelDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "class": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Monk"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "class_specific": {
+                                "$ref": "MonkClassSpecificLevelDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "class": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Paladin"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "class_specific": {
+                                "$ref": "PaladinClassSpecificLevelDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "class": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Ranger"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "class_specific": {
+                                "$ref": "RangerClassSpecificLevelDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "class": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Rogue"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "class_specific": {
+                                "$ref": "RogueClassSpecificLevelDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "class": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Sorcerer"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "class_specific": {
+                                "$ref": "SorcererClassSpecificLevelDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "class": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Warlock"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "class_specific": {
+                                "$ref": "WarlockClassSpecificLevelDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "class": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Wizard"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "class_specific": {
+                                "$ref": "WizardClassSpecificLevelDescriptor.schema.json"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "subclass": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "DatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "ability_score_bonus": {
+            "type": "number"
+        },
+        "proficiency_bonus": {
+            "type": "number"
+        },
+        "features": {
+            "type": "array",
+            "items": {
+                "$ref": "DatabaseEntryReference.schema.json"
+            }
+        },
+        "feature_choices": {
+            "type": "array",
+            "items": {
+                "$ref": "DatabaseEntryReference.schema.json"
+            }
+        },
+        "spellcasting": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "SpellcastingDescriptor.schema.json"
+                }
+            ]
+        }
+    }
+}

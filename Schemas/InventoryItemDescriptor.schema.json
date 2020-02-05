@@ -1,0 +1,18 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "InventoryItemDescriptor.schema.json",
+    "title": "InventoryItemDescriptor",
+    "type": "object",
+    "required": [
+        "item",
+        "quantity"
+    ],
+    "properties": {
+        "item": {
+            "$ref": "DatabaseEntryReference.schema.json"
+        },
+        "quantity": {
+            "type": "number"
+        }
+    }
+}

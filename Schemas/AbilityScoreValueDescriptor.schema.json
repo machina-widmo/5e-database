@@ -1,0 +1,18 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "AbilityScoreValueDescriptor.schema.json",
+    "title": "AbilityScoreValueDescriptor",
+    "type": "object",
+    "required": [
+        "ability",
+        "value"
+    ],
+    "properties": {
+        "ability": {
+            "$ref": "DatabaseEntryReference.schema.json"
+        },
+        "value": {
+            "type": "number"
+        }
+    }
+}

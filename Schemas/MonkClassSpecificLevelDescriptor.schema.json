@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "MonkClassSpecificLevelDescriptor.schema.json",
+    "title": "MonkClassSpecificLevelDescriptor",
+    "type": "object",
+    "required": [
+        "ki_points",
+        "unarmored_movement",
+        "martial_arts"
+    ],
+    "properties": {
+        "ki_points": {
+            "type": "number"
+        },
+        "unarmored_movement": {
+            "type": "number"
+        },
+        "martial_arts": {
+            "$ref": "DiceDescriptor.schema.json"
+        }
+    }
+}

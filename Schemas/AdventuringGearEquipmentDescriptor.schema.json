@@ -1,0 +1,159 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "AdventuringGearEquipmentDescriptor.schema.json",
+    "title": "AdventuringGearEquipmentDescriptor",
+    "type": "object",
+    "required": [
+        "gear_category",
+        "gear_category_specific"
+    ],
+    "properties": {
+        "gear_category": {
+            "$ref": "DatabaseEntryReference.schema.json"
+        },
+        "gear_category_specific": {
+            "oneOf": [
+                {
+                    "if": {
+                        "properties": {
+                            "gear_category": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Standard Gear"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "category_specific": {
+                                "$ref": "StandardGearDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "gear_category": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Ammunition"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "category_specific": {
+                                "$ref": "AmmunitionDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "gear_category": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Holy Symbol"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "category_specific": {
+                                "$ref": "HolySymbolDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "gear_category": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Druidic Focus"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "category_specific": {
+                                "$ref": "ArcaneFocusDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "gear_category": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Arcane Focus"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "category_specific": {
+                                "$ref": "DruidicFocusDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "gear_category": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Kits"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "category_specific": {
+                                "$ref": "KitDescriptor.schema.json"
+                            }
+                        }
+                    }
+                },
+                {
+                    "if": {
+                        "properties": {
+                            "gear_category": {
+                                "properties": {
+                                    "name": {
+                                        "const": "Equipment Packs"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "then": {
+                        "properties": {
+                            "category_specific": {
+                                "$ref": "EquipmentPackDescriptor.schema.json"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

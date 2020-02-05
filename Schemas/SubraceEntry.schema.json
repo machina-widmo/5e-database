@@ -1,0 +1,90 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "SubraceEntry.schema.json",
+    "title": "SubraceEntry",
+    "type": "object",
+    "required": [
+        "descriptor",
+        "ability_score_valuees",
+        "ability_score_value_options",
+        "starting_proficiencies",
+        "starting_proficiency_options",
+        "languages",
+        "language_options",
+        "traits",
+        "trait_options",
+        "race"
+    ],
+    "properties": {
+        "descriptor": {
+            "$ref": "DatabaseEntryDescriptor.schema.json"
+        },
+        "ability_score_valuees": {
+            "type": "array",
+            "items": {
+                "$ref": "AbilityScoreValueDescriptor.schema.json"
+            }
+        },
+        "ability_score_value_options": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "ChoicePoolDatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "starting_proficiencies": {
+            "type": "array",
+            "items": {
+                "$ref": "DatabaseEntryReference.schema.json"
+            }
+        },
+        "starting_proficiency_options": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "ChoicePoolDatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "languages": {
+            "type": "array",
+            "items": {
+                "$ref": "DatabaseEntryReference.schema.json"
+            }
+        },
+        "language_options": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "ChoicePoolDatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "traits": {
+            "type": "array",
+            "items": {
+                "$ref": "DatabaseEntryReference.schema.json"
+            }
+        },
+        "trait_options": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "ChoicePoolDatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "race": {
+            "$ref": "DatabaseEntryReference.schema.json"
+        }
+    }
+}

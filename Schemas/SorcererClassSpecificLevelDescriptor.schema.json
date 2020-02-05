@@ -1,0 +1,25 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "SorcererClassSpecificLevelDescriptor.schema.json",
+    "title": "SorcererClassSpecificLevelDescriptor",
+    "type": "object",
+    "required": [
+        "sorcery_points",
+        "metamagic_known",
+        "creating_spell_slots_cost"
+    ],
+    "properties": {
+        "sorcery_points": {
+            "type": "number"
+        },
+        "metamagic_known": {
+            "type": "number"
+        },
+        "creating_spell_slots_cost": {
+            "type": "array",
+            "items": {
+                "type": "number"
+            }
+        }
+    }
+}

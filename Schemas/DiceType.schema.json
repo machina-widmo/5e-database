@@ -1,0 +1,6 @@
+{
+    "$id": "DiceType.json.schema",
+    "title": "DiceType",
+    "type": "string",
+    "pattern": "[dD](4|6|8|10|12|20)"
+}

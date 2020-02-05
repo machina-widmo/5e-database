@@ -1,0 +1,6 @@
+{
+    "$id": "CurrencyType.json.schema",
+    "title": "CurrencyType",
+    "type": "string",
+    "pattern": "(cp|sp|ep|gp|pp)"
+}

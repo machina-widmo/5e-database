@@ -1,0 +1,29 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "LanguageEntry.schema.json",
+    "title": "LanguageEntry",
+    "type": "object",
+    "required": [
+        "descriptor",
+        "language_type",
+        "typical_speakers",
+        "script"
+    ],
+    "properties": {
+        "descriptor": {
+            "$ref": "DatabaseEntryDescriptor.schema.json"
+        },
+        "language_type": {
+            "type": "string"
+        },
+        "typical_speakers": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "script": {
+            "type": "string"
+        }
+    }
+}

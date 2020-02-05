@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "DruidClassSpecificLevelDescriptor.schema.json",
+    "title": "DruidClassSpecificLevelDescriptor",
+    "type": "object",
+    "required": [
+        "wil_shape_max_crit",
+        "wild_shape_swim",
+        "while_shape_fly"
+    ],
+    "properties": {
+        "wil_shape_max_crit": {
+            "type": "number"
+        },
+        "wild_shape_swim": {
+            "type": "boolean"
+        },
+        "while_shape_fly": {
+            "type": "boolean"
+        }
+    }
+}
