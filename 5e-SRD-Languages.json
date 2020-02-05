@@ -5,7 +5,7 @@
             "Humans"
         ],
         "script": "Common",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/languages/0",
             "name": "Common",
@@ -18,7 +18,7 @@
             "Dwarves"
         ],
         "script": "Dwarvish",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/languages/1",
             "name": "Dwarvish",
@@ -31,7 +31,7 @@
             "Elves"
         ],
         "script": "Elvish",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/languages/2",
             "name": "Elvish",
@@ -45,7 +45,7 @@
             "Giants"
         ],
         "script": "Dwarvish",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/languages/3",
             "name": "Giant",
@@ -58,7 +58,7 @@
             "Gnomes"
         ],
         "script": "Dwarvish",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/languages/4",
             "name": "Gnomish",
@@ -71,7 +71,7 @@
             "Goblinoids"
         ],
         "script": "Dwarvish",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/languages/5",
             "name": "Goblin",
@@ -84,7 +84,7 @@
             "Halflings"
         ],
         "script": "Common",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/languages/6",
             "name": "Halfling",
@@ -97,7 +97,7 @@
             "Orcs"
         ],
         "script": "Dwarvish",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/languages/7",
             "name": "Orc",
@@ -110,7 +110,7 @@
             "Demons"
         ],
         "script": "Infernal",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/languages/8",
             "name": "Abyssal",
@@ -123,7 +123,7 @@
             "Celestials"
         ],
         "script": "Celestial",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 9,
             "url": "/api/languages/9",
             "name": "Celestial",
@@ -137,7 +137,7 @@
             "Dragonborn"
         ],
         "script": "Draconic",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 10,
             "url": "/api/languages/10",
             "name": "Draconic",
@@ -151,7 +151,7 @@
             "Cloakers"
         ],
         "script": "None",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 11,
             "url": "/api/languages/11",
             "name": "Deep Speech",
@@ -164,7 +164,7 @@
             "Devils"
         ],
         "script": "Infernal",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 12,
             "url": "/api/languages/12",
             "name": "Infernal",
@@ -177,7 +177,7 @@
             "Elementals"
         ],
         "script": "Dwarvish",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 13,
             "url": "/api/languages/13",
             "name": "Primordial",
@@ -190,7 +190,7 @@
             "Fey creatures"
         ],
         "script": "Elvish",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 14,
             "url": "/api/languages/14",
             "name": "Sylvan",
@@ -203,7 +203,7 @@
             "Underdark traders"
         ],
         "script": "Elvish",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 15,
             "url": "/api/languages/15",
             "name": "Undercommon",

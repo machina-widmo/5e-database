@@ -4,7 +4,7 @@
             "url": "/api/ability-scores/1",
             "name": "DEX"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/skills/0",
             "name": "Acrobatics",
@@ -18,7 +18,7 @@
             "url": "/api/ability-scores/4",
             "name": "WIS"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/skills/1",
             "name": "Animal Handling",
@@ -32,7 +32,7 @@
             "url": "/api/ability-scores/3",
             "name": "INT"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/skills/2",
             "name": "Arcana",
@@ -46,7 +46,7 @@
             "url": "/api/ability-scores/0",
             "name": "STR"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/skills/3",
             "name": "Athletics",
@@ -60,7 +60,7 @@
             "url": "/api/ability-scores/5",
             "name": "CHA"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/skills/4",
             "name": "Deception",
@@ -74,7 +74,7 @@
             "url": "/api/ability-scores/3",
             "name": "INT"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/skills/5",
             "name": "History",
@@ -88,7 +88,7 @@
             "url": "/api/ability-scores/4",
             "name": "WIS"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/skills/6",
             "name": "Insight",
@@ -102,7 +102,7 @@
             "url": "/api/ability-scores/5",
             "name": "CHA"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/skills/7",
             "name": "Intimidation",
@@ -116,7 +116,7 @@
             "url": "/api/ability-scores/3",
             "name": "INT"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/skills/8",
             "name": "Investigation",
@@ -130,7 +130,7 @@
             "url": "/api/ability-scores/4",
             "name": "WIS"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 9,
             "url": "/api/skills/9",
             "name": "Medicine",
@@ -144,7 +144,7 @@
             "url": "/api/ability-scores/3",
             "name": "INT"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 10,
             "url": "/api/skills/10",
             "name": "Nature",
@@ -158,7 +158,7 @@
             "url": "/api/ability-scores/4",
             "name": "WIS"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 11,
             "url": "/api/skills/11",
             "name": "Perception",
@@ -172,7 +172,7 @@
             "url": "/api/ability-scores/5",
             "name": "CHA"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 12,
             "url": "/api/skills/12",
             "name": "Performance",
@@ -186,7 +186,7 @@
             "url": "/api/ability-scores/5",
             "name": "CHA"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 13,
             "url": "/api/skills/13",
             "name": "Persuasion",
@@ -200,7 +200,7 @@
             "url": "/api/ability-scores/3",
             "name": "INT"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 14,
             "url": "/api/skills/14",
             "name": "Religion",
@@ -214,7 +214,7 @@
             "url": "/api/ability-scores/1",
             "name": "DEX"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 15,
             "url": "/api/skills/15",
             "name": "Sleight of Hand",
@@ -228,7 +228,7 @@
             "url": "/api/ability-scores/1",
             "name": "DEX"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 16,
             "url": "/api/skills/16",
             "name": "Stealth",
@@ -242,7 +242,7 @@
             "url": "/api/ability-scores/4",
             "name": "WIS"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 17,
             "url": "/api/skills/17",
             "name": "Survival",

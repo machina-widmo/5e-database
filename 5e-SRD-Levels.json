@@ -25,7 +25,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/levels/0",
             "name": "Barbarian Level 1",
@@ -58,7 +58,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/levels/1",
             "name": "Barbarian Level 2",
@@ -87,7 +87,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/levels/2",
             "name": "Barbarian Level 3",
@@ -116,7 +116,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/levels/3",
             "name": "Barbarian Level 4",
@@ -149,7 +149,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/levels/4",
             "name": "Barbarian Level 5",
@@ -173,7 +173,7 @@
             "url": "/api/classes/0"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/levels/5",
             "name": "Barbarian Level 6",
@@ -202,7 +202,7 @@
             "url": "/api/classes/0"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/levels/6",
             "name": "Barbarian Level 7",
@@ -231,7 +231,7 @@
             "url": "/api/classes/0"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/levels/7",
             "name": "Barbarian Level 8",
@@ -260,7 +260,7 @@
             "url": "/api/classes/0"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/levels/8",
             "name": "Barbarian Level 9",
@@ -284,7 +284,7 @@
             "url": "/api/classes/0"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 9,
             "url": "/api/levels/9",
             "name": "Barbarian Level 10",
@@ -313,7 +313,7 @@
             "url": "/api/classes/0"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 10,
             "url": "/api/levels/10",
             "name": "Barbarian Level 11",
@@ -342,7 +342,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 11,
             "url": "/api/levels/11",
             "name": "Barbarian Level 12",
@@ -371,7 +371,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 12,
             "url": "/api/levels/12",
             "name": "Barbarian Level 13",
@@ -395,7 +395,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 13,
             "url": "/api/levels/13",
             "name": "Barbarian Level 14",
@@ -424,7 +424,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 14,
             "url": "/api/levels/14",
             "name": "Barbarian Level 15",
@@ -453,7 +453,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 15,
             "url": "/api/levels/15",
             "name": "Barbarian Level 16",
@@ -482,7 +482,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 16,
             "url": "/api/levels/16",
             "name": "Barbarian Level 17",
@@ -511,7 +511,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 17,
             "url": "/api/levels/17",
             "name": "Barbarian Level 18",
@@ -540,7 +540,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 18,
             "url": "/api/levels/18",
             "name": "Barbarian Level 19",
@@ -569,7 +569,7 @@
         },
         "subclass": null,
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 19,
             "url": "/api/levels/19",
             "name": "Barbarian Level 20",
@@ -622,7 +622,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 20,
             "url": "/api/levels/20",
             "name": "Bard Level 1",
@@ -671,7 +671,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 21,
             "url": "/api/levels/21",
             "name": "Bard Level 2",
@@ -721,7 +721,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 22,
             "url": "/api/levels/22",
             "name": "Bard Level 3",
@@ -766,7 +766,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 23,
             "url": "/api/levels/23",
             "name": "Bard Level 4",
@@ -815,7 +815,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 24,
             "url": "/api/levels/24",
             "name": "Bard Level 5",
@@ -855,7 +855,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 25,
             "url": "/api/levels/25",
             "name": "Bard Level 6",
@@ -900,7 +900,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 26,
             "url": "/api/levels/26",
             "name": "Bard Level 7",
@@ -945,7 +945,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 27,
             "url": "/api/levels/27",
             "name": "Bard Level 8",
@@ -990,7 +990,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 28,
             "url": "/api/levels/28",
             "name": "Bard Level 9",
@@ -1044,7 +1044,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 29,
             "url": "/api/levels/29",
             "name": "Bard Level 10",
@@ -1084,7 +1084,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 30,
             "url": "/api/levels/30",
             "name": "Bard Level 11",
@@ -1129,7 +1129,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 31,
             "url": "/api/levels/31",
             "name": "Bard Level 12",
@@ -1174,7 +1174,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 32,
             "url": "/api/levels/32",
             "name": "Bard Level 13",
@@ -1219,7 +1219,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 33,
             "url": "/api/levels/33",
             "name": "Bard Level 14",
@@ -1264,7 +1264,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 34,
             "url": "/api/levels/34",
             "name": "Bard Level 15",
@@ -1309,7 +1309,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 35,
             "url": "/api/levels/35",
             "name": "Bard Level 16",
@@ -1354,7 +1354,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 36,
             "url": "/api/levels/36",
             "name": "Bard Level 17",
@@ -1399,7 +1399,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 37,
             "url": "/api/levels/37",
             "name": "Bard Level 18",
@@ -1444,7 +1444,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 38,
             "url": "/api/levels/38",
             "name": "Bard Level 19",
@@ -1489,7 +1489,7 @@
             "url": "/api/classes/1"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 39,
             "url": "/api/levels/39",
             "name": "Bard Level 20",
@@ -1539,7 +1539,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 40,
             "url": "/api/levels/40",
             "name": "Cleric Level 1",
@@ -1585,7 +1585,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 41,
             "url": "/api/levels/41",
             "name": "Cleric Level 2",
@@ -1627,7 +1627,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 42,
             "url": "/api/levels/42",
             "name": "Cleric Level 3",
@@ -1669,7 +1669,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 43,
             "url": "/api/levels/43",
             "name": "Cleric Level 4",
@@ -1715,7 +1715,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 44,
             "url": "/api/levels/44",
             "name": "Cleric Level 5",
@@ -1757,7 +1757,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 45,
             "url": "/api/levels/45",
             "name": "Cleric Level 6",
@@ -1799,7 +1799,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 46,
             "url": "/api/levels/46",
             "name": "Cleric Level 7",
@@ -1845,7 +1845,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 47,
             "url": "/api/levels/47",
             "name": "Cleric Level 8",
@@ -1887,7 +1887,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 48,
             "url": "/api/levels/48",
             "name": "Cleric Level 9",
@@ -1929,7 +1929,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 49,
             "url": "/api/levels/49",
             "name": "Cleric Level 10",
@@ -1971,7 +1971,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 50,
             "url": "/api/levels/50",
             "name": "Cleric Level 11",
@@ -2013,7 +2013,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 51,
             "url": "/api/levels/51",
             "name": "Cleric Level 12",
@@ -2050,7 +2050,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 52,
             "url": "/api/levels/52",
             "name": "Cleric Level 13",
@@ -2092,7 +2092,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 53,
             "url": "/api/levels/53",
             "name": "Cleric Level 14",
@@ -2129,7 +2129,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 54,
             "url": "/api/levels/54",
             "name": "Cleric Level 15",
@@ -2171,7 +2171,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 55,
             "url": "/api/levels/55",
             "name": "Cleric Level 16",
@@ -2217,7 +2217,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 56,
             "url": "/api/levels/56",
             "name": "Cleric Level 17",
@@ -2259,7 +2259,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 57,
             "url": "/api/levels/57",
             "name": "Cleric Level 18",
@@ -2301,7 +2301,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 58,
             "url": "/api/levels/58",
             "name": "Cleric Level 19",
@@ -2343,7 +2343,7 @@
             "url": "/api/classes/2"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 59,
             "url": "/api/levels/59",
             "name": "Cleric Level 20",
@@ -2390,7 +2390,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 60,
             "url": "/api/levels/60",
             "name": "Druid Level 1",
@@ -2437,7 +2437,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 61,
             "url": "/api/levels/61",
             "name": "Druid Level 2",
@@ -2475,7 +2475,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 62,
             "url": "/api/levels/62",
             "name": "Druid Level 3",
@@ -2522,7 +2522,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 63,
             "url": "/api/levels/63",
             "name": "Druid Level 4",
@@ -2560,7 +2560,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 64,
             "url": "/api/levels/64",
             "name": "Druid Level 5",
@@ -2598,7 +2598,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 65,
             "url": "/api/levels/65",
             "name": "Druid Level 6",
@@ -2636,7 +2636,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 66,
             "url": "/api/levels/66",
             "name": "Druid Level 7",
@@ -2683,7 +2683,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 67,
             "url": "/api/levels/67",
             "name": "Druid Level 8",
@@ -2721,7 +2721,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 68,
             "url": "/api/levels/68",
             "name": "Druid Level 9",
@@ -2759,7 +2759,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 69,
             "url": "/api/levels/69",
             "name": "Druid Level 10",
@@ -2797,7 +2797,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 70,
             "url": "/api/levels/70",
             "name": "Druid Level 11",
@@ -2840,7 +2840,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 71,
             "url": "/api/levels/71",
             "name": "Druid Level 12",
@@ -2878,7 +2878,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 72,
             "url": "/api/levels/72",
             "name": "Druid Level 13",
@@ -2916,7 +2916,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 73,
             "url": "/api/levels/73",
             "name": "Druid Level 14",
@@ -2954,7 +2954,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 74,
             "url": "/api/levels/74",
             "name": "Druid Level 15",
@@ -2997,7 +2997,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 75,
             "url": "/api/levels/75",
             "name": "Druid Level 16",
@@ -3035,7 +3035,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 76,
             "url": "/api/levels/76",
             "name": "Druid Level 17",
@@ -3082,7 +3082,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 77,
             "url": "/api/levels/77",
             "name": "Druid Level 18",
@@ -3125,7 +3125,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 78,
             "url": "/api/levels/78",
             "name": "Druid Level 19",
@@ -3168,7 +3168,7 @@
             "url": "/api/classes/3"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 79,
             "url": "/api/levels/79",
             "name": "Druid Level 20",
@@ -3202,7 +3202,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 80,
             "url": "/api/levels/80",
             "name": "Fighter Level 1",
@@ -3235,7 +3235,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 81,
             "url": "/api/levels/81",
             "name": "Fighter Level 2",
@@ -3264,7 +3264,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 82,
             "url": "/api/levels/82",
             "name": "Fighter Level 3",
@@ -3293,7 +3293,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 83,
             "url": "/api/levels/83",
             "name": "Fighter Level 4",
@@ -3322,7 +3322,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 84,
             "url": "/api/levels/84",
             "name": "Fighter Level 5",
@@ -3351,7 +3351,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 85,
             "url": "/api/levels/85",
             "name": "Fighter Level 6",
@@ -3375,7 +3375,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 86,
             "url": "/api/levels/86",
             "name": "Fighter Level 7",
@@ -3404,7 +3404,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 87,
             "url": "/api/levels/87",
             "name": "Fighter Level 8",
@@ -3433,7 +3433,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 88,
             "url": "/api/levels/88",
             "name": "Fighter Level 9",
@@ -3457,7 +3457,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 89,
             "url": "/api/levels/89",
             "name": "Fighter Level 10",
@@ -3486,7 +3486,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 90,
             "url": "/api/levels/90",
             "name": "Fighter Level 11",
@@ -3515,7 +3515,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 91,
             "url": "/api/levels/91",
             "name": "Fighter Level 12",
@@ -3544,7 +3544,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 92,
             "url": "/api/levels/92",
             "name": "Fighter Level 13",
@@ -3573,7 +3573,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 93,
             "url": "/api/levels/93",
             "name": "Fighter Level 14",
@@ -3597,7 +3597,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 94,
             "url": "/api/levels/94",
             "name": "Fighter Level 15",
@@ -3626,7 +3626,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 95,
             "url": "/api/levels/95",
             "name": "Fighter Level 16",
@@ -3655,7 +3655,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 96,
             "url": "/api/levels/96",
             "name": "Fighter Level 17",
@@ -3679,7 +3679,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 97,
             "url": "/api/levels/97",
             "name": "Fighter Level 18",
@@ -3708,7 +3708,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 98,
             "url": "/api/levels/98",
             "name": "Fighter Level 19",
@@ -3737,7 +3737,7 @@
             "url": "/api/classes/4"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 99,
             "url": "/api/levels/99",
             "name": "Fighter Level 20",
@@ -3770,7 +3770,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 100,
             "url": "/api/levels/100",
             "name": "Monk Level 1",
@@ -3815,7 +3815,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 101,
             "url": "/api/levels/101",
             "name": "Monk Level 2",
@@ -3848,7 +3848,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 102,
             "url": "/api/levels/102",
             "name": "Monk Level 3",
@@ -3881,7 +3881,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 103,
             "url": "/api/levels/103",
             "name": "Monk Level 4",
@@ -3914,7 +3914,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 104,
             "url": "/api/levels/104",
             "name": "Monk Level 5",
@@ -3943,7 +3943,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 105,
             "url": "/api/levels/105",
             "name": "Monk Level 6",
@@ -3976,7 +3976,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 106,
             "url": "/api/levels/106",
             "name": "Monk Level 7",
@@ -4005,7 +4005,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 107,
             "url": "/api/levels/107",
             "name": "Monk Level 8",
@@ -4034,7 +4034,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 108,
             "url": "/api/levels/108",
             "name": "Monk Level 9",
@@ -4063,7 +4063,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 109,
             "url": "/api/levels/109",
             "name": "Monk Level 10",
@@ -4087,7 +4087,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 110,
             "url": "/api/levels/110",
             "name": "Monk Level 11",
@@ -4116,7 +4116,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 111,
             "url": "/api/levels/111",
             "name": "Monk Level 12",
@@ -4145,7 +4145,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 112,
             "url": "/api/levels/112",
             "name": "Monk Level 13",
@@ -4174,7 +4174,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 113,
             "url": "/api/levels/113",
             "name": "Monk Level 14",
@@ -4203,7 +4203,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 114,
             "url": "/api/levels/114",
             "name": "Monk Level 15",
@@ -4232,7 +4232,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 115,
             "url": "/api/levels/115",
             "name": "Monk Level 16",
@@ -4256,7 +4256,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 116,
             "url": "/api/levels/116",
             "name": "Monk Level 17",
@@ -4285,7 +4285,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 117,
             "url": "/api/levels/117",
             "name": "Monk Level 18",
@@ -4314,7 +4314,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 118,
             "url": "/api/levels/118",
             "name": "Monk Level 19",
@@ -4343,7 +4343,7 @@
             "url": "/api/classes/5"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 119,
             "url": "/api/levels/119",
             "name": "Monk Level 20",
@@ -4384,7 +4384,7 @@
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 120,
             "url": "/api/levels/120",
             "name": "Paladin Level 1",
@@ -4430,7 +4430,7 @@
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 121,
             "url": "/api/levels/121",
             "name": "Paladin Level 2",
@@ -4479,7 +4479,7 @@
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 122,
             "url": "/api/levels/122",
             "name": "Paladin Level 3",
@@ -4516,7 +4516,7 @@
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 123,
             "url": "/api/levels/123",
             "name": "Paladin Level 4",
@@ -4553,7 +4553,7 @@
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 124,
             "url": "/api/levels/124",
             "name": "Paladin Level 5",
@@ -4591,7 +4591,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 125,
             "url": "/api/levels/125",
             "name": "Paladin Level 6",
@@ -4624,7 +4624,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 126,
             "url": "/api/levels/126",
             "name": "Paladin Level 7",
@@ -4662,7 +4662,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 127,
             "url": "/api/levels/127",
             "name": "Paladin Level 8",
@@ -4695,7 +4695,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 128,
             "url": "/api/levels/128",
             "name": "Paladin Level 9",
@@ -4733,7 +4733,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 129,
             "url": "/api/levels/129",
             "name": "Paladin Level 10",
@@ -4771,7 +4771,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 130,
             "url": "/api/levels/130",
             "name": "Paladin Level 11",
@@ -4809,7 +4809,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 131,
             "url": "/api/levels/131",
             "name": "Paladin Level 12",
@@ -4842,7 +4842,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 132,
             "url": "/api/levels/132",
             "name": "Paladin Level 13",
@@ -4880,7 +4880,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 133,
             "url": "/api/levels/133",
             "name": "Paladin Level 14",
@@ -4912,7 +4912,7 @@
             "url": "/api/classes/6"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 134,
             "url": "/api/levels/134",
             "name": "Paladin Level 15",
@@ -4950,7 +4950,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 135,
             "url": "/api/levels/135",
             "name": "Paladin Level 16",
@@ -4983,7 +4983,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 136,
             "url": "/api/levels/136",
             "name": "Paladin Level 17",
@@ -5021,7 +5021,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 137,
             "url": "/api/levels/137",
             "name": "Paladin Level 18",
@@ -5059,7 +5059,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 138,
             "url": "/api/levels/138",
             "name": "Paladin Level 19",
@@ -5092,7 +5092,7 @@
         "class_specific": {
             "aura_range": 0
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 139,
             "url": "/api/levels/139",
             "name": "Paladin Level 20",
@@ -5134,7 +5134,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 140,
             "url": "/api/levels/140",
             "name": "Ranger Level 1",
@@ -5177,7 +5177,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 141,
             "url": "/api/levels/141",
             "name": "Ranger Level 2",
@@ -5219,7 +5219,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 142,
             "url": "/api/levels/142",
             "name": "Ranger Level 3",
@@ -5257,7 +5257,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 143,
             "url": "/api/levels/143",
             "name": "Ranger Level 4",
@@ -5295,7 +5295,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 144,
             "url": "/api/levels/144",
             "name": "Ranger Level 5",
@@ -5337,7 +5337,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 145,
             "url": "/api/levels/145",
             "name": "Ranger Level 6",
@@ -5370,7 +5370,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 146,
             "url": "/api/levels/146",
             "name": "Ranger Level 7",
@@ -5412,7 +5412,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 147,
             "url": "/api/levels/147",
             "name": "Ranger Level 8",
@@ -5445,7 +5445,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 148,
             "url": "/api/levels/148",
             "name": "Ranger Level 9",
@@ -5487,7 +5487,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 149,
             "url": "/api/levels/149",
             "name": "Ranger Level 10",
@@ -5520,7 +5520,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 150,
             "url": "/api/levels/150",
             "name": "Ranger Level 11",
@@ -5558,7 +5558,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 151,
             "url": "/api/levels/151",
             "name": "Ranger Level 12",
@@ -5591,7 +5591,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 152,
             "url": "/api/levels/152",
             "name": "Ranger Level 13",
@@ -5633,7 +5633,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 153,
             "url": "/api/levels/153",
             "name": "Ranger Level 14",
@@ -5666,7 +5666,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 154,
             "url": "/api/levels/154",
             "name": "Ranger Level 15",
@@ -5704,7 +5704,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 155,
             "url": "/api/levels/155",
             "name": "Ranger Level 16",
@@ -5737,7 +5737,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 156,
             "url": "/api/levels/156",
             "name": "Ranger Level 17",
@@ -5775,7 +5775,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 157,
             "url": "/api/levels/157",
             "name": "Ranger Level 18",
@@ -5813,7 +5813,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 158,
             "url": "/api/levels/158",
             "name": "Ranger Level 19",
@@ -5851,7 +5851,7 @@
             "url": "/api/classes/7"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 159,
             "url": "/api/levels/159",
             "name": "Ranger Level 20",
@@ -5887,7 +5887,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 160,
             "url": "/api/levels/160",
             "name": "Rogue Level 1",
@@ -5914,7 +5914,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 161,
             "url": "/api/levels/161",
             "name": "Rogue Level 2",
@@ -5941,7 +5941,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 162,
             "url": "/api/levels/162",
             "name": "Rogue Level 3",
@@ -5968,7 +5968,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 163,
             "url": "/api/levels/163",
             "name": "Rogue Level 4",
@@ -5995,7 +5995,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 164,
             "url": "/api/levels/164",
             "name": "Rogue Level 5",
@@ -6022,7 +6022,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 165,
             "url": "/api/levels/165",
             "name": "Rogue Level 6",
@@ -6049,7 +6049,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 166,
             "url": "/api/levels/166",
             "name": "Rogue Level 7",
@@ -6076,7 +6076,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 167,
             "url": "/api/levels/167",
             "name": "Rogue Level 8",
@@ -6103,7 +6103,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 168,
             "url": "/api/levels/168",
             "name": "Rogue Level 9",
@@ -6130,7 +6130,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 169,
             "url": "/api/levels/169",
             "name": "Rogue Level 10",
@@ -6157,7 +6157,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 170,
             "url": "/api/levels/170",
             "name": "Rogue Level 11",
@@ -6184,7 +6184,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 171,
             "url": "/api/levels/171",
             "name": "Rogue Level 12",
@@ -6206,7 +6206,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 172,
             "url": "/api/levels/172",
             "name": "Rogue Level 13",
@@ -6233,7 +6233,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 173,
             "url": "/api/levels/173",
             "name": "Rogue Level 14",
@@ -6260,7 +6260,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 174,
             "url": "/api/levels/174",
             "name": "Rogue Level 15",
@@ -6287,7 +6287,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 175,
             "url": "/api/levels/175",
             "name": "Rogue Level 16",
@@ -6309,7 +6309,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 176,
             "url": "/api/levels/176",
             "name": "Rogue Level 17",
@@ -6336,7 +6336,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 177,
             "url": "/api/levels/177",
             "name": "Rogue Level 18",
@@ -6363,7 +6363,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 178,
             "url": "/api/levels/178",
             "name": "Rogue Level 19",
@@ -6390,7 +6390,7 @@
             "url": "/api/classes/8"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 179,
             "url": "/api/levels/179",
             "name": "Rogue Level 20",
@@ -6443,7 +6443,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 180,
             "url": "/api/levels/180",
             "name": "Sorcerer Level 1",
@@ -6500,7 +6500,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 181,
             "url": "/api/levels/181",
             "name": "Sorcerer Level 2",
@@ -6549,7 +6549,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 182,
             "url": "/api/levels/182",
             "name": "Sorcerer Level 3",
@@ -6598,7 +6598,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 183,
             "url": "/api/levels/183",
             "name": "Sorcerer Level 4",
@@ -6642,7 +6642,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 184,
             "url": "/api/levels/184",
             "name": "Sorcerer Level 5",
@@ -6686,7 +6686,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 185,
             "url": "/api/levels/185",
             "name": "Sorcerer Level 6",
@@ -6730,7 +6730,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 186,
             "url": "/api/levels/186",
             "name": "Sorcerer Level 7",
@@ -6779,7 +6779,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 187,
             "url": "/api/levels/187",
             "name": "Sorcerer Level 8",
@@ -6823,7 +6823,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 188,
             "url": "/api/levels/188",
             "name": "Sorcerer Level 9",
@@ -6872,7 +6872,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 189,
             "url": "/api/levels/189",
             "name": "Sorcerer Level 10",
@@ -6916,7 +6916,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 190,
             "url": "/api/levels/190",
             "name": "Sorcerer Level 11",
@@ -6965,7 +6965,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 191,
             "url": "/api/levels/191",
             "name": "Sorcerer Level 12",
@@ -7009,7 +7009,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 192,
             "url": "/api/levels/192",
             "name": "Sorcerer Level 13",
@@ -7053,7 +7053,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 193,
             "url": "/api/levels/193",
             "name": "Sorcerer Level 14",
@@ -7097,7 +7097,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 194,
             "url": "/api/levels/194",
             "name": "Sorcerer Level 15",
@@ -7146,7 +7146,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 195,
             "url": "/api/levels/195",
             "name": "Sorcerer Level 16",
@@ -7195,7 +7195,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 196,
             "url": "/api/levels/196",
             "name": "Sorcerer Level 17",
@@ -7239,7 +7239,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 197,
             "url": "/api/levels/197",
             "name": "Sorcerer Level 18",
@@ -7288,7 +7288,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 198,
             "url": "/api/levels/198",
             "name": "Sorcerer Level 19",
@@ -7337,7 +7337,7 @@
             "url": "/api/classes/9"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 199,
             "url": "/api/levels/199",
             "name": "Sorcerer Level 20",
@@ -7386,7 +7386,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 200,
             "url": "/api/levels/200",
             "name": "Warlock Level 1",
@@ -7431,7 +7431,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 201,
             "url": "/api/levels/201",
             "name": "Warlock Level 2",
@@ -7476,7 +7476,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 202,
             "url": "/api/levels/202",
             "name": "Warlock Level 3",
@@ -7521,7 +7521,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 203,
             "url": "/api/levels/203",
             "name": "Warlock Level 4",
@@ -7566,7 +7566,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 204,
             "url": "/api/levels/204",
             "name": "Warlock Level 5",
@@ -7606,7 +7606,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 205,
             "url": "/api/levels/205",
             "name": "Warlock Level 6",
@@ -7651,7 +7651,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 206,
             "url": "/api/levels/206",
             "name": "Warlock Level 7",
@@ -7696,7 +7696,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 207,
             "url": "/api/levels/207",
             "name": "Warlock Level 8",
@@ -7741,7 +7741,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 208,
             "url": "/api/levels/208",
             "name": "Warlock Level 9",
@@ -7781,7 +7781,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 209,
             "url": "/api/levels/209",
             "name": "Warlock Level 10",
@@ -7826,7 +7826,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 210,
             "url": "/api/levels/210",
             "name": "Warlock Level 11",
@@ -7875,7 +7875,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 211,
             "url": "/api/levels/211",
             "name": "Warlock Level 12",
@@ -7920,7 +7920,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 212,
             "url": "/api/levels/212",
             "name": "Warlock Level 13",
@@ -7960,7 +7960,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 213,
             "url": "/api/levels/213",
             "name": "Warlock Level 14",
@@ -8009,7 +8009,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 214,
             "url": "/api/levels/214",
             "name": "Warlock Level 15",
@@ -8054,7 +8054,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 215,
             "url": "/api/levels/215",
             "name": "Warlock Level 16",
@@ -8099,7 +8099,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 216,
             "url": "/api/levels/216",
             "name": "Warlock Level 17",
@@ -8144,7 +8144,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 217,
             "url": "/api/levels/217",
             "name": "Warlock Level 18",
@@ -8189,7 +8189,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 218,
             "url": "/api/levels/218",
             "name": "Warlock Level 19",
@@ -8238,7 +8238,7 @@
             "url": "/api/classes/10"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 219,
             "url": "/api/levels/219",
             "name": "Warlock Level 20",
@@ -8283,7 +8283,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 220,
             "url": "/api/levels/220",
             "name": "Wizard Level 1",
@@ -8324,7 +8324,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 221,
             "url": "/api/levels/221",
             "name": "Wizard Level 2",
@@ -8360,7 +8360,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 222,
             "url": "/api/levels/222",
             "name": "Wizard Level 3",
@@ -8401,7 +8401,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 223,
             "url": "/api/levels/223",
             "name": "Wizard Level 4",
@@ -8437,7 +8437,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 224,
             "url": "/api/levels/224",
             "name": "Wizard Level 5",
@@ -8473,7 +8473,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 225,
             "url": "/api/levels/225",
             "name": "Wizard Level 6",
@@ -8509,7 +8509,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 226,
             "url": "/api/levels/226",
             "name": "Wizard Level 7",
@@ -8550,7 +8550,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 227,
             "url": "/api/levels/227",
             "name": "Wizard Level 8",
@@ -8586,7 +8586,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 228,
             "url": "/api/levels/228",
             "name": "Wizard Level 9",
@@ -8622,7 +8622,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 229,
             "url": "/api/levels/229",
             "name": "Wizard Level 10",
@@ -8658,7 +8658,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 230,
             "url": "/api/levels/230",
             "name": "Wizard Level 11",
@@ -8699,7 +8699,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 231,
             "url": "/api/levels/231",
             "name": "Wizard Level 12",
@@ -8735,7 +8735,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 232,
             "url": "/api/levels/232",
             "name": "Wizard Level 13",
@@ -8771,7 +8771,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 233,
             "url": "/api/levels/233",
             "name": "Wizard Level 14",
@@ -8807,7 +8807,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 234,
             "url": "/api/levels/234",
             "name": "Wizard Level 15",
@@ -8848,7 +8848,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 235,
             "url": "/api/levels/235",
             "name": "Wizard Level 16",
@@ -8884,7 +8884,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 236,
             "url": "/api/levels/236",
             "name": "Wizard Level 17",
@@ -8925,7 +8925,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 237,
             "url": "/api/levels/237",
             "name": "Wizard Level 18",
@@ -8966,7 +8966,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 238,
             "url": "/api/levels/238",
             "name": "Wizard Level 19",
@@ -9007,7 +9007,7 @@
             "url": "/api/classes/11"
         },
         "subclass": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 239,
             "url": "/api/levels/239",
             "name": "Wizard Level 20",
@@ -9036,7 +9036,7 @@
             "name": "Berserker",
             "url": "/api/subclasses/0"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 240,
             "url": "/api/levels/240",
             "name": "Barbarian Berserker Level 3",
@@ -9061,7 +9061,7 @@
             "name": "Berserker",
             "url": "/api/subclasses/0"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 241,
             "url": "/api/levels/241",
             "name": "Barbarian Berserker Level 6",
@@ -9086,7 +9086,7 @@
             "name": "Berserker",
             "url": "/api/subclasses/0"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 242,
             "url": "/api/levels/242",
             "name": "Barbarian Berserker Level 10",
@@ -9111,7 +9111,7 @@
             "name": "Berserker",
             "url": "/api/subclasses/0"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 243,
             "url": "/api/levels/243",
             "name": "Barbarian Berserker Level 14",
@@ -9143,7 +9143,7 @@
             "name": "Lore",
             "url": "/api/subclasses/1"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 244,
             "url": "/api/levels/244",
             "name": "Bard Lore Level 3",
@@ -9171,7 +9171,7 @@
             "name": "Lore",
             "url": "/api/subclasses/1"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 245,
             "url": "/api/levels/245",
             "name": "Bard Lore Level 6",
@@ -9199,7 +9199,7 @@
             "name": "Lore",
             "url": "/api/subclasses/1"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 246,
             "url": "/api/levels/246",
             "name": "Bard Lore Level 14",

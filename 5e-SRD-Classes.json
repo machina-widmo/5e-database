@@ -80,7 +80,7 @@
             }
         ],
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/classes/0",
             "name": "Barbarian",
@@ -269,7 +269,7 @@
             "url": "/api/spellcasting/0",
             "name": "Bard Spellcasting"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/classes/1",
             "name": "Bard",
@@ -352,7 +352,7 @@
             "url": "/api/spellcasting/1",
             "name": "Cleric Spellcasting"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/classes/2",
             "name": "Cleric",
@@ -487,7 +487,7 @@
             "url": "/api/spellcasting/2",
             "name": "Druid Spellcasting"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/classes/3",
             "name": "Druid",
@@ -579,7 +579,7 @@
             }
         ],
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/classes/4",
             "name": "Fighter",
@@ -783,7 +783,7 @@
             }
         ],
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/classes/5",
             "name": "Monk",
@@ -870,7 +870,7 @@
             "url": "/api/spellcasting/3",
             "name": "Paladin Spellcasting"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/classes/6",
             "name": "Paladin",
@@ -969,7 +969,7 @@
             "url": "/api/spellcasting/4",
             "name": "Ranger Spellcasting"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/classes/7",
             "name": "Ranger",
@@ -1085,7 +1085,7 @@
             }
         ],
         "spellcasting": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/classes/8",
             "name": "Rogue",
@@ -1172,7 +1172,7 @@
             "url": "/api/spellcasting/5",
             "name": "Sorcerer Spellcasting"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 9,
             "url": "/api/classes/9",
             "name": "Sorcerer",
@@ -1255,7 +1255,7 @@
             "url": "/api/spellcasting/6",
             "name": "Warlock Spellcasting"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 10,
             "url": "/api/classes/10",
             "name": "Warlock",
@@ -1342,7 +1342,7 @@
             "url": "/api/spellcasting/7",
             "name": "Wizard Spellcasting"
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 11,
             "url": "/api/classes/11",
             "name": "Wizard",

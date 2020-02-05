@@ -6,7 +6,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/features/0",
             "name": "Rage",
@@ -28,7 +28,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/features/1",
             "name": "Unarmored Defense",
@@ -44,7 +44,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/features/2",
             "name": "Reckless Attack",
@@ -60,7 +60,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/features/3",
             "name": "Danger Sense",
@@ -76,7 +76,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/features/4",
             "name": "Primal Path",
@@ -95,7 +95,7 @@
             "name": "Path of the Berserker"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/features/5",
             "name": "Frenzy",
@@ -111,7 +111,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/features/6",
             "name": "Ability Score Improvement 1",
@@ -127,7 +127,7 @@
         },
         "subclass": null,
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/features/7",
             "name": "Extra Attack",
@@ -143,7 +143,7 @@
         },
         "subclass": null,
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/features/8",
             "name": "Fast Movement",
@@ -162,7 +162,7 @@
             "name": "Berserker"
         },
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 9,
             "url": "/api/features/9",
             "name": "Mindless Rage",
@@ -178,7 +178,7 @@
         },
         "subclass": null,
         "level": 7,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 10,
             "url": "/api/features/10",
             "name": "Feral Instinct",
@@ -195,7 +195,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 11,
             "url": "/api/features/11",
             "name": "Ability Score Improvement 2",
@@ -211,7 +211,7 @@
         },
         "subclass": null,
         "level": 9,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 12,
             "url": "/api/features/12",
             "name": "Brutal Critical (1 die)",
@@ -230,7 +230,7 @@
             "name": "Berserker"
         },
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 13,
             "url": "/api/features/13",
             "name": "Intimidating Presence",
@@ -247,7 +247,7 @@
         },
         "subclass": null,
         "level": 11,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 14,
             "url": "/api/features/14",
             "name": "Relentless Rage",
@@ -264,7 +264,7 @@
         },
         "subclass": null,
         "level": 12,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 15,
             "url": "/api/features/15",
             "name": "Ability Score Improvement 3",
@@ -280,7 +280,7 @@
         },
         "subclass": null,
         "level": 13,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 16,
             "url": "/api/features/16",
             "name": "Brutal Critical (2 dice)",
@@ -299,7 +299,7 @@
             "name": "Berserker"
         },
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 17,
             "url": "/api/features/17",
             "name": "Retaliation",
@@ -315,7 +315,7 @@
         },
         "subclass": null,
         "level": 15,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 18,
             "url": "/api/features/18",
             "name": "Persistent Rage",
@@ -331,7 +331,7 @@
         },
         "subclass": null,
         "level": 16,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 19,
             "url": "/api/features/19",
             "name": "Ability Score Improvement 4",
@@ -347,7 +347,7 @@
         },
         "subclass": null,
         "level": 17,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 20,
             "url": "/api/features/20",
             "name": "Brutal Critical (3 dice)",
@@ -363,7 +363,7 @@
         },
         "subclass": null,
         "level": 18,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 21,
             "url": "/api/features/21",
             "name": "Indomitable Might",
@@ -379,7 +379,7 @@
         },
         "subclass": null,
         "level": 19,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 22,
             "url": "/api/features/22",
             "name": "Ability Score Improvement 5",
@@ -395,7 +395,7 @@
         },
         "subclass": null,
         "level": 20,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 23,
             "url": "/api/features/23",
             "name": "Fast Movement",
@@ -412,7 +412,7 @@
         "subclass": null,
         "level": 1,
         "reference": "/api/spellcasting/bard",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 24,
             "url": "/api/features/24",
             "name": "Spellcasting",
@@ -428,7 +428,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 25,
             "url": "/api/features/25",
             "name": "Bardic Inspiration (d6)",
@@ -446,7 +446,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 26,
             "url": "/api/features/26",
             "name": "Jack of All Trades",
@@ -462,7 +462,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 27,
             "url": "/api/features/27",
             "name": "Song of Rest (d6)",
@@ -479,7 +479,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 28,
             "url": "/api/features/28",
             "name": "Bard College",
@@ -498,7 +498,7 @@
             "name": "Lore"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 29,
             "url": "/api/features/29",
             "name": "Bonus Proficiencies",
@@ -517,7 +517,7 @@
             "name": "Lore"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 30,
             "url": "/api/features/30",
             "name": "Cutting Words",
@@ -613,7 +613,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 31,
             "url": "/api/features/31",
             "name": "Choose: Expertise 1",
@@ -635,15 +635,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 32,
             "url": "/api/features/32",
             "name": "Expertise: Acrobatics",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -658,15 +658,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 33,
             "url": "/api/features/33",
             "name": "Expertise: Animal Handling",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -681,15 +681,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 34,
             "url": "/api/features/34",
             "name": "Expertise: Arcana",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -704,15 +704,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 35,
             "url": "/api/features/35",
             "name": "Expertise: Athletics",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -727,15 +727,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 36,
             "url": "/api/features/36",
             "name": "Expertise: Deception",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -750,15 +750,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 37,
             "url": "/api/features/37",
             "name": "Expertise: History",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -773,15 +773,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 38,
             "url": "/api/features/38",
             "name": "Expertise: Insight",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -796,15 +796,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 39,
             "url": "/api/features/39",
             "name": "Expertise: Intimidation",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -819,15 +819,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 40,
             "url": "/api/features/40",
             "name": "Expertise: Investigation",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -842,15 +842,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 41,
             "url": "/api/features/41",
             "name": "Expertise: Medicine",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -865,15 +865,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 42,
             "url": "/api/features/42",
             "name": "Expertise: Nature",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -888,15 +888,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 43,
             "url": "/api/features/43",
             "name": "Expertise: Perception",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -911,15 +911,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 44,
             "url": "/api/features/44",
             "name": "Expertise: Performance",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -934,15 +934,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 45,
             "url": "/api/features/45",
             "name": "Expertise: Persuasion",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -957,15 +957,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 46,
             "url": "/api/features/46",
             "name": "Expertise: Religion",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -980,15 +980,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 47,
             "url": "/api/features/47",
             "name": "Expertise: Sleight of Hand",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -1003,15 +1003,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 48,
             "url": "/api/features/48",
             "name": "Expertise: Stealth",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -1026,15 +1026,15 @@
             }
         ],
         "group": "Expertise (Bard)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 49,
             "url": "/api/features/49",
             "name": "Expertise: Survival",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -1043,7 +1043,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 50,
             "url": "/api/features/50",
             "name": "Ability Score Improvement 1",
@@ -1059,7 +1059,7 @@
         },
         "subclass": null,
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 51,
             "url": "/api/features/51",
             "name": "Bardic Inspiration (d8)",
@@ -1077,7 +1077,7 @@
         },
         "subclass": null,
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 52,
             "url": "/api/features/52",
             "name": "Font of Inspiration",
@@ -1093,7 +1093,7 @@
         },
         "subclass": null,
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 53,
             "url": "/api/features/53",
             "name": "Countercharm",
@@ -1112,7 +1112,7 @@
             "name": "Lore"
         },
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 54,
             "url": "/api/features/54",
             "name": "Additional Magical Secrets",
@@ -1128,7 +1128,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 55,
             "url": "/api/features/55",
             "name": "Ability Score Improvement 2",
@@ -1144,7 +1144,7 @@
         },
         "subclass": null,
         "level": 9,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 56,
             "url": "/api/features/56",
             "name": "Song of Rest (d8)",
@@ -1161,7 +1161,7 @@
         },
         "subclass": null,
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 57,
             "url": "/api/features/57",
             "name": "Bardic Inspiration (d10)",
@@ -1257,7 +1257,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 58,
             "url": "/api/features/58",
             "name": "Choose: Expertise 2",
@@ -1273,7 +1273,7 @@
         },
         "subclass": null,
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 59,
             "url": "/api/features/59",
             "name": "Magical Secrets 1",
@@ -1291,7 +1291,7 @@
         },
         "subclass": null,
         "level": 12,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 60,
             "url": "/api/features/60",
             "name": "Ability Score Improvement 3",
@@ -1307,7 +1307,7 @@
         },
         "subclass": null,
         "level": 13,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 61,
             "url": "/api/features/61",
             "name": "Song of Rest (d10)",
@@ -1324,7 +1324,7 @@
         },
         "subclass": null,
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 62,
             "url": "/api/features/62",
             "name": "Magical Secrets 2",
@@ -1345,7 +1345,7 @@
             "name": "Lore"
         },
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 63,
             "url": "/api/features/63",
             "name": "Peerless Skill",
@@ -1361,7 +1361,7 @@
         },
         "subclass": null,
         "level": 15,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 64,
             "url": "/api/features/64",
             "name": "Bardic Inspiration (d12)",
@@ -1379,7 +1379,7 @@
         },
         "subclass": null,
         "level": 16,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 65,
             "url": "/api/features/65",
             "name": "Ability Score Improvement 4",
@@ -1395,7 +1395,7 @@
         },
         "subclass": null,
         "level": 17,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 66,
             "url": "/api/features/66",
             "name": "Song of Rest (d12)",
@@ -1412,7 +1412,7 @@
         },
         "subclass": null,
         "level": 18,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 67,
             "url": "/api/features/67",
             "name": "Magical Secrets 3",
@@ -1430,7 +1430,7 @@
         },
         "subclass": null,
         "level": 19,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 68,
             "url": "/api/features/68",
             "name": "Ability Score Improvement 5",
@@ -1446,7 +1446,7 @@
         },
         "subclass": null,
         "level": 20,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 69,
             "url": "/api/features/69",
             "name": "Superior Inspiration",
@@ -1463,7 +1463,7 @@
         "subclass": null,
         "level": 1,
         "reference": "/api/spellcasting/cleric",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 70,
             "url": "/api/features/70",
             "name": "Spellcasting",
@@ -1479,7 +1479,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 71,
             "url": "/api/features/71",
             "name": "Divine Domain",
@@ -1496,7 +1496,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 72,
             "url": "/api/features/72",
             "name": "Domain Spells 1",
@@ -1516,7 +1516,7 @@
             "name": "Life"
         },
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 73,
             "url": "/api/features/73",
             "name": "Bonus Proficiency",
@@ -1535,7 +1535,7 @@
             "name": "Life"
         },
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 74,
             "url": "/api/features/74",
             "name": "Disciple of Life",
@@ -1551,7 +1551,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 75,
             "url": "/api/features/75",
             "name": "Channel Divinity (1/rest)",
@@ -1570,7 +1570,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 76,
             "url": "/api/features/76",
             "name": "Channel Divinity: Turn Undead",
@@ -1590,7 +1590,7 @@
             "name": "Life"
         },
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 77,
             "url": "/api/features/77",
             "name": "Channel Divinity: Preserve Life",
@@ -1608,7 +1608,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 78,
             "url": "/api/features/78",
             "name": "Domain Spells 2",
@@ -1625,7 +1625,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 79,
             "url": "/api/features/79",
             "name": "Ability Score Improvement 1",
@@ -1641,7 +1641,7 @@
         },
         "subclass": null,
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 80,
             "url": "/api/features/80",
             "name": "Domain Spells 3",
@@ -1658,7 +1658,7 @@
         },
         "subclass": null,
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 81,
             "url": "/api/features/81",
             "name": "Destroy Undead (CR 1/2 or below)",
@@ -1674,7 +1674,7 @@
         },
         "subclass": null,
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 82,
             "url": "/api/features/82",
             "name": "Channel Divinity (2/rest)",
@@ -1693,7 +1693,7 @@
             "name": "Life"
         },
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 83,
             "url": "/api/features/83",
             "name": "Blessed Healer",
@@ -1709,7 +1709,7 @@
         },
         "subclass": null,
         "level": 7,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 84,
             "url": "/api/features/84",
             "name": "Domain Spells 4",
@@ -1726,7 +1726,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 85,
             "url": "/api/features/85",
             "name": "Ability Score Improvement 2",
@@ -1742,7 +1742,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 86,
             "url": "/api/features/86",
             "name": "Destroy Undead (CR 1 or below)",
@@ -1761,7 +1761,7 @@
             "name": "Life"
         },
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 87,
             "url": "/api/features/87",
             "name": "Divine Strike",
@@ -1777,7 +1777,7 @@
         },
         "subclass": null,
         "level": 9,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 88,
             "url": "/api/features/88",
             "name": "Domain Spells 5",
@@ -1794,7 +1794,7 @@
         },
         "subclass": null,
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 89,
             "url": "/api/features/89",
             "name": "Divine Intervention",
@@ -1813,7 +1813,7 @@
         },
         "subclass": null,
         "level": 11,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 90,
             "url": "/api/features/90",
             "name": "Destroy Undead (CR 2 or below)",
@@ -1829,7 +1829,7 @@
         },
         "subclass": null,
         "level": 12,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 91,
             "url": "/api/features/91",
             "name": "Ability Score Improvement 3",
@@ -1845,7 +1845,7 @@
         },
         "subclass": null,
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 92,
             "url": "/api/features/92",
             "name": "Destroy Undead (CR 3 or below)",
@@ -1861,7 +1861,7 @@
         },
         "subclass": null,
         "level": 16,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 93,
             "url": "/api/features/93",
             "name": "Ability Score Improvement 4",
@@ -1877,7 +1877,7 @@
         },
         "subclass": null,
         "level": 17,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 94,
             "url": "/api/features/94",
             "name": "Destroy Undead (CR 4 or below)",
@@ -1893,7 +1893,7 @@
         },
         "subclass": null,
         "level": 17,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 95,
             "url": "/api/features/95",
             "name": "Supreme Healing",
@@ -1909,7 +1909,7 @@
         },
         "subclass": null,
         "level": 18,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 96,
             "url": "/api/features/96",
             "name": "Channel Divinity (3/rest)",
@@ -1925,7 +1925,7 @@
         },
         "subclass": null,
         "level": 19,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 97,
             "url": "/api/features/97",
             "name": "Ability Score Improvement 5",
@@ -1941,7 +1941,7 @@
         },
         "subclass": null,
         "level": 20,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 98,
             "url": "/api/features/98",
             "name": "Divine Intervention Improvement",
@@ -1958,7 +1958,7 @@
         "subclass": null,
         "level": 1,
         "reference": "/api/spellcasting/druid",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 99,
             "url": "/api/features/99",
             "name": "Spellcasting",
@@ -1974,7 +1974,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 100,
             "url": "/api/features/100",
             "name": "Druidic",
@@ -1990,7 +1990,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 101,
             "url": "/api/features/101",
             "name": "Wild Shape (CR 1/4 or below, no flying or swim speed)",
@@ -2014,7 +2014,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 102,
             "url": "/api/features/102",
             "name": "Druid Circle",
@@ -2067,7 +2067,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 103,
             "url": "/api/features/103",
             "name": "Choose: Circle of the Land",
@@ -2087,7 +2087,7 @@
         },
         "level": 2,
         "group": "Circle of the Land",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 104,
             "url": "/api/features/104",
             "name": "Circle of the Land: Arctic",
@@ -2107,7 +2107,7 @@
         },
         "level": 2,
         "group": "Circle of the Land",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 105,
             "url": "/api/features/105",
             "name": "Circle of the Land: Coast",
@@ -2127,7 +2127,7 @@
         },
         "level": 2,
         "group": "Circle of the Land",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 106,
             "url": "/api/features/106",
             "name": "Circle of the Land: Desert",
@@ -2147,7 +2147,7 @@
         },
         "level": 2,
         "group": "Circle of the Land",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 107,
             "url": "/api/features/107",
             "name": "Circle of the Land: Forest",
@@ -2167,7 +2167,7 @@
         },
         "level": 2,
         "group": "Circle of the Land",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 108,
             "url": "/api/features/108",
             "name": "Circle of the Land: Grassland",
@@ -2187,7 +2187,7 @@
         },
         "level": 2,
         "group": "Circle of the Land",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 109,
             "url": "/api/features/109",
             "name": "Circle of the Land: Mountain",
@@ -2207,7 +2207,7 @@
         },
         "level": 2,
         "group": "Circle of the Land",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 110,
             "url": "/api/features/110",
             "name": "Circle of the Land: Swamp",
@@ -2226,7 +2226,7 @@
             "url": "/api/subclasses/3"
         },
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 111,
             "url": "/api/features/111",
             "name": "Bonus Cantrip",
@@ -2245,7 +2245,7 @@
             "url": "/api/subclasses/3"
         },
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 112,
             "url": "/api/features/112",
             "name": "Natural Recovery",
@@ -2265,7 +2265,7 @@
             "url": "/api/subclasses/3"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 113,
             "url": "/api/features/113",
             "name": "Circle Spells 1",
@@ -2283,7 +2283,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 114,
             "url": "/api/features/114",
             "name": "Wild Shape (CR 1/2 or below, no flying speed)",
@@ -2307,7 +2307,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 115,
             "url": "/api/features/115",
             "name": "Ability Score Improvement 1",
@@ -2326,7 +2326,7 @@
             "url": "/api/subclasses/3"
         },
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 116,
             "url": "/api/features/116",
             "name": "Circle Spells 2",
@@ -2347,7 +2347,7 @@
             "url": "/api/subclasses/3"
         },
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 117,
             "url": "/api/features/117",
             "name": "Land's Stride",
@@ -2367,7 +2367,7 @@
             "url": "/api/subclasses/3"
         },
         "level": 7,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 118,
             "url": "/api/features/118",
             "name": "Circle Spells 3",
@@ -2385,7 +2385,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 119,
             "url": "/api/features/119",
             "name": "Wild Shape (CR 1 or below)",
@@ -2409,7 +2409,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 120,
             "url": "/api/features/120",
             "name": "Ability Score Improvement 2",
@@ -2428,7 +2428,7 @@
             "url": "/api/subclasses/3"
         },
         "level": 9,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 121,
             "url": "/api/features/121",
             "name": "Circle Spells 4",
@@ -2449,7 +2449,7 @@
             "url": "/api/subclasses/3"
         },
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 122,
             "url": "/api/features/122",
             "name": "Nature's Ward",
@@ -2465,7 +2465,7 @@
         },
         "subclass": null,
         "level": 12,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 123,
             "url": "/api/features/123",
             "name": "Ability Score Improvement 3",
@@ -2484,7 +2484,7 @@
             "url": "/api/subclasses/3"
         },
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 124,
             "url": "/api/features/124",
             "name": "Nature's Sanctuary",
@@ -2500,7 +2500,7 @@
         },
         "subclass": null,
         "level": 16,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 125,
             "url": "/api/features/125",
             "name": "Ability Score Improvement 4",
@@ -2516,7 +2516,7 @@
         },
         "subclass": null,
         "level": 18,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 126,
             "url": "/api/features/126",
             "name": "Timeless Body",
@@ -2532,7 +2532,7 @@
         },
         "subclass": null,
         "level": 18,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 127,
             "url": "/api/features/127",
             "name": "Beast Spells",
@@ -2548,7 +2548,7 @@
         },
         "subclass": null,
         "level": 19,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 128,
             "url": "/api/features/128",
             "name": "Ability Score Improvement 5",
@@ -2564,7 +2564,7 @@
         },
         "subclass": null,
         "level": 20,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 129,
             "url": "/api/features/129",
             "name": "Archdruid",
@@ -2611,7 +2611,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 130,
             "url": "/api/features/130",
             "name": "Choose: Fighting Style",
@@ -2628,7 +2628,7 @@
         "subclass": null,
         "level": 1,
         "group": "Fighting Style (Fighter)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 131,
             "url": "/api/features/131",
             "name": "Fighting Style: Archery",
@@ -2645,7 +2645,7 @@
         "subclass": null,
         "level": 1,
         "group": "Fighting Style (Fighter)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 132,
             "url": "/api/features/132",
             "name": "Fighting Style: Defense",
@@ -2662,7 +2662,7 @@
         "subclass": null,
         "level": 1,
         "group": "Fighting Style (Fighter)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 133,
             "url": "/api/features/133",
             "name": "Fighting Style: Dueling",
@@ -2679,7 +2679,7 @@
         "subclass": null,
         "level": 1,
         "group": "Fighting Style (Fighter)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 134,
             "url": "/api/features/134",
             "name": "Fighting Style: Great Weapon Fighting",
@@ -2696,7 +2696,7 @@
         "subclass": null,
         "level": 1,
         "group": "Fighting Style (Fighter)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 135,
             "url": "/api/features/135",
             "name": "Fighting Style: Protection",
@@ -2713,7 +2713,7 @@
         "subclass": null,
         "level": 1,
         "group": "Fighting Style (Fighter)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 136,
             "url": "/api/features/136",
             "name": "Fighting Style: Two-Weapon Fighting",
@@ -2729,7 +2729,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 137,
             "url": "/api/features/137",
             "name": "Second Wind",
@@ -2745,7 +2745,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 138,
             "url": "/api/features/138",
             "name": "Action Surge (1 use)",
@@ -2762,7 +2762,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 139,
             "url": "/api/features/139",
             "name": "Martial Archetype",
@@ -2781,7 +2781,7 @@
             "name": "Champion"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 140,
             "url": "/api/features/140",
             "name": "Improved Critical",
@@ -2797,7 +2797,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 141,
             "url": "/api/features/141",
             "name": "Ability Score Improvement 1",
@@ -2813,7 +2813,7 @@
         },
         "subclass": null,
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 142,
             "url": "/api/features/142",
             "name": "Extra Attack (1)",
@@ -2829,7 +2829,7 @@
         },
         "subclass": null,
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 143,
             "url": "/api/features/143",
             "name": "Ability Score Improvement 2",
@@ -2848,7 +2848,7 @@
             "name": "Champion"
         },
         "level": 7,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 144,
             "url": "/api/features/144",
             "name": "Remarkable Athlete",
@@ -2864,7 +2864,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 145,
             "url": "/api/features/145",
             "name": "Ability Score Improvement 3",
@@ -2880,7 +2880,7 @@
         },
         "subclass": null,
         "level": 9,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 146,
             "url": "/api/features/146",
             "name": "Indomitable (1 use)",
@@ -2929,7 +2929,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 147,
             "url": "/api/features/147",
             "name": "Choose: Additional Fighting Style",
@@ -2945,7 +2945,7 @@
         },
         "subclass": null,
         "level": 11,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 148,
             "url": "/api/features/148",
             "name": "Extra Attack (2)",
@@ -2961,7 +2961,7 @@
         },
         "subclass": null,
         "level": 12,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 149,
             "url": "/api/features/149",
             "name": "Ability Score Improvement 4",
@@ -2977,7 +2977,7 @@
         },
         "subclass": null,
         "level": 13,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 150,
             "url": "/api/features/150",
             "name": "Indomitable (2 uses)",
@@ -2993,7 +2993,7 @@
         },
         "subclass": null,
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 151,
             "url": "/api/features/151",
             "name": "Ability Score Improvement 5",
@@ -3012,7 +3012,7 @@
             "name": "Champion"
         },
         "level": 15,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 152,
             "url": "/api/features/152",
             "name": "Superior Critical",
@@ -3028,7 +3028,7 @@
         },
         "subclass": null,
         "level": 16,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 153,
             "url": "/api/features/153",
             "name": "Ability Score Improvement 6",
@@ -3044,7 +3044,7 @@
         },
         "subclass": null,
         "level": 17,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 154,
             "url": "/api/features/154",
             "name": "Action Surge (2 uses)",
@@ -3061,7 +3061,7 @@
         },
         "subclass": null,
         "level": 17,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 155,
             "url": "/api/features/155",
             "name": "Indomitable (3 uses)",
@@ -3080,7 +3080,7 @@
             "name": "Champion"
         },
         "level": 18,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 156,
             "url": "/api/features/156",
             "name": "Survivor",
@@ -3096,7 +3096,7 @@
         },
         "subclass": null,
         "level": 19,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 157,
             "url": "/api/features/157",
             "name": "Ability Score Improvement 7",
@@ -3112,7 +3112,7 @@
         },
         "subclass": null,
         "level": 20,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 158,
             "url": "/api/features/158",
             "name": "Extra Attack (3)",
@@ -3128,7 +3128,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 159,
             "url": "/api/features/159",
             "name": "Unarmored Defense",
@@ -3144,7 +3144,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 160,
             "url": "/api/features/160",
             "name": "Martial Arts",
@@ -3165,7 +3165,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 161,
             "url": "/api/features/161",
             "name": "Ki",
@@ -3185,7 +3185,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 162,
             "url": "/api/features/162",
             "name": "Flurry of Blows",
@@ -3201,7 +3201,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 163,
             "url": "/api/features/163",
             "name": "Patient Defense",
@@ -3217,7 +3217,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 164,
             "url": "/api/features/164",
             "name": "Step of the Wind",
@@ -3233,7 +3233,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 165,
             "url": "/api/features/165",
             "name": "Unarmored Movement 1",
@@ -3250,7 +3250,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 166,
             "url": "/api/features/166",
             "name": "Monastic Tradition",
@@ -3266,7 +3266,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 167,
             "url": "/api/features/167",
             "name": "Deflect Missiles",
@@ -3286,7 +3286,7 @@
             "name": "Open Hand"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 168,
             "url": "/api/features/168",
             "name": "Open Hand Technique",
@@ -3305,7 +3305,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 169,
             "url": "/api/features/169",
             "name": "Ability Score Improvement 1",
@@ -3321,7 +3321,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 170,
             "url": "/api/features/170",
             "name": "Slow Fall",
@@ -3337,7 +3337,7 @@
         },
         "subclass": null,
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 171,
             "url": "/api/features/171",
             "name": "Extra Attack",
@@ -3353,7 +3353,7 @@
         },
         "subclass": null,
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 172,
             "url": "/api/features/172",
             "name": "Stunning Strike",
@@ -3369,7 +3369,7 @@
         },
         "subclass": null,
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 173,
             "url": "/api/features/173",
             "name": "Ki Empowered Strikes",
@@ -3388,7 +3388,7 @@
             "name": "Open Hand"
         },
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 174,
             "url": "/api/features/174",
             "name": "Wholeness of Body",
@@ -3404,7 +3404,7 @@
         },
         "subclass": null,
         "level": 7,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 175,
             "url": "/api/features/175",
             "name": "Evasion",
@@ -3420,7 +3420,7 @@
         },
         "subclass": null,
         "level": 7,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 176,
             "url": "/api/features/176",
             "name": "Stillness of Mind",
@@ -3436,7 +3436,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 177,
             "url": "/api/features/177",
             "name": "Ability Score Improvement 2",
@@ -3452,7 +3452,7 @@
         },
         "subclass": null,
         "level": 9,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 178,
             "url": "/api/features/178",
             "name": "Unarmored Movement 2",
@@ -3469,7 +3469,7 @@
         },
         "subclass": null,
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 179,
             "url": "/api/features/179",
             "name": "Purity of Body",
@@ -3488,7 +3488,7 @@
             "name": "Open Hand"
         },
         "level": 11,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 180,
             "url": "/api/features/180",
             "name": "Tranquility",
@@ -3504,7 +3504,7 @@
         },
         "subclass": null,
         "level": 12,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 181,
             "url": "/api/features/181",
             "name": "Ability Score Improvement 3",
@@ -3520,7 +3520,7 @@
         },
         "subclass": null,
         "level": 13,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 182,
             "url": "/api/features/182",
             "name": "Tongue of the Sun and Moon",
@@ -3536,7 +3536,7 @@
         },
         "subclass": null,
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 183,
             "url": "/api/features/183",
             "name": "Diamond Soul",
@@ -3553,7 +3553,7 @@
         },
         "subclass": null,
         "level": 15,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 184,
             "url": "/api/features/184",
             "name": "Timeless Body",
@@ -3569,7 +3569,7 @@
         },
         "subclass": null,
         "level": 16,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 185,
             "url": "/api/features/185",
             "name": "Ability Score Improvement 4",
@@ -3588,7 +3588,7 @@
             "name": "Open Hand"
         },
         "level": 17,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 186,
             "url": "/api/features/186",
             "name": "Quivering Palm",
@@ -3605,7 +3605,7 @@
         },
         "subclass": null,
         "level": 18,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 187,
             "url": "/api/features/187",
             "name": "Empty Body",
@@ -3622,7 +3622,7 @@
         },
         "subclass": null,
         "level": 19,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 188,
             "url": "/api/features/188",
             "name": "Ability Score Improvement 5",
@@ -3638,7 +3638,7 @@
         },
         "subclass": null,
         "level": 20,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 189,
             "url": "/api/features/189",
             "name": "Perfect Self",
@@ -3654,7 +3654,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 190,
             "url": "/api/features/190",
             "name": "Divine Sense",
@@ -3671,7 +3671,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 191,
             "url": "/api/features/191",
             "name": "Lay on Hands",
@@ -3712,7 +3712,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 192,
             "url": "/api/features/192",
             "name": "Choose: Fighting Style",
@@ -3729,7 +3729,7 @@
         "subclass": null,
         "level": 2,
         "group": "Fighting Style (Paladin)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 193,
             "url": "/api/features/193",
             "name": "Fighting Style: Defense",
@@ -3746,7 +3746,7 @@
         "subclass": null,
         "level": 2,
         "group": "Fighting Style (Paladin)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 194,
             "url": "/api/features/194",
             "name": "Fighting Style: Dueling",
@@ -3763,7 +3763,7 @@
         "subclass": null,
         "level": 2,
         "group": "Fighting Style (Paladin)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 195,
             "url": "/api/features/195",
             "name": "Fighting Style: Great Weapon Fighting",
@@ -3780,7 +3780,7 @@
         "subclass": null,
         "level": 2,
         "group": "Fighting Style (Paladin)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 196,
             "url": "/api/features/196",
             "name": "Fighting Style: Protection",
@@ -3797,7 +3797,7 @@
         "subclass": null,
         "level": 2,
         "reference": "/api/spellcasting/paladin",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 197,
             "url": "/api/features/197",
             "name": "Spellcasting",
@@ -3813,7 +3813,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 198,
             "url": "/api/features/198",
             "name": "Divine Smite",
@@ -3829,7 +3829,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 199,
             "url": "/api/features/199",
             "name": "Divine Health",
@@ -3845,7 +3845,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 200,
             "url": "/api/features/200",
             "name": "Sacred Oath",
@@ -3862,7 +3862,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 201,
             "url": "/api/features/201",
             "name": "Oath Spells",
@@ -3879,7 +3879,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 202,
             "url": "/api/features/202",
             "name": "Channel Divinity",
@@ -3900,7 +3900,7 @@
             "name": "Devotion"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 203,
             "url": "/api/features/203",
             "name": "Channel Divinity: Sacred Weapon",
@@ -3920,7 +3920,7 @@
             "name": "Devotion"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 204,
             "url": "/api/features/204",
             "name": "Channel Divinity: Turn the Unholy",
@@ -3937,7 +3937,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 205,
             "url": "/api/features/205",
             "name": "Ability Score Improvement 1",
@@ -3953,7 +3953,7 @@
         },
         "subclass": null,
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 206,
             "url": "/api/features/206",
             "name": "Extra Attack",
@@ -3969,7 +3969,7 @@
         },
         "subclass": null,
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 207,
             "url": "/api/features/207",
             "name": "Aura of Protection",
@@ -3989,7 +3989,7 @@
             "name": "Devotion"
         },
         "level": 7,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 208,
             "url": "/api/features/208",
             "name": "Aura of Devotion",
@@ -4006,7 +4006,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 209,
             "url": "/api/features/209",
             "name": "Ability Score Improvement 2",
@@ -4022,7 +4022,7 @@
         },
         "subclass": null,
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 210,
             "url": "/api/features/210",
             "name": "Aura of Courage",
@@ -4039,7 +4039,7 @@
         },
         "subclass": null,
         "level": 11,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 211,
             "url": "/api/features/211",
             "name": "Improved Divine Smite",
@@ -4055,7 +4055,7 @@
         },
         "subclass": null,
         "level": 12,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 212,
             "url": "/api/features/212",
             "name": "Ability Score Improvement 3",
@@ -4071,7 +4071,7 @@
         },
         "subclass": null,
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 213,
             "url": "/api/features/213",
             "name": "Cleansing Touch",
@@ -4091,7 +4091,7 @@
             "name": "Devotion"
         },
         "level": 15,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 214,
             "url": "/api/features/214",
             "name": "Purity of Spirit",
@@ -4107,7 +4107,7 @@
         },
         "subclass": null,
         "level": 16,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 215,
             "url": "/api/features/215",
             "name": "Ability Score Improvement 4",
@@ -4123,7 +4123,7 @@
         },
         "subclass": null,
         "level": 18,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 216,
             "url": "/api/features/216",
             "name": "Aura improvements",
@@ -4139,7 +4139,7 @@
         },
         "subclass": null,
         "level": 19,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 217,
             "url": "/api/features/217",
             "name": "Ability Score Improvement 5",
@@ -4158,7 +4158,7 @@
             "name": "Devotion"
         },
         "level": 20,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 218,
             "url": "/api/features/218",
             "name": "Nimbus",
@@ -4176,7 +4176,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 219,
             "url": "/api/features/219",
             "name": "Favored Enemy (1 type)",
@@ -4196,7 +4196,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 220,
             "url": "/api/features/220",
             "name": "Natural Explorer (1 terrain type)",
@@ -4242,7 +4242,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 221,
             "url": "/api/features/221",
             "name": "Choose: Fighting Style",
@@ -4259,7 +4259,7 @@
         "subclass": null,
         "level": 2,
         "group": "Fighting Style (Ranger)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 222,
             "url": "/api/features/222",
             "name": "Fighting Style: Archery",
@@ -4276,7 +4276,7 @@
         "subclass": null,
         "level": 2,
         "group": "Fighting Style (Ranger)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 223,
             "url": "/api/features/223",
             "name": "Fighting Style: Defense",
@@ -4293,7 +4293,7 @@
         "subclass": null,
         "level": 2,
         "group": "Fighting Style (Ranger)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 224,
             "url": "/api/features/224",
             "name": "Fighting Style: Dueling",
@@ -4310,7 +4310,7 @@
         "subclass": null,
         "level": 2,
         "group": "Fighting Style (Ranger)",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 225,
             "url": "/api/features/225",
             "name": "Fighting Style: Two-Weapon Fighting",
@@ -4327,7 +4327,7 @@
         "subclass": null,
         "level": 2,
         "reference": "/api/spellcasting/ranger",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 226,
             "url": "/api/features/226",
             "name": "Spellcasting",
@@ -4343,7 +4343,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 227,
             "url": "/api/features/227",
             "name": "Ranger Archetype",
@@ -4380,7 +4380,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 228,
             "url": "/api/features/228",
             "name": "Choose: Hunter's Prey",
@@ -4403,7 +4403,7 @@
         },
         "level": 3,
         "group": "Hunter's Prey",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 229,
             "url": "/api/features/229",
             "name": "Hunter's Prey: Colossus Slayer",
@@ -4423,7 +4423,7 @@
         },
         "level": 3,
         "group": "Hunter's Prey",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 230,
             "url": "/api/features/230",
             "name": "Hunter's Prey: Giant Killer",
@@ -4443,7 +4443,7 @@
         },
         "level": 3,
         "group": "Hunter's Prey",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 231,
             "url": "/api/features/231",
             "name": "Hunter's Prey: Horde Breaker",
@@ -4459,7 +4459,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 232,
             "url": "/api/features/232",
             "name": "Primeval Awareness",
@@ -4475,7 +4475,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 233,
             "url": "/api/features/233",
             "name": "Ability Score Improvement 1",
@@ -4491,7 +4491,7 @@
         },
         "subclass": null,
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 234,
             "url": "/api/features/234",
             "name": "Extra Attack",
@@ -4507,7 +4507,7 @@
         },
         "subclass": null,
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 235,
             "url": "/api/features/235",
             "name": "Favored Enemy (2 types)",
@@ -4527,7 +4527,7 @@
         },
         "subclass": null,
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 236,
             "url": "/api/features/236",
             "name": "Natural Explorer (2 terrain types)",
@@ -4572,7 +4572,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 237,
             "url": "/api/features/237",
             "name": "Choose: Defensive Tactics",
@@ -4595,7 +4595,7 @@
         },
         "level": 7,
         "group": "Defensive Tactics",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 238,
             "url": "/api/features/238",
             "name": "Defensive Tactics: Escape the Horde",
@@ -4615,7 +4615,7 @@
         },
         "level": 7,
         "group": "Defensive Tactics",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 239,
             "url": "/api/features/239",
             "name": "Defensive Tactics: Multiattack Defense",
@@ -4635,7 +4635,7 @@
         },
         "level": 7,
         "group": "Defensive Tactics",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 240,
             "url": "/api/features/240",
             "name": "Defensive Tactics: Steel Will",
@@ -4651,7 +4651,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 241,
             "url": "/api/features/241",
             "name": "Ability Score Improvement 2",
@@ -4667,7 +4667,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 242,
             "url": "/api/features/242",
             "name": "Land's Stride",
@@ -4684,7 +4684,7 @@
         },
         "subclass": null,
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 243,
             "url": "/api/features/243",
             "name": "Natural Explorer (3 terrain types)",
@@ -4708,7 +4708,7 @@
         },
         "subclass": null,
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 244,
             "url": "/api/features/244",
             "name": "Hide in Plain Sight",
@@ -4742,7 +4742,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 245,
             "url": "/api/features/245",
             "name": "Choose: Multiattack",
@@ -4764,7 +4764,7 @@
         },
         "level": 11,
         "group": "Multiattack",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 246,
             "url": "/api/features/246",
             "name": "Multiattack: Volley",
@@ -4784,7 +4784,7 @@
         },
         "level": 11,
         "group": "Multiattack",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 247,
             "url": "/api/features/247",
             "name": "Multiattack: Whirlwind Attack",
@@ -4800,7 +4800,7 @@
         },
         "subclass": null,
         "level": 12,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 248,
             "url": "/api/features/248",
             "name": "Ability Score Improvement 4",
@@ -4816,7 +4816,7 @@
         },
         "subclass": null,
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 249,
             "url": "/api/features/249",
             "name": "Favored Enemy (3 enemies)",
@@ -4836,7 +4836,7 @@
         },
         "subclass": null,
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 250,
             "url": "/api/features/250",
             "name": "Vanish",
@@ -4873,7 +4873,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 251,
             "url": "/api/features/251",
             "name": "Choose: Superior Hunter's Defense",
@@ -4896,7 +4896,7 @@
         },
         "level": 15,
         "group": "Superior Hunter's Defense",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 252,
             "url": "/api/features/252",
             "name": "Superior Hunter's Defense: Evasion",
@@ -4916,7 +4916,7 @@
         },
         "level": 15,
         "group": "Superior Hunter's Defense",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 253,
             "url": "/api/features/253",
             "name": "Superior Hunter's Defense: Stand Against the Tide",
@@ -4936,7 +4936,7 @@
         },
         "level": 15,
         "group": "Superior Hunter's Defense",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 254,
             "url": "/api/features/254",
             "name": "Superior Hunter's Defense: Uncanny Dodge",
@@ -4952,7 +4952,7 @@
         },
         "subclass": null,
         "level": 16,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 255,
             "url": "/api/features/255",
             "name": "Ability Score Improvement 4",
@@ -4968,7 +4968,7 @@
         },
         "subclass": null,
         "level": 18,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 256,
             "url": "/api/features/256",
             "name": "Feral Senses",
@@ -4985,7 +4985,7 @@
         },
         "subclass": null,
         "level": 19,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 257,
             "url": "/api/features/257",
             "name": "Ability Score Improvement 5",
@@ -5001,7 +5001,7 @@
         },
         "subclass": null,
         "level": 20,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 258,
             "url": "/api/features/258",
             "name": "Foe Slayer",
@@ -5095,7 +5095,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 259,
             "url": "/api/features/259",
             "name": "Choose: Expertise 1",
@@ -5118,15 +5118,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 260,
             "url": "/api/features/260",
             "name": "Expertise: Acrobatics",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5141,15 +5141,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 261,
             "url": "/api/features/261",
             "name": "Expertise: Animal Handling",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5164,15 +5164,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 262,
             "url": "/api/features/262",
             "name": "Expertise: Arcana",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5187,15 +5187,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 263,
             "url": "/api/features/263",
             "name": "Expertise: Athletics",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5210,15 +5210,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 264,
             "url": "/api/features/264",
             "name": "Expertise: Deception",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5233,15 +5233,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 265,
             "url": "/api/features/265",
             "name": "Expertise: History",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5256,15 +5256,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 266,
             "url": "/api/features/266",
             "name": "Expertise: Insight",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5279,15 +5279,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 267,
             "url": "/api/features/267",
             "name": "Expertise: Intimidation",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5302,15 +5302,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 268,
             "url": "/api/features/268",
             "name": "Expertise: Investigation",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5325,15 +5325,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 269,
             "url": "/api/features/269",
             "name": "Expertise: Medicine",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5348,15 +5348,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 270,
             "url": "/api/features/270",
             "name": "Expertise: Nature",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5371,15 +5371,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 271,
             "url": "/api/features/271",
             "name": "Expertise: Perception",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5394,15 +5394,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 272,
             "url": "/api/features/272",
             "name": "Expertise: Performance",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5417,15 +5417,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 273,
             "url": "/api/features/273",
             "name": "Expertise: Persuasion",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5440,15 +5440,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 274,
             "url": "/api/features/274",
             "name": "Expertise: Religion",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5463,15 +5463,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 275,
             "url": "/api/features/275",
             "name": "Expertise: Sleight of Hand",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5486,15 +5486,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 276,
             "url": "/api/features/276",
             "name": "Expertise: Stealth",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5509,15 +5509,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 277,
             "url": "/api/features/277",
             "name": "Expertise: Survival",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5532,15 +5532,15 @@
             }
         ],
         "group": "Expertise (Rogue)",
-        "entry_descriptor": {
+        "level": 1,
+        "descriptor": {
             "index": 278,
             "url": "/api/features/278",
             "name": "Expertise: Thieves' Tools",
             "desc": [
                 "Your proficiency bonus is doubled for any ability check you make for this skill."
             ]
-        },
-        "level": 1
+        }
     },
     {
         "class": {
@@ -5549,7 +5549,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 279,
             "url": "/api/features/279",
             "name": "Sneak Attack",
@@ -5567,7 +5567,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 280,
             "url": "/api/features/280",
             "name": "Thieves' Cant",
@@ -5584,7 +5584,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 281,
             "url": "/api/features/281",
             "name": "Cunning Action",
@@ -5600,7 +5600,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 282,
             "url": "/api/features/282",
             "name": "Roguish Archetype",
@@ -5619,7 +5619,7 @@
             "name": "Thief"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 283,
             "url": "/api/features/283",
             "name": "Fast Hands",
@@ -5638,7 +5638,7 @@
             "name": "Thief"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 284,
             "url": "/api/features/284",
             "name": "Second-Story Work",
@@ -5655,7 +5655,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 285,
             "url": "/api/features/285",
             "name": "Ability Score Improvement 1",
@@ -5671,7 +5671,7 @@
         },
         "subclass": null,
         "level": 5,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 286,
             "url": "/api/features/286",
             "name": "Uncanny Dodge",
@@ -5765,7 +5765,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 287,
             "url": "/api/features/287",
             "name": "Choose: Expertise 2",
@@ -5782,7 +5782,7 @@
         },
         "subclass": null,
         "level": 7,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 288,
             "url": "/api/features/288",
             "name": "Evasion",
@@ -5798,7 +5798,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 289,
             "url": "/api/features/289",
             "name": "Ability Score Improvement 2",
@@ -5817,7 +5817,7 @@
             "name": "Thief"
         },
         "level": 9,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 290,
             "url": "/api/features/290",
             "name": "Supreme Sneak",
@@ -5833,7 +5833,7 @@
         },
         "subclass": null,
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 291,
             "url": "/api/features/291",
             "name": "Ability Score Improvement 3",
@@ -5849,7 +5849,7 @@
         },
         "subclass": null,
         "level": 11,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 292,
             "url": "/api/features/292",
             "name": "Reliable Talent",
@@ -5865,7 +5865,7 @@
         },
         "subclass": null,
         "level": 12,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 293,
             "url": "/api/features/293",
             "name": "Ability Score Improvement 4",
@@ -5884,7 +5884,7 @@
             "name": "Thief"
         },
         "level": 13,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 294,
             "url": "/api/features/294",
             "name": "Use Magic Device",
@@ -5900,7 +5900,7 @@
         },
         "subclass": null,
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 295,
             "url": "/api/features/295",
             "name": "Blindsense",
@@ -5916,7 +5916,7 @@
         },
         "subclass": null,
         "level": 15,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 296,
             "url": "/api/features/296",
             "name": "Slippery Mind",
@@ -5932,7 +5932,7 @@
         },
         "subclass": null,
         "level": 16,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 297,
             "url": "/api/features/297",
             "name": "Ability Score Improvement 5",
@@ -5951,7 +5951,7 @@
             "name": "Thief"
         },
         "level": 17,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 298,
             "url": "/api/features/298",
             "name": "Thief's Reflexes",
@@ -5967,7 +5967,7 @@
         },
         "subclass": null,
         "level": 18,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 299,
             "url": "/api/features/299",
             "name": "Elusive",
@@ -5983,7 +5983,7 @@
         },
         "subclass": null,
         "level": 19,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 300,
             "url": "/api/features/300",
             "name": "Ability Score Improvement 6",
@@ -5999,7 +5999,7 @@
         },
         "subclass": null,
         "level": 20,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 301,
             "url": "/api/features/301",
             "name": "Stroke of Luck",
@@ -6017,7 +6017,7 @@
         "subclass": null,
         "level": 1,
         "reference": "/api/spellcasting/sorcerer",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 302,
             "url": "/api/features/302",
             "name": "Spellcasting",
@@ -6033,7 +6033,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 303,
             "url": "/api/features/303",
             "name": "Sorcerous Origin",
@@ -6099,7 +6099,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 304,
             "url": "/api/features/304",
             "name": "Choose: Dragon Ancestor",
@@ -6120,7 +6120,7 @@
         },
         "level": 1,
         "group": "Dragon Ancestor",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 305,
             "url": "/api/features/305",
             "name": "Dragon Ancestor: Black - Acid Damage",
@@ -6141,7 +6141,7 @@
         },
         "level": 1,
         "group": "Dragon Ancestor",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 306,
             "url": "/api/features/306",
             "name": "Dragon Ancestor: Blue - Lightning Damage",
@@ -6162,7 +6162,7 @@
         },
         "level": 1,
         "group": "Dragon Ancestor",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 307,
             "url": "/api/features/307",
             "name": "Dragon Ancestor: Brass - Fire Damage",
@@ -6183,7 +6183,7 @@
         },
         "level": 1,
         "group": "Dragon Ancestor",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 308,
             "url": "/api/features/308",
             "name": "Dragon Ancestor: Bronze - Lightning Damage",
@@ -6204,7 +6204,7 @@
         },
         "level": 1,
         "group": "Dragon Ancestor",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 309,
             "url": "/api/features/309",
             "name": "Dragon Ancestor: Copper - Acid Damage",
@@ -6225,7 +6225,7 @@
         },
         "level": 1,
         "group": "Dragon Ancestor",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 310,
             "url": "/api/features/310",
             "name": "Dragon Ancestor: Gold - Fire Damage",
@@ -6246,7 +6246,7 @@
         },
         "level": 1,
         "group": "Dragon Ancestor",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 311,
             "url": "/api/features/311",
             "name": "Dragon Ancestor: Green - Poison Damage",
@@ -6267,7 +6267,7 @@
         },
         "level": 1,
         "group": "Dragon Ancestor",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 312,
             "url": "/api/features/312",
             "name": "Dragon Ancestor: Red - Fire Damage",
@@ -6288,7 +6288,7 @@
         },
         "level": 1,
         "group": "Dragon Ancestor",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 313,
             "url": "/api/features/313",
             "name": "Dragon Ancestor: Silver - Cold Damage",
@@ -6309,7 +6309,7 @@
         },
         "level": 1,
         "group": "Dragon Ancestor",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 314,
             "url": "/api/features/314",
             "name": "Dragon Ancestor: White - Cold Damage",
@@ -6329,7 +6329,7 @@
             "name": "Draconic"
         },
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 315,
             "url": "/api/features/315",
             "name": "Draconic Resilience",
@@ -6346,7 +6346,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 316,
             "url": "/api/features/316",
             "name": "Font of Magic",
@@ -6364,7 +6364,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 317,
             "url": "/api/features/317",
             "name": "Flexible Casting: Creating Spell Slots",
@@ -6381,7 +6381,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 318,
             "url": "/api/features/318",
             "name": "Flexible Casting: Converting Spell Slot",
@@ -6435,7 +6435,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 319,
             "url": "/api/features/319",
             "name": "Choose: Metamagic",
@@ -6453,7 +6453,7 @@
         "subclass": null,
         "level": 3,
         "group": "Metamagic",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 320,
             "url": "/api/features/320",
             "name": "Metamagic: Careful Spell",
@@ -6470,7 +6470,7 @@
         "subclass": null,
         "level": 3,
         "group": "Metamagic",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 321,
             "url": "/api/features/321",
             "name": "Metamagic: Distant Spell",
@@ -6488,7 +6488,7 @@
         "subclass": null,
         "level": 3,
         "group": "Metamagic",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 322,
             "url": "/api/features/322",
             "name": "Metamagic: Empowered Spell",
@@ -6506,7 +6506,7 @@
         "subclass": null,
         "level": 3,
         "group": "Metamagic",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 323,
             "url": "/api/features/323",
             "name": "Metamagic: Extended Spell",
@@ -6523,7 +6523,7 @@
         "subclass": null,
         "level": 3,
         "group": "Metamagic",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 324,
             "url": "/api/features/324",
             "name": "Metamagic: Heightened Spell",
@@ -6540,7 +6540,7 @@
         "subclass": null,
         "level": 3,
         "group": "Metamagic",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 325,
             "url": "/api/features/325",
             "name": "Metamagic: Quickened Spell",
@@ -6557,7 +6557,7 @@
         "subclass": null,
         "level": 3,
         "group": "Metamagic",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 326,
             "url": "/api/features/326",
             "name": "Metamagic: Subtle Spell",
@@ -6573,7 +6573,7 @@
         },
         "subclass": null,
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 327,
             "url": "/api/features/327",
             "name": "Metamagic: Twinned Spell",
@@ -6590,7 +6590,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 328,
             "url": "/api/features/328",
             "name": "Ability Score Improvement 1",
@@ -6610,7 +6610,7 @@
         },
         "level": 6,
         "reference": "/api/subclasses/10",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 329,
             "url": "/api/features/329",
             "name": "Elemental Affinity",
@@ -6626,7 +6626,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 330,
             "url": "/api/features/330",
             "name": "Ability Score Improvement 2",
@@ -6680,7 +6680,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 331,
             "url": "/api/features/331",
             "name": "Choose: Additional Metamagic",
@@ -6697,7 +6697,7 @@
         },
         "subclass": null,
         "level": 12,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 332,
             "url": "/api/features/332",
             "name": "Ability Score Improvement 3",
@@ -6716,7 +6716,7 @@
             "name": "Draconic"
         },
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 333,
             "url": "/api/features/333",
             "name": "Dragon Wings",
@@ -6733,7 +6733,7 @@
         },
         "subclass": null,
         "level": 16,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 334,
             "url": "/api/features/334",
             "name": "Ability Score Improvement 4",
@@ -6787,7 +6787,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 335,
             "url": "/api/features/335",
             "name": "Choose: Additional Metamagic",
@@ -6807,7 +6807,7 @@
             "name": "Draconic"
         },
         "level": 18,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 336,
             "url": "/api/features/336",
             "name": "Draconic Presence",
@@ -6823,7 +6823,7 @@
         },
         "subclass": null,
         "level": 19,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 337,
             "url": "/api/features/337",
             "name": "Ability Score Improvement 5",
@@ -6839,7 +6839,7 @@
         },
         "subclass": null,
         "level": 20,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 338,
             "url": "/api/features/338",
             "name": "Sorcerous Restoration",
@@ -6855,7 +6855,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 339,
             "url": "/api/features/339",
             "name": "Otherworldly Patron",
@@ -6874,7 +6874,7 @@
             "name": "Fiend"
         },
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 340,
             "url": "/api/features/340",
             "name": "Dark One's Blessing",
@@ -6891,7 +6891,7 @@
         "subclass": null,
         "level": 1,
         "reference": "/api/spellcasting/warlock",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 341,
             "url": "/api/features/341",
             "name": "Pact Magic",
@@ -6977,7 +6977,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 342,
             "url": "/api/features/342",
             "name": "Choose: Eldritch Invocations",
@@ -7002,7 +7002,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 343,
             "url": "/api/features/343",
             "name": "Eldritch Invocation: Agonizing Blast",
@@ -7020,7 +7020,7 @@
         "level": 2,
         "prerequisites": [],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 344,
             "url": "/api/features/344",
             "name": "Eldritch Invocation: Armor of Shadows",
@@ -7038,7 +7038,7 @@
         "level": 2,
         "prerequisites": [],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 345,
             "url": "/api/features/345",
             "name": "Eldritch Invocation: Beast Speech",
@@ -7056,7 +7056,7 @@
         "level": 2,
         "prerequisites": [],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 346,
             "url": "/api/features/346",
             "name": "Eldritch Invocation: Beguiling Influence",
@@ -7079,7 +7079,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 347,
             "url": "/api/features/347",
             "name": "Eldritch Invocation: Book of Ancient Secrets",
@@ -7098,7 +7098,7 @@
         "level": 2,
         "prerequisites": [],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 348,
             "url": "/api/features/348",
             "name": "Eldritch Invocation: Devil's Sight",
@@ -7116,7 +7116,7 @@
         "level": 2,
         "prerequisites": [],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 349,
             "url": "/api/features/349",
             "name": "Eldritch Invocation: Eldritch Sight",
@@ -7139,7 +7139,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 350,
             "url": "/api/features/350",
             "name": "Eldritch Invocation: Eldritch Spear",
@@ -7157,7 +7157,7 @@
         "level": 2,
         "prerequisites": [],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 351,
             "url": "/api/features/351",
             "name": "Eldritch Invocation: Eyes of the Rune Keeper",
@@ -7175,7 +7175,7 @@
         "level": 2,
         "prerequisites": [],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 352,
             "url": "/api/features/352",
             "name": "Eldritch Invocation: Fiendish Vigor",
@@ -7193,7 +7193,7 @@
         "level": 2,
         "prerequisites": [],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 353,
             "url": "/api/features/353",
             "name": "Eldritch Invocation: Gaze of Two Minds",
@@ -7211,7 +7211,7 @@
         "level": 2,
         "prerequisites": [],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 354,
             "url": "/api/features/354",
             "name": "Eldritch Invocation: Mask of Many Faces",
@@ -7229,7 +7229,7 @@
         "level": 2,
         "prerequisites": [],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 355,
             "url": "/api/features/355",
             "name": "Eldritch Invocation: Misty Visions",
@@ -7252,7 +7252,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 356,
             "url": "/api/features/356",
             "name": "Eldritch Invocation: Repelling Blast",
@@ -7270,7 +7270,7 @@
         "level": 2,
         "prerequisites": [],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 357,
             "url": "/api/features/357",
             "name": "Eldritch Invocation: Thief of Five Fates",
@@ -7293,7 +7293,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 358,
             "url": "/api/features/358",
             "name": "Eldritch Invocation: Voice of the Chain Master",
@@ -7317,7 +7317,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 359,
             "url": "/api/features/359",
             "name": "Eldritch Invocation: Mire the Mind",
@@ -7340,7 +7340,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 360,
             "url": "/api/features/360",
             "name": "Eldritch Invocation: One with Shadows",
@@ -7363,7 +7363,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 361,
             "url": "/api/features/361",
             "name": "Eldritch Invocation: Sign of Ill Omen",
@@ -7390,7 +7390,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 362,
             "url": "/api/features/362",
             "name": "Eldritch Invocation: Thirsting Blade",
@@ -7413,7 +7413,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 363,
             "url": "/api/features/363",
             "name": "Eldritch Invocation: Bewitching Whispers",
@@ -7436,7 +7436,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 364,
             "url": "/api/features/364",
             "name": "Eldritch Invocation: Dreadful Word",
@@ -7459,7 +7459,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 365,
             "url": "/api/features/365",
             "name": "Eldritch Invocation: Sculptor of Flesh",
@@ -7482,7 +7482,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 366,
             "url": "/api/features/366",
             "name": "Eldritch Invocation: Ascendant Step",
@@ -7505,7 +7505,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 367,
             "url": "/api/features/367",
             "name": "Eldritch Invocation: Minions of Chaos",
@@ -7528,7 +7528,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 368,
             "url": "/api/features/368",
             "name": "Eldritch Invocation: Otherworldly Leap",
@@ -7551,7 +7551,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 369,
             "url": "/api/features/369",
             "name": "Eldritch Invocation: Whispers of the Grave",
@@ -7578,7 +7578,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 370,
             "url": "/api/features/370",
             "name": "Eldritch Invocation: Lifedrinker",
@@ -7605,7 +7605,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 371,
             "url": "/api/features/371",
             "name": "Eldritch Invocation: Chains of Carceri",
@@ -7628,7 +7628,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 372,
             "url": "/api/features/372",
             "name": "Eldritch Invocation: Master of Myriad Forms",
@@ -7651,7 +7651,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 373,
             "url": "/api/features/373",
             "name": "Eldritch Invocation: Visions of Distant Realms",
@@ -7674,7 +7674,7 @@
             }
         ],
         "group": "Eldritch Invocations",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 374,
             "url": "/api/features/374",
             "name": "Eldritch Invocation: Witch Sight",
@@ -7708,7 +7708,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 375,
             "url": "/api/features/375",
             "name": "Choose: Pact Boon",
@@ -7725,7 +7725,7 @@
         "subclass": null,
         "level": 3,
         "group": "Warlock Pact",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 376,
             "url": "/api/features/376",
             "name": "Pact of the Chain",
@@ -7745,7 +7745,7 @@
         "subclass": null,
         "level": 3,
         "group": "Warlock Pact",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 377,
             "url": "/api/features/377",
             "name": "Pact of the Blade",
@@ -7765,7 +7765,7 @@
         "subclass": null,
         "level": 3,
         "group": "Warlock Pact",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 378,
             "url": "/api/features/378",
             "name": "Pact of the Tome",
@@ -7783,7 +7783,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 379,
             "url": "/api/features/379",
             "name": "Ability Score Improvement 1",
@@ -7869,7 +7869,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 380,
             "url": "/api/features/380",
             "name": "Choose: Additional Eldritch Invocation",
@@ -7890,7 +7890,7 @@
             "name": "Fiend"
         },
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 381,
             "url": "/api/features/381",
             "name": "Dark One's Own Luck",
@@ -7977,7 +7977,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 382,
             "url": "/api/features/382",
             "name": "Choose: Additional Eldritch Invocation",
@@ -7995,7 +7995,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 383,
             "url": "/api/features/383",
             "name": "Ability Score Improvement 2",
@@ -8081,7 +8081,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 384,
             "url": "/api/features/384",
             "name": "Choose: Additional Eldritch Invocation",
@@ -8102,7 +8102,7 @@
             "name": "Fiend"
         },
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 385,
             "url": "/api/features/385",
             "name": "Fiendish Resilience",
@@ -8118,7 +8118,7 @@
         },
         "subclass": null,
         "level": 11,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 386,
             "url": "/api/features/386",
             "name": "Mystic Arcanum (6th level)",
@@ -8136,7 +8136,7 @@
         },
         "subclass": null,
         "level": 12,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 387,
             "url": "/api/features/387",
             "name": "Ability Score Improvement 3",
@@ -8222,7 +8222,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 388,
             "url": "/api/features/388",
             "name": "Choose: Additional Eldritch Invocation",
@@ -8240,7 +8240,7 @@
         },
         "subclass": null,
         "level": 13,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 389,
             "url": "/api/features/389",
             "name": "Mystic Arcanum (7th level)",
@@ -8261,7 +8261,7 @@
             "name": "Fiend"
         },
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 390,
             "url": "/api/features/390",
             "name": "Hurl Through Hell",
@@ -8279,7 +8279,7 @@
         },
         "subclass": null,
         "level": 15,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 391,
             "url": "/api/features/391",
             "name": "Mystic Arcanum (8th level)",
@@ -8367,7 +8367,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 392,
             "url": "/api/features/392",
             "name": "Choose: Additional Eldritch Invocation",
@@ -8385,7 +8385,7 @@
         },
         "subclass": null,
         "level": 16,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 393,
             "url": "/api/features/393",
             "name": "Ability Score Improvement 5",
@@ -8401,7 +8401,7 @@
         },
         "subclass": null,
         "level": 17,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 394,
             "url": "/api/features/394",
             "name": "Mystic Arcanum (9th level)",
@@ -8489,7 +8489,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 395,
             "url": "/api/features/395",
             "name": "Choose: Additional Eldritch Invocation",
@@ -8507,7 +8507,7 @@
         },
         "subclass": null,
         "level": 19,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 396,
             "url": "/api/features/396",
             "name": "Ability Score Improvement 6",
@@ -8523,7 +8523,7 @@
         },
         "subclass": null,
         "level": 20,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 397,
             "url": "/api/features/397",
             "name": "Eldritch Master",
@@ -8610,7 +8610,7 @@
                 }
             ]
         },
-        "entry_descriptor": {
+        "descriptor": {
             "index": 398,
             "url": "/api/features/398",
             "name": "Choose: Additional Eldritch Invocation",
@@ -8629,7 +8629,7 @@
         "subclass": null,
         "level": 1,
         "reference": "/api/spellcasting/wizard",
-        "entry_descriptor": {
+        "descriptor": {
             "index": 399,
             "url": "/api/features/399",
             "name": "Spellcasting",
@@ -8645,7 +8645,7 @@
         },
         "subclass": null,
         "level": 1,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 400,
             "url": "/api/features/400",
             "name": "Arcane Recovery",
@@ -8662,7 +8662,7 @@
         },
         "subclass": null,
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 401,
             "url": "/api/features/401",
             "name": "Arcane Tradition",
@@ -8682,7 +8682,7 @@
             "name": "Evocation"
         },
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 402,
             "url": "/api/features/402",
             "name": "Evocation Savant",
@@ -8701,7 +8701,7 @@
             "name": "Evocation"
         },
         "level": 2,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 403,
             "url": "/api/features/403",
             "name": "Sculpt Spells",
@@ -8717,7 +8717,7 @@
         },
         "subclass": null,
         "level": 4,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 404,
             "url": "/api/features/404",
             "name": "Ability Score Improvement 1",
@@ -8736,7 +8736,7 @@
             "name": "Evocation"
         },
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 405,
             "url": "/api/features/405",
             "name": "Potent Cantrip",
@@ -8752,7 +8752,7 @@
         },
         "subclass": null,
         "level": 8,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 406,
             "url": "/api/features/406",
             "name": "Ability Score Improvement 2",
@@ -8771,7 +8771,7 @@
             "name": "Evocation"
         },
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 407,
             "url": "/api/features/407",
             "name": "Empowered Evocation",
@@ -8787,7 +8787,7 @@
         },
         "subclass": null,
         "level": 12,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 408,
             "url": "/api/features/408",
             "name": "Ability Score Improvement 3",
@@ -8806,7 +8806,7 @@
             "name": "Evocation"
         },
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 409,
             "url": "/api/features/409",
             "name": "Overchannel",
@@ -8823,7 +8823,7 @@
         },
         "subclass": null,
         "level": 16,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 410,
             "url": "/api/features/410",
             "name": "Ability Score Improvement 4",
@@ -8839,7 +8839,7 @@
         },
         "subclass": null,
         "level": 18,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 411,
             "url": "/api/features/411",
             "name": "Spell Mastery",
@@ -8856,7 +8856,7 @@
         },
         "subclass": null,
         "level": 19,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 412,
             "url": "/api/features/412",
             "name": "Ability Score Improvement 5",
@@ -8872,7 +8872,7 @@
         },
         "subclass": null,
         "level": 20,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 413,
             "url": "/api/features/413",
             "name": "Signature Spell",
@@ -8892,7 +8892,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 414,
             "url": "/api/features/414",
             "name": "Spirit Seeker",
@@ -8911,7 +8911,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 415,
             "url": "/api/features/415",
             "name": "Totem Spirit: Bear",
@@ -8930,7 +8930,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 416,
             "url": "/api/features/416",
             "name": "Totem Spirit: Eagle",
@@ -8949,7 +8949,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 417,
             "url": "/api/features/417",
             "name": "Totem Spirit: Wolf",
@@ -8968,7 +8968,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 418,
             "url": "/api/features/418",
             "name": "Aspect of the Beast: Bear",
@@ -8987,7 +8987,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 419,
             "url": "/api/features/419",
             "name": "Aspect of the Beast: Eagle",
@@ -9006,7 +9006,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 420,
             "url": "/api/features/420",
             "name": "Aspect of the Beast: Wolf",
@@ -9025,7 +9025,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 421,
             "url": "/api/features/421",
             "name": "Totemic Attunement: Bear",
@@ -9044,7 +9044,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 422,
             "url": "/api/features/422",
             "name": "Totemic Attunement: Eagle",
@@ -9063,7 +9063,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 14,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 423,
             "url": "/api/features/423",
             "name": "Totemic Attunement: Wolf",
@@ -9082,7 +9082,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 10,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 424,
             "url": "/api/features/424",
             "name": "Spirit Walker",
@@ -9101,7 +9101,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 3,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 425,
             "url": "/api/features/425",
             "name": "Totem Spirit",
@@ -9121,7 +9121,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 426,
             "url": "/api/features/426",
             "name": "Aspect of the Beast",
@@ -9140,7 +9140,7 @@
             "name": "Path of the Totem Warrior"
         },
         "level": 6,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 427,
             "url": "/api/features/427",
             "name": "Totemic Attunement",

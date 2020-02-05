@@ -1,6 +1,6 @@
 [
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/weapon-properties/0",
             "name": "Ammunition",
@@ -11,7 +11,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/weapon-properties/1",
             "name": "Finesse",
@@ -21,7 +21,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/weapon-properties/2",
             "name": "Heavy",
@@ -31,7 +31,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/weapon-properties/3",
             "name": "Light",
@@ -41,7 +41,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/weapon-properties/4",
             "name": "Loading",
@@ -51,7 +51,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/weapon-properties/5",
             "name": "Reach",
@@ -61,7 +61,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/weapon-properties/6",
             "name": "Special",
@@ -71,7 +71,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/weapon-properties/7",
             "name": "Thrown",
@@ -81,7 +81,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/weapon-properties/8",
             "name": "Two-Handed",
@@ -91,7 +91,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 9,
             "url": "/api/weapon-properties/9",
             "name": "Versatile",
@@ -101,7 +101,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 10,
             "url": "/api/weapon-properties/10",
             "name": "Monk",

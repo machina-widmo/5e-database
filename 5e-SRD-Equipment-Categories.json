@@ -150,7 +150,7 @@
                 "url": "/api/equipment/36"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/equipment-categories/0",
             "name": "Weapon",
@@ -212,7 +212,7 @@
                 "url": "/api/equipment/49"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/equipment-categories/1",
             "name": "Armor",
@@ -678,7 +678,7 @@
                 "name": "Scholar's Pack"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/equipment-categories/2",
             "name": "Adventuring Gear",
@@ -812,7 +812,7 @@
                 "name": "Thieves' tools"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/equipment-categories/3",
             "name": "Tools",
@@ -1074,7 +1074,7 @@
                 "name": "Warship"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/equipment-categories/4",
             "name": "Mounts and Vehicles",
@@ -1124,7 +1124,7 @@
                 "name": "Spear"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/equipment-categories/5",
             "name": "Simple Weapons",
@@ -1226,7 +1226,7 @@
                 "name": "Net"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/equipment-categories/6",
             "name": "Martial Weapons",
@@ -1276,7 +1276,7 @@
                 "name": "Spear"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/equipment-categories/7",
             "name": "Simple Melee Weapons",
@@ -1302,7 +1302,7 @@
                 "name": "Sling"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/equipment-categories/8",
             "name": "Simple Ranged Weapons",
@@ -1384,7 +1384,7 @@
                 "name": "Whip"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 9,
             "url": "/api/equipment-categories/9",
             "name": "Martial Melee Weapons",
@@ -1414,7 +1414,7 @@
                 "name": "Net"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 10,
             "url": "/api/equipment-categories/10",
             "name": "Martial Ranged Weapons",
@@ -1436,7 +1436,7 @@
                 "name": "Studded Leather"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 11,
             "url": "/api/equipment-categories/11",
             "name": "Light Armor",
@@ -1466,7 +1466,7 @@
                 "name": "Half Plate"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 12,
             "url": "/api/equipment-categories/12",
             "name": "Medium Armor",
@@ -1492,7 +1492,7 @@
                 "name": "Plate"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 13,
             "url": "/api/equipment-categories/13",
             "name": "Heavy Armor",
@@ -1506,7 +1506,7 @@
                 "name": "Shield"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 14,
             "url": "/api/equipment-categories/14",
             "name": "Shields",
@@ -1916,7 +1916,7 @@
                 "name": "Whetstone"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 15,
             "url": "/api/equipment-categories/15",
             "name": "Standard Gear",
@@ -1954,7 +1954,7 @@
                 "name": "Poisoner's Kit"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 16,
             "url": "/api/equipment-categories/16",
             "name": "Kits",
@@ -1992,7 +1992,7 @@
                 "name": "Scholar's Pack"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 17,
             "url": "/api/equipment-categories/17",
             "name": "Equipment Packs",
@@ -2070,7 +2070,7 @@
                 "name": "Woodcarver's tools"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 18,
             "url": "/api/equipment-categories/18",
             "name": "Artisan's Tools",
@@ -2088,7 +2088,7 @@
                 "name": "Playing card set"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 19,
             "url": "/api/equipment-categories/19",
             "name": "Gaming Sets",
@@ -2138,7 +2138,7 @@
                 "name": "Viol"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 20,
             "url": "/api/equipment-categories/20",
             "name": "Musical Instruments",
@@ -2156,7 +2156,7 @@
                 "name": "Thieves' tools"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 21,
             "url": "/api/equipment-categories/21",
             "name": "Other Tools",
@@ -2194,7 +2194,7 @@
                 "name": "Warhorse"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 22,
             "url": "/api/equipment-categories/22",
             "name": "Mounts and Other Animals",
@@ -2304,7 +2304,7 @@
                 "name": "Wagon"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 23,
             "url": "/api/equipment-categories/23",
             "name": "Tack, Harness, and Drawn Vehicles",
@@ -2338,7 +2338,7 @@
                 "name": "Warship"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 24,
             "url": "/api/equipment-categories/24",
             "name": "Waterborne Vehicles",
@@ -2364,7 +2364,7 @@
                 "name": "Sling bullet"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 25,
             "url": "/api/equipment-categories/25",
             "name": "Ammunition",
@@ -2386,7 +2386,7 @@
                 "name": "Reliquary"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 26,
             "url": "/api/equipment-categories/26",
             "name": "Holy Symbol",
@@ -2412,7 +2412,7 @@
                 "name": "Yew wand"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 27,
             "url": "/api/equipment-categories/27",
             "name": "Druidic Focus",
@@ -2442,7 +2442,7 @@
                 "name": "Wand"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 28,
             "url": "/api/equipment-categories/28",
             "name": "Arcane Focus",
@@ -2451,7 +2451,7 @@
     },
     {
         "equipment": [],
-        "entry_description": {
+        "descriptor": {
             "index": 29,
             "url": "/api/equipment-categories/29",
             "name": "Custom",

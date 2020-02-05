@@ -288,7 +288,7 @@
                 }
             ]
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/startingequipment/0",
             "name": "Barbarian",
@@ -569,7 +569,7 @@
                 }
             ]
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/startingequipment/1",
             "name": "Bard",
@@ -862,7 +862,7 @@
                 }
             ]
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/startingequipment/2",
             "name": "Cleric",
@@ -1138,7 +1138,7 @@
                 }
             ]
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/startingequipment/3",
             "name": "Druid",
@@ -1609,7 +1609,7 @@
                 }
             ]
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/startingequipment/4",
             "name": "Fighter",
@@ -1779,7 +1779,7 @@
                 }
             ]
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/startingequipment/5",
             "name": "Monk",
@@ -2329,7 +2329,7 @@
                 }
             ]
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/startingequipment/6",
             "name": "Paladin",
@@ -2506,7 +2506,7 @@
                 }
             ]
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/startingequipment/7",
             "name": "Ranger",
@@ -2647,7 +2647,7 @@
                 }
             ]
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/startingequipment/8",
             "name": "Rogue",
@@ -2880,7 +2880,7 @@
                 }
             ]
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 9,
             "url": "/api/startingequipment/9",
             "name": "Sorcerer",
@@ -3226,7 +3226,7 @@
                 }
             ]
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 10,
             "url": "/api/startingequipment/10",
             "name": "Warlock",
@@ -3361,7 +3361,7 @@
                 }
             ]
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 11,
             "url": "/api/startingequipment/11",
             "name": "Wizard",

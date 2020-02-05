@@ -9,7 +9,6 @@
             {
                 "url": "/api/features/5",
                 "name": "Frenzy"
-                
             },
             {
                 "url": "/api/features/9",
@@ -24,7 +23,7 @@
                 "name": "Retaliation"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/subclasses/0",
             "name": "Path of the Berserker",
@@ -40,7 +39,7 @@
         },
         "subclass_flavor": "Bard College",
         "features": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/subclasses/1",
             "name": "Lore",
@@ -166,7 +165,7 @@
                 }
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/subclasses/2",
             "name": "Life",
@@ -1080,7 +1079,7 @@
                 }
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/subclasses/3",
             "name": "Land",
@@ -1096,7 +1095,7 @@
         },
         "subclass_flavor": "Martial Archetype",
         "features": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/subclasses/4",
             "name": "Champion",
@@ -1112,7 +1111,7 @@
         },
         "subclass_flavor": "Monastic Tradition",
         "features": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/subclasses/5",
             "name": "Open Hand",
@@ -1238,7 +1237,7 @@
                 }
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/subclasses/6",
             "name": "Devotion",
@@ -1254,7 +1253,7 @@
         },
         "subclass_flavor": "Ranger Archetype",
         "features": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/subclasses/7",
             "name": "Hunter",
@@ -1270,7 +1269,7 @@
         },
         "subclass_flavor": "Sorcerous Origins",
         "features": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/subclasses/8",
             "name": "Thief",
@@ -1286,7 +1285,7 @@
         },
         "subclass_flavor": "Sorcerous Origins",
         "features": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 9,
             "url": "/api/subclasses/9",
             "name": "Draconic",
@@ -1424,7 +1423,7 @@
                 }
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 10,
             "url": "/api/subclasses/10",
             "name": "Fiend",
@@ -1440,7 +1439,7 @@
         },
         "subclass_flavor": "Arcane Tradition",
         "features": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 11,
             "url": "/api/subclasses/11",
             "name": "Evocation",
@@ -1477,7 +1476,7 @@
                 "name": "Totemic Attunement"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 12,
             "url": "/api/subclasses/12",
             "name": "Path of the Totem Warrior",

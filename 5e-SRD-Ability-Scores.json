@@ -7,7 +7,7 @@
                 "name": "Athletics"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/ability-scores/0",
             "name": "STR",
@@ -33,7 +33,7 @@
                 "name": "Stealth"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/ability-scores/1",
             "name": "DEX",
@@ -46,7 +46,7 @@
     {
         "full_name": "Constitution",
         "skills": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/ability-scores/2",
             "name": "CON",
@@ -80,7 +80,7 @@
                 "name": "Religion"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/ability-scores/3",
             "name": "INT",
@@ -114,7 +114,7 @@
                 "name": "Survival"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/ability-scores/4",
             "name": "WIS",
@@ -144,7 +144,7 @@
                 "name": "Persuasion"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/ability-scores/5",
             "name": "CHA",

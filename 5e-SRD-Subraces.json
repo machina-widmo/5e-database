@@ -25,7 +25,7 @@
             }
         ],
         "trait_options": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/subraces/0",
             "name": "Hill Dwarf",
@@ -138,7 +138,7 @@
             }
         ],
         "trait_options": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/subraces/1",
             "name": "High Elf",
@@ -173,7 +173,7 @@
             }
         ],
         "trait_options": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/subraces/2",
             "name": "Lightfoot Halfling",
@@ -229,7 +229,7 @@
             }
         ],
         "trait_options": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/subraces/3",
             "name": "Rock Gnome",
@@ -264,7 +264,7 @@
             }
         ],
         "trait_options": null,
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/subraces/4",
             "name": "Stout Halfling",

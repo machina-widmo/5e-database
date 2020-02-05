@@ -1,6 +1,6 @@
 [
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/conditions/0",
             "name": "Blinded",
@@ -11,7 +11,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/conditions/1",
             "name": "Charmed",
@@ -22,7 +22,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/conditions/2",
             "name": "Deafened",
@@ -32,7 +32,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/conditions/3",
             "name": "Frightened",
@@ -43,7 +43,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/conditions/4",
             "name": "Grappled",
@@ -55,7 +55,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/conditions/5",
             "name": "Incapacitated",
@@ -65,7 +65,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/conditions/6",
             "name": "Invisible",
@@ -76,7 +76,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/conditions/7",
             "name": "Paralyzed",
@@ -89,7 +89,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/conditions/8",
             "name": "Petrified",
@@ -104,7 +104,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 9,
             "url": "/api/conditions/9",
             "name": "Poisoned",
@@ -114,7 +114,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 10,
             "url": "/api/conditions/10",
             "name": "Prone",
@@ -126,7 +126,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 11,
             "url": "/api/conditions/11",
             "name": "Restrained",
@@ -138,7 +138,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 12,
             "url": "/api/conditions/12",
             "name": "Stunned",
@@ -150,7 +150,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 13,
             "url": "/api/conditions/13",
             "name": "Unconscious",
@@ -164,7 +164,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 14,
             "url": "/api/conditions/14",
             "name": "Exhaustion",

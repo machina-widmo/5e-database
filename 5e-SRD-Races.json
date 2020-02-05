@@ -83,7 +83,7 @@
                 "name": "Hill Dwarf"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/races/0",
             "name": "Dwarf",
@@ -145,7 +145,7 @@
                 "name": "High Elf"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/races/1",
             "name": "Elf",
@@ -202,7 +202,7 @@
                 "name": "Lightfoot Halfling"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/races/2",
             "name": "Halfling",
@@ -337,7 +337,7 @@
         "language_desc": "You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.",
         "traits": [],
         "subraces": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/races/3",
             "name": "Human",
@@ -397,7 +397,7 @@
         ],
         "trait_options": null,
         "subraces": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/races/4",
             "name": "Dragonborn",
@@ -451,7 +451,7 @@
                 "name": "Rock Gnome"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/races/5",
             "name": "Gnome",
@@ -595,7 +595,7 @@
         ],
         "trait_options": null,
         "subraces": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/races/6",
             "name": "Half-Elf",
@@ -660,7 +660,7 @@
         ],
         "trait_options": null,
         "subraces": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/races/7",
             "name": "Half-Orc",
@@ -720,7 +720,7 @@
         ],
         "trait_options": null,
         "subraces": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/races/8",
             "name": "Tiefling",

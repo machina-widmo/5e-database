@@ -1,6 +1,6 @@
 [
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/damage-types/0",
             "name": "Acid",
@@ -10,7 +10,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/damage-types/1",
             "name": "Bludgeoning",
@@ -20,7 +20,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/damage-types/2",
             "name": "Cold",
@@ -30,7 +30,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/damage-types/3",
             "name": "Fire",
@@ -40,7 +40,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/damage-types/4",
             "name": "Force",
@@ -50,7 +50,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/damage-types/5",
             "name": "Lightning",
@@ -60,7 +60,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/damage-types/6",
             "name": "Necrotic",
@@ -70,7 +70,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/damage-types/7",
             "name": "Piercing",
@@ -80,7 +80,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/damage-types/8",
             "name": "Poison",
@@ -90,7 +90,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 9,
             "url": "/api/damage-types/9",
             "name": "Psychic",
@@ -100,7 +100,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 10,
             "url": "/api/damage-types/10",
             "name": "Radiant",
@@ -110,7 +110,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 11,
             "url": "/api/damage-types/11",
             "name": "Slashing",
@@ -120,7 +120,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 12,
             "url": "/api/damage-types/12",
             "name": "Thunder",

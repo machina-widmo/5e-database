@@ -22,14 +22,6 @@
                 "url": "/api/races/7"
             }
         ],
-        "entry_descriptor": {
-            "index": 0,
-            "url": "/api/traits/0",
-            "name": "Darkvision",
-            "desc": [
-                "You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You cannot discern color in darkness, only shades of gray."
-            ]
-        },
         "subraces": [
             {
                 "name": "Hill Dwarf",
@@ -43,7 +35,15 @@
                 "name": "Rock Gnome",
                 "url": "/api/subraces/3"
             }
-        ]
+        ],
+        "descriptor": {
+            "index": 0,
+            "url": "/api/traits/0",
+            "name": "Darkvision",
+            "desc": [
+                "You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You cannot discern color in darkness, only shades of gray."
+            ]
+        }
     },
     {
         "races": [
@@ -52,20 +52,20 @@
                 "url": "/api/races/0"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [
+            {
+                "name": "Hill Dwarf",
+                "url": "/api/subraces/0"
+            }
+        ],
+        "descriptor": {
             "index": 1,
             "url": "/api/traits/1",
             "name": "Dwarven Resilience",
             "desc": [
                 "You have advantage on saving throws against poison, and you have resistance against poison damage."
             ]
-        },
-        "subraces": [
-            {
-                "name": "Hill Dwarf",
-                "url": "/api/subraces/0"
-            }
-        ]
+        }
     },
     {
         "races": [
@@ -74,20 +74,20 @@
                 "url": "/api/races/0"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [
+            {
+                "name": "Hill Dwarf",
+                "url": "/api/subraces/0"
+            }
+        ],
+        "descriptor": {
             "index": 2,
             "url": "/api/traits/2",
             "name": "Dwarven Combat Training",
             "desc": [
                 "You have proficiency with the battleaxe, handaxe, light hammer, and warhammer."
             ]
-        },
-        "subraces": [
-            {
-                "name": "Hill Dwarf",
-                "url": "/api/subraces/0"
-            }
-        ]
+        }
     },
     {
         "races": [
@@ -96,37 +96,37 @@
                 "url": "/api/races/0"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [
+            {
+                "name": "Hill Dwarf",
+                "url": "/api/subraces/0"
+            }
+        ],
+        "descriptor": {
             "index": 3,
             "url": "/api/traits/3",
             "name": "Stonecunning",
             "desc": [
                 "Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
             ]
-        },
+        }
+    },
+    {
+        "races": [],
         "subraces": [
             {
                 "name": "Hill Dwarf",
                 "url": "/api/subraces/0"
             }
-        ]
-    },
-    {
-        "races": [],
-        "entry_descriptor": {
+        ],
+        "descriptor": {
             "index": 4,
             "url": "/api/traits/4",
             "name": "Dwarven Toughness",
             "desc": [
                 "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
             ]
-        },
-        "subraces": [
-            {
-                "name": "Hill Dwarf",
-                "url": "/api/subraces/0"
-            }
-        ]
+        }
     },
     {
         "races": [
@@ -135,20 +135,20 @@
                 "url": "/api/races/1"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [
+            {
+                "name": "High Elf",
+                "url": "/api/subraces/1"
+            }
+        ],
+        "descriptor": {
             "index": 5,
             "url": "/api/traits/5",
             "name": "Keen Senses",
             "desc": [
                 "You have proficiency in the Perception skill."
             ]
-        },
-        "subraces": [
-            {
-                "name": "High Elf",
-                "url": "/api/subraces/1"
-            }
-        ]
+        }
     },
     {
         "races": [
@@ -161,20 +161,20 @@
                 "url": "/api/races/6"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [
+            {
+                "name": "High Elf",
+                "url": "/api/subraces/1"
+            }
+        ],
+        "descriptor": {
             "index": 6,
             "url": "/api/traits/6",
             "name": "Fey Ancestry",
             "desc": [
                 "You have advantage on saving throws against being charmed, and magic cannot put you to sleep."
             ]
-        },
-        "subraces": [
-            {
-                "name": "High Elf",
-                "url": "/api/subraces/1"
-            }
-        ]
+        }
     },
     {
         "races": [
@@ -183,20 +183,20 @@
                 "url": "/api/races/1"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [
+            {
+                "name": "High Elf",
+                "url": "/api/subraces/1"
+            }
+        ],
+        "descriptor": {
             "index": 7,
             "url": "/api/traits/7",
             "name": "Trance",
             "desc": [
                 "Elves do not need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is \"trance.\") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting this way, you gain the same benefit that a human does from 8 hours of sleep."
             ]
-        },
-        "subraces": [
-            {
-                "name": "High Elf",
-                "url": "/api/subraces/1"
-            }
-        ]
+        }
     },
     {
         "races": [
@@ -205,54 +205,54 @@
                 "url": "/api/races/1"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [
+            {
+                "name": "High Elf",
+                "url": "/api/subraces/1"
+            }
+        ],
+        "descriptor": {
             "index": 8,
             "url": "/api/traits/8",
             "name": "Elf Weapon Training",
             "desc": [
                 "You have proficiency with the longsword, shortsword, shortbow, and longbow."
             ]
-        },
+        }
+    },
+    {
+        "races": [],
         "subraces": [
             {
                 "name": "High Elf",
                 "url": "/api/subraces/1"
             }
-        ]
-    },
-    {
-        "races": [],
-        "entry_descriptor": {
+        ],
+        "descriptor": {
             "index": 9,
             "url": "/api/traits/9",
             "name": "High Elf Cantrip",
             "desc": [
                 "You know one cantrip of your choice form the wizard spell list. Intelligence is your spellcasting ability for it."
             ]
-        },
+        }
+    },
+    {
+        "races": [],
         "subraces": [
             {
                 "name": "High Elf",
                 "url": "/api/subraces/1"
             }
-        ]
-    },
-    {
-        "races": [],
-        "entry_descriptor": {
+        ],
+        "descriptor": {
             "index": 10,
             "url": "/api/traits/10",
             "name": "Extra Language",
             "desc": [
                 "You can speak, read, and write one extra language of your choice."
             ]
-        },
-        "subraces": [
-            {
-                "name": "High Elf",
-                "url": "/api/subraces/1"
-            }
-        ]
+        }
     },
     {
         "races": [
@@ -261,15 +261,15 @@
                 "url": "/api/races/2"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [],
+        "descriptor": {
             "index": 11,
             "url": "/api/traits/11",
             "name": "Lucky",
             "desc": [
                 "When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
             ]
-        },
-        "subraces": []
+        }
     },
     {
         "races": [
@@ -278,15 +278,15 @@
                 "url": "/api/races/2"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [],
+        "descriptor": {
             "index": 12,
             "url": "/api/traits/12",
             "name": "Brave",
             "desc": [
                 "You have advantage on saving throw against being frightened."
             ]
-        },
-        "subraces": []
+        }
     },
     {
         "races": [
@@ -295,32 +295,32 @@
                 "url": "/api/races/2"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [],
+        "descriptor": {
             "index": 13,
             "url": "/api/traits/13",
             "name": "Halfling Nimbleness",
             "desc": [
                 "You can move through the space of any creature that is of a size larger than yours."
             ]
-        },
-        "subraces": []
+        }
     },
     {
         "races": [],
-        "entry_descriptor": {
+        "subraces": [
+            {
+                "name": "Lightfoot Halfling",
+                "url": "/api/subraces/2"
+            }
+        ],
+        "descriptor": {
             "index": 14,
             "url": "/api/traits/14",
             "name": "Naturally Stealthy",
             "desc": [
                 "You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you."
             ]
-        },
-        "subraces": [
-            {
-                "name": "Lightfoot Halfling",
-                "url": "/api/subraces/2"
-            }
-        ]
+        }
     },
     {
         "races": [
@@ -329,15 +329,15 @@
                 "url": "/api/races/4"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [],
+        "descriptor": {
             "index": 15,
             "url": "/api/traits/15",
             "name": "Draconic Ancestry",
             "desc": [
                 "You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
             ]
-        },
-        "subraces": []
+        }
     },
     {
         "races": [
@@ -346,7 +346,8 @@
                 "url": "/api/races/4"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [],
+        "descriptor": {
             "index": 16,
             "url": "/api/traits/16",
             "name": "Breath Weapon",
@@ -355,8 +356,7 @@
                 "When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 2d6 at 6th level, 3d6 at 11th level, and 5d6 at 16th level.",
                 "After you use your breath weapon, you cannot use it again until you complete a short or long rest."
             ]
-        },
-        "subraces": []
+        }
     },
     {
         "races": [
@@ -365,15 +365,15 @@
                 "url": "/api/races/4"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [],
+        "descriptor": {
             "index": 17,
             "url": "/api/traits/17",
             "name": "Damage Resistance",
             "desc": [
                 "You have resistance to the damage type associated with your draconic ancestry."
             ]
-        },
-        "subraces": []
+        }
     },
     {
         "races": [
@@ -382,41 +382,47 @@
                 "url": "/api/races/5"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [
+            {
+                "name": "Rock Gnome",
+                "url": "/api/subraces/3"
+            }
+        ],
+        "descriptor": {
             "index": 18,
             "url": "/api/traits/18",
             "name": "Gnome Cunning",
             "desc": [
                 "You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
             ]
-        },
+        }
+    },
+    {
+        "races": [],
         "subraces": [
             {
                 "name": "Rock Gnome",
                 "url": "/api/subraces/3"
             }
-        ]
-    },
-    {
-        "races": [],
-        "entry_descriptor": {
+        ],
+        "descriptor": {
             "index": 19,
             "url": "/api/traits/19",
             "name": "Artificer's Lore",
             "desc": [
                 "Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
             ]
-        },
+        }
+    },
+    {
+        "races": [],
         "subraces": [
             {
                 "name": "Rock Gnome",
                 "url": "/api/subraces/3"
             }
-        ]
-    },
-    {
-        "races": [],
-        "entry_descriptor": {
+        ],
+        "descriptor": {
             "index": 20,
             "url": "/api/traits/20",
             "name": "Tinker",
@@ -427,13 +433,7 @@
                 "Fire Starter: The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.",
                 "Music Box: When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed."
             ]
-        },
-        "subraces": [
-            {
-                "name": "Rock Gnome",
-                "url": "/api/subraces/3"
-            }
-        ]
+        }
     },
     {
         "races": [
@@ -442,15 +442,15 @@
                 "url": "/api/races/6"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [],
+        "descriptor": {
             "index": 21,
             "url": "/api/traits/21",
             "name": "Skill Versatility",
             "desc": [
                 "You gain proficiency in two skills of your choice."
             ]
-        },
-        "subraces": []
+        }
     },
     {
         "races": [
@@ -459,15 +459,15 @@
                 "url": "/api/races/7"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [],
+        "descriptor": {
             "index": 22,
             "url": "/api/traits/22",
             "name": "Menacing",
             "desc": [
                 "You gain proficiency in the Intimidation skill."
             ]
-        },
-        "subraces": []
+        }
     },
     {
         "races": [
@@ -476,15 +476,15 @@
                 "url": "/api/races/7"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [],
+        "descriptor": {
             "index": 23,
             "url": "/api/traits/23",
             "name": "Relentless Endurance",
             "desc": [
                 "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. you cannot use this feature again until you finish a long rest."
             ]
-        },
-        "subraces": []
+        }
     },
     {
         "races": [
@@ -493,15 +493,15 @@
                 "url": "/api/races/7"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [],
+        "descriptor": {
             "index": 24,
             "url": "/api/traits/24",
             "name": "Savage Attacks",
             "desc": [
                 "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
             ]
-        },
-        "subraces": []
+        }
     },
     {
         "races": [
@@ -510,15 +510,15 @@
                 "url": "/api/races/8"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [],
+        "descriptor": {
             "index": 25,
             "url": "/api/traits/25",
             "name": "Hellish Resistance",
             "desc": [
                 "You have resistance to fire damage."
             ]
-        },
-        "subraces": []
+        }
     },
     {
         "races": [
@@ -527,31 +527,31 @@
                 "url": "/api/races/8"
             }
         ],
-        "entry_descriptor": {
+        "subraces": [],
+        "descriptor": {
             "index": 26,
             "url": "/api/traits/26",
             "name": "Internal Legacy",
             "desc": [
                 "You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5h level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
             ]
-        },
-        "subraces": []
+        }
     },
     {
         "races": [],
-        "entry_descriptor": {
+        "subraces": [
+            {
+                "url": "/api/subraces/4",
+                "name": "Stout Halfling"
+            }
+        ],
+        "descriptor": {
             "index": 27,
             "url": "/api/traits/27",
             "name": "Stout Resilience",
             "desc": [
                 "You have advantage on saving throws against poison, and you have resistance against poison damage."
             ]
-        },
-        "subraces": [
-            {
-                "url": "/api/subraces/4",
-                "name": "Stout Halfling"
-            }
-        ]
+        }
     }
 ]

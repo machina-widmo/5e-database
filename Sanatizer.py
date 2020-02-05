@@ -76,33 +76,6 @@ def Noop(*args, **kwargs):
     return raw_json_data
 
 
-@CustomDatabaseSanatizer("races")
-def Sanatize_RacesDatabase(raw_json_data, database_name):
-    for json_object in raw_json_data:
-        ability_bonuses = json_object["ability_bonuses"]
-        for ability_bonus in ability_bonuses:
-
-            ability_bonus["ability"] = {}
-            
-            ability = ability_bonus["ability"]
-            ability["name"] = ability_bonus["name"]
-            ability["url"] = ability_bonus["url"]
-
-            ability_bonus["value"] = ability_bonus["bonus"]
-            del ability_bonus["name"]
-            del ability_bonus["url"]
-            del ability_bonus["bonus"]
-
-    return raw_json_data
-
-@CustomDatabaseSanatizer("features")
-def Sanatize_FeaturesDatabase(raw_json_data, database_name):
-    return raw_json_data
-
-@CustomDatabaseSanatizer_PostRefFixup("traits")
-def Sanatize_TraitsDatabase_PostRefFixup(raw_json_data, database_name, database_name_finder):
-    pass
-
 
 def FixupReference(field, field_name_scoped, database_name_finder):
     def GetScopeName():
@@ -242,6 +215,8 @@ def Sanatize(raw_json_data, database_name):
             They should be an object with only 2 fields:
                 {"name": "referenced-entry-name", "url": "referenced-entry-url"}
     '''
+
+    '''
     assert isinstance(raw_json_data, list)
     assert len(raw_json_data) > 0
     log.info(database_name)
@@ -264,31 +239,15 @@ def Sanatize(raw_json_data, database_name):
 
         return cur_object
 
+    '''
+
+    print(database_name)
     index = 0
     for json_object in raw_json_data:
-        entry_descriptor = json_object.setdefault(ENTRY_DESCRIPTOR, {})
-        for field_to_move in ["index", "url", "name", "desc"]:
-            value = json_object.get(field_to_move, None)
-            if value is not None:
-                del json_object[field_to_move]
-                entry_descriptor[field_to_move] = value
+        json_object['descriptor'] = json_object['entry_descriptor']
+        del json_object['entry_descriptor']
 
-        entry_descriptor["index"] = index
-        entry_descriptor["url"] = f"/api/{database_name}/{index}"
-
-        if not "name" in entry_descriptor:
-            entry_descriptor["name"] = f"Unnamed_Index{index}"
-
-        description = entry_descriptor.get("desc", None)
-        if not isinstance(description, list):
-            entry_descriptor["desc"] = [] if description is None else [str(description)]
-
-        elif len(description) > 0:
-            entry_descriptor["desc"] = [str(desc_line) for desc_line in description]
-
-        index += 1
-
-    raw_json_data = [__SanatizeRecurse(entry) for entry in raw_json_data]
+    # raw_json_data = [__SanatizeRecurse(entry) for entry in raw_json_data]
 
     return CUSTOM_DATABASE_SANATIZERS.get(database_name, Noop)(raw_json_data, database_name)
 
@@ -313,9 +272,9 @@ if __name__ == "__main__":
 
             databases[json_file_name] = (json_database_name, Sanatize(raw_json_data, json_database_name))
 
-    database_name_finder = DatabaseNameFinder(dict(databases.values()))
-    FixupReferences(database_name_finder)
-    PostFixupReferences(database_name_finder)
+    # database_name_finder = DatabaseNameFinder(dict(databases.values()))
+    # FixupReferences(database_name_finder)
+    # PostFixupReferences(database_name_finder)
 
     for file_name, database_name_and_database in databases.items():
         database_name, database = database_name_and_database

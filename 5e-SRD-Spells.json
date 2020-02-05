@@ -36,7 +36,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/spells/0",
             "name": "Acid Arrow",
@@ -77,7 +77,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/spells/1",
             "name": "Acid Splash",
@@ -124,7 +124,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/spells/2",
             "name": "Aid",
@@ -167,7 +167,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/spells/3",
             "name": "Alarm",
@@ -210,7 +210,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/spells/4",
             "name": "Alter Self",
@@ -262,7 +262,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/spells/5",
             "name": "Animal Friendship",
@@ -312,7 +312,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/spells/6",
             "name": "Animal Messenger",
@@ -345,7 +345,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/spells/7",
             "name": "Animal Shapes",
@@ -393,7 +393,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 8,
             "url": "/api/spells/8",
             "name": "Animate Dead",
@@ -438,7 +438,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 9,
             "url": "/api/spells/9",
             "name": "Animate Objects",
@@ -473,7 +473,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 10,
             "url": "/api/spells/10",
             "name": "Antilife Shell",
@@ -513,7 +513,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 11,
             "url": "/api/spells/11",
             "name": "Antimagic Field",
@@ -560,7 +560,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 12,
             "url": "/api/spells/12",
             "name": "Antipathy/Sympathy",
@@ -605,7 +605,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 13,
             "url": "/api/spells/13",
             "name": "Arcane Eye",
@@ -644,7 +644,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 14,
             "url": "/api/spells/14",
             "name": "Arcane Hand",
@@ -693,7 +693,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 15,
             "url": "/api/spells/15",
             "name": "Arcane Lock",
@@ -732,7 +732,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 16,
             "url": "/api/spells/16",
             "name": "Arcane Sword",
@@ -772,7 +772,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 17,
             "url": "/api/spells/17",
             "name": "Arcanist's Magic Aura",
@@ -819,7 +819,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 18,
             "url": "/api/spells/18",
             "name": "Astral Projection",
@@ -863,7 +863,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 19,
             "url": "/api/spells/19",
             "name": "Augury",
@@ -907,7 +907,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 20,
             "url": "/api/spells/20",
             "name": "Awaken",
@@ -954,7 +954,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 21,
             "url": "/api/spells/21",
             "name": "Bane",
@@ -1007,7 +1007,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 22,
             "url": "/api/spells/22",
             "name": "Banishment",
@@ -1056,7 +1056,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 23,
             "url": "/api/spells/23",
             "name": "Barkskin",
@@ -1101,7 +1101,7 @@
                 "url": "/api/subclasses/6"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 24,
             "url": "/api/spells/24",
             "name": "Beacon of Hope",
@@ -1149,7 +1149,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 25,
             "url": "/api/spells/25",
             "name": "Bestow Curse",
@@ -1188,7 +1188,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 26,
             "url": "/api/spells/26",
             "name": "Black Tentacles",
@@ -1222,7 +1222,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 27,
             "url": "/api/spells/27",
             "name": "Blade Barrier",
@@ -1273,7 +1273,7 @@
                 "url": "/api/subclasses/2"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 28,
             "url": "/api/spells/28",
             "name": "Bless",
@@ -1325,7 +1325,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 29,
             "url": "/api/spells/29",
             "name": "Blight",
@@ -1382,7 +1382,7 @@
                 "url": "/api/subclasses/10"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 30,
             "url": "/api/spells/30",
             "name": "Blindness/Deafness",
@@ -1423,7 +1423,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 31,
             "url": "/api/spells/31",
             "name": "Blink",
@@ -1468,7 +1468,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 32,
             "url": "/api/spells/32",
             "name": "Blur",
@@ -1499,7 +1499,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 33,
             "url": "/api/spells/33",
             "name": "Branding Smite",
@@ -1547,7 +1547,7 @@
                 "url": "/api/subclasses/10"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 34,
             "url": "/api/spells/34",
             "name": "Burning Hands",
@@ -1592,7 +1592,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 35,
             "url": "/api/spells/35",
             "name": "Call Lightning",
@@ -1635,7 +1635,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 36,
             "url": "/api/spells/36",
             "name": "Calm Emotions",
@@ -1677,7 +1677,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 37,
             "url": "/api/spells/37",
             "name": "Chain Lightning",
@@ -1734,7 +1734,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 38,
             "url": "/api/spells/38",
             "name": "Charm Person",
@@ -1779,7 +1779,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 39,
             "url": "/api/spells/39",
             "name": "Chill Touch",
@@ -1826,7 +1826,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 40,
             "url": "/api/spells/40",
             "name": "Circle of Death",
@@ -1877,7 +1877,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 41,
             "url": "/api/spells/41",
             "name": "Clairvoyance",
@@ -1913,7 +1913,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 42,
             "url": "/api/spells/42",
             "name": "Clone",
@@ -1958,7 +1958,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 43,
             "url": "/api/spells/43",
             "name": "Cloudkill",
@@ -2006,7 +2006,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 44,
             "url": "/api/spells/44",
             "name": "Color Spray",
@@ -2054,7 +2054,7 @@
                 "url": "/api/subclasses/10"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 45,
             "url": "/api/spells/45",
             "name": "Command",
@@ -2104,7 +2104,7 @@
                 "url": "/api/subclasses/6"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 46,
             "url": "/api/spells/46",
             "name": "Commune",
@@ -2147,7 +2147,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 47,
             "url": "/api/spells/47",
             "name": "Commune with Nature",
@@ -2205,7 +2205,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 48,
             "url": "/api/spells/48",
             "name": "Comprehend Languages",
@@ -2238,7 +2238,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 49,
             "url": "/api/spells/49",
             "name": "Compulsion",
@@ -2285,7 +2285,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 50,
             "url": "/api/spells/50",
             "name": "Cone of Cold",
@@ -2335,7 +2335,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 51,
             "url": "/api/spells/51",
             "name": "Confusion",
@@ -2381,7 +2381,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 52,
             "url": "/api/spells/52",
             "name": "Conjure Animals",
@@ -2423,7 +2423,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 53,
             "url": "/api/spells/53",
             "name": "Conjure Celestial",
@@ -2471,7 +2471,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 54,
             "url": "/api/spells/54",
             "name": "Conjure Elemental",
@@ -2513,7 +2513,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 55,
             "url": "/api/spells/55",
             "name": "Conjure Fey",
@@ -2555,7 +2555,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 56,
             "url": "/api/spells/56",
             "name": "Conjure Minor Elementals",
@@ -2603,7 +2603,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 57,
             "url": "/api/spells/57",
             "name": "Conjure Woodland Beings",
@@ -2645,7 +2645,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 58,
             "url": "/api/spells/58",
             "name": "Contact Other Plane",
@@ -2682,7 +2682,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 59,
             "url": "/api/spells/59",
             "name": "Contagion",
@@ -2730,7 +2730,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 60,
             "url": "/api/spells/60",
             "name": "Contingency",
@@ -2775,7 +2775,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 61,
             "url": "/api/spells/61",
             "name": "Continual Flame",
@@ -2817,7 +2817,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 62,
             "url": "/api/spells/62",
             "name": "Control Water",
@@ -2876,7 +2876,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 63,
             "url": "/api/spells/63",
             "name": "Control Weather",
@@ -2917,7 +2917,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 64,
             "url": "/api/spells/64",
             "name": "Counterspell",
@@ -2966,7 +2966,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 65,
             "url": "/api/spells/65",
             "name": "Create Food and Water",
@@ -3011,7 +3011,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 66,
             "url": "/api/spells/66",
             "name": "Create Undead",
@@ -3059,7 +3059,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 67,
             "url": "/api/spells/67",
             "name": "Create or Destroy Water",
@@ -3104,7 +3104,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 68,
             "url": "/api/spells/68",
             "name": "Creation",
@@ -3176,7 +3176,7 @@
                 "url": "/api/subclasses/2"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 69,
             "url": "/api/spells/69",
             "name": "Cure Wounds",
@@ -3223,7 +3223,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 70,
             "url": "/api/spells/70",
             "name": "Dancing Lights",
@@ -3274,7 +3274,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 71,
             "url": "/api/spells/71",
             "name": "Darkness",
@@ -3327,7 +3327,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 72,
             "url": "/api/spells/72",
             "name": "Darkvision",
@@ -3384,7 +3384,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 73,
             "url": "/api/spells/73",
             "name": "Daylight",
@@ -3427,7 +3427,7 @@
                 "url": "/api/subclasses/2"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 74,
             "url": "/api/spells/74",
             "name": "Death Ward",
@@ -3470,7 +3470,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 75,
             "url": "/api/spells/75",
             "name": "Delayed Blast Fireball",
@@ -3508,7 +3508,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 76,
             "url": "/api/spells/76",
             "name": "Demiplane",
@@ -3550,7 +3550,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 77,
             "url": "/api/spells/77",
             "name": "Detect Evil and Good",
@@ -3612,7 +3612,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 78,
             "url": "/api/spells/78",
             "name": "Detect Magic",
@@ -3664,7 +3664,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 79,
             "url": "/api/spells/79",
             "name": "Detect Poison and Disease",
@@ -3712,7 +3712,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 80,
             "url": "/api/spells/80",
             "name": "Detect Thoughts",
@@ -3759,7 +3759,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 81,
             "url": "/api/spells/81",
             "name": "Dimension Door",
@@ -3806,7 +3806,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 82,
             "url": "/api/spells/82",
             "name": "Disguise Self",
@@ -3849,7 +3849,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 83,
             "url": "/api/spells/83",
             "name": "Disintegrate",
@@ -3890,7 +3890,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 84,
             "url": "/api/spells/84",
             "name": "Dispel Evil and Good",
@@ -3963,7 +3963,7 @@
                 "url": "/api/subclasses/6"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 85,
             "url": "/api/spells/85",
             "name": "Dispel Magic",
@@ -4002,7 +4002,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 86,
             "url": "/api/spells/86",
             "name": "Divination",
@@ -4041,7 +4041,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 87,
             "url": "/api/spells/87",
             "name": "Divine Favor",
@@ -4072,7 +4072,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 88,
             "url": "/api/spells/88",
             "name": "Divine Word",
@@ -4116,7 +4116,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 89,
             "url": "/api/spells/89",
             "name": "Dominate Beast",
@@ -4165,7 +4165,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 90,
             "url": "/api/spells/90",
             "name": "Dominate Monster",
@@ -4211,7 +4211,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 91,
             "url": "/api/spells/91",
             "name": "Dominate Person",
@@ -4261,7 +4261,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 92,
             "url": "/api/spells/92",
             "name": "Dream",
@@ -4297,7 +4297,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 93,
             "url": "/api/spells/93",
             "name": "Druidcraft",
@@ -4343,7 +4343,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 94,
             "url": "/api/spells/94",
             "name": "Earthquake",
@@ -4389,7 +4389,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 95,
             "url": "/api/spells/95",
             "name": "Eldritch Blast",
@@ -4443,7 +4443,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 96,
             "url": "/api/spells/96",
             "name": "Enhance Ability",
@@ -4498,7 +4498,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 97,
             "url": "/api/spells/97",
             "name": "Enlarge/Reduce",
@@ -4540,7 +4540,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 98,
             "url": "/api/spells/98",
             "name": "Entangle",
@@ -4583,7 +4583,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 99,
             "url": "/api/spells/99",
             "name": "Enthrall",
@@ -4634,7 +4634,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 100,
             "url": "/api/spells/100",
             "name": "Etherealness",
@@ -4683,7 +4683,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 101,
             "url": "/api/spells/101",
             "name": "Expeditious Retreat",
@@ -4727,7 +4727,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 102,
             "url": "/api/spells/102",
             "name": "Eyebite",
@@ -4765,7 +4765,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 103,
             "url": "/api/spells/103",
             "name": "Fabricate",
@@ -4803,7 +4803,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 104,
             "url": "/api/spells/104",
             "name": "Faerie Fire",
@@ -4838,7 +4838,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 105,
             "url": "/api/spells/105",
             "name": "Faithful Hound",
@@ -4886,7 +4886,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 106,
             "url": "/api/spells/106",
             "name": "False Life",
@@ -4937,7 +4937,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 107,
             "url": "/api/spells/107",
             "name": "Fear",
@@ -4984,7 +4984,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 108,
             "url": "/api/spells/108",
             "name": "Feather Fall",
@@ -5030,7 +5030,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 109,
             "url": "/api/spells/109",
             "name": "Feeblemind",
@@ -5067,7 +5067,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 110,
             "url": "/api/spells/110",
             "name": "Find Familiar",
@@ -5110,7 +5110,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 111,
             "url": "/api/spells/111",
             "name": "Find Steed",
@@ -5159,7 +5159,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 112,
             "url": "/api/spells/112",
             "name": "Find Traps",
@@ -5198,7 +5198,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 113,
             "url": "/api/spells/113",
             "name": "Find the Path",
@@ -5239,7 +5239,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 114,
             "url": "/api/spells/114",
             "name": "Finger of Death",
@@ -5276,7 +5276,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 115,
             "url": "/api/spells/115",
             "name": "Fire Bolt",
@@ -5316,7 +5316,7 @@
                 "url": "/api/subclasses/10"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 116,
             "url": "/api/spells/116",
             "name": "Fire Shield",
@@ -5358,7 +5358,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 117,
             "url": "/api/spells/117",
             "name": "Fire Storm",
@@ -5409,7 +5409,7 @@
                 "url": "/api/subclasses/10"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 118,
             "url": "/api/spells/118",
             "name": "Fireball",
@@ -5452,7 +5452,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 119,
             "url": "/api/spells/119",
             "name": "Flame Blade",
@@ -5500,7 +5500,7 @@
                 "url": "/api/subclasses/10"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 120,
             "url": "/api/spells/120",
             "name": "Flame Strike",
@@ -5546,7 +5546,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 121,
             "url": "/api/spells/121",
             "name": "Flaming Sphere",
@@ -5586,7 +5586,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 122,
             "url": "/api/spells/122",
             "name": "Flesh to Stone",
@@ -5628,7 +5628,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 123,
             "url": "/api/spells/123",
             "name": "Floating Disk",
@@ -5680,7 +5680,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 124,
             "url": "/api/spells/124",
             "name": "Fly",
@@ -5732,7 +5732,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 125,
             "url": "/api/spells/125",
             "name": "Fog Cloud",
@@ -5766,7 +5766,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 126,
             "url": "/api/spells/126",
             "name": "Forbiddance",
@@ -5811,7 +5811,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 127,
             "url": "/api/spells/127",
             "name": "Forcecage",
@@ -5862,7 +5862,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 128,
             "url": "/api/spells/128",
             "name": "Foresight",
@@ -5918,7 +5918,7 @@
                 "url": "/api/subclasses/6"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 129,
             "url": "/api/spells/129",
             "name": "Freedom of Movement",
@@ -5956,7 +5956,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 130,
             "url": "/api/spells/130",
             "name": "Freezing Sphere",
@@ -6009,7 +6009,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 131,
             "url": "/api/spells/131",
             "name": "Gaseous Form",
@@ -6053,7 +6053,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 132,
             "url": "/api/spells/132",
             "name": "Gate",
@@ -6106,7 +6106,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 133,
             "url": "/api/spells/133",
             "name": "Geas",
@@ -6151,7 +6151,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 134,
             "url": "/api/spells/134",
             "name": "Gentle Repose",
@@ -6184,7 +6184,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 135,
             "url": "/api/spells/135",
             "name": "Giant Insect",
@@ -6222,7 +6222,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 136,
             "url": "/api/spells/136",
             "name": "Glibness",
@@ -6263,7 +6263,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 137,
             "url": "/api/spells/137",
             "name": "Globe of Invulnerability",
@@ -6314,7 +6314,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 138,
             "url": "/api/spells/138",
             "name": "Glyph of Warding",
@@ -6360,7 +6360,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 139,
             "url": "/api/spells/139",
             "name": "Goodberry",
@@ -6400,7 +6400,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 140,
             "url": "/api/spells/140",
             "name": "Grease",
@@ -6446,7 +6446,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 141,
             "url": "/api/spells/141",
             "name": "Greater Invisibility",
@@ -6488,7 +6488,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 142,
             "url": "/api/spells/142",
             "name": "Greater Restoration",
@@ -6527,7 +6527,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 143,
             "url": "/api/spells/143",
             "name": "Guardian of Faith",
@@ -6566,7 +6566,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 144,
             "url": "/api/spells/144",
             "name": "Guards and Wards",
@@ -6624,7 +6624,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 145,
             "url": "/api/spells/145",
             "name": "Guidance",
@@ -6664,7 +6664,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 146,
             "url": "/api/spells/146",
             "name": "Guiding Bolt",
@@ -6711,7 +6711,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 147,
             "url": "/api/spells/147",
             "name": "Gust of Wind",
@@ -6753,7 +6753,7 @@
                 "url": "/api/subclasses/10"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 148,
             "url": "/api/spells/148",
             "name": "Hallow",
@@ -6826,7 +6826,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 149,
             "url": "/api/spells/149",
             "name": "Hallucinatory Terrain",
@@ -6859,7 +6859,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 150,
             "url": "/api/spells/150",
             "name": "Harm",
@@ -6906,7 +6906,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 151,
             "url": "/api/spells/151",
             "name": "Haste",
@@ -6946,7 +6946,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 152,
             "url": "/api/spells/152",
             "name": "Heal",
@@ -6993,7 +6993,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 153,
             "url": "/api/spells/153",
             "name": "Healing Word",
@@ -7039,7 +7039,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 154,
             "url": "/api/spells/154",
             "name": "Heat Metal",
@@ -7072,7 +7072,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 155,
             "url": "/api/spells/155",
             "name": "Hellish Rebuke",
@@ -7110,7 +7110,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 156,
             "url": "/api/spells/156",
             "name": "Heroes' Feast",
@@ -7152,7 +7152,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 157,
             "url": "/api/spells/157",
             "name": "Heroism",
@@ -7195,7 +7195,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 158,
             "url": "/api/spells/158",
             "name": "Hideous Laughter",
@@ -7245,7 +7245,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 159,
             "url": "/api/spells/159",
             "name": "Hold Monster",
@@ -7311,7 +7311,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 160,
             "url": "/api/spells/160",
             "name": "Hold Person",
@@ -7345,7 +7345,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 161,
             "url": "/api/spells/161",
             "name": "Holy Aura",
@@ -7380,7 +7380,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 162,
             "url": "/api/spells/162",
             "name": "Hunter's Mark",
@@ -7430,7 +7430,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 163,
             "url": "/api/spells/163",
             "name": "Hypnotic Pattern",
@@ -7481,7 +7481,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 164,
             "url": "/api/spells/164",
             "name": "Ice Storm",
@@ -7525,7 +7525,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 165,
             "url": "/api/spells/165",
             "name": "Identify",
@@ -7572,7 +7572,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 166,
             "url": "/api/spells/166",
             "name": "Illusory Script",
@@ -7613,7 +7613,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 167,
             "url": "/api/spells/167",
             "name": "Imprisonment",
@@ -7663,7 +7663,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 168,
             "url": "/api/spells/168",
             "name": "Incendiary Cloud",
@@ -7705,7 +7705,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 169,
             "url": "/api/spells/169",
             "name": "Inflict Wounds",
@@ -7755,7 +7755,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 170,
             "url": "/api/spells/170",
             "name": "Insect Plague",
@@ -7790,7 +7790,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 171,
             "url": "/api/spells/171",
             "name": "Instant Summons",
@@ -7851,7 +7851,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 172,
             "url": "/api/spells/172",
             "name": "Invisibility",
@@ -7886,7 +7886,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 173,
             "url": "/api/spells/173",
             "name": "Irresistible Dance",
@@ -7938,7 +7938,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 174,
             "url": "/api/spells/174",
             "name": "Jump",
@@ -7982,7 +7982,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 175,
             "url": "/api/spells/175",
             "name": "Knock",
@@ -8027,7 +8027,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 176,
             "url": "/api/spells/176",
             "name": "Legend Lore",
@@ -8089,7 +8089,7 @@
                 "url": "/api/subclasses/6"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 177,
             "url": "/api/spells/177",
             "name": "Lesser Restoration",
@@ -8132,7 +8132,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 178,
             "url": "/api/spells/178",
             "name": "Levitate",
@@ -8184,7 +8184,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 179,
             "url": "/api/spells/179",
             "name": "Light",
@@ -8235,7 +8235,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 180,
             "url": "/api/spells/180",
             "name": "Lightning Bolt",
@@ -8283,7 +8283,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 181,
             "url": "/api/spells/181",
             "name": "Locate Animals or Plants",
@@ -8342,7 +8342,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 182,
             "url": "/api/spells/182",
             "name": "Locate Creature",
@@ -8403,7 +8403,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 183,
             "url": "/api/spells/183",
             "name": "Locate Object",
@@ -8459,7 +8459,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 184,
             "url": "/api/spells/184",
             "name": "Longstrider",
@@ -8502,7 +8502,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 185,
             "url": "/api/spells/185",
             "name": "Mage Armor",
@@ -8551,7 +8551,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 186,
             "url": "/api/spells/186",
             "name": "Mage Hand",
@@ -8607,7 +8607,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 187,
             "url": "/api/spells/187",
             "name": "Magic Circle",
@@ -8645,7 +8645,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 188,
             "url": "/api/spells/188",
             "name": "Magic Jar",
@@ -8695,7 +8695,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 189,
             "url": "/api/spells/189",
             "name": "Magic Missile",
@@ -8738,7 +8738,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 190,
             "url": "/api/spells/190",
             "name": "Magic Mouth",
@@ -8785,7 +8785,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 191,
             "url": "/api/spells/191",
             "name": "Magic Weapon",
@@ -8823,7 +8823,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 192,
             "url": "/api/spells/192",
             "name": "Magnificent Mansion",
@@ -8879,7 +8879,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 193,
             "url": "/api/spells/193",
             "name": "Major Image",
@@ -8929,7 +8929,7 @@
                 "url": "/api/subclasses/2"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 194,
             "url": "/api/spells/194",
             "name": "Mass Cure Wounds",
@@ -8961,7 +8961,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 195,
             "url": "/api/spells/195",
             "name": "Mass Heal",
@@ -9000,7 +9000,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 196,
             "url": "/api/spells/196",
             "name": "Mass Healing Word",
@@ -9048,7 +9048,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 197,
             "url": "/api/spells/197",
             "name": "Mass Suggestion",
@@ -9083,7 +9083,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 198,
             "url": "/api/spells/198",
             "name": "Maze",
@@ -9126,7 +9126,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 199,
             "url": "/api/spells/199",
             "name": "Meld into Stone",
@@ -9183,7 +9183,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 200,
             "url": "/api/spells/200",
             "name": "Mending",
@@ -9231,7 +9231,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 201,
             "url": "/api/spells/201",
             "name": "Message",
@@ -9268,7 +9268,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 202,
             "url": "/api/spells/202",
             "name": "Meteor Swarm",
@@ -9305,7 +9305,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 203,
             "url": "/api/spells/203",
             "name": "Mind Blank",
@@ -9355,7 +9355,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 204,
             "url": "/api/spells/204",
             "name": "Minor Illusion",
@@ -9398,7 +9398,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 205,
             "url": "/api/spells/205",
             "name": "Mirage Arcane",
@@ -9450,7 +9450,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 206,
             "url": "/api/spells/206",
             "name": "Mirror Image",
@@ -9489,7 +9489,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 207,
             "url": "/api/spells/207",
             "name": "Mislead",
@@ -9539,7 +9539,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 208,
             "url": "/api/spells/208",
             "name": "Misty Step",
@@ -9578,7 +9578,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 209,
             "url": "/api/spells/209",
             "name": "Modify Memory",
@@ -9624,7 +9624,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 210,
             "url": "/api/spells/210",
             "name": "Moonbeam",
@@ -9669,7 +9669,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 211,
             "url": "/api/spells/211",
             "name": "Move Earth",
@@ -9720,7 +9720,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 212,
             "url": "/api/spells/212",
             "name": "Nondetection",
@@ -9767,7 +9767,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 213,
             "url": "/api/spells/213",
             "name": "Pass without Trace",
@@ -9806,7 +9806,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 214,
             "url": "/api/spells/214",
             "name": "Passwall",
@@ -9842,7 +9842,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 215,
             "url": "/api/spells/215",
             "name": "Phantasmal Killer",
@@ -9879,7 +9879,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 216,
             "url": "/api/spells/216",
             "name": "Phantom Steed",
@@ -9912,7 +9912,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 217,
             "url": "/api/spells/217",
             "name": "Planar Ally",
@@ -9966,7 +9966,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 218,
             "url": "/api/spells/218",
             "name": "Planar Binding",
@@ -10017,7 +10017,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 219,
             "url": "/api/spells/219",
             "name": "Plane Shift",
@@ -10068,7 +10068,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 220,
             "url": "/api/spells/220",
             "name": "Plant Growth",
@@ -10111,7 +10111,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 221,
             "url": "/api/spells/221",
             "name": "Poison Spray",
@@ -10158,7 +10158,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 222,
             "url": "/api/spells/222",
             "name": "Polymorph",
@@ -10205,7 +10205,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 223,
             "url": "/api/spells/223",
             "name": "Power Word Kill",
@@ -10248,7 +10248,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 224,
             "url": "/api/spells/224",
             "name": "Power Word Stun",
@@ -10288,7 +10288,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 225,
             "url": "/api/spells/225",
             "name": "Prayer of Healing",
@@ -10337,7 +10337,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 226,
             "url": "/api/spells/226",
             "name": "Prestidigitation",
@@ -10380,7 +10380,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 227,
             "url": "/api/spells/227",
             "name": "Prismatic Spray",
@@ -10428,7 +10428,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 228,
             "url": "/api/spells/228",
             "name": "Prismatic Wall",
@@ -10483,7 +10483,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 229,
             "url": "/api/spells/229",
             "name": "Private Sanctum",
@@ -10528,7 +10528,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 230,
             "url": "/api/spells/230",
             "name": "Produce Flame",
@@ -10568,7 +10568,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 231,
             "url": "/api/spells/231",
             "name": "Programmed Illusion",
@@ -10609,7 +10609,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 232,
             "url": "/api/spells/232",
             "name": "Project Image",
@@ -10669,7 +10669,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 233,
             "url": "/api/spells/233",
             "name": "Protection from Energy",
@@ -10724,7 +10724,7 @@
                 "url": "/api/subclasses/6"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 234,
             "url": "/api/spells/234",
             "name": "Protection from Evil and Good",
@@ -10774,7 +10774,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 235,
             "url": "/api/spells/235",
             "name": "Protection from Poison",
@@ -10820,7 +10820,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 236,
             "url": "/api/spells/236",
             "name": "Purify Food and Drink",
@@ -10867,7 +10867,7 @@
                 "url": "/api/subclasses/2"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 237,
             "url": "/api/spells/237",
             "name": "Raise Dead",
@@ -10911,7 +10911,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 238,
             "url": "/api/spells/238",
             "name": "Ray of Enfeeblement",
@@ -10953,7 +10953,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 239,
             "url": "/api/spells/239",
             "name": "Ray of Frost",
@@ -10996,7 +10996,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 240,
             "url": "/api/spells/240",
             "name": "Regenerate",
@@ -11031,7 +11031,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 241,
             "url": "/api/spells/241",
             "name": "Reincarnate",
@@ -11110,7 +11110,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 242,
             "url": "/api/spells/242",
             "name": "Remove Curse",
@@ -11144,7 +11144,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 243,
             "url": "/api/spells/243",
             "name": "Resilient Sphere",
@@ -11190,7 +11190,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 244,
             "url": "/api/spells/244",
             "name": "Resistance",
@@ -11228,7 +11228,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 245,
             "url": "/api/spells/245",
             "name": "Resurrection",
@@ -11274,7 +11274,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 246,
             "url": "/api/spells/246",
             "name": "Reverse Gravity",
@@ -11323,7 +11323,7 @@
                 "url": "/api/subclasses/2"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 247,
             "url": "/api/spells/247",
             "name": "Revivify",
@@ -11362,7 +11362,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 248,
             "url": "/api/spells/248",
             "name": "Rope Trick",
@@ -11402,7 +11402,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 249,
             "url": "/api/spells/249",
             "name": "Sacred Flame",
@@ -11446,7 +11446,7 @@
                 "url": "/api/subclasses/6"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 250,
             "url": "/api/spells/250",
             "name": "Sanctuary",
@@ -11495,7 +11495,7 @@
                 "url": "/api/subclasses/10"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 251,
             "url": "/api/spells/251",
             "name": "Scorching Ray",
@@ -11551,7 +11551,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 252,
             "url": "/api/spells/252",
             "name": "Scrying",
@@ -11596,7 +11596,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 253,
             "url": "/api/spells/253",
             "name": "Secret Chest",
@@ -11645,7 +11645,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 254,
             "url": "/api/spells/254",
             "name": "See Invisibility",
@@ -11685,7 +11685,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 255,
             "url": "/api/spells/255",
             "name": "Seeming",
@@ -11735,7 +11735,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 256,
             "url": "/api/spells/256",
             "name": "Sending",
@@ -11770,7 +11770,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 257,
             "url": "/api/spells/257",
             "name": "Sequester",
@@ -11810,7 +11810,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 258,
             "url": "/api/spells/258",
             "name": "Shapechange",
@@ -11869,7 +11869,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 259,
             "url": "/api/spells/259",
             "name": "Shatter",
@@ -11911,7 +11911,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 260,
             "url": "/api/spells/260",
             "name": "Shield",
@@ -11954,7 +11954,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 261,
             "url": "/api/spells/261",
             "name": "Shield of Faith",
@@ -11993,7 +11993,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 262,
             "url": "/api/spells/262",
             "name": "Shillelagh",
@@ -12034,7 +12034,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 263,
             "url": "/api/spells/263",
             "name": "Shocking Grasp",
@@ -12084,7 +12084,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 264,
             "url": "/api/spells/264",
             "name": "Silence",
@@ -12132,7 +12132,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 265,
             "url": "/api/spells/265",
             "name": "Silent Image",
@@ -12168,7 +12168,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 266,
             "url": "/api/spells/266",
             "name": "Simulacrum",
@@ -12221,7 +12221,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 267,
             "url": "/api/spells/267",
             "name": "Sleep",
@@ -12274,7 +12274,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 268,
             "url": "/api/spells/268",
             "name": "Sleet Storm",
@@ -12323,7 +12323,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 269,
             "url": "/api/spells/269",
             "name": "Slow",
@@ -12358,7 +12358,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 270,
             "url": "/api/spells/270",
             "name": "Spare the Dying",
@@ -12403,7 +12403,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 271,
             "url": "/api/spells/271",
             "name": "Speak with Animals",
@@ -12446,7 +12446,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 272,
             "url": "/api/spells/272",
             "name": "Speak with Dead",
@@ -12492,7 +12492,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 273,
             "url": "/api/spells/273",
             "name": "Speak with Plants",
@@ -12547,7 +12547,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 274,
             "url": "/api/spells/274",
             "name": "Spider Climb",
@@ -12594,7 +12594,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 275,
             "url": "/api/spells/275",
             "name": "Spike Growth",
@@ -12637,7 +12637,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 276,
             "url": "/api/spells/276",
             "name": "Spirit Guardians",
@@ -12682,7 +12682,7 @@
                 "url": "/api/subclasses/2"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 277,
             "url": "/api/spells/277",
             "name": "Spiritual Weapon",
@@ -12739,7 +12739,7 @@
                 "url": "/api/subclasses/10"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 278,
             "url": "/api/spells/278",
             "name": "Stinking Cloud",
@@ -12788,7 +12788,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 279,
             "url": "/api/spells/279",
             "name": "Stone Shape",
@@ -12839,7 +12839,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 280,
             "url": "/api/spells/280",
             "name": "Stoneskin",
@@ -12871,7 +12871,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 281,
             "url": "/api/spells/281",
             "name": "Storm of Vengeance",
@@ -12930,7 +12930,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 282,
             "url": "/api/spells/282",
             "name": "Suggestion",
@@ -12975,7 +12975,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 283,
             "url": "/api/spells/283",
             "name": "Sunbeam",
@@ -13019,7 +13019,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 284,
             "url": "/api/spells/284",
             "name": "Sunburst",
@@ -13063,7 +13063,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 285,
             "url": "/api/spells/285",
             "name": "Symbol",
@@ -13119,7 +13119,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 286,
             "url": "/api/spells/286",
             "name": "Telekinesis",
@@ -13160,7 +13160,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 287,
             "url": "/api/spells/287",
             "name": "Telepathic Bond",
@@ -13200,7 +13200,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 288,
             "url": "/api/spells/288",
             "name": "Teleport",
@@ -13242,7 +13242,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 289,
             "url": "/api/spells/289",
             "name": "Teleportation Circle",
@@ -13280,7 +13280,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 290,
             "url": "/api/spells/290",
             "name": "Thaumaturgy",
@@ -13339,7 +13339,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 291,
             "url": "/api/spells/291",
             "name": "Thunderwave",
@@ -13375,7 +13375,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 292,
             "url": "/api/spells/292",
             "name": "Time Stop",
@@ -13419,7 +13419,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 293,
             "url": "/api/spells/293",
             "name": "Tiny Hut",
@@ -13475,7 +13475,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 294,
             "url": "/api/spells/294",
             "name": "Tongues",
@@ -13507,7 +13507,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 295,
             "url": "/api/spells/295",
             "name": "Transport via Plants",
@@ -13548,7 +13548,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 296,
             "url": "/api/spells/296",
             "name": "Tree Stride",
@@ -13591,7 +13591,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 297,
             "url": "/api/spells/297",
             "name": "True Polymorph",
@@ -13640,7 +13640,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 298,
             "url": "/api/spells/298",
             "name": "True Resurrection",
@@ -13692,7 +13692,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 299,
             "url": "/api/spells/299",
             "name": "True Seeing",
@@ -13740,7 +13740,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 300,
             "url": "/api/spells/300",
             "name": "True Strike",
@@ -13787,7 +13787,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 301,
             "url": "/api/spells/301",
             "name": "Unseen Servant",
@@ -13833,7 +13833,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 302,
             "url": "/api/spells/302",
             "name": "Vampiric Touch",
@@ -13864,7 +13864,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 303,
             "url": "/api/spells/303",
             "name": "Vicious Mockery",
@@ -13915,7 +13915,7 @@
                 "url": "/api/subclasses/10"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 304,
             "url": "/api/spells/304",
             "name": "Wall of Fire",
@@ -13952,7 +13952,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 305,
             "url": "/api/spells/305",
             "name": "Wall of Force",
@@ -13990,7 +13990,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 306,
             "url": "/api/spells/306",
             "name": "Wall of Ice",
@@ -14039,7 +14039,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 307,
             "url": "/api/spells/307",
             "name": "Wall of Stone",
@@ -14081,7 +14081,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 308,
             "url": "/api/spells/308",
             "name": "Wall of Thorns",
@@ -14122,7 +14122,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 309,
             "url": "/api/spells/309",
             "name": "Warding Bond",
@@ -14179,7 +14179,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 310,
             "url": "/api/spells/310",
             "name": "Water Breathing",
@@ -14234,7 +14234,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 311,
             "url": "/api/spells/311",
             "name": "Water Walk",
@@ -14282,7 +14282,7 @@
                 "url": "/api/subclasses/3"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 312,
             "url": "/api/spells/312",
             "name": "Web",
@@ -14318,7 +14318,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 313,
             "url": "/api/spells/313",
             "name": "Weird",
@@ -14352,7 +14352,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 314,
             "url": "/api/spells/314",
             "name": "Wind Walk",
@@ -14396,7 +14396,7 @@
                 "url": "/api/subclasses/1"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 315,
             "url": "/api/spells/315",
             "name": "Wind Wall",
@@ -14433,7 +14433,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 316,
             "url": "/api/spells/316",
             "name": "Wish",
@@ -14473,7 +14473,7 @@
             }
         ],
         "subclasses": [],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 317,
             "url": "/api/spells/317",
             "name": "Word of Recall",
@@ -14523,7 +14523,7 @@
                 "url": "/api/subclasses/6"
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 318,
             "url": "/api/spells/318",
             "name": "Zone of Truth",

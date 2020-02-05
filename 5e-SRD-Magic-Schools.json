@@ -1,6 +1,6 @@
 [
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/magic-schools/0",
             "name": "Abjuration",
@@ -10,7 +10,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/magic-schools/1",
             "name": "Conjuration",
@@ -20,7 +20,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/magic-schools/2",
             "name": "Divination",
@@ -30,7 +30,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/magic-schools/3",
             "name": "Enchantment",
@@ -40,7 +40,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/magic-schools/4",
             "name": "Evocation",
@@ -50,7 +50,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/magic-schools/5",
             "name": "Illusion",
@@ -60,7 +60,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/magic-schools/6",
             "name": "Necromancy",
@@ -70,7 +70,7 @@
         }
     },
     {
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/magic-schools/7",
             "name": "Transmutation",

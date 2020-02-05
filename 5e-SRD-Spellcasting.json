@@ -53,7 +53,7 @@
                 ]
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 0,
             "url": "/api/spellcasting/0",
             "name": "Bard Spellcasting",
@@ -107,7 +107,7 @@
                 ]
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 1,
             "url": "/api/spellcasting/1",
             "name": "Cleric Spellcasting",
@@ -159,7 +159,7 @@
                 ]
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 2,
             "url": "/api/spellcasting/2",
             "name": "Druid Spellcasting",
@@ -199,7 +199,7 @@
                 ]
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 3,
             "url": "/api/spellcasting/3",
             "name": "Paladin Spellcasting",
@@ -239,7 +239,7 @@
                 ]
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 4,
             "url": "/api/spellcasting/4",
             "name": "Ranger Spellcasting",
@@ -291,7 +291,7 @@
                 ]
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 5,
             "url": "/api/spellcasting/5",
             "name": "Sorcerer Spellcasting",
@@ -344,7 +344,7 @@
                 ]
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 6,
             "url": "/api/spellcasting/6",
             "name": "Warlock Spellcasting",
@@ -402,7 +402,7 @@
                 ]
             }
         ],
-        "entry_descriptor": {
+        "descriptor": {
             "index": 7,
             "url": "/api/spellcasting/7",
             "name": "Wizard Spellcasting",
