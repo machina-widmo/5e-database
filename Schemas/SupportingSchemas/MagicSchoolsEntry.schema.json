@@ -1,0 +1,7 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/MagicSchoolsEntry.schema.json",
+    "title": "MagicSchoolsEntry",
+    "type": "object",
+    "$ref": "Schemas/SupportingSchemas/SimpleEntry.schema.json"
+}

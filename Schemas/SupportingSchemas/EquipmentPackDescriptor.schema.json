@@ -1,0 +1,17 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/EquipmentPackDescriptor.schema.json",
+    "title": "EquipmentPackDescriptor",
+    "type": "object",
+    "required": [
+        "contents"
+    ],
+    "properties": {
+        "contents": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/InventoryItemDescriptor.schema.json"
+            }
+        }
+    }
+}

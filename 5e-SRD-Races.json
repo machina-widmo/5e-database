@@ -62,7 +62,7 @@
             }
         ],
         "language_options": null,
-        "language_desc": "You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.",
+        "language_description": "You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.",
         "traits": [
             {
                 "name": "Darkvision",
@@ -77,6 +77,7 @@
                 "url": "/api/traits/3"
             }
         ],
+        "trait_options": null,
         "subraces": [
             {
                 "url": "/api/subraces/0",
@@ -124,7 +125,7 @@
             }
         ],
         "language_options": null,
-        "language_desc": "You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.",
+        "language_description": "You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.",
         "traits": [
             {
                 "name": "Darkvision",
@@ -139,6 +140,7 @@
                 "url": "/api/traits/7"
             }
         ],
+        "trait_options": null,
         "subraces": [
             {
                 "url": "/api/subraces/1",
@@ -181,7 +183,7 @@
             }
         ],
         "language_options": null,
-        "language_desc": "You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.",
+        "language_description": "You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.",
         "traits": [
             {
                 "name": "Brave",
@@ -196,6 +198,7 @@
                 "url": "/api/traits/11"
             }
         ],
+        "trait_options": null,
         "subraces": [
             {
                 "url": "/api/subraces/2",
@@ -334,8 +337,9 @@
                 }
             ]
         },
-        "language_desc": "You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.",
+        "language_description": "You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.",
         "traits": [],
+        "trait_options": null,
         "subraces": [],
         "descriptor": {
             "index": 3,
@@ -380,7 +384,7 @@
             }
         ],
         "language_options": null,
-        "language_desc": "You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.",
+        "language_description": "You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.",
         "traits": [
             {
                 "name": "Draconic Ancestry",
@@ -433,7 +437,7 @@
             }
         ],
         "language_options": null,
-        "language_desc": "You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.",
+        "language_description": "You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.",
         "traits": [
             {
                 "name": "Darkvision",
@@ -578,7 +582,7 @@
                 }
             ]
         },
-        "language_desc": "You can speak, read, and write Common, Elvish, and one extra language of your choice.",
+        "language_description": "You can speak, read, and write Common, Elvish, and one extra language of your choice.",
         "traits": [
             {
                 "name": "Darkvision",
@@ -643,7 +647,7 @@
             }
         ],
         "language_options": null,
-        "language_desc": "You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.",
+        "language_description": "You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.",
         "traits": [
             {
                 "name": "Darkvision",
@@ -703,7 +707,7 @@
             }
         ],
         "language_options": null,
-        "language_desc": "You can speak, read, and write Common and Infernal.",
+        "language_description": "You can speak, read, and write Common and Infernal.",
         "traits": [
             {
                 "name": "Darkvision",

@@ -1,0 +1,18 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/RangerClassSpecificLevelDescriptor.schema.json",
+    "title": "RangerClassSpecificLevelDescriptor",
+    "type": "object",
+    "required": [
+        "favored_enemies",
+        "favored_terrain"
+    ],
+    "properties": {
+        "favored_enemies": {
+            "type": "number"
+        },
+        "favored_terrain": {
+            "type": "number"
+        }
+    }
+}

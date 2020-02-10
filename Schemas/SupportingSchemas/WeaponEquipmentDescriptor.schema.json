@@ -1,0 +1,84 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/WeaponEquipmentDescriptor.schema.json",
+    "title": "WeaponEquipmentDescriptor",
+    "type": "object",
+    "required": [
+        "weight",
+        "weapon_category",
+        "category_specific",
+        "weapon_range",
+        "category_range",
+        "damage",
+        "range",
+        "properties"
+    ],
+    "properties": {
+        "weight": {
+            "$ref": "Schemas/SupportingSchemas/MeasuredUnit.schema.json"
+        },
+        "weapon_category": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        },
+        "weapon_range": {
+            "type": "string"
+        },
+        "category_range": {
+            "type": "string"
+        },
+        "damage": {
+            "$ref": "Schemas/SupportingSchemas/DamageDescriptor.schema.json"
+        },
+        "range": {
+            "$ref": "Schemas/SupportingSchemas/RangeDescriptor.schema.json"
+        },
+        "properties": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        }
+    },
+    "oneOf": [
+        {
+            "if": {
+                "properties": {
+                    "weapon_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Simple Weapons"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "type": "null"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "weapon_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Martial Weapons"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "type": "null"
+                    }
+                }
+            }
+        }
+    ]
+}

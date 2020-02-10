@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/BardLoreSubclassSpecificLevelDescriptor.schema.json",
+    "title": "BardLoreSubclassSpecificLevelDescriptor",
+    "type": "object",
+    "properties": {
+        "additional_magical_secrets_max_lvl": {
+            "type": "number"
+        }
+    },
+    "required": [
+        "additional_magical_secrets_max_lvl"
+    ]
+}

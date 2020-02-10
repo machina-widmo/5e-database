@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/PaladinClassSpecificLevelDescriptor.schema.json",
+    "title": "PaladinClassSpecificLevelDescriptor",
+    "type": "object",
+    "required": [
+        "aura_range"
+    ],
+    "properties": {
+        "aura_range": {
+            "type": "number"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/ClassEntry.schema.json",
+    "title": "ClassEntry",
+    "type": "object",
+    "required": [
+        "descriptor",
+        "hit_die",
+        "proficiency_choices",
+        "proficiencies",
+        "saving_throws",
+        "starting_equipment",
+        "class_levels",
+        "subclasses",
+        "spellcasting"
+    ],
+    "properties": {
+        "descriptor": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryDescriptor.schema.json"
+        },
+        "hit_die": {
+            "type": "number"
+        },
+        "proficiency_choices": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/ChoicePoolDatabaseEntryReference.schema.json"
+            }
+        },
+        "proficiencies": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        },
+        "saving_throws": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        },
+        "starting_equipment": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        },
+        "class_levels": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        },
+        "subclasses": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        },
+        "spellcasting": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+                }
+            ]
+        }
+    }
+}

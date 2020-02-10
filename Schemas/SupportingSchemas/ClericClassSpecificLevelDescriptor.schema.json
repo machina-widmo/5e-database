@@ -1,0 +1,18 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/ClericClassSpecificLevelDescriptor.schema.json",
+    "title": "ClericClassSpecificLevelDescriptor",
+    "type": "object",
+    "required": [
+        "channel_divinity_charges",
+        "destroy_undead_cr"
+    ],
+    "properties": {
+        "channel_divinity_charges": {
+            "type": "number"
+        },
+        "destroy_undead_cr": {
+            "type": "number"
+        }
+    }
+}

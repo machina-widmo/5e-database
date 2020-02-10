@@ -1,0 +1,309 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/LevelEntry.schema.json",
+    "title": "LevelEntry",
+    "type": "object",
+    "required": [
+        "descriptor",
+        "level",
+        "class",
+        "class_specific",
+        "subclass",
+        "ability_score_bonus",
+        "proficiency_bonus",
+        "features",
+        "feature_choices",
+        "spellcasting"
+    ],
+    "properties": {
+        "descriptor": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryDescriptor.schema.json"
+        },
+        "level": {
+            "type": "number"
+        },
+        "class": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        },
+        "subclass": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "ability_score_bonus": {
+            "type": "number"
+        },
+        "proficiency_bonus": {
+            "type": "number"
+        },
+        "features": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        },
+        "feature_choices": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        },
+        "spellcasting": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "Schemas/SupportingSchemas/SpellcastingDescriptor.schema.json"
+                }
+            ]
+        }
+    },
+    "oneOf": [
+        {
+            "if": {
+                "properties": {
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Barbarian"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "class_specific": {
+                        "$ref": "Schemas/SupportingSchemas/BarbarianClassSpecificLevelDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Bard"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "class_specific": {
+                        "$ref": "Schemas/SupportingSchemas/BardClassSpecificLevelDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Cleric"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "class_specific": {
+                        "$ref": "Schemas/SupportingSchemas/ClericClassSpecificLevelDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Druid"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "class_specific": {
+                        "$ref": "Schemas/SupportingSchemas/DruidClassSpecificLevelDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Fighter"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "class_specific": {
+                        "$ref": "Schemas/SupportingSchemas/FighterClassSpecificLevelDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Monk"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "class_specific": {
+                        "$ref": "Schemas/SupportingSchemas/MonkClassSpecificLevelDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Paladin"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "class_specific": {
+                        "$ref": "Schemas/SupportingSchemas/PaladinClassSpecificLevelDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Ranger"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "class_specific": {
+                        "$ref": "Schemas/SupportingSchemas/RangerClassSpecificLevelDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Rogue"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "class_specific": {
+                        "$ref": "Schemas/SupportingSchemas/RogueClassSpecificLevelDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Sorcerer"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "class_specific": {
+                        "$ref": "Schemas/SupportingSchemas/SorcererClassSpecificLevelDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Warlock"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "class_specific": {
+                        "$ref": "Schemas/SupportingSchemas/WarlockClassSpecificLevelDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Wizard"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "class_specific": {
+                        "$ref": "Schemas/SupportingSchemas/WizardClassSpecificLevelDescriptor.schema.json"
+                    }
+                }
+            }
+        }
+    ]
+}

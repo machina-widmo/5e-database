@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/BarbarianClassSpecificLevelDescriptor.schema.json",
+    "title": "BarbarianClassSpecificLevelDescriptor",
+    "type": "object",
+    "required": [
+        "rage_count",
+        "rage_damage_bonus",
+        "brutal_critical_dice"
+    ],
+    "properties": {
+        "rage_count": {
+            "type": "number"
+        },
+        "rage_damage_bonus": {
+            "type": "number"
+        },
+        "brutal_critical_dice": {
+            "type": "number"
+        }
+    }
+}

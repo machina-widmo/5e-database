@@ -1,0 +1,32 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/DatabaseSchemas/5e-SRD-Subclasses.schema.json",
+    "type": "array",
+    "items": {
+        "title": "SubclassEntry",
+        "type": "object",
+        "required": [
+            "descriptor",
+            "class",
+            "subclass_flavor",
+            "features"
+        ],
+        "properties": {
+            "descriptor": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryDescriptor.schema.json"
+            },
+            "class": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            },
+            "subclass_flavor": {
+                "type": "string"
+            },
+            "features": {
+                "type": "array",
+                "items": {
+                    "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+                }
+            }
+        }
+    }
+}

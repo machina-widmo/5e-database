@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/DamageDescriptor.schema.json",
+    "title": "DamageDescriptor",
+    "type": "object",
+    "required": [
+        "damage_dice",
+        "damage_bonus",
+        "damage_type"
+    ],
+    "properties": {
+        "damage_dice": {
+            "type": "string"
+        },
+        "damage_bonus": {
+            "type": "number"
+        },
+        "damage_type": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/RogueClassSpecificLevelDescriptor.schema.json",
+    "title": "RogueClassSpecificLevelDescriptor",
+    "type": "object",
+    "required": [
+        "sneak_attack"
+    ],
+    "properties": {
+        "sneak_attack": {
+            "$ref": "Schemas/SupportingSchemas/DiceDescriptor.schema.json"
+        }
+    }
+}

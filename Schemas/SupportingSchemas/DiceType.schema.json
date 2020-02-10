@@ -1,0 +1,6 @@
+{
+    "$id": "Schemas/SupportingSchemas/DiceType.schema.json",
+    "title": "DiceType",
+    "type": "string",
+    "pattern": "[dD](4|6|8|10|12|20)"
+}

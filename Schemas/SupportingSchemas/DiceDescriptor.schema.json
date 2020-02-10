@@ -1,0 +1,6 @@
+{
+    "$id": "Schemas/SupportingSchemas/DiceDescriptor.schema.json",
+    "title": "DiceDescriptor",
+    "type": "string",
+    "pattern": "[1-9][0-9]*[dD](4|6|8|10|12|20)"
+}

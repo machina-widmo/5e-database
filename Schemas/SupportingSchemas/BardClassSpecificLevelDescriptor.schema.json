@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/BardClassSpecificLevelDescriptor.schema.json",
+    "title": "BardClassSpecificLevelDescriptor",
+    "type": "object",
+    "required": [
+        "bardic_inspiration_die",
+        "song_of_rest_die",
+        "magical_secrets_max_5",
+        "magical_secrets_max_7",
+        "magical_secrets_max_9"
+    ],
+    "properties": {
+        "bardic_inspiration_die": {
+            "type": "number"
+        },
+        "song_of_rest_die": {
+            "type": "number"
+        },
+        "magical_secrets_max_5": {
+            "type": "number"
+        },
+        "magical_secrets_max_7": {
+            "type": "number"
+        },
+        "magical_secrets_max_9": {
+            "type": "number"
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/EquipmentEntry.schema.json",
+    "title": "EquipmentEntry",
+    "type": "object",
+    "required": [
+        "descriptor",
+        "cost",
+        "equipment_category",
+        "category_specific"
+    ],
+    "properties": {
+        "descriptor": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryDescriptor.schema.json"
+        },
+        "cost": {
+            "$ref": "Schemas/SupportingSchemas/CurrencyValue.schema.json"
+        },
+        "equipment_category": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        }
+    },
+    "oneOf": [
+        {
+            "if": {
+                "properties": {
+                    "equipment_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Weapon"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/WeaponEquipmentDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "equipment_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Armor"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/ArmorEquipmentDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "equipment_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Tools"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/ToolEquipmentDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "equipment_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Mounts and Vehicles"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/MountEquipmentDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "equipment_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Adventuring Gear"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/AdventuringGearEquipmentDescriptor.schema.json"
+                    }
+                }
+            }
+        }
+    ]
+}

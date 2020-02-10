@@ -1,0 +1,43 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/DatabaseSchemas/5e-SRD-Features.schema.json",
+    "type": "array",
+    "items": {
+        "title": "FeatureEntry",
+        "type": "object",
+        "required": [
+            "descriptor",
+            "class",
+            "subclass",
+            "level"
+        ],
+        "properties": {
+            "descriptor": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryDescriptor.schema.json"
+            },
+            "class": {
+                "oneOf": [
+                    {
+                        "type": "null"
+                    },
+                    {
+                        "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+                    }
+                ]
+            },
+            "subclass": {
+                "oneOf": [
+                    {
+                        "type": "null"
+                    },
+                    {
+                        "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+                    }
+                ]
+            },
+            "level": {
+                "type": "number"
+            }
+        }
+    }
+}

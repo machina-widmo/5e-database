@@ -1,0 +1,6 @@
+{
+    "$id": "Schemas/SupportingSchemas/SizeDescriptor.schema.json",
+    "title": "SizeDescriptor",
+    "type": "string",
+    "pattern": "(Very Small|Small|Medium|Large|Very Large)"
+}

@@ -1,0 +1,157 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/AdventuringGearEquipmentDescriptor.schema.json",
+    "title": "AdventuringGearEquipmentDescriptor",
+    "type": "object",
+    "required": [
+        "gear_category",
+        "category_specific"
+    ],
+    "properties": {
+        "gear_category": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        }
+    },
+    "oneOf": [
+        {
+            "if": {
+                "properties": {
+                    "gear_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Standard Gear"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/StandardGearDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "gear_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Ammunition"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/AmmunitionDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "gear_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Holy Symbol"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/HolySymbolDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "gear_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Druidic Focus"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/ArcaneFocusDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "gear_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Arcane Focus"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/DruidicFocusDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "gear_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Kits"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/KitDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "gear_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Equipment Packs"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/EquipmentPackDescriptor.schema.json"
+                    }
+                }
+            }
+        }
+    ]
+}

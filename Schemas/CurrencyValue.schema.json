@@ -1,6 +1,0 @@
-{
-    "$id": "CurrencyValue.json.schema",
-    "title": "CurrencyValue",
-    "type": "string",
-    "pattern": "[1-9][0-9]* (cp|sp|ep|gp|pp)"
-}

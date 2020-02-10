@@ -1,0 +1,25 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/AttributeEntry.schema.json",
+    "title": "AttributeEntry",
+    "type": "object",
+    "required": [
+        "descriptor",
+        "full_name",
+        "skills"
+    ],
+    "properties": {
+        "descriptor": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryDescriptor.schema.json"
+        },
+        "full_name": {
+            "type": "string"
+        },
+        "skills": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        }
+    }
+}

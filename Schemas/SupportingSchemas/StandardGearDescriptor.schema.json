@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/StandardGearDescriptor.schema.json",
+    "title": "StandardGearDescriptor",
+    "type": "object",
+    "required": [
+        "weight"
+    ],
+    "properties": {
+        "weight": {
+            "$ref": "Schemas/SupportingSchemas/MeasuredUnit.schema.json"
+        }
+    }
+}

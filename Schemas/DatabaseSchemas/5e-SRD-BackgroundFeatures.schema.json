@@ -1,0 +1,21 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/DatabaseSchemas/5e-SRD-BackgroundFeatures.schema.json",
+    "type": "array",
+    "items": {
+        "title": "BackgroundFeatureEntry",
+        "type": "object",
+        "required": [
+            "descriptor",
+            "background"
+        ],
+        "properties": {
+            "descriptor": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryDescriptor.schema.json"
+            },
+            "background": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        }
+    }
+}

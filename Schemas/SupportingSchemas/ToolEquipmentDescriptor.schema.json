@@ -1,0 +1,101 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/ToolEquipmentDescriptor.schema.json",
+    "title": "ToolEquipmentDescriptor",
+    "type": "object",
+    "required": [
+        "weight",
+        "tool_category",
+        "category_specific"
+    ],
+    "properties": {
+        "weight": {
+            "$ref": "Schemas/SupportingSchemas/MeasuredUnit.schema.json"
+        },
+        "tool_category": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        }
+    },
+    "oneOf": [
+        {
+            "if": {
+                "properties": {
+                    "tool_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Artisan's Tools"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "type": "null"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "tool_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Gaming Sets"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "type": "null"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "tool_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Musical Instruments"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "type": "null"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "tool_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Other Tools"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "type": "null"
+                    }
+                }
+            }
+        }
+    ]
+}

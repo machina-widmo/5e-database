@@ -1,0 +1,113 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/ArmorEquipmentDescriptor.schema.json",
+    "title": "ArmorEquipmentDescriptor",
+    "type": "object",
+    "required": [
+        "weight",
+        "armor_category",
+        "category_specific",
+        "armor_class",
+        "str_minimum",
+        "stealth_disadvantage"
+    ],
+    "properties": {
+        "weight": {
+            "$ref": "Schemas/SupportingSchemas/MeasuredUnit.schema.json"
+        },
+        "armor_category": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        },
+        "armor_class": {
+            "$ref": "Schemas/SupportingSchemas/ArmorClassDescriptor.schema.json"
+        },
+        "str_minimum": {
+            "type": "number"
+        },
+        "stealth_disadvantage": {
+            "type": "boolean"
+        }
+    },
+    "oneOf": [
+        {
+            "if": {
+                "properties": {
+                    "armor_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Light Armor"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "type": "null"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "armor_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Medium Armor"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "type": "null"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "armor_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Heavy Armor"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "type": "null"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "armor_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Shields"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "type": "null"
+                    }
+                }
+            }
+        }
+    ]
+}

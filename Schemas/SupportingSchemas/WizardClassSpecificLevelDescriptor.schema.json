@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/WizardClassSpecificLevelDescriptor.schema.json",
+    "title": "WizardClassSpecificLevelDescriptor",
+    "type": "object",
+    "required": [
+        "arcane_recovery_levels"
+    ],
+    "properties": {
+        "arcane_recovery_levels": {
+            "type": "number"
+        }
+    }
+}

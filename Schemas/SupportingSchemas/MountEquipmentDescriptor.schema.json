@@ -1,0 +1,77 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/MountEquipmentDescriptor.schema.json",
+    "title": "MountEquipmentDescriptor",
+    "type": "object",
+    "required": [
+        "mount_category",
+        "category_specific"
+    ],
+    "properties": {
+        "mount_category": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        }
+    },
+    "oneOf": [
+        {
+            "if": {
+                "properties": {
+                    "mount_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Mounts and Other Animals"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/LandAndAirMountEquipmentDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "mount_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Waterborne Vehicles"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/WaterborneMountEquipmentDescriptor.schema.json"
+                    }
+                }
+            }
+        },
+        {
+            "if": {
+                "properties": {
+                    "mount_category": {
+                        "properties": {
+                            "name": {
+                                "const": "Tack, Harness, and Drawn Vehicles"
+                            }
+                        }
+                    }
+                }
+            },
+            "then": {
+                "properties": {
+                    "category_specific": {
+                        "$ref": "Schemas/SupportingSchemas/MountAccessoryEquipmentDescriptor.schema.json"
+                    }
+                }
+            }
+        }
+    ]
+}

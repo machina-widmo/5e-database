@@ -1,0 +1,25 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/SpellcastingDescriptor.schema.json",
+    "title": "SpellcastingDescriptor",
+    "type": "object",
+    "required": [
+        "cantrips_known",
+        "spells_known",
+        "spell_slots"
+    ],
+    "properties": {
+        "cantrips_known": {
+            "type": "number"
+        },
+        "spells_known": {
+            "type": "number"
+        },
+        "spell_slots": {
+            "type": "array",
+            "items": {
+                "type": "number"
+            }
+        }
+    }
+}

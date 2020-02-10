@@ -1,0 +1,32 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/DatabaseSchemas/5e-SRD-Languages.schema.json",
+    "type": "array",
+    "items": {
+        "title": "LanguageEntry",
+        "type": "object",
+        "required": [
+            "descriptor",
+            "type",
+            "typical_speakers",
+            "script"
+        ],
+        "properties": {
+            "descriptor": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryDescriptor.schema.json"
+            },
+            "type": {
+                "type": "string"
+            },
+            "typical_speakers": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            },
+            "script": {
+                "type": "string"
+            }
+        }
+    }
+}

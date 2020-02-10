@@ -1,0 +1,38 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/ChoicePoolDatabaseEntryReference.schema.json",
+    "title": "ChoicePoolDatabaseEntryReference",
+    "type": "object",
+    "required": [
+        "choose",
+        "type",
+        "from"
+    ],
+    "properties": {
+        "choose": {
+            "type": "number"
+        },
+        "type": {
+            "type": "string"
+        },
+        "from": {
+            "type": "array",
+            "items": {
+                "oneOf": [
+                    {
+                        "type": "boolean"
+                    },
+                    {
+                        "type": "string"
+                    },
+                    {
+                        "type": "array"
+                    },
+                    {
+                        "type": "object"
+                    }
+                ]
+            }
+        }
+    }
+}

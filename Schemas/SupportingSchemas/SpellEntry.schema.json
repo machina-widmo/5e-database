@@ -1,0 +1,88 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/SpellEntry.schema.json",
+    "title": "SpellEntry",
+    "type": "object",
+    "required": [
+        "descriptor",
+        "higher_levels",
+        "page",
+        "range",
+        "components",
+        "material",
+        "requires_ritual",
+        "requires_concentration",
+        "duration",
+        "casting_time",
+        "level",
+        "school",
+        "classes",
+        "subclasses"
+    ],
+    "properties": {
+        "descriptor": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryDescriptor.schema.json"
+        },
+        "higher_levels": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            ]
+        },
+        "page": {
+            "type": "string"
+        },
+        "range": {
+            "type": "string"
+        },
+        "components": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "material": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "requires_ritual": {
+            "type": "boolean"
+        },
+        "requires_concentration": {
+            "type": "boolean"
+        },
+        "duration": {
+            "type": "string"
+        },
+        "casting_time": {
+            "type": "string"
+        },
+        "level": {
+            "type": "number"
+        },
+        "school": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        },
+        "classes": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        },
+        "subclasses": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/DatabaseSchemas/5e-SRD-SubclassLevels.schema.json",
+    "type": "array",
+    "items": {
+        "title": "SubclassLevelEntry",
+        "type": "object",
+        "required": [
+            "descriptor",
+            "level",
+            "class",
+            "subclass_specific",
+            "subclass",
+            "features",
+            "feature_choices"
+        ],
+        "properties": {
+            "descriptor": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryDescriptor.schema.json"
+            },
+            "level": {
+                "type": "number"
+            },
+            "class": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            },
+            "subclass": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            },
+            "features": {
+                "type": "array",
+                "items": {
+                    "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+                }
+            },
+            "feature_choices": {
+                "oneOf": [
+                    { "type": "null" },
+                    { "$ref": "Schemas/SupportingSchemas/ChoicePoolDatabaseEntryReference.schema.json" }
+                ]
+            }
+        },
+        "oneOf": [
+            {
+                "if": {
+                    "properties": {
+                        "subclass": {
+                            "properties": {
+                                "name": {
+                                    "const": "Berserker"
+                                }
+                            }
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "subclass_specific": {
+                            "$ref": "Schemas/SupportingSchemas/BarbarianBerserkerSubclassSpecificLevelDescriptor.schema.json"
+                        }
+                    },
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Barbarian"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "subclass": {
+                            "properties": {
+                                "name": {
+                                    "const": "Totem Warrior"
+                                }
+                            }
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "subclass_specific": {
+                            "$ref": "Schemas/SupportingSchemas/BarbarianTotemWarriorSubclassSpecificLevelDescriptor.schema.json"
+                        }
+                    },
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Barbarian"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "if": {
+                    "properties": {
+                        "subclass": {
+                            "properties": {
+                                "name": {
+                                    "const": "Lore"
+                                }
+                            }
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "subclass_specific": {
+                            "$ref": "Schemas/SupportingSchemas/BardLoreSubclassSpecificLevelDescriptor.schema.json"
+                        }
+                    },
+                    "class": {
+                        "properties": {
+                            "name": {
+                                "const": "Bard"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

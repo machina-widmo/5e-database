@@ -1,0 +1,90 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/SubraceEntry.schema.json",
+    "title": "SubraceEntry",
+    "type": "object",
+    "required": [
+        "descriptor",
+        "ability_bonuses",
+        "ability_bonus_options",
+        "starting_proficiencies",
+        "starting_proficiency_options",
+        "languages",
+        "language_options",
+        "traits",
+        "trait_options",
+        "race"
+    ],
+    "properties": {
+        "descriptor": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryDescriptor.schema.json"
+        },
+        "ability_bonuses": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/AbilityScoreValueDescriptor.schema.json"
+            }
+        },
+        "ability_bonus_options": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "Schemas/SupportingSchemas/ChoicePoolDatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "starting_proficiencies": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        },
+        "starting_proficiency_options": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "Schemas/SupportingSchemas/ChoicePoolDatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "languages": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        },
+        "language_options": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "Schemas/SupportingSchemas/ChoicePoolDatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "traits": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+            }
+        },
+        "trait_options": {
+            "oneOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "$ref": "Schemas/SupportingSchemas/ChoicePoolDatabaseEntryReference.schema.json"
+                }
+            ]
+        },
+        "race": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        }
+    }
+}

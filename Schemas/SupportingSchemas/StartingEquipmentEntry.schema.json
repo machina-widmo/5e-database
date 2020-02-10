@@ -1,0 +1,43 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/StartingEquipmentEntry.schema.json",
+    "title": "StartingEquipmentEntry",
+    "type": "object",
+    "required": [
+        "descriptor",
+        "class",
+        "starting_equipment",
+        "choices_to_make"
+    ],
+    "properties": {
+        "descriptor": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryDescriptor.schema.json"
+        },
+        "class": {
+            "$ref": "Schemas/SupportingSchemas/DatabaseEntryReference.schema.json"
+        },
+        "starting_equipment": {
+            "type": "array",
+            "items": {
+                "$ref": "Schemas/SupportingSchemas/InventoryItemDescriptor.schema.json"
+            }
+        },
+        "choices_to_make": {
+            "type": "array",
+            "items": {
+                "allOf": [
+                    { "$ref": "Schemas/SupportingSchemas/ChoicePool.schema.json" },
+                    {
+                        "properties": {
+                            "from": {
+                                "items": {
+                                    "$ref": "Schemas/SupportingSchemas/InventoryItemDescriptor.schema.json"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

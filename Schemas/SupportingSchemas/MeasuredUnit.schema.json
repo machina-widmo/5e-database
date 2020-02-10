@@ -1,0 +1,18 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "Schemas/SupportingSchemas/MeasuredUnit.schema.json",
+    "title": "MeasuredUnit",
+    "type": "object",
+    "required": [
+        "quantity",
+        "unit"
+    ],
+    "properties": {
+        "quantity": {
+            "type": "number"
+        },
+        "unit": {
+            "type": "string"
+        }
+    }
+}

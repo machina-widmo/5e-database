@@ -26,13 +26,7 @@
                     "choose": 1,
                     "type": "equipment",
                     "from": [
-                        {
-                            "item": {
-                                "url": "/api/equipment/17",
-                                "name": "Greataxe"
-                            },
-                            "quantity": 1
-                        }
+                        
                     ]
                 },
                 {
